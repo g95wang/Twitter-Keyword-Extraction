@@ -1,0 +1,14 @@
+Rent,rent,rent,267760,VERB,compound,False,1
+Too,too,too,325685,NOUN,nmod,True,0
+Damn,damn,damn,76569,INTJ,compound,False,0
+High,High,high,139224,PROPN,nmod,False,1
+NY,ny,ny,199522,NOUN,compound,False,0
+candidate,candidate,candidate,46161,NOUN,compound,False,1
+Jimmy,Jimmy,jimmy,161257,PROPN,compound,False,1
+McMillan,McMillan,camilla,45711,PROPN,nsubj,False,1
+inspires,inspire,inspire,153796,VERB,ROOT,False,0
+talking,talk,talk,315639,VERB,xcomp,False,1
+doll,doll,doll,91138,NOUN,dobj,False,1
+The,the,the,320691,DET,det,True,0
+palin,palin,paling,223873,NOUN,compound,False,0
+teaparty,teaparty,tepary,319136,NOUN,ROOT,False,0

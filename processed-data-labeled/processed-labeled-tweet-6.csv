@@ -1,0 +1,10 @@
+Someone,someone,someone,297038,PRON,nsubj,True,0
+really,really,really,261766,ADV,advmod,True,0
+needs,need,need,197910,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+put,put,put,257261,VERB,xcomp,True,0
+Mary,Mary,mary,180034,PROPN,compound,False,1
+Kay,Kay,kay,162748,PROPN,dobj,False,0
+out,out,out,216108,SCONJ,prep,True,0
+of,of,of,211535,ADP,prep,True,0
+misery,misery,misery,189242,NOUN,pobj,False,1

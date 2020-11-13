@@ -1,0 +1,9 @@
+moviesondemand,moviesondemand,overdemand,218910,ADJ,compound,False,1
+people,people,people,230162,NOUN,nsubj,False,1
+are,be,be,29345,AUX,ROOT,True,0
+crazy,crazy,crazy,72341,ADJ,acomp,False,1
+to,to,to,324862,PART,aux,True,0
+leave,leave,leave,169747,VERB,xcomp,False,1
+the,the,the,320691,DET,det,True,0
+party,party,party,226988,NOUN,dobj,False,1
+now,now,now,209199,ADV,advmod,True,0

@@ -1,0 +1,16 @@
+Having,have,have,134390,VERB,aux,False,0
+consistently,consistently,consistently,66858,ADV,advmod,False,0
+aged,age,age,5968,VERB,advcl,False,1
+daily,daily,daily,76310,ADV,advmod,False,0
+for,for,for,116301,ADP,prep,True,0
+many,many,many,179225,ADJ,amod,True,0
+years,year,year,146706,NOUN,pobj,False,0
+am,be,be,29345,AUX,aux,True,0
+finding,find,find,112884,VERB,ROOT,False,0
+that,that,that,320639,SCONJ,mark,True,0
+curmudgeonly,curmudgeonly,curmudgeonly,75371,ADJ,amod,False,1
+traits,trait,trait,327490,NOUN,nsubj,False,1
+are,be,be,29345,AUX,aux,True,0
+becoming,become,become,29882,VERB,ccomp,True,0
+more,more,more,193383,ADV,advmod,True,0
+prevalent,prevalent,prevalent,250116,ADJ,acomp,False,1

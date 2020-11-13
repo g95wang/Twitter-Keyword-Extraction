@@ -1,0 +1,16 @@
+So,so,so,295959,ADV,advmod,True,0
+'m,be,be,29345,AUX,ROOT,True,0
+hungry,hungry,hungry,145153,ADJ,acomp,False,1
+and,and,and,12285,CCONJ,cc,True,0
+pissed,piss,piss,238132,VERB,conj,False,1
+off,off,off,211539,ADP,prt,True,0
+have,have,have,134390,AUX,ROOT,True,0
+the,the,the,320691,DET,det,True,0
+worse,bad,bad,26158,ADJ,amod,False,1
+luck,luck,luck,175838,NOUN,dobj,False,1
+ever,ever,ever,106143,ADV,advmod,True,0
+in,in,in,149313,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+history,history,history,141866,NOUN,pobj,False,1
+of,of,of,211535,ADP,prep,True,0
+luck,luck,luck,175838,NOUN,pobj,False,1

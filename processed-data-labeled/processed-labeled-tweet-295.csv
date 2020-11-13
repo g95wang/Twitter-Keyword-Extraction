@@ -1,0 +1,13 @@
+ManLaw,ManLaw,malawi,178305,PROPN,compound,False,0
+BROS,BROS,bros,41559,PROPN,compound,False,0
+OVA,OVA,ova,217995,PROPN,compound,False,0
+HOES,hoe,hoe,142210,NOUN,pobj,False,0
+does,do,do,90528,AUX,aux,True,0
+nt,not,not,208798,PART,neg,False,0
+include,include,include,149975,VERB,ROOT,False,0
+wife,wife,wife,365591,NOUN,dobj,False,1
+want,want,want,362465,VERB,ROOT,False,0
+to,to,to,324862,ADP,prep,True,1
+b,b,b,25416,NOUN,pobj,False,1
+still,still,still,304511,ADV,advmod,True,0
+alive,alive,alive,8375,ADJ,ccomp,False,1

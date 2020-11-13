@@ -1,0 +1,13 @@
+Like,like,like,172172,VERB,ROOT,False,1
+Following,follow,follow,115989,VERB,xcomp,False,0
+Huh,huh,huh,144767,INTJ,dobj,False,0
+Tell,tell,tell,318356,VERB,ROOT,False,0
+Ya,Ya,ya,145458,PROPN,compound,False,0
+Friends,friend,friend,118947,NOUN,dobj,False,1
+Bless,bles,ables,575,VERB,ROOT,False,1
+With,with,with,366582,ADP,prep,True,0
+A,a,a,0,DET,det,True,0
+Follow,follow,follow,115989,NOUN,pobj,False,0
+Today,today,today,325003,NOUN,npadvmod,False,1
+TFB,TFB,fb,110567,PROPN,ROOT,False,0
+TFR,TFR,tfr,320417,PROPN,ROOT,False,0

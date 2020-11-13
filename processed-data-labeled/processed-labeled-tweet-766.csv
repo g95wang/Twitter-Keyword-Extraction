@@ -1,0 +1,12 @@
+That,that,that,320639,DET,det,True,0
+thing,thing,thing,321869,NOUN,nsubj,False,1
+caused,cause,cause,50043,VERB,ROOT,False,1
+about,about,about,756,ADP,advmod,True,0
+from,from,from,119298,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+mall,mall,mall,178516,NOUN,pobj,False,0
+i,i,i,145455,PRON,nsubj,True,1
+wonder,wonder,wonder,367029,VERB,ROOT,False,0
+would,would,would,367745,VERB,aux,True,0
+warranty,warranty,warranty,362770,NOUN,nsubj,False,1
+help,help,help,135801,VERB,ccomp,False,1

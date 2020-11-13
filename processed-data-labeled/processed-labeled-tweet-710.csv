@@ -1,0 +1,13 @@
+Idk,idk,dk,90515,INTJ,ROOT,False,0
+what,what,what,364447,PRON,attr,True,0
+this,this,this,322217,DET,det,True,0
+movie,movie,movie,194399,NOUN,nsubj,False,1
+on,on,on,212644,ADP,prep,True,0
+BET,BET,bet,32670,PROPN,pobj,False,0
+is,be,be,29345,AUX,ccomp,True,0
+but,but,but,43550,CCONJ,cc,True,1
+'ve,have,have,134390,AUX,aux,True,0
+seen,see,see,283054,VERB,ROOT,False,0
+before,before,before,30510,ADV,advmod,True,0
+and,and,and,12285,CCONJ,cc,True,0
+hilarious,hilarious,hilarious,139405,ADJ,conj,False,1

@@ -1,0 +1,16 @@
+would,would,would,367745,VERB,aux,True,0
+like,like,like,172172,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+think,think,think,321897,VERB,xcomp,False,0
+could,could,could,70511,VERB,aux,True,0
+be,be,be,29345,AUX,ccomp,True,0
+on,on,on,212644,ADP,prep,True,1
+own,own,own,222072,ADJ,pobj,True,1
+but,but,but,43550,CCONJ,cc,True,0
+ca,can,can,45964,VERB,aux,True,0
+n't,not,not,208798,PART,neg,True,0
+bare,bare,bare,27889,VERB,conj,False,1
+to,to,to,324862,PART,aux,True,0
+be,be,be,29345,AUX,xcomp,True,0
+alone,alone,alone,9255,ADJ,acomp,True,1
+hearts,heart,heart,134817,NOUN,conj,False,0

@@ -1,0 +1,11 @@
+i,i,i,145455,PRON,nsubj,True,0
+want,want,want,362465,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+go,go,go,127161,VERB,xcomp,True,1
+on,on,on,212644,ADP,prep,True,0
+stage,stage,stage,302294,NOUN,pobj,False,1
+with,with,with,366582,ADP,prep,True,0
+selena,selena,selena,283459,NOUN,pobj,False,1
+SelenaGomez,SelenaGomez,selenate,283460,PROPN,nsubj,False,0
+live,live,live,173931,VERB,ccomp,False,0
+at,at,at,22372,ADP,prep,True,0

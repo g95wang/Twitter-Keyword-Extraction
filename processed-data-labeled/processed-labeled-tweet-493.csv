@@ -1,0 +1,17 @@
+Sundays,sunday,sunday,311068,NOUN,npadvmod,False,1
+hate,hate,hate,134216,VERB,ROOT,False,0
+Mondays,monday,monday,191810,NOUN,npadvmod,False,0
+wo,will,will,365768,VERB,aux,False,0
+nt,not,not,208798,PART,neg,False,0
+tolerate,tolerate,tolerate,325261,VERB,ROOT,False,1
+Tuesdays,tuesday,tuesday,332139,NOUN,dep,False,1
+'ll,will,will,365768,VERB,aux,True,0
+be,be,be,29345,AUX,ROOT,True,0
+a,a,a,0,DET,det,True,1
+penis,penis,penis,229667,NOUN,attr,False,1
+to,to,to,324862,ADP,prep,True,1
+Wednesday,Wednesday,wednesday,363732,PROPN,npadvmod,False,1
+'ll,will,will,365768,VERB,aux,True,0
+look,look,look,175060,VERB,ROOT,False,1
+at,at,at,22372,ADP,prep,True,1
+continued,continue,continue,67485,VERB,ROOT,False,0

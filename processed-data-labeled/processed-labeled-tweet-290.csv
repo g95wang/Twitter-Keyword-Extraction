@@ -1,0 +1,12 @@
+Bet,bet,bet,32670,VERB,ROOT,False,0
+on,on,on,212644,ADP,prep,True,1
+sports,sport,sport,301034,NOUN,pobj,False,1
+with,with,with,366582,ADP,prep,True,0
+this,this,this,322217,DET,det,True,0
+sure,sure,sure,313361,ADJ,amod,False,1
+money,money,money,191829,NOUN,compound,False,1
+system,system,system,292520,NOUN,pobj,False,1
+Win,win,win,365877,VERB,ROOT,False,1
+over,over,over,218092,ADP,prep,True,0
+of,of,of,211535,ADP,prep,True,0
+bets,bet,bet,32670,NOUN,pobj,False,1

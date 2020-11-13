@@ -1,0 +1,12 @@
+Just,just,just,162503,ADV,advmod,True,0
+entered,enter,enter,101211,VERB,ROOT,False,1
+the,the,the,320691,DET,det,True,0
+Weeks,Weeks,weeks,363778,PROPN,dobj,False,0
+of,of,of,211535,ADP,prep,True,0
+Christmas,Christmas,christmas,56164,PROPN,pobj,False,1
+This,this,this,322217,DET,det,True,0
+week,week,week,363764,NOUN,poss,False,1
+'s,'s,s,275971,PART,case,True,1
+prizes,prize,prize,250878,NOUN,ROOT,False,1
+Nintendo,Nintendo,intend,154331,PROPN,compound,False,1
+Wiis,Wiis,wis,366407,PROPN,ROOT,False,1

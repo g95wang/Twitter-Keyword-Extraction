@@ -1,0 +1,17 @@
+do,do,do,90528,AUX,aux,True,0
+know,know,know,165702,VERB,ROOT,False,0
+how,how,how,144540,ADV,advmod,True,0
+to,to,to,324862,PART,aux,True,0
+speak,speak,speak,298684,VERB,xcomp,False,1
+in,in,in,149313,ADP,prt,True,0
+well,well,well,364011,ADV,advmod,True,0
+structured,structured,structured,306632,ADJ,advcl,False,0
+thought,think,think,321897,VERB,conj,False,0
+out,out,out,216108,ADP,prt,True,0
+complete,complete,complete,64635,ADJ,amod,False,0
+sentences,sentence,sentence,285463,NOUN,dep,False,1
+no,no,no,200529,INTJ,ROOT,True,0
+did,do,do,90528,AUX,aux,True,0
+nt,not,not,208798,PART,neg,False,1
+think,think,think,321897,VERB,ROOT,False,0
+so,so,so,295959,ADV,advmod,True,0

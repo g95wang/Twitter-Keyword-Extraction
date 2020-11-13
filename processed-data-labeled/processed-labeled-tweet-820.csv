@@ -1,0 +1,11 @@
+'m,be,be,29345,AUX,ROOT,True,0
+good,good,good,127869,ADJ,acomp,False,1
+need,need,need,197910,VERB,aux,False,1
+see,see,see,283054,VERB,ROOT,True,0
+this,this,this,322217,DET,det,True,0
+meat.org,meat.org,mediator,182047,PROPN,compound,False,0
+RT,RT,rt,275072,PROPN,dobj,False,0
+can,can,can,45964,VERB,aux,True,0
+remember,remember,remember,267232,VERB,ROOT,False,1
+whennnn,whennnn,hennin,136595,PROPN,dobj,False,0
+had,have,have,134390,AUX,relcl,True,0

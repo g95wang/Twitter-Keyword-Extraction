@@ -1,0 +1,13 @@
+OBTS,obts,obits,210078,ADJ,amod,False,0
+short,short,short,288895,ADJ,amod,False,0
+sequal,sequal,equal,103154,NOUN,ROOT,False,0
+to,to,to,324862,ADP,prep,True,0
+OBTS,OBTS,obits,210078,PROPN,compound,False,0
+Hit,hit,hit,141950,VERB,pobj,False,0
+Run,run,run,275612,VERB,conj,False,0
+'s,be,be,29345,AUX,ROOT,True,0
+a,a,a,0,DET,det,True,1
+Bella,Bella,bella,31125,PROPN,nmod,False,1
+Alistair,Alistair,alastair,7358,PROPN,attr,False,1
+Very,very,very,358514,ADV,advmod,True,0
+good,good,good,127869,ADJ,ROOT,False,1

@@ -1,0 +1,12 @@
+Getting,get,get,124419,VERB,advcl,False,0
+ready,ready,ready,261587,ADJ,acomp,False,1
+for,for,for,116301,ADP,prep,True,0
+Saturday,Saturday,saturday,278848,PROPN,compound,False,1
+night,night,night,199909,NOUN,pobj,False,1
+have,have,have,134390,AUX,ROOT,True,0
+to,to,to,324862,PART,aux,True,0
+start,start,start,302958,VERB,xcomp,False,1
+getting,get,get,124419,VERB,xcomp,False,0
+into,into,into,156343,ADP,prep,True,0
+character,character,character,52709,NOUN,pobj,False,1
+now,now,now,209199,ADV,advmod,True,0

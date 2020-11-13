@@ -1,0 +1,17 @@
+Great,great,great,129442,ADJ,amod,False,1
+evening,evening,evening,106097,NOUN,ROOT,False,1
+touring,tour,tour,326625,VERB,acl,False,1
+Van,Van,van,356915,PROPN,compound,False,0
+Buren,Buren,burden,42993,PROPN,dobj,False,1
+with,with,with,366582,ADP,prep,True,0
+Lt,Lt,lt,175722,PROPN,dep,False,0
+Governor,Governor,governor,128399,PROPN,compound,False,1
+Candidate,Candidate,candidate,46161,PROPN,compound,False,1
+Brian,Brian,brian,40541,PROPN,compound,False,1
+Calley,Calley,alley,8621,PROPN,ROOT,False,1
+visited,visit,visit,360423,VERB,ROOT,False,0
+with,with,with,366582,ADP,prep,True,0
+residents,resident,resident,269358,NOUN,pobj,False,1
+at,at,at,22372,ADP,prep,True,1
+White,White,white,365106,PROPN,compound,False,1
+Oaks,Oaks,oaks,209876,PROPN,pobj,False,1

@@ -1,0 +1,12 @@
+tear,tear,tear,317512,VERB,ROOT,False,1
+up,up,up,354457,ADP,prt,True,0
+every,every,every,106158,DET,det,True,0
+time,time,time,323746,NOUN,npadvmod,False,0
+hear,hear,hear,134794,VERB,relcl,False,1
+that,that,that,320639,DET,det,True,0
+Reminds,remind,remind,267295,VERB,ROOT,False,0
+of,of,of,211535,ADP,prep,True,0
+niece,niece,niece,199804,NOUN,pobj,False,1
+who,who,who,365278,PRON,nsubj,True,0
+is,be,be,29345,AUX,ccomp,True,0
+world,world,world,367566,NOUN,attr,False,0

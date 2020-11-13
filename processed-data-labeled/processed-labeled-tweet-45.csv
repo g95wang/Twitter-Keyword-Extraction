@@ -1,0 +1,14 @@
+Ju5,Ju5,ju,161970,PROPN,compound,False,1
+t,t,t,314735,PROPN,nsubj,False,1
+woke,wake,wake,362124,VERB,ccomp,False,1
+up,up,up,354457,ADP,prt,True,0
+got,get,get,124419,VERB,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+blunt,blunt,blunt,36851,ADJ,advmod,False,1
+ready,ready,ready,261587,ADJ,amod,False,1
+b,b,b,25416,NOUN,ccomp,False,1
+FiredUp,FiredUp,fired,113145,PROPN,ROOT,False,1
+o,o,o,209854,INTJ,ROOT,False,1
+know,know,know,165702,VERB,parataxis,False,0
+WakeNBake,WakeNBake,akeake,7130,PROPN,compound,False,1
+time,time,time,323746,NOUN,ROOT,False,1

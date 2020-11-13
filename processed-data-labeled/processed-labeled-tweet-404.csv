@@ -1,0 +1,11 @@
+np,np,np,209239,PROPN,compound,False,0
+Min,Min,min,187647,PROPN,compound,False,1
+Kyung,Kyung,kyung,165271,PROPN,compound,False,1
+Hoon,Hoon,hoon,143597,PROPN,compound,False,1
+IT,IT,it,159424,PROPN,nsubj,True,0
+HURTS,hurts,hurts,145305,NOUN,ROOT,False,0
+BECAUSE,because,because,29780,ADP,mark,True,0
+IT,it,it,159424,PRON,nsubj,True,0
+'S,be,be,29345,AUX,advcl,True,0
+LOVE,LOVE,love,175534,NOUN,attr,False,0
+Y,y,y,145456,NOUN,ROOT,False,0

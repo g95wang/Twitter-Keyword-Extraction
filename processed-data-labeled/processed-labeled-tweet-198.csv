@@ -1,0 +1,9 @@
+Ok,ok,ok,211942,INTJ,ROOT,False,0
+Let,let,let,170875,VERB,ROOT,False,0
+shut,shut,shut,289397,VERB,ccomp,False,1
+this,this,this,322217,DET,dobj,True,0
+down,down,down,92197,ADP,prt,True,0
+celtics,celtic,celtic,50647,NOUN,ROOT,False,1
+Enough,enough,enough,100831,ADJ,nsubj,True,0
+is,be,be,29345,AUX,ROOT,True,0
+enough,enough,enough,100831,ADJ,acomp,True,1

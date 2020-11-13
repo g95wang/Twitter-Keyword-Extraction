@@ -1,0 +1,16 @@
+bad,bad,bad,26158,ADJ,ROOT,False,1
+i,i,i,145455,PRON,nsubj,True,0
+said,say,say,276740,VERB,ROOT,False,0
+yes,yes,yes,146918,INTJ,intj,False,0
+sir,sir,sir,292308,PROPN,ccomp,False,0
+i,i,i,145455,PRON,nsubj,True,0
+text,text,text,320378,VERB,compound,False,1
+bac,bac,bac,25592,NOUN,nsubj,False,0
+on,on,on,212644,ADP,prep,True,1
+phone,phone,phone,234654,NOUN,pobj,False,1
+did,do,do,90528,AUX,aux,True,0
+nt,not,not,208798,PART,neg,False,0
+go,go,go,127161,VERB,ROOT,True,0
+through,through,through,322840,ADP,prep,True,0
+i,i,i,145455,PRON,nsubj,True,0
+guess,guess,guess,130940,VERB,parataxis,False,0

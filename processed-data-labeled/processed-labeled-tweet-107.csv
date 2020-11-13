@@ -1,0 +1,14 @@
+Even,even,even,106079,ADV,advmod,True,0
+go,go,go,127161,VERB,advcl,True,0
+for,for,for,116301,ADP,prep,True,0
+a,a,a,0,DET,det,True,1
+reatreat,reatreat,retreat,270703,NOUN,pobj,False,1
+'re,be,be,29345,AUX,aux,True,1
+still,still,still,304511,ADV,advmod,True,0
+going,go,go,127161,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+have,have,have,134390,AUX,xcomp,True,0
+fun,fun,fun,120110,NOUN,dobj,False,1
+oh,oh,oh,211771,INTJ,intj,False,0
+yes,yes,yes,146918,INTJ,intj,False,0
+are,be,be,29345,AUX,ROOT,True,0

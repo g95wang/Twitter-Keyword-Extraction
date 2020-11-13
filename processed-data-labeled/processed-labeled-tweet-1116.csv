@@ -1,0 +1,17 @@
+That,that,that,320639,DET,nsubj,True,0
+'s,be,be,29345,AUX,ROOT,True,0
+of,of,of,211535,ADP,prep,True,0
+favorite,favorite,favorite,110510,ADJ,amod,False,1
+videos,video,video,359514,NOUN,pobj,False,1
+RT,RT,rt,275072,PROPN,ROOT,False,0
+This,this,this,322217,DET,nsubj,True,0
+is,be,be,29345,AUX,aux,True,0
+going,go,go,127161,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,1
+be,be,be,29345,AUX,xcomp,True,0
+part,part,part,226929,NOUN,attr,True,0
+of,of,of,211535,ADP,prep,True,0
+morning,morning,morning,193499,NOUN,compound,False,1
+routine,routine,routine,274959,ADJ,pobj,False,1
+starting,start,start,302958,VERB,advcl,False,0
+tomorrow,tomorrow,tomorrow,325475,NOUN,npadvmod,False,1

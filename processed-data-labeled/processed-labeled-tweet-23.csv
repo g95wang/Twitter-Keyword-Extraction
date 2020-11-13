@@ -1,0 +1,12 @@
+ca,can,can,45964,VERB,aux,True,0
+n't,not,not,208798,PART,neg,True,0
+join,join,join,161599,VERB,ROOT,False,1
+the,the,the,320691,DET,det,True,0
+lobby,lobby,lobby,174171,NOUN,dobj,False,1
+lol,lol,lola,174784,INTJ,ROOT,False,0
+'s,be,be,29345,AUX,ROOT,True,0
+full,full,full,119933,ADJ,acomp,True,0
+and,and,and,12285,CCONJ,cc,True,0
+Domo,domo,duomo,94302,ADJ,conj,False,0
+killing,killing,killing,164606,NOUN,compound,False,1
+room,room,room,274247,NOUN,conj,False,1

@@ -1,0 +1,12 @@
+as,as,as,20837,SCONJ,mark,True,0
+the,the,the,320691,DET,det,True,0
+great,great,great,129442,ADJ,nsubj,False,0
+would,would,would,367745,VERB,aux,True,0
+say,say,say,276740,VERB,ROOT,True,0
+Another,another,another,13899,DET,det,True,0
+day,day,day,76257,NOUN,npadvmod,False,1
+another,another,another,13899,DET,det,True,0
+Dollar,dollar,dollar,91139,NOUN,appos,False,1
+cents,cent,cent,50788,NOUN,npadvmod,False,1
+after,after,after,5615,ADP,prep,True,0
+taxes,taxis,taxis,317338,NOUN,pobj,False,1

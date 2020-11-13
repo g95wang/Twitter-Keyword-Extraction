@@ -1,0 +1,14 @@
+Heading,head,head,134575,VERB,ROOT,False,1
+to,to,to,324862,ADP,prep,True,0
+Rock,Rock,rock,273647,PROPN,pobj,False,1
+and,and,and,12285,CCONJ,cc,True,0
+Rave,Rave,rave,261234,PROPN,conj,False,1
+but,but,but,43550,CCONJ,cc,True,0
+can,can,can,45964,VERB,aux,True,0
+the,the,the,320691,DET,det,True,0
+bus,bus,bus,43363,NOUN,compound,False,1
+driver,driver,driver,93202,NOUN,nsubj,False,1
+find,find,find,112884,VERB,conj,False,0
+Rave,rave,rave,261234,VERB,pcomp,False,1
+check,check,check,53311,VERB,ROOT,False,0
+out,out,out,216108,ADP,prt,True,0

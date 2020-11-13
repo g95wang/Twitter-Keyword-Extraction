@@ -1,0 +1,11 @@
+KY,KY,ky,164345,PROPN,compound,False,0
+Sen,Sen,sen,285198,PROPN,ROOT,False,0
+Rand,Rand,rand,260502,PROPN,compound,False,1
+Paul,Paul,paul,228082,PROPN,compound,False,1
+followers,follower,follower,115992,NOUN,nsubj,False,0
+try,try,try,329065,VERB,ROOT,False,1
+to,to,to,324862,PART,aux,True,1
+suppress,suppress,suppress,313075,VERB,xcomp,False,1
+curbstomping,curbstomping,customing,75716,NOUN,compound,False,1
+video,video,video,359514,NOUN,dobj,False,1
+Like,like,like,172172,SCONJ,prep,False,0

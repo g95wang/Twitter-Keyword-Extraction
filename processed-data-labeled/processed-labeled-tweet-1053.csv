@@ -1,0 +1,12 @@
+Options,option,option,213845,NOUN,ROOT,False,0
+and,and,and,12285,CCONJ,cc,True,1
+mom,mom,mom,191625,NOUN,appos,False,1
+special,special,special,298743,ADJ,amod,False,0
+someone,someone,someone,297038,PRON,appos,True,0
+brother,brother,brother,41578,NOUN,nmod,False,0
+sister,sister,sister,292572,NOUN,conj,False,0
+dad,dad,dad,76084,PROPN,conj,False,1
+grandparent,grandparent,grandparent,128879,PROPN,conj,False,1
+or,or,or,213904,CCONJ,cc,True,0
+best,good,good,127869,ADJ,amod,False,1
+friend,friend,friend,118947,NOUN,conj,False,1

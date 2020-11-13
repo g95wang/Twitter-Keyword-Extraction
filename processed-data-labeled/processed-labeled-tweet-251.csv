@@ -1,0 +1,10 @@
+IF,if,if,146980,ADP,punct,True,0
+YOU,you,you,157723,PRON,compound,True,0
+A,a,a,0,DET,det,True,1
+KOBE,KOBE,kob,165793,PROPN,compound,False,0
+FAN,FAN,fan,109645,PROPN,compound,False,0
+TWEET,TWEET,tweet,333246,PROPN,compound,False,0
+ME,ME,me,181664,PROPN,pobj,True,0
+WHAT,what,what,364447,PRON,poss,True,1
+'S,be,be,29345,AUX,case,True,1
+LAKERIN,lakerin,lackering,166961,NOUN,appos,False,0

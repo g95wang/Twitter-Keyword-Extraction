@@ -1,0 +1,9 @@
+HAPPY,happy,happy,133513,ADJ,amod,False,0
+HAPPY,happy,happy,133513,ADJ,amod,False,0
+BIRTHDAY,birthday,birthday,34904,NOUN,nsubj,False,0
+from,from,from,119298,ADP,prep,True,0
+i,i,i,145455,PRON,conj,True,0
+love,love,love,175534,VERB,ROOT,False,1
+baby,baby,baby,25503,VERB,compound,False,1
+brother,brother,brother,41578,NOUN,npadvmod,False,1
+x,x,x,368209,NOUN,punct,False,0

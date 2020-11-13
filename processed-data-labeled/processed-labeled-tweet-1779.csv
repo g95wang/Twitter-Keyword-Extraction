@@ -1,0 +1,10 @@
+tips,tip,tip,324153,NOUN,ROOT,False,1
+to,to,to,324862,PART,aux,True,0
+reduce,reduce,reduce,264462,VERB,relcl,False,1
+health,health,health,134768,NOUN,compound,False,1
+risk,risk,risk,273244,NOUN,dobj,False,1
+while,while,while,364797,SCONJ,mark,True,0
+eating,eat,eat,94953,VERB,advcl,False,1
+street,street,street,306018,NOUN,compound,False,1
+food,food,food,116078,NOUN,dobj,False,1
+Gadling,Gadling,gadling,120884,PROPN,compound,False,0

@@ -1,0 +1,17 @@
+no,no,no,200529,INTJ,intj,True,0
+ca,can,can,45964,VERB,aux,True,0
+nt,not,not,208798,PART,neg,False,0
+sing,sing,sing,291662,VERB,ROOT,False,1
+but,but,but,43550,CCONJ,cc,True,0
+and,and,and,12285,CCONJ,cc,True,0
+d,d,d,75936,PROPN,conj,False,0
+choir,choir,choir,55320,NOUN,appos,False,1
+at,at,at,22372,ADP,prep,True,0
+church,church,church,56664,NOUN,compound,False,1
+Whodoesthat,Whodoesthat,whoosh,365341,PROPN,ROOT,False,0
+Every,every,every,106158,DET,det,True,0
+muh`fuggah,muh`fuggah,meshuggah,184098,PROPN,dep,False,1
+at,at,at,22372,ADP,dep,True,0
+a,a,a,0,DET,det,True,1
+Baptist,Baptist,baptist,27641,PROPN,compound,False,1
+church,church,church,56664,NOUN,pobj,False,1

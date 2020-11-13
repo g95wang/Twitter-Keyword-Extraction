@@ -1,0 +1,11 @@
+'m,be,be,29345,AUX,aux,True,0
+getting,get,get,124419,VERB,ROOT,False,0
+a,a,a,0,DET,det,True,1
+little,little,little,173876,ADJ,npadvmod,False,0
+sad,sad,sad,276441,ADJ,acomp,False,1
+about,about,about,756,ADP,prep,True,0
+HC10,HC10,hcb,134564,PROPN,pobj,False,0
+why,why,why,364728,ADV,ROOT,True,0
+Ur,Ur,ur,355246,PROPN,nsubj,False,1
+not,not,not,208798,PART,neg,True,0
+coming,come,come,63721,VERB,ROOT,False,1

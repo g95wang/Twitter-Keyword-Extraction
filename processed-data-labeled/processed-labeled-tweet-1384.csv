@@ -1,0 +1,16 @@
+U,U,u,333554,PROPN,nmod,False,0
+old,old,old,212002,ADJ,amod,False,1
+Half,half,half,132585,ADJ,nmod,False,1
+dead,dead,dead,77440,ADJ,amod,False,1
+mufuggah,mufuggah,muggar,194782,NOUN,nsubj,False,1
+scared,scare,scare,279724,VERB,ROOT,False,1
+to,to,to,324862,PART,aux,True,0
+get,get,get,124419,AUX,xcomp,True,0
+the,the,the,320691,DET,det,True,0
+bread,bread,bread,40187,NOUN,nsubj,False,1
+mufuggah,mufuggah,muggar,194782,PROPN,ccomp,False,1
+retweetin,retweetin,tweeting,333250,NOUN,ccomp,False,1
+everything,everything,everything,106171,PRON,dobj,True,0
+said,say,say,276740,VERB,ROOT,False,0
+mufuggah,mufuggah,muggar,194782,PROPN,compound,False,1
+yeahumufuggah,yeahumufuggah,humbugged,144919,ADJ,ccomp,False,0

@@ -1,0 +1,14 @@
+RT,RT,rt,275072,PROPN,ROOT,False,0
+God,God,god,127304,PROPN,nsubj,False,1
+allows,allow,allow,9006,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+experience,experience,experience,107708,VERB,ccomp,False,1
+the,the,the,320691,DET,det,True,0
+low,low,low,175601,ADJ,amod,False,1
+points,point,point,241315,NOUN,dobj,False,1
+of,of,of,211535,ADP,prep,True,0
+life,life,life,171890,NOUN,pobj,False,1
+in,in,in,149313,ADP,prep,True,1
+order,order,order,214218,NOUN,pobj,False,0
+to,to,to,324862,PART,aux,True,0
+teach,teach,teach,317425,VERB,acl,False,1

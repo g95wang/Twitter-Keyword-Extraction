@@ -1,0 +1,12 @@
+retweet,retweet,etwee,105245,NOUN,ROOT,False,0
+if,if,if,146980,SCONJ,mark,True,0
+hate,hate,hate,134216,VERB,advcl,False,1
+when,when,when,364637,ADV,advmod,True,0
+eyes,eye,eye,96351,NOUN,nsubj,False,1
+are,be,be,29345,AUX,ccomp,True,0
+watery,watery,watery,363168,ADJ,acomp,False,1
+and,and,and,12285,CCONJ,cc,True,0
+everyone,everyone,everyone,106169,PRON,nsubj,True,0
+thinks,think,think,321897,VERB,conj,False,0
+'re,be,be,29345,AUX,aux,True,0
+crying,cry,cry,72853,VERB,ccomp,False,1

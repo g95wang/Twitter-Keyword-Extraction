@@ -1,0 +1,13 @@
+hiding,hide,hide,138351,VERB,ROOT,False,1
+from,from,from,119298,ADP,prep,True,0
+this,this,this,322217,DET,det,True,0
+tornado,tornado,tornado,326156,NOUN,pobj,False,1
+How,how,how,144540,ADV,advmod,True,0
+was,be,be,29345,AUX,ROOT,True,0
+that,that,that,320639,DET,advmod,True,0
+hibachi,hibachi,hibachi,138209,NOUN,nsubj,False,1
+got,get,get,124419,VERB,ROOT,False,0
+a,a,a,0,DET,det,True,1
+taste,taste,taste,316934,NOUN,dobj,False,1
+for,for,for,116301,ADP,prep,True,0
+some,some,some,297029,DET,pobj,True,0

@@ -1,0 +1,11 @@
+back,back,back,25705,NOUN,nsubj,True,0
+is,be,be,29345,AUX,aux,True,0
+killing,kill,kill,164577,VERB,ROOT,False,1
+been,be,be,29345,AUX,aux,True,0
+hurting,hurt,hurt,145284,VERB,csubj,False,1
+all,all,all,8522,DET,det,True,0
+day,day,day,76257,NOUN,npadvmod,False,0
+need,need,need,197910,VERB,ROOT,False,1
+a,a,a,0,DET,det,True,1
+good,good,good,127869,ADJ,amod,False,1
+massage,massage,massage,180761,NOUN,dobj,False,1

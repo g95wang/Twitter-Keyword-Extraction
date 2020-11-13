@@ -1,0 +1,12 @@
+Ridiculous,ridiculous,ridiculous,272694,ADJ,intj,False,1
+is,be,be,29345,AUX,ROOT,True,1
+n't,not,not,208798,PART,neg,True,0
+Seems,seem,seem,283128,VERB,ROOT,True,0
+the,the,the,320691,DET,det,True,0
+X,X,x,368209,PROPN,compound,False,1
+mas,mas,mas,180599,NOUN,compound,False,1
+displays,display,display,89051,NOUN,nsubj,False,1
+get,get,get,124419,VERB,ccomp,True,0
+earlier,early,early,94742,ADV,advmod,False,0
+every,every,every,106158,DET,det,True,0
+year,year,year,146706,NOUN,npadvmod,False,1

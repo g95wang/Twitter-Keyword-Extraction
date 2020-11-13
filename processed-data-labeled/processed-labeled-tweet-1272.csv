@@ -1,0 +1,15 @@
+RT,RT,rt,275072,PROPN,nsubj,False,0
+Sexual,sexual,sexual,286951,ADJ,amod,False,1
+Conversation,Conversation,conversation,68015,PROPN,appos,False,1
+before,before,before,30510,ADP,prep,True,0
+sex,sex,sex,286812,NOUN,pobj,False,1
+increases,increase,increase,150431,VERB,ROOT,False,1
+the,the,the,320691,DET,det,True,0
+chance,chance,chance,52384,NOUN,dobj,False,0
+of,of,of,211535,ADP,prep,True,0
+both,both,both,38714,DET,det,True,0
+partners,partner,partner,227112,NOUN,pobj,False,0
+enjoying,enjoy,enjoy,100598,VERB,acl,False,1
+the,the,the,320691,DET,det,True,0
+romantic,romantic,romantic,274060,ADJ,amod,False,0
+encounter,encounter,encounter,99475,NOUN,dobj,False,0

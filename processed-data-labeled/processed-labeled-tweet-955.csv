@@ -1,0 +1,17 @@
+am,be,be,29345,AUX,ROOT,True,0
+how,how,how,144540,ADV,advmod,True,0
+much,much,much,194510,ADJ,advmod,True,0
+lol,lol,lola,174784,INTJ,ccomp,False,0
+what,what,what,364447,PRON,det,True,0
+kind,kind,kind,164752,NOUN,advmod,False,0
+lol,lol,lola,174784,INTJ,ccomp,False,0
+RT,RT,rt,275072,PROPN,compound,False,0
+pod,pod,pod,240979,NOUN,compound,False,1
+touch,touch,touch,326560,NOUN,dobj,False,1
+for,for,for,116301,ADP,prep,True,0
+sale,sale,sale,276966,NOUN,pobj,False,1
+letme,letme,leme,170317,PROPN,nsubj,False,0
+know,know,know,165702,VERB,ROOT,False,0
+if,if,if,146980,SCONJ,mark,True,0
+looking,look,look,175060,VERB,ccomp,False,1
+for,for,for,116301,ADP,prep,True,0

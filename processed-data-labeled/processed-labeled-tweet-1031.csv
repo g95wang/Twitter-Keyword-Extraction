@@ -1,0 +1,10 @@
+Celtics,Celtics,celtic,50647,PROPN,compound,False,1
+Heat,heat,heat,134920,NOUN,compound,False,1
+now,now,now,209199,ADV,advmod,True,0
+that,that,that,320639,DET,nsubj,True,0
+is,be,be,29345,AUX,ROOT,True,0
+how,how,how,144540,ADV,advmod,True,0
+start,start,start,302958,VERB,ccomp,False,1
+off,off,off,211539,ADP,prt,True,0
+the,the,the,320691,DET,det,True,0
+season,season,season,282586,NOUN,dobj,False,1

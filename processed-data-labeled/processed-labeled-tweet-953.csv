@@ -1,0 +1,15 @@
+Microwaved,Microwaved,microwave,186622,PROPN,amod,False,1
+Grilled,Grilled,grilled,129865,PROPN,amod,False,1
+Cheese,Cheese,cheese,53473,PROPN,ROOT,False,1
+The,the,the,320691,DET,det,True,0
+Getto,Getto,ghetto,124532,PROPN,compound,False,0
+Grilled,Grilled,grilled,129865,PROPN,compound,False,1
+Cheese,Cheese,cheese,53473,PROPN,compound,False,1
+Sandwhich,Sandwhich,sandwich,277833,PROPN,ROOT,False,1
+'re,be,be,29345,AUX,auxpass,True,0
+Made,make,make,178090,VERB,ROOT,True,0
+With,with,with,366582,ADP,prep,True,0
+Real,real,real,261710,ADJ,amod,False,1
+Cheese,cheese,cheese,53473,NOUN,pobj,False,1
+haiku,haiku,haiku,132323,VERB,pobj,False,0
+mooku,mooku,mokum,191385,NOUN,pobj,False,0

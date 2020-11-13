@@ -1,0 +1,17 @@
+Another,another,another,13899,DET,det,True,0
+timeout,timeout,timeout,323775,NOUN,ROOT,False,1
+by,by,by,33133,ADP,prep,True,0
+teenager,teenager,teenager,317786,PROPN,pobj,False,1
+in,in,in,149313,ADP,prep,True,0
+a,a,a,0,DET,det,True,1
+suit,suit,suit,310317,NOUN,pobj,False,1
+The,the,the,320691,DET,det,True,0
+Miami,Miami,miami,185632,PROPN,compound,False,1
+Heat,Heat,heat,134920,PROPN,nsubj,False,1
+HAVE,have,have,134390,VERB,ROOT,True,0
+A,a,a,0,DET,det,True,0
+LOT,lot,lot,175365,NOUN,dobj,False,0
+OF,of,of,211535,ADP,prep,True,0
+WORK,work,work,367468,NOUN,pobj,False,0
+TO,to,to,324862,PART,prep,True,0
+DO,do,do,90528,VERB,pobj,True,0

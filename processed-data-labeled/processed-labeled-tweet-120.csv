@@ -1,0 +1,16 @@
+everyone,everyone,everyone,106169,PRON,nsubj,True,0
+talking,talk,talk,315639,VERB,acl,False,1
+about,about,about,756,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+celtics,celtic,celtic,50647,NOUN,pobj,False,1
+'m,be,be,29345,AUX,aux,True,0
+sitting,sit,sit,292603,VERB,relcl,False,0
+here,here,here,136991,ADV,advmod,True,0
+lost,lose,lose,175338,VERB,ROOT,False,1
+luckily,luckily,luckily,175847,ADV,advmod,False,0
+do,do,do,90528,AUX,aux,True,0
+n't,not,not,208798,PART,neg,True,0
+care,care,care,47901,VERB,ROOT,False,1
+much,much,much,194510,ADJ,dobj,True,0
+for,for,for,116301,ADP,prep,True,0
+basketball,basketball,basketball,28706,NOUN,pobj,False,1

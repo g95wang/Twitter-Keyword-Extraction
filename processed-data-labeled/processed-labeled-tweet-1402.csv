@@ -1,0 +1,6 @@
+when,when,when,364637,ADV,advmod,True,0
+is,be,be,29345,AUX,ROOT,True,0
+house,house,house,144380,NOUN,nsubj,False,1
+of,of,of,211535,ADP,prep,True,0
+candace,candace,candace,46141,NOUN,pobj,False,1
+open,open,open,213219,ADJ,amod,False,1

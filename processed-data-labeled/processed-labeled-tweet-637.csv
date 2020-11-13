@@ -1,0 +1,13 @@
+RT,RT,rt,275072,PROPN,ROOT,False,0
+RT,rt,rt,275072,VERB,ROOT,False,0
+to,to,to,324862,ADP,aux,True,0
+shid,shid,shide,288177,NOUN,advcl,False,1
+WHAT,what,what,364447,PRON,det,True,0
+CHU,CHU,chou,55913,PROPN,compound,False,0
+END,END,end,99559,PROPN,compound,False,0
+UP,up,up,354457,ADP,compound,True,0
+GOIN,GOIN,goyin,127450,PROPN,compound,False,0
+WIT,WIT,wit,366531,PROPN,ROOT,False,0
+SWINE,SWINE,swine,314464,PROPN,nsubj,False,0
+MY,MY,my,185619,PROPN,appos,True,0
+continued,continue,continue,67485,VERB,ROOT,False,0

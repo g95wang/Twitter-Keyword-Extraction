@@ -1,0 +1,12 @@
+Yakiiin,yakiiin,yakin,145568,ADV,ROOT,False,0
+RT,RT,rt,275072,PROPN,ROOT,False,0
+do,do,do,90528,AUX,aux,True,0
+n't,not,not,208798,PART,neg,True,0
+mind,mind,mind,187702,VERB,ROOT,False,1
+RT,RT,rt,275072,PROPN,ROOT,False,0
+If,if,if,146980,SCONJ,mark,True,0
+i,i,i,145455,PRON,nsubj,True,1
+never,never,never,199350,ADV,neg,True,0
+see,see,see,283054,VERB,ROOT,True,0
+face,face,face,108932,NOUN,ccomp,False,1
+again,again,again,5827,ADV,advmod,True,0

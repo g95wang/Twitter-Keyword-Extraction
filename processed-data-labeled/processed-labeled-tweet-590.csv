@@ -1,0 +1,4 @@
+when,when,when,364637,ADV,advmod,True,0
+do,do,do,90528,AUX,aux,True,0
+start,start,start,302958,VERB,ROOT,False,1
+job,job,job,161424,NOUN,dobj,False,1

@@ -1,0 +1,17 @@
+Figurative,figurative,figurative,112471,ADJ,amod,False,0
+speech,speech,speech,298987,NOUN,nmod,False,1
+Englishmajors,Englishmajors,englishman,100399,PROPN,nsubj,False,0
+help,help,help,135801,VERB,ccomp,False,1
+out,out,out,216108,ADP,prt,True,0
+sails,sail,sail,276772,NOUN,nsubj,False,1
+came,come,come,63721,VERB,ROOT,False,0
+into,into,into,156343,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+harbor,harbor,harbor,133589,NOUN,pobj,False,1
+is,be,be,29345,AUX,conj,True,0
+an,an,an,11448,DET,det,True,0
+example,example,example,106472,NOUN,attr,False,0
+of,of,of,211535,ADP,prep,True,0
+What,what,what,364447,DET,det,True,0
+figurative,figurative,figurative,112471,ADJ,amod,False,1
+type,type,type,324164,NOUN,ROOT,False,1

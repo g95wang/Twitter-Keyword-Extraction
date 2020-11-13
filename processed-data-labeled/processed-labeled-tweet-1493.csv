@@ -1,0 +1,7 @@
+Foo,foo,foo,116074,NOUN,nsubj,False,0
+stuffed,stuff,stuff,306820,VERB,ROOT,False,1
+WHOLE,whole,whole,365285,ADJ,amod,True,0
+face,face,face,108932,NOUN,dobj,False,1
+with,with,with,366582,ADP,prep,True,0
+banana,banana,banana,27234,PROPN,compound,False,1
+smh,smh,samh,277535,PROPN,pobj,False,0

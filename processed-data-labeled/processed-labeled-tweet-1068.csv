@@ -1,0 +1,9 @@
+What,what,what,364447,PRON,attr,True,0
+are,be,be,29345,AUX,ROOT,True,0
+plans,plan,plan,238877,NOUN,nsubj,False,1
+for,for,for,116301,ADP,prep,True,0
+Halloween,Halloween,halloween,132756,PROPN,pobj,False,1
+still,still,still,304511,ADV,advmod,True,0
+have,have,have,134390,AUX,aux,True,0
+n't,not,not,208798,PART,neg,True,0
+decided,decide,decide,78310,VERB,ROOT,False,1

@@ -1,0 +1,13 @@
+Now,now,now,209199,ADV,advmod,True,0
+that,that,that,320639,SCONJ,mark,True,0
+'re,be,be,29345,AUX,ccomp,True,0
+good,good,good,127869,ADJ,acomp,False,1
+will,will,will,365768,VERB,aux,True,0
+be,be,be,29345,AUX,ROOT,True,0
+too,too,too,325685,ADV,advmod,True,0
+That,that,that,320639,DET,nsubj,True,0
+'s,be,be,29345,AUX,ROOT,True,0
+the,the,the,320691,DET,det,True,0
+last,last,last,168771,ADJ,amod,True,1
+tweet,tweet,tweet,333246,NOUN,attr,False,1
+about,about,about,756,ADP,prep,True,0

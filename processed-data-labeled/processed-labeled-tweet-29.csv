@@ -1,0 +1,17 @@
+Never,never,never,199350,ADV,neg,True,0
+realized,realize,realize,261754,VERB,ROOT,False,1
+how,how,how,144540,ADV,advmod,True,0
+very,very,very,358514,ADV,advmod,True,0
+attractive,attractive,attractive,23149,ADJ,acomp,False,1
+is,be,be,29345,AUX,ccomp,True,0
+Probably,probably,probably,251013,ADV,advmod,False,0
+helped,help,help,135801,VERB,ROOT,False,0
+that,that,that,320639,SCONJ,mark,True,0
+finally,finally,finally,112856,ADV,advmod,False,0
+got,get,get,124419,VERB,auxpass,False,0
+rid,rid,rid,272619,VERB,ccomp,False,1
+of,of,of,211535,ADP,prep,True,0
+all,all,all,8522,DET,predet,True,0
+that,that,that,320639,DET,det,True,0
+facial,facial,facial,108977,ADJ,amod,False,1
+hair,hair,hair,132366,NOUN,pobj,False,1

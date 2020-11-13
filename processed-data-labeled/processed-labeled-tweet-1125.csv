@@ -1,0 +1,8 @@
+because,because,because,29780,SCONJ,mark,True,0
+i,i,i,145455,PRON,nsubj,True,1
+can,can,can,45964,VERB,aux,True,0
+never,never,never,199350,ADV,neg,True,0
+have,have,have,134390,AUX,ROOT,True,0
+what,what,what,364447,PRON,dobj,True,0
+i,i,i,145455,PRON,nsubj,True,1
+want,want,want,362465,VERB,ccomp,False,1

@@ -1,0 +1,7 @@
+same,same,same,277518,ADJ,dep,True,0
+here,here,here,136991,ADV,advmod,True,0
+think,think,think,321897,VERB,ROOT,False,0
+have,have,have,134390,AUX,ccomp,True,0
+to,to,to,324862,PART,aux,True,0
+ask,ask,ask,21294,VERB,xcomp,False,1
+about,about,about,756,ADP,prep,True,0

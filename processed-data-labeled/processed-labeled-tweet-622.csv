@@ -1,0 +1,11 @@
+There,there,there,321216,PRON,expl,True,0
+is,be,be,29345,AUX,ROOT,True,0
+a,a,a,0,DET,det,True,1
+difference,difference,difference,85272,NOUN,attr,False,1
+between,between,between,32866,ADP,prep,True,0
+making,make,make,178090,VERB,pcomp,False,1
+love,love,love,175534,NOUN,dobj,False,1
+and,and,and,12285,CCONJ,cc,True,0
+having,have,have,134390,VERB,conj,False,0
+sex,sex,sex,286812,NOUN,dobj,False,1
+FBLikes,fblike,belike,31097,NOUN,ROOT,False,0

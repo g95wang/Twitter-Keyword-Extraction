@@ -1,0 +1,12 @@
+Smells,smell,smell,294808,VERB,ROOT,False,0
+like,like,like,172172,SCONJ,prep,False,1
+body,body,body,37181,NOUN,compound,False,1
+odor,odor,odor,211367,NOUN,pobj,False,1
+And,and,and,12285,CCONJ,cc,True,0
+the,the,the,320691,DET,det,True,0
+second,second,second,282753,ADJ,amod,False,1
+floor,floor,floor,114931,NOUN,nsubj,False,1
+smells,smell,smell,294808,VERB,ROOT,False,1
+like,like,like,172172,SCONJ,prep,False,1
+pee,pee,pee,229018,PROPN,compound,False,1
+lol,lol,lola,174784,PROPN,pobj,False,0

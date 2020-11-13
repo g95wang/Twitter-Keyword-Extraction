@@ -1,0 +1,13 @@
+MATCHES,MATCHES,matches,181050,PROPN,compound,False,0
+YA,YA,ya,145458,PROPN,compound,False,0
+FACE,face,face,108932,VERB,ROOT,False,0
+SO,so,so,295959,ADV,advmod,True,0
+YOU,you,you,157723,PRON,nsubj,True,0
+COOL,cool,cool,68254,VERB,ROOT,False,0
+RT,RT,rt,275072,PROPN,ROOT,False,0
+growing,grow,grow,130412,VERB,ROOT,False,1
+but,but,but,43550,CCONJ,cc,True,0
+at,at,at,22372,ADP,prep,True,0
+this,this,this,322217,DET,det,True,1
+ugly,ugly,ugly,333654,ADJ,amod,False,1
+stage,stage,stage,302294,NOUN,pobj,False,1

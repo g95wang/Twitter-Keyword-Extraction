@@ -1,0 +1,17 @@
+NEVER,never,never,199350,ADV,neg,True,0
+meet,meet,meet,182300,VERB,ccomp,False,1
+a,a,a,0,DET,det,True,1
+BITCH,bitch,bitch,35166,NOUN,dobj,False,0
+that,that,that,320639,DET,nsubj,True,0
+did,do,do,90528,AUX,aux,True,0
+n't,not,not,208798,PART,neg,True,0
+need,need,need,197910,VERB,relcl,False,0
+a,a,a,0,DET,det,True,1
+little,little,little,173876,ADJ,amod,False,0
+guidance,guidance,guidance,131014,NOUN,dobj,False,1
+so,so,so,295959,CCONJ,advmod,True,0
+dismiss,dismiss,dismiss,88706,VERB,ROOT,False,1
+past,past,past,227394,NOUN,dobj,False,0
+until,until,until,353020,ADP,mark,True,0
+disappoints,disappoint,disappoint,87036,VERB,advcl,False,1
+hieness,hieness,whiteness,365164,NOUN,dobj,False,1

@@ -1,0 +1,17 @@
+now,now,now,209199,ADV,advmod,True,0
+what,what,what,364447,PRON,dobj,True,0
+i,i,i,145455,PRON,nsubj,True,1
+do,do,do,90528,AUX,aux,True,0
+hate,hate,hate,134216,VERB,csubj,False,1
+is,be,be,29345,AUX,ROOT,True,0
+for,for,for,116301,ADP,mark,True,0
+a,a,a,0,DET,det,True,1
+man,man,man,178862,NOUN,nsubj,False,1
+to,to,to,324862,PART,aux,True,0
+think,think,think,321897,VERB,advcl,False,0
+okay,okay,okay,211944,NOUN,ccomp,False,0
+to,to,to,324862,PART,aux,True,0
+ask,ask,ask,21294,VERB,advcl,False,1
+for,for,for,116301,ADP,prep,True,0
+money,money,money,191829,NOUN,pobj,False,1
+niggaplz,niggaplz,niggle,199886,NOUN,ROOT,False,1

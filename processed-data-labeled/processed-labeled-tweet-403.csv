@@ -1,0 +1,12 @@
+RT,RT,rt,275072,PROPN,ROOT,False,0
+Lawyer,lawyer,lawyer,169348,NOUN,ROOT,False,0
+Supreme,Supreme,supreme,313287,PROPN,compound,False,1
+Court,Court,court,71324,PROPN,nsubj,False,1
+should,should,should,288990,VERB,aux,True,0
+hear,hear,hear,134794,VERB,ROOT,False,0
+SF,SF,sf,286967,PROPN,nmod,False,1
+Catholics,Catholics,catholics,49747,PROPN,nmod,False,0
+religious,religious,religious,266952,ADJ,amod,False,1
+freedom,freedom,freedom,118591,NOUN,compound,False,1
+case,case,case,48783,NOUN,dobj,False,0
+CNS,cns,cans,46540,NOUN,appos,False,0

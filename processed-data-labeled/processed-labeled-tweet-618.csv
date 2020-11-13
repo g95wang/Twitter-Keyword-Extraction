@@ -1,0 +1,11 @@
+Here,here,here,136991,ADV,advmod,True,0
+'s,be,be,29345,AUX,ROOT,True,1
+a,a,a,0,DET,det,True,1
+link,link,link,172930,NOUN,nsubj,False,1
+to,to,to,324862,ADP,prep,True,0
+suggestion,suggestion,suggestion,310252,NOUN,pobj,False,1
+of,of,of,211535,ADP,prep,True,0
+liking,like,like,172172,VERB,pcomp,False,1
+Art,Art,art,20445,PROPN,compound,False,1
+Reach,reach,reach,261480,NOUN,compound,False,1
+SanDiego,SanDiego,sandier,277774,PROPN,dobj,False,1

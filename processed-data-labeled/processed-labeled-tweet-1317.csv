@@ -1,0 +1,14 @@
+Republican,Republican,republican,268728,PROPN,compound,False,1
+Lies,Lies,lies,171869,PROPN,ROOT,False,1
+About,about,about,756,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+Bush,Bush,bush,43376,PROPN,compound,False,1
+Tax,Tax,tax,317272,PROPN,compound,False,1
+Cuts,cut,cut,75735,NOUN,pobj,False,1
+p2,p2,p,222535,VERB,compound,False,0
+dems,dem,dem,80319,NOUN,ROOT,False,0
+tcot,tcot,cot,70263,NOUN,appos,False,0
+tlot,tlot,lot,175365,NOUN,ROOT,False,0
+wc,wc,wc,363449,ADP,appos,False,0
+ocra,ocra,ocrea,210904,NOUN,amod,False,0
+teaparty,teaparty,tepary,319136,NOUN,ROOT,False,0

@@ -1,0 +1,10 @@
+Anyone,anyone,anyone,13244,PRON,nsubj,True,0
+want,want,want,362465,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+video,video,video,359514,VERB,xcomp,False,1
+chat,chat,chat,53079,NOUN,dobj,False,1
+Join,join,join,161599,VERB,ROOT,False,1
+chatroom,chatroom,chartroom,53000,NOUN,dobj,False,1
+with,with,with,366582,ADP,prep,True,0
+other,other,other,215836,ADJ,amod,True,0
+people,people,people,230162,NOUN,pobj,False,1

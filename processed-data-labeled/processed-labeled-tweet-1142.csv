@@ -1,0 +1,13 @@
+Mayo,Mayo,mayo,177955,PROPN,nsubj,False,1
+is,be,be,29345,AUX,ROOT,True,0
+some,some,some,297029,DET,det,True,0
+nasty,nasty,nasty,197188,ADJ,amod,False,1
+shit,shit,shit,288544,NOUN,attr,False,1
+why,why,why,364728,ADV,advmod,True,0
+would,would,would,367745,VERB,aux,True,0
+have,have,have,134390,AUX,ccomp,True,0
+a,a,a,0,DET,det,True,1
+commercial,commercial,commercial,64008,NOUN,dobj,False,1
+for,for,for,116301,ADP,prep,True,0
+that,that,that,320639,DET,det,True,0
+crap,crap,crap,72160,NOUN,pobj,False,1

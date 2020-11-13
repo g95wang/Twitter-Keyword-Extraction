@@ -1,0 +1,9 @@
+That,that,that,320639,DET,nsubj,True,0
+'s,be,be,29345,AUX,ROOT,True,0
+on,on,on,212644,ADP,prep,True,0
+fleury,fleury,fleury,114477,NOUN,pobj,False,1
+but,but,but,43550,CCONJ,cc,True,0
+just,just,just,162503,ADV,advmod,True,0
+a,a,a,0,DET,det,True,0
+little,little,little,173876,ADJ,amod,False,1
+interference,interference,interference,154924,NOUN,ROOT,False,1

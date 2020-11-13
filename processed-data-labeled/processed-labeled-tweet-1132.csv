@@ -1,0 +1,11 @@
+RT,RT,rt,275072,PROPN,ROOT,False,0
+This,this,this,322217,DET,det,True,0
+election,election,election,96877,NOUN,nsubj,False,1
+is,be,be,29345,AUX,ROOT,True,0
+too,too,too,325685,ADV,advmod,True,0
+important,important,important,148877,ADJ,acomp,False,1
+dontwait,dontwait,outwait,217846,VERB,pobj,False,0
+until,until,until,353020,ADP,prep,True,0
+too,too,too,325685,ADV,advmod,True,0
+late,late,late,168810,ADV,pobj,False,1
+nvsen,nvsen,neven,199349,PROPN,ROOT,False,0

@@ -1,0 +1,10 @@
+Check,check,check,53311,VERB,ROOT,False,0
+this,this,this,322217,DET,dobj,True,0
+out,out,out,216108,ADP,prt,True,0
+Menthol,Menthol,menthol,183522,PROPN,ROOT,False,1
+Madness%3A,Madness%3A,madness,177217,PROPN,appos,False,1
+Why,why,why,364728,ADV,compound,True,0
+Ban,Ban,ban,27221,PROPN,ROOT,False,1
+Blacks%27,Blacks%27,blacks,35564,PROPN,punct,False,1
+Preferred,Preferred,preferred,247547,PROPN,compound,False,1
+Cigarette%3F,Cigarette%3F,cigarette,57339,PROPN,appos,False,1

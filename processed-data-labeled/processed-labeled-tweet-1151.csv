@@ -1,0 +1,8 @@
+OMG,omg,mg,185606,VERB,ROOT,False,0
+from,from,from,119298,ADP,prep,True,0
+PA,pa,pa,222536,NOUN,pobj,False,0
+i,i,i,145455,PRON,nsubj,True,0
+am,be,be,29345,AUX,ROOT,True,1
+too,too,too,325685,ADV,advmod,True,0
+where,where,where,364654,ADV,advmod,True,0
+abouts,about,about,756,NOUN,advcl,False,0

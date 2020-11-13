@@ -1,0 +1,7 @@
+down,down,down,92197,ADP,advmod,True,0
+to,to,to,324862,PART,aux,True,0
+go,go,go,127161,VERB,advcl,True,1
+good,good,good,127869,ADJ,amod,False,1
+start,start,start,302958,NOUN,npadvmod,False,1
+C,C,c,43829,PROPN,ROOT,False,0
+'s,'s,s,275971,PART,case,True,1

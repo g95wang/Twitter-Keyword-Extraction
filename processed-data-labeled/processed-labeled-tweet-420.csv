@@ -1,0 +1,14 @@
+are,be,be,29345,AUX,aux,True,0
+selling,sell,sell,283572,VERB,ROOT,False,1
+Christmas,Christmas,christmas,56164,PROPN,compound,False,1
+trees,tree,tree,328769,NOUN,dobj,False,1
+click,click,click,59892,VERB,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+link,link,link,172930,NOUN,dobj,False,0
+and,and,and,12285,CCONJ,cc,True,0
+type,type,type,324164,NOUN,conj,False,0
+in,in,in,149313,ADP,prep,True,1
+mountainridge,mountainridge,mountainside,194227,NOUN,pobj,False,0
+for,for,for,116301,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+gro,gro,gro,130109,NOUN,pobj,False,0

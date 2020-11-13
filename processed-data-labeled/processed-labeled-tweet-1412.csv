@@ -1,0 +1,13 @@
+Ugh,Ugh,ugh,333650,PROPN,nmod,False,0
+Crystal,Crystal,crystal,73376,PROPN,npadvmod,False,1
+are,be,be,29345,AUX,ROOT,True,0
+a,a,a,0,DET,det,True,1
+STYLIST,STYLIST,stylist,304494,PROPN,attr,False,0
+'s,be,be,29345,AUX,ROOT,True,0
+job,job,job,161424,NOUN,attr,False,0
+to,to,to,324862,ADP,aux,True,1
+LISTEN,LISTEN,listen,173504,PROPN,xcomp,False,0
+to,to,to,324862,ADP,prep,True,1
+client,client,client,59907,NOUN,pobj,False,1
+Dumb,dumb,dumb,94029,ADJ,amod,False,0
+BITCH,BITCH,bitch,35166,PROPN,ROOT,False,0

@@ -1,0 +1,14 @@
+dog,dog,dog,90839,NOUN,nsubj,False,1
+peed,peed,peed,229022,NOUN,ROOT,False,1
+on,on,on,212644,ADP,prep,True,0
+research,research,research,269100,NOUN,pobj,False,1
+for,for,for,116301,ADP,prep,True,0
+tomorrows,tomorrow,tomorrow,325475,NOUN,compound,False,0
+show,show,show,289042,NOUN,pobj,True,0
+dog,dog,dog,90839,NOUN,nsubj,False,1
+hates,hate,hate,134216,VERB,ROOT,False,0
+facts,fact,fact,109031,NOUN,dobj,False,1
+dog,dog,dog,90839,NOUN,nsubj,False,1
+is,be,be,29345,AUX,ROOT,True,0
+a,a,a,0,DET,det,True,1
+peebagger,peebagger,bagger,26297,NOUN,attr,False,1

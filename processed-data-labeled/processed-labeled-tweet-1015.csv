@@ -1,0 +1,16 @@
+This,this,this,322217,DET,det,True,0
+years,year,year,146706,NOUN,npadvmod,False,0
+almond,almond,almond,9143,ADJ,compound,False,1
+crop,crop,crop,73715,NOUN,nsubj,False,1
+is,be,be,29345,AUX,ROOT,True,0
+a,a,a,0,DET,det,True,1
+great,great,great,129442,ADJ,amod,False,1
+And,and,and,12285,CCONJ,cc,True,0
+the,the,the,320691,DET,det,True,0
+crop,crop,crop,73715,NOUN,nsubjpass,False,1
+is,be,be,29345,AUX,aux,True,0
+being,be,be,29345,AUX,auxpass,True,0
+shipped,ship,ship,288403,VERB,ROOT,False,1
+fresh,fresh,fresh,118806,ADJ,oprd,False,1
+to,to,to,324862,ADP,prep,True,0
+youNow,youNow,youngstown,157746,PROPN,pobj,False,0

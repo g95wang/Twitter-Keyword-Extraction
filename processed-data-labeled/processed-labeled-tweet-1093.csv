@@ -1,0 +1,9 @@
+Low,low,low,175601,ADJ,amod,False,0
+blow,blow,blow,36594,NOUN,compound,False,1
+RT,RT,rt,275072,PROPN,ROOT,False,0
+cody,cody,coddy,61679,NOUN,compound,False,1
+Billiot,Billiot,billot,34041,PROPN,appos,False,1
+need,need,need,197910,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+go,go,go,127161,VERB,xcomp,True,0
+follow,follow,follow,115989,VERB,advcl,False,1

@@ -1,0 +1,9 @@
+RT,RT,rt,275072,PROPN,ROOT,False,0
+RT,RT,rt,275072,PROPN,appos,False,0
+present,present,present,249344,ADJ,conj,False,0
+Get,get,get,124419,AUX,ROOT,True,0
+Money,money,money,191829,NOUN,dobj,False,1
+Or,or,or,213904,CCONJ,cc,True,0
+Go,go,go,127161,VERB,conj,True,0
+Broke,broke,broke,41193,ADJ,dobj,False,1
+on,on,on,212644,ADP,prep,True,1

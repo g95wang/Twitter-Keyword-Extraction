@@ -1,0 +1,7 @@
+Just,just,just,162503,ADV,advmod,True,0
+saying,say,say,276740,VERB,ROOT,False,1
+Stop,stop,stop,305323,VERB,xcomp,False,1
+to,to,to,324862,ADP,prep,True,1
+off,off,off,211539,ADV,pobj,True,0
+GP,gp,gp,128443,NOUN,pobj,False,0
+stopit5,stopit5,stoppit,305363,NOUN,ROOT,False,1

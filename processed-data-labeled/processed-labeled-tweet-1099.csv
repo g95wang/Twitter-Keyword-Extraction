@@ -1,0 +1,14 @@
+reading,read,read,261551,VERB,ROOT,False,1
+harry,harry,harry,133956,PROPN,compound,False,1
+potter,potter,potter,244808,PROPN,dobj,False,1
+in,in,in,149313,ADP,prep,True,1
+bed,bed,bed,29953,NOUN,pobj,False,0
+waiting,wait,wait,362072,VERB,ROOT,False,1
+for,for,for,116301,ADP,mark,True,0
+the,the,the,320691,DET,det,True,0
+new,new,new,199367,PROPN,amod,False,1
+south,south,south,297980,PROPN,compound,False,1
+park,park,park,226556,PROPN,nsubj,False,1
+to,to,to,324862,PART,aux,True,0
+come,come,come,63721,VERB,advcl,False,0
+on,on,on,212644,ADP,prt,True,0

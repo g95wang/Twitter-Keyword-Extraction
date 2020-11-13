@@ -1,0 +1,6 @@
+do,do,do,90528,AUX,ROOT,True,0
+now,now,now,209199,ADV,advmod,True,0
+play,play,play,238701,VERB,ROOT,False,1
+hard,hard,hard,133614,ADV,advmod,False,1
+in,in,in,149313,ADP,prep,True,0
+nyc,nyc,ny,199522,PROPN,pobj,False,1

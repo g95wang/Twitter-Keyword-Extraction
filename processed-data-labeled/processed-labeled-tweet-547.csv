@@ -1,0 +1,16 @@
+RT,RT,rt,275072,PROPN,ROOT,False,0
+This,this,this,322217,DET,nsubj,True,0
+is,be,be,29345,AUX,ROOT,True,0
+favorite,favorite,favorite,110510,ADJ,amod,False,1
+screen,screen,screen,281701,NOUN,nsubj,False,1
+shot,shoot,shoot,288779,VERB,attr,False,1
+from,from,from,119298,ADP,prep,True,1
+RTM,RTM,rm,273459,PROPN,pobj,False,0
+RT,RT,rt,275072,PROPN,ROOT,False,0
+This,this,this,322217,DET,nsubj,True,0
+is,be,be,29345,AUX,ROOT,True,0
+favorite,favorite,favorite,110510,ADJ,amod,False,1
+screen,screen,screen,281701,NOUN,nsubj,False,1
+shot,shoot,shoot,288779,VERB,attr,False,1
+from,from,from,119298,ADP,prep,True,1
+RTM,RTM,rm,273459,PROPN,pobj,False,0

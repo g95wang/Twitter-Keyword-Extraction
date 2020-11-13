@@ -1,0 +1,17 @@
+Coordinatard,Coordinatard,coordinated,68358,PROPN,nsubj,False,1
+walking,walk,walk,362193,VERB,csubj,False,0
+behind,behind,behind,30817,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+couple,couple,couple,71262,NOUN,pobj,False,1
+during,during,during,94458,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+grand,grand,grand,128791,ADJ,amod,False,1
+entrance,entrance,entrance,101631,NOUN,pobj,False,1
+staring,stare,stare,302882,VERB,acl,False,1
+at,at,at,22372,ADP,prep,True,1
+phone,phone,phone,234654,NOUN,pobj,False,1
+looks,look,look,175060,VERB,ROOT,False,0
+fucking,fuck,fuck,119742,VERB,xcomp,False,0
+magical,magical,magical,177408,ADJ,acomp,False,1
+in,in,in,149313,ADP,prep,True,1
+picture,picture,picture,236096,NOUN,pobj,False,0

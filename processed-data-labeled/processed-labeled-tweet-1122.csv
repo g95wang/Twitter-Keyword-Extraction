@@ -1,0 +1,14 @@
+women,woman,woman,366955,NOUN,compound,False,1
+music,music,music,195981,NOUN,ROOT,False,1
+and,and,and,12285,CCONJ,cc,True,0
+pineapple,pineapple,pineapple,236983,NOUN,conj,False,1
+What,what,what,364447,PRON,nsubj,True,0
+are,be,be,29345,AUX,csubj,True,0
+things,thing,thing,321869,NOUN,attr,False,1
+guys,guy,guy,131001,NOUN,relcl,False,1
+just,just,just,162503,ADV,advmod,True,0
+ca,can,can,45964,VERB,aux,True,0
+nt,not,not,208798,PART,neg,False,0
+live,live,live,173931,VERB,ROOT,False,1
+without,without,without,366665,ADP,prep,True,0
+tellme,tellme,tellsome,318379,NOUN,pobj,False,0

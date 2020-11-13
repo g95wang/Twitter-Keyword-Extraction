@@ -1,0 +1,17 @@
+okay,okay,okay,211944,INTJ,ROOT,False,0
+so,so,so,295959,ADV,advmod,True,0
+are,be,be,29345,AUX,ROOT,True,0
+cool,cool,cool,68254,ADJ,acomp,False,1
+was,be,be,29345,AUX,ROOT,True,0
+n't,not,not,208798,PART,neg,True,0
+sure,sure,sure,313361,ADJ,acomp,False,0
+Smh,smh,samh,277535,INTJ,npadvmod,False,0
+have,have,have,134390,AUX,ROOT,True,0
+people,people,people,230162,NOUN,nsubj,False,1
+saying,say,say,276740,VERB,ccomp,False,1
+ridiculous,ridiculous,ridiculous,272694,ADJ,amod,False,1
+stuff,stuff,stuff,306820,NOUN,dobj,False,1
+all,all,all,8522,DET,det,True,0
+day,day,day,76257,NOUN,npadvmod,False,1
+so,so,so,295959,ADV,advmod,True,0
+sorry,sorry,sorry,297653,ADJ,appos,False,0

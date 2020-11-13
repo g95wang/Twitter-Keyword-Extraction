@@ -1,0 +1,4 @@
+cnt,cnt,cant,46546,PROPN,nsubj,False,0
+wait,wait,wait,362072,VERB,ROOT,False,1
+to,to,to,324862,PART,prep,True,0
+sleep,sleep,sleep,293885,VERB,pobj,False,1

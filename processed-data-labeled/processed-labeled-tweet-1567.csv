@@ -1,0 +1,13 @@
+head,head,head,134575,NOUN,nsubj,False,1
+is,be,be,29345,AUX,aux,True,0
+killing,kill,kill,164577,VERB,ROOT,False,1
+good,good,good,127869,ADJ,amod,False,1
+night,night,night,199909,NOUN,npadvmod,False,1
+to,to,to,324862,ADP,prep,True,0
+all,all,all,8522,DET,det,True,1
+TEAMLAKERS,TEAMLAKERS,teamakers,317484,PROPN,nsubj,False,0
+fuck,fuck,fuck,119742,VERB,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+rest,rest,rest,269833,NOUN,dobj,False,0
+of,of,of,211535,ADP,prep,True,0
+all,all,all,8522,DET,appos,True,1

@@ -1,0 +1,15 @@
+lmaooo,lmaooo,laocoon,168252,PROPN,compound,False,1
+iit,iit,imit,147807,PROPN,nsubj,False,0
+was,be,be,29345,AUX,ROOT,True,0
+mans,mans,mans,179498,PROPN,attr,False,1
+iit,iit,imit,147807,PROPN,nsubjpass,False,0
+was,be,be,29345,AUX,auxpass,True,0
+n't,not,not,208798,PART,neg,True,0
+hurt,hurt,hurt,145284,VERB,ROOT,False,1
+at,at,at,22372,ADP,prep,True,0
+first,first,first,113286,ADV,pcomp,True,0
+but,but,but,43550,CCONJ,cc,True,0
+now,now,now,209199,ADV,advmod,True,0
+feel,feel,feel,110884,VERB,ROOT,False,1
+that,that,that,320639,DET,det,True,0
+shit,shit,shit,288544,NOUN,ccomp,False,1

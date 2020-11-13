@@ -1,0 +1,9 @@
+DJs,dj,dj,90488,NOUN,nsubj,False,1
+Get,get,get,124419,AUX,ROOT,True,0
+Radio,Radio,radio,259607,PROPN,nmod,False,0
+Show,show,show,289042,NOUN,nmod,True,1
+Podcast,Podcast,decast,78105,PROPN,nsubj,False,1
+Hosted,host,host,144193,VERB,ccomp,False,0
+On,on,on,212644,ADP,prep,True,1
+radio,radio,radio,259607,NOUN,compound,False,1
+contact,contact,contact,67230,NOUN,pobj,False,1

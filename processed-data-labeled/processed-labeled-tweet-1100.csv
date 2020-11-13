@@ -1,0 +1,8 @@
+Not,not,not,208798,PART,neg,True,0
+too,too,too,325685,ADV,advmod,True,0
+bad,bad,bad,26158,ADJ,ROOT,False,1
+for,for,for,116301,ADP,prep,True,0
+missing,miss,miss,189987,VERB,pcomp,False,1
+labs,lab,lab,166596,NOUN,dobj,False,1
+before,before,before,30510,ADP,prep,True,0
+that,that,that,320639,DET,pobj,True,0

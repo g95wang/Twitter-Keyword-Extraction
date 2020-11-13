@@ -1,0 +1,17 @@
+Lol,Lol,lola,174784,PROPN,nsubj,False,0
+was,be,be,29345,AUX,ROOT,True,0
+that,that,that,320639,DET,nsubj,True,0
+mean,mean,mean,181735,VERB,ccomp,False,0
+warm't,warm't,warmth,362707,CCONJ,dep,False,0
+supposed,suppose,suppose,313048,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+be,be,be,29345,AUX,xcomp,True,0
+But,but,but,43550,CCONJ,cc,True,0
+text,text,text,320378,VERB,ROOT,False,1
+the,the,the,320691,DET,det,True,0
+ques,que,que,258208,NOUN,dobj,False,1
+or,or,or,213904,CCONJ,cc,True,0
+call,call,call,45246,VERB,conj,True,1
+in,in,in,149313,ADP,prep,True,0
+a,a,a,0,DET,det,True,1
+hour,hour,hour,144367,NOUN,pobj,False,1

@@ -1,0 +1,14 @@
+have,have,have,134390,AUX,ccomp,True,0
+in,in,in,149313,ADP,prep,True,0
+fridge,fridge,fridge,118937,NOUN,pobj,False,1
+right,right,right,272806,ADV,advmod,False,0
+now,now,now,209199,ADV,advmod,True,0
+but,but,but,43550,CCONJ,cc,True,0
+should,should,should,288990,VERB,aux,True,0
+be,be,be,29345,AUX,conj,True,0
+fine,fine,fine,112898,ADJ,acomp,False,0
+could,could,could,70511,VERB,aux,True,0
+freeze,freeze,freeze,118682,VERB,ROOT,False,1
+if,if,if,146980,SCONJ,mark,True,0
+yeah,yeah,yeah,146696,INTJ,advcl,False,0
+like,like,like,172172,INTJ,intj,False,0

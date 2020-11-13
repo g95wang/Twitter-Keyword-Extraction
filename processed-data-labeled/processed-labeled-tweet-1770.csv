@@ -1,0 +1,15 @@
+is,be,be,29345,AUX,ROOT,True,0
+a,a,a,0,DET,det,True,1
+good,good,good,127869,ADJ,amod,False,1
+day,day,day,76257,NOUN,attr,False,1
+to,to,to,324862,PART,aux,True,1
+get,get,get,124419,AUX,auxpass,True,0
+inspired,inspire,inspire,153796,VERB,xcomp,False,0
+on,on,on,212644,ADP,prep,True,0
+and,and,and,12285,CCONJ,cc,True,0
+'m,be,be,29345,AUX,aux,True,1
+totally,totally,totally,326476,ADV,advmod,False,1
+buying,buy,buy,42353,VERB,ROOT,False,1
+the,the,the,320691,DET,det,True,0
+movie,movie,movie,194399,NOUN,dobj,False,1
+books,book,book,38039,NOUN,conj,False,1

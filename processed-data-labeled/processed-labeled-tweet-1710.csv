@@ -1,0 +1,16 @@
+local,local,local,174264,NOUN,nsubj,False,1
+and,and,and,12285,CCONJ,cc,True,0
+that,that,that,320639,DET,nsubj,True,0
+'s,be,be,29345,AUX,conj,True,0
+cool,cool,cool,68254,ADJ,acomp,False,1
+hit,hit,hit,141950,VERB,conj,False,0
+up,up,up,354457,ADP,prt,True,0
+direct,direct,direct,86756,ADV,advmod,False,1
+would,would,would,367745,VERB,aux,True,0
+like,like,like,172172,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+discuss,discuss,discuss,87788,VERB,xcomp,False,1
+where,where,where,364654,ADV,advmod,True,0
+this,this,this,322217,DET,nsubj,True,0
+is,be,be,29345,AUX,aux,True,1
+going,go,go,127161,VERB,ccomp,False,0

@@ -1,0 +1,12 @@
+Celebration,celebration,celebration,50455,NOUN,compound,False,1
+dinner,dinner,dinner,86169,NOUN,ROOT,False,1
+with,with,with,366582,ADP,prep,True,0
+best,good,good,127869,ADJ,amod,False,0
+friend,friend,friend,118947,NOUN,pobj,False,1
+and,and,and,12285,CCONJ,cc,True,0
+then,then,then,320906,ADV,advmod,True,0
+going,go,go,127161,VERB,conj,False,0
+to,to,to,324862,ADP,prep,True,0
+b,b,b,25416,PROPN,poss,False,1
+'s,'s,s,275971,PART,case,True,0
+game,game,game,121666,NOUN,pobj,False,1

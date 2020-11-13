@@ -1,0 +1,13 @@
+Club,Club,club,60615,PROPN,compound,False,1
+Monaco,Monaco,monaco,191699,PROPN,nsubj,False,1
+asking,ask,ask,21294,VERB,ROOT,False,0
+customers,customer,customer,75712,NOUN,dobj,False,1
+to,to,to,324862,PART,aux,True,1
+take,take,take,315491,VERB,xcomp,True,0
+pictures,picture,picture,236096,NOUN,dobj,False,1
+for,for,for,116301,ADP,prep,True,0
+new,new,new,199367,ADJ,amod,False,0
+blog,blog,blo,36329,NOUN,pobj,False,1
+supply,supply,supply,312986,VERB,conj,False,0
+the,the,the,320691,DET,det,True,0
+camera,camera,camera,45675,NOUN,dobj,False,1

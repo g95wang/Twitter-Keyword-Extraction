@@ -1,0 +1,16 @@
+Adam,Adam,adam,3414,PROPN,compound,False,1
+Lambert,Lambert,lambert,167589,PROPN,pobj,False,1
+or,or,or,213904,CCONJ,cc,True,1
+Lady,Lady,lady,167178,PROPN,compound,False,1
+Gaga,Gaga,gaga,120945,PROPN,conj,False,1
+who,who,who,365278,PRON,nsubj,True,0
+has,have,have,134390,AUX,ROOT,True,1
+the,the,the,320691,DET,det,True,0
+best,good,good,127869,ADJ,amod,False,0
+fans,fan,fan,109645,NOUN,dobj,False,1
+POLL,POLL,poll,242656,PROPN,ROOT,False,0
+Zoiks,Zoiks,oiks,211817,PROPN,appos,False,0
+Online,online,online,212850,ADJ,compound,False,1
+An,an,an,11448,DET,nsubj,True,0
+entertainingly,entertainingly,entertainingly,101365,ADV,advmod,False,0
+hum,hum,hum,144839,NOUN,ROOT,False,0

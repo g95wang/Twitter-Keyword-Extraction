@@ -1,0 +1,14 @@
+Check,check,check,53311,VERB,ROOT,False,0
+out,out,out,216108,ADP,prt,True,0
+Cooking,Cooking,cooking,68238,PROPN,xcomp,False,1
+How,how,how,144540,ADV,advmod,True,0
+To,to,to,324862,ADP,ROOT,True,0
+Homemade,Homemade,homemade,142803,PROPN,compound,False,1
+Frisco,Frisco,frisco,119102,PROPN,compound,False,1
+Melts,Melts,melts,183103,PROPN,ROOT,False,1
+on,on,on,212644,ADP,prep,True,0
+Tales,tale,tale,315574,NOUN,pobj,False,0
+of,of,of,211535,ADP,prep,True,0
+a,a,a,0,DET,det,True,1
+midwestern,midwestern,midwestern,186854,ADJ,amod,False,1
+Housewife,Housewife,housewife,144488,PROPN,pobj,False,1

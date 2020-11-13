@@ -3,7 +3,7 @@
 ## Introduction
 
 ## Contributors
-This project is developed by [Yiran Cao](https://github.com/yiran0427) (HTML/CSS), [Guanzhao Wang](https://github.com/g95wang), and [Haochen Wu](https://github.com/JasonWu1103).
+This project is developed by [Yiran Cao](https://github.com/yiran0427), [Guanzhao Wang](https://github.com/g95wang), and [Haochen Wu](https://github.com/JasonWu1103).
 
 ## License
 

@@ -1,0 +1,14 @@
+But,but,but,43550,CCONJ,cc,True,0
+of,of,of,211535,ADP,prep,True,0
+course,course,course,71315,NOUN,pobj,False,0
+fat,fat,fat,110227,ADJ,amod,False,1
+ass,ass,ass,21558,NOUN,nsubj,False,1
+wants,want,want,362465,VERB,ROOT,False,0
+treats,treat,treat,328716,NOUN,dobj,False,1
+so,so,so,295959,ADV,advmod,True,0
+either,either,either,96575,DET,det,True,0
+way,way,way,361946,NOUN,npadvmod,False,0
+had,have,have,134390,AUX,relcl,True,0
+to,to,to,324862,PART,aux,True,0
+get,get,get,124419,AUX,xcomp,True,0
+up,up,up,354457,ADP,prt,True,0

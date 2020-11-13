@@ -1,0 +1,13 @@
+Thompson,Thompson,thompson,322312,PROPN,nsubj,False,1
+Says,say,say,276740,VERB,ROOT,False,0
+PayPal,PayPal,papal,225108,PROPN,poss,False,1
+'s,'s,s,275971,PART,case,True,1
+Growth,Growth,growth,130440,PROPN,nsubj,False,1
+Outside,outside,outside,217444,ADP,prep,False,0
+U.S.,U.S.,us,355940,PROPN,pobj,False,0
+Is,be,be,29345,AUX,ccomp,True,0
+Enormous,Enormous,enormous,100821,PROPN,acomp,False,1
+Video,video,video,359514,NOUN,ROOT,False,0
+Oct,Oct,oct,210910,PROPN,appos,False,0
+Bloomberg,Bloomberg,bloomer,36514,PROPN,ROOT,False,0
+Scott,Scott,scott,281400,PROPN,appos,False,0

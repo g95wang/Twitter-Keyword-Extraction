@@ -1,0 +1,14 @@
+Think,think,think,321897,VERB,ROOT,False,0
+Sexy,Sexy,sexy,286852,PROPN,dobj,False,1
+as,as,as,20837,SCONJ,prep,True,0
+shit,shit,shit,288544,NOUN,pobj,False,1
+got,got,got,128258,VERB,ROOT,False,0
+ta,to,to,324862,PART,aux,False,1
+know,know,know,165702,VERB,xcomp,False,0
+'m,be,be,29345,AUX,aux,True,0
+talking,talk,talk,315639,VERB,ROOT,False,1
+about,about,about,756,ADP,prep,True,0
+YOU,you,you,157723,PRON,pobj,True,0
+know,know,know,165702,VERB,parataxis,False,0
+lls,lls,alls,9031,NOUN,ROOT,False,0
+thanks,thank,thank,320604,NOUN,npadvmod,False,0

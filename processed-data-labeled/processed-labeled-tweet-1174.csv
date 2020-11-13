@@ -1,0 +1,13 @@
+Restaurant,restaurant,restaurant,269880,NOUN,compound,False,1
+deal,deal,deal,77534,NOUN,ROOT,False,1
+Wah,wah,wah,361926,NOUN,compound,False,1
+Sing,sing,sing,291662,VERB,acl,False,1
+Chinese,Chinese,chinese,54595,PROPN,compound,False,1
+Restaurant,Restaurant,restaurant,269880,PROPN,dobj,False,1
+Gift,Gift,gift,124755,PROPN,compound,False,1
+Certificate,Certificate,certificate,51577,PROPN,appos,False,1
+Price,price,price,250334,NOUN,appos,False,0
+With,with,with,366582,ADP,prep,True,0
+Promo,Promo,promo,252297,PROPN,nmod,False,1
+Code,Code,code,61687,PROPN,nmod,False,1
+TREAT,TREAT,treat,328716,PROPN,pobj,False,0

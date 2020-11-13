@@ -1,0 +1,15 @@
+Senate,Senate,senate,285211,PROPN,compound,False,1
+ArtsGrades,ArtsGrades,aggrades,6086,PROPN,nsubj,False,1
+are,be,be,29345,AUX,ROOT,True,0
+in,in,in,149313,ADV,advmod,True,0
+See,see,see,283054,INTJ,ROOT,True,0
+who,who,who,365278,PRON,nsubj,True,0
+passed,pass,pass,227250,VERB,ccomp,False,1
+and,and,and,12285,CCONJ,cc,True,0
+who,who,who,365278,PRON,nsubj,True,0
+made,make,make,178090,VERB,conj,True,0
+the,the,the,320691,DET,det,True,0
+Dirty,Dirty,dirty,86852,PROPN,compound,False,1
+Dozen,Dozen,dozen,92402,PROPN,dobj,False,1
+arts,art,art,20445,NOUN,ROOT,False,0
+via,via,via,359224,ADP,prep,True,0

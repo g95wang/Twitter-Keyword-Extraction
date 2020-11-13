@@ -1,0 +1,16 @@
+U,u,u,333554,NOUN,nsubj,False,0
+needed,need,need,197910,VERB,ROOT,False,1
+direction,direction,direction,86766,NOUN,dobj,False,1
+And,and,and,12285,CCONJ,cc,True,0
+do,do,do,90528,AUX,aux,True,0
+n't,not,not,208798,PART,neg,True,0
+see,see,see,283054,VERB,ROOT,True,0
+that,that,that,320639,ADV,advmod,True,0
+much,much,much,194510,ADV,ccomp,True,0
+anyway,anyway,anyway,13378,INTJ,advmod,True,0
+so,so,so,295959,ADV,advmod,True,0
+HushIt,HushIt,husht,145347,PROPN,ROOT,False,0
+ha,ha,ha,131713,INTJ,intj,False,0
+guess,guess,guess,130940,VERB,ROOT,False,0
+sister,sister,sister,292572,NOUN,dobj,False,0
+guess,guess,guess,130940,VERB,parataxis,False,0

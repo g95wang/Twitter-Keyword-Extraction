@@ -1,0 +1,15 @@
+Costume,Costume,costume,70238,PROPN,ROOT,False,1
+ready,ready,ready,261587,ADJ,acomp,False,1
+Where,where,where,364654,ADV,advmod,True,0
+to,to,to,324862,PART,aux,True,0
+go,go,go,127161,VERB,ROOT,True,0
+for,for,for,116301,ADP,prep,True,0
+Halloween,Halloween,halloween,132756,PROPN,pobj,False,1
+on,on,on,212644,ADP,prep,True,0
+fri,fri,frib,118890,NOUN,pobj,False,0
+and,and,and,12285,CCONJ,cc,True,0
+sat,sit,sit,292603,VERB,conj,False,0
+Thinking,think,think,321897,VERB,ROOT,False,0
+pyramid,pyramid,pyramid,237563,NOUN,dobj,False,1
+on,on,on,212644,ADP,prep,True,0
+sat,sat,sat,278641,PROPN,pobj,False,0

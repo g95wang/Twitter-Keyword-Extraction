@@ -1,0 +1,17 @@
+Q,q,q,257395,NOUN,ROOT,False,0
+So,so,so,295959,CCONJ,advmod,True,0
+if,if,if,146980,SCONJ,mark,True,0
+may,may,may,177739,VERB,aux,True,0
+ask,ask,ask,21294,VERB,advcl,False,1
+how,how,how,144540,ADV,advmod,True,0
+would,would,would,367745,VERB,aux,True,0
+meet,meet,meet,182300,VERB,ROOT,False,1
+A,a,a,0,DET,ROOT,True,0
+Lol,Lol,lola,174784,PROPN,appos,False,0
+have,have,have,134390,AUX,ROOT,True,0
+no,no,no,200529,DET,det,True,1
+clue,clue,clue,60674,NOUN,dobj,False,1
+and,and,and,12285,CCONJ,cc,True,0
+yes,yes,yes,146918,INTJ,intj,False,0
+would,would,would,367745,VERB,ROOT,True,0
+i,i,i,145455,PRON,npadvmod,True,0

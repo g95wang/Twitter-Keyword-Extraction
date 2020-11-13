@@ -1,0 +1,10 @@
+do,do,do,90528,AUX,aux,True,0
+n't,not,not,208798,PART,neg,True,0
+dislike,dislike,dislike,88572,VERB,ROOT,False,0
+Frank,Frank,frank,118363,PROPN,poss,False,1
+'s,'s,s,275971,PART,case,True,1
+Superman,Superman,superman,312215,PROPN,dobj,False,1
+'m,be,be,29345,AUX,ROOT,True,0
+just,just,just,162503,ADV,advmod,True,0
+tired,tired,tired,324484,ADJ,acomp,False,1
+of,of,of,211535,ADP,prep,True,0

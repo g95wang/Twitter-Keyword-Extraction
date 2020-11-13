@@ -1,0 +1,12 @@
+Did,do,do,90528,AUX,aux,True,0
+Barack,Barack,barrack,28271,PROPN,compound,False,1
+Obama,Obama,abama,81,PROPN,compound,False,1
+signal,signal,signal,290085,NOUN,ROOT,False,1
+that,that,that,320639,SCONJ,mark,True,0
+will,will,will,365768,VERB,aux,True,0
+change,change,change,52470,VERB,ccomp,False,1
+stance,stance,stance,302635,NOUN,dobj,False,0
+on,on,on,212644,ADP,prep,True,0
+marriage,marriage,marriage,180340,NOUN,compound,False,1
+equality,equality,equality,103166,NOUN,pobj,False,1
+via,via,via,359224,ADP,ROOT,True,0

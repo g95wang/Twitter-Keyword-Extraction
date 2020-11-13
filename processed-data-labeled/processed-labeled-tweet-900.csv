@@ -1,0 +1,11 @@
+Let,let,let,170875,VERB,ROOT,False,0
+find,find,find,112884,VERB,ccomp,False,1
+out,out,out,216108,ADP,prt,True,0
+shannon,shannon,shannon,287421,PROPN,compound,False,1
+brown,brown,brown,41632,PROPN,nsubj,False,1
+been,be,be,29345,VERB,aux,True,0
+working,work,work,367468,VERB,ccomp,False,1
+on,on,on,212644,ADP,prep,True,1
+jumpshot,jumpshot,upshot,355021,NOUN,compound,False,1
+lmfao,lmfao,lao,168251,NOUN,compound,False,0
+TheLakeShow,TheLakeShow,lakeshore,167495,PROPN,pobj,False,1

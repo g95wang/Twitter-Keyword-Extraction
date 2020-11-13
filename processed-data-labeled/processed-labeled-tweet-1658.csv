@@ -1,0 +1,6 @@
+'m,be,be,29345,AUX,ROOT,True,1
+sure,sure,sure,313361,ADJ,acomp,False,0
+Primo,Primo,primo,250561,PROPN,nsubj,False,1
+is,be,be,29345,AUX,ccomp,True,0
+very,very,very,358514,ADV,advmod,True,0
+motivational,motivational,motivational,193999,ADJ,acomp,False,1
