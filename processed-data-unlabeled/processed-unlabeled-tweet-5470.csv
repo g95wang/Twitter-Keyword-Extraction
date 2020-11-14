@@ -1,0 +1,15 @@
+Workshop,Workshop,workshop,367546,PROPN,compound,False
+Concept,Concept,concept,65148,PROPN,compound,False
+illustration,illustration,illustration,147527,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+Kony,Kony,kon,165977,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+workshop,workshop,workshop,367546,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+the,the,the,320691,DET,det,True
+doorframe,doorframe,doorframe,91545,NOUN,compound,False
+view,view,view,359574,NOUN,compound,False
+art,art,art,20445,NOUN,compound,False
+conceptart,conceptart,concept,65148,NOUN,pobj,False
+originalcharacter,originalcharacter,uncharacter,336739,VERB,appos,False
+illustrationa,illustrationa,illustrational,147528,NOUN,ROOT,False

@@ -1,0 +1,14 @@
+Chicken,Chicken,chicken,54145,PROPN,compound,False
+Rice,Rice,rice,272503,PROPN,compound,False
+Grand,Grand,grand,128791,PROPN,compound,False
+parents,parent,parent,226369,NOUN,ROOT,False
+The,the,the,320691,DET,det,True
+Gene(followed,gene(followed,unfollowed,342475,NOUN,ROOT,False
+by,by,by,33133,ADP,prep,True
+biriyani,biriyani,biriani,34822,PROPN,pobj,False
+which,which,which,364730,DET,nsubj,True
+has,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,relcl,True
+there,there,there,321216,ADV,advmod,True
+for,for,for,116301,ADP,prep,True
+Always,always,always,9710,ADV,ROOT,True

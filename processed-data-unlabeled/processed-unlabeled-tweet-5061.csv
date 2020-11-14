@@ -1,0 +1,8 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+why,why,why,364728,ADV,advmod,True
+Love,Love,love,175534,PROPN,nsubj,False
+is,be,be,29345,AUX,advcl,True
+superior,superior,superior,312150,ADJ,acomp,False
+to,to,to,324862,ADP,prep,True
+Beck,Beck,beck,29818,PROPN,pobj,False

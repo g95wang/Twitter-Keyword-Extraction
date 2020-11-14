@@ -1,0 +1,7 @@
+Great,Great,great,129442,PROPN,compound,False
+Book,Book,book,38039,PROPN,ROOT,False
+Make,make,make,178090,VERB,ROOT,True
+Charlie,Charlie,charlie,52891,PROPN,compound,False
+Number,Number,number,209515,PROPN,ccomp,False
+One,One,one,212715,PROPN,nummod,True
+Again,again,again,5827,ADV,advmod,True

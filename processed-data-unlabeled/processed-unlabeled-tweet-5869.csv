@@ -1,0 +1,10 @@
+take,take,take,315491,VERB,ROOT,True
+the,the,the,320691,DET,det,True
+bleach,bleach,bleach,35938,NOUN,nsubj,False
+bottle,bottle,bottle,38797,VERB,ccomp,False
+out,out,out,216108,ADP,prt,True
+causes,cause,cause,50043,VERB,dep,False
+brain,brain,brain,39724,NOUN,compound,False
+damage,damage,damage,76498,NOUN,dobj,False
+too,too,too,325685,ADV,advmod,True
+late,late,late,168810,ADV,advmod,False

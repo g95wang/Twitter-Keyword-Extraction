@@ -1,0 +1,10 @@
+VIDEO,video,video,359514,NOUN,ROOT,False
+The,the,the,320691,DET,det,True
+rise,rise,rise,273227,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+robots,robot,robot,273593,NOUN,pobj,False
+robots,robot,robot,273593,VERB,ROOT,False
+ArtificialIntelligence,ArtificialIntelligence,artificialities,20722,PROPN,appos,False
+AI,AI,ai,6683,PROPN,compound,False
+work,work,work,367468,NOUN,ROOT,False

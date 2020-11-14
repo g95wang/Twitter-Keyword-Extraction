@@ -1,0 +1,17 @@
+THE,the,the,320691,DET,ROOT,True
+BIG,big,big,33680,ADJ,ROOT,False
+OF,of,of,211535,ADP,ROOT,True
+BL,BL,bl,35415,PROPN,ROOT,False
+SERIES,SERIES,series,286094,PROPN,ROOT,False
+OMG,OMG,mg,185606,PROPN,ROOT,False
+THE,the,the,320691,DET,det,True
+LAST,last,last,168771,NOUN,compound,True
+PART,PART,part,226929,PROPN,ROOT,True
+I'M,i'm,im,147566,ADJ,dep,False
+SOFT,SOFT,soft,296340,NOUN,ROOT,False
+WITH,with,with,366582,ADP,prep,True
+'S,'s,s,275971,ADJ,pcomp,True
+WINK,WINK,wink,366176,NOUN,pobj,False
+OMG,omg,mg,185606,INTJ,ROOT,False
+GlobalLiveFM,GlobalLiveFM,globalism,126456,NOUN,compound,False
+GMMTV,gmmtv,gemmative,123335,VERB,ROOT,False

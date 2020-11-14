@@ -1,0 +1,15 @@
+hit,hit,hit,141950,VERB,ROOT,False
+car,car,car,47250,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+a,a,a,0,DET,det,True
+skateboard,skateboard,skateboard,292833,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+yelled,yell,yell,146787,VERB,conj,False
+Eff,Eff,eff,95934,PROPN,pobj,False
+the,the,the,320691,DET,det,True
+Police,Police,police,241679,PROPN,appos,False
+Instant,Instant,instant,153848,PROPN,compound,False
+Karma,Karma,karma,163238,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+bitch,bitch,bitch,35166,NOUN,attr,False

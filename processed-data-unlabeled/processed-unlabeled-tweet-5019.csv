@@ -1,0 +1,15 @@
+am,be,be,29345,AUX,aux,True
+always,always,always,9710,ADV,advmod,True
+going,go,go,127161,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+support,support,support,313022,VERB,xcomp,False
+No,no,no,200529,ADV,neg,True
+matter,matter,matter,181309,ADV,ROOT,False
+what,what,what,364447,PRON,dep,True
+understand,understand,understand,339888,VERB,ccomp,False
+wo,will,will,365768,VERB,aux,False
+nt,not,not,208798,PART,neg,False
+lose,lose,lose,175338,VERB,ROOT,False
+ever,ever,ever,106143,ADV,advmod,True
+lt;3,lt;3,lt,175722,PROPN,dep,False
+IAmWithSana,IAmWithSana,withania,366586,PROPN,ROOT,False

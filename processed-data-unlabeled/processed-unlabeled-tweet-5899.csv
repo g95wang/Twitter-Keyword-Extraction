@@ -1,0 +1,12 @@
+CrriansSacrificeExams,crrianssacrificeexam,resacrifice,268993,VERB,ROOT,False
+CancelAPExamsPromoteStudents,CancelAPExamsPromoteStudents,cancelment,46093,PROPN,nsubj,False
+Requesting,request,request,268851,VERB,ROOT,False
+all,all,all,8522,DET,det,True
+students,student,student,306785,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+participate,participate,participate,227015,VERB,xcomp,False
+in,in,in,149313,ADP,prep,True
+this,this,this,322217,DET,det,True
+trend,trend,trend,328944,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+polite,polite,polite,242501,ADJ,pobj,False

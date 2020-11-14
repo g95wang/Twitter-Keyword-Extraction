@@ -1,0 +1,14 @@
+have,have,have,134390,AUX,aux,True
+however,however,however,144555,ADV,advmod,True
+increased,increase,increase,150431,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+amount,amount,amount,10974,NOUN,dobj,True
+of,of,of,211535,ADP,prep,True
+drugs,drug,drug,93497,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+weapons,weapon,weapon,363523,NOUN,conj,False
+that,that,that,320639,DET,nsubj,True
+get,get,get,124419,VERB,relcl,True
+into,into,into,156343,ADP,prep,True
+the,the,the,320691,DET,det,True
+co,co,co,60794,NOUN,pobj,False

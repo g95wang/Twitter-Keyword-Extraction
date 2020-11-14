@@ -1,0 +1,15 @@
+Amanda,Amanda,amanda,9778,PROPN,nsubj,False
+go,go,go,127161,VERB,ROOT,True
+outside,outside,outside,217444,ADV,advmod,False
+and,and,and,12285,CCONJ,cc,True
+Bend,bend,bend,31487,VERB,conj,False
+the,the,the,320691,DET,det,True
+knee,knee,knee,165484,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+the,the,the,320691,DET,det,True
+first,first,first,113286,ADJ,amod,True
+black,black,black,35431,ADJ,amod,False
+man,man,man,178862,NOUN,pobj,False
+see,see,see,283054,VERB,relcl,True
+bend,bend,bend,31487,VERB,compound,False
+ova,ova,ova,217995,PROPN,npadvmod,False

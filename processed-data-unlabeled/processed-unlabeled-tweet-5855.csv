@@ -1,0 +1,6 @@
+Dinosaurs,dinosaur,dinosaur,86204,NOUN,nsubj,False
+left,leave,leave,169747,VERB,ccomp,False
+earth,earth,earth,94806,NOUN,dobj,False
+Are,be,be,29345,AUX,ROOT,True
+next,next,next,199504,ADV,advmod,True
+via,via,via,359224,ADP,ROOT,True

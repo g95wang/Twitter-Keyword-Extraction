@@ -1,0 +1,13 @@
+Happy,happy,happy,133513,ADJ,amod,False
+birthday,birthday,birthday,34904,NOUN,npadvmod,False
+brother,brother,brother,41578,NOUN,nsubj,False
+have,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+great,great,great,129442,ADJ,amod,False
+one,one,one,212715,NOUN,dobj,True
+Wishing,wish,wish,366457,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+very,very,very,358514,ADV,advmod,True
+best,good,good,127869,ADJ,advmod,False
+always,always,always,9710,ADV,advmod,True
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,pobj,False

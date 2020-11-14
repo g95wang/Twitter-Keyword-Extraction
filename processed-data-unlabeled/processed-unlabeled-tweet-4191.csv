@@ -1,0 +1,11 @@
+This,this,this,322217,DET,nsubj,True
+was,be,be,29345,AUX,ROOT,True
+Harry,Harry,harry,133956,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+best,good,good,127869,ADJ,amod,False
+look,look,look,175060,NOUN,attr,False
+no,no,no,200529,INTJ,intj,True
+wo,will,will,365768,VERB,aux,False
+nt,not,not,208798,PART,neg,False
+take,take,take,315491,VERB,ROOT,True
+criticism,criticism,criticism,73491,NOUN,dobj,False

@@ -1,0 +1,14 @@
+Sooooo,Sooooo,soosoo,297355,PROPN,nsubj,False
+calling,call,call,45246,VERB,acl,False
+LOOTING,loot,loot,175134,VERB,compound,False
+CRIMINAL,CRIMINAL,criminal,72949,PROPN,compound,False
+THUGS,THUGS,thugs,322935,PROPN,dobj,False
+looting,loot,loot,175134,VERB,csubj,False
+criminal,criminal,criminal,72949,ADJ,amod,False
+thugs,thug,thug,322923,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+OK,ok,ok,211942,ADJ,acomp,False
+with,with,with,366582,ADP,prep,True
+MSM,MSM,mm,190861,PROPN,pobj,False
+Buutttttt,Buutttttt,butt,43653,PROPN,compound,False
+sp,sp,sp,298139,PROPN,ROOT,False

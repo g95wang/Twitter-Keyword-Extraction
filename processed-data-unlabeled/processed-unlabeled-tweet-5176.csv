@@ -1,0 +1,10 @@
+start,start,start,302958,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,auxpass,True
+detached,detach,detach,83051,VERB,xcomp,False
+when,when,when,364637,ADV,advmod,True
+feel,feel,feel,110884,VERB,advcl,False
+like,like,like,172172,SCONJ,prep,False
+m,be,be,29345,VERB,dep,False
+getting,get,get,124419,VERB,dep,False
+attached,attach,attach,22920,VERB,ROOT,False

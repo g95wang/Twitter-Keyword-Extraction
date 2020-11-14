@@ -1,0 +1,13 @@
+Sean,Sean,sean,282519,PROPN,compound,False
+Monterrosa,Monterrosa,monteros,192896,PROPN,nsubjpass,False
+was,be,be,29345,AUX,auxpass,True
+killed,kill,kill,164577,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+an,an,an,11448,DET,det,True
+Vallejo,Vallejo,valley,356767,PROPN,compound,False
+PD,PD,pd,228312,PROPN,compound,False
+Officer,Officer,officer,211608,PROPN,pobj,False
+While,while,while,364797,SCONJ,mark,True
+on,on,on,212644,ADP,ROOT,True
+knees,knee,knee,165484,NOUN,pobj,False
+demand,demand,demand,80349,VERB,ROOT,False

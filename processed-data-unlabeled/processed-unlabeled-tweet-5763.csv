@@ -1,0 +1,11 @@
+Tnq,Tnq,tn,324858,PROPN,compound,False
+ts,ts,ts,331747,NOUN,compound,False
+students,student,student,306785,NOUN,npadvmod,False
+will,will,will,365768,VERB,ROOT,True
+there,there,there,321216,ADV,advmod,True
+for,for,for,116301,ADP,prep,True
+u,u,u,333554,PRON,nmod,False
+any,any,any,13086,DET,det,True
+help,help,help,135801,NOUN,pobj,False
+CancelAPExamsPromoteStudents,cancelapexamspromotestudent,cancelment,46093,NOUN,ROOT,False
+SaveapStudents,saveapstudent,student,306785,NOUN,ROOT,False

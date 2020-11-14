@@ -1,0 +1,14 @@
+Deep,deep,deep,78985,ADV,advmod,False
+down,down,down,92197,ADV,ROOT,True
+There,there,there,321216,PRON,expl,True
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+nonchalant,nonchalant,nonchalant,201885,ADJ,amod,False
+dude,dude,dude,93816,NOUN,attr,False
+that,that,that,320639,DET,nsubj,True
+cares,care,care,47901,VERB,relcl,False
+about,about,about,756,ADP,prep,True
+nothing,nothing,nothing,208898,PRON,pobj,True
+in,in,in,149313,ADP,prep,True
+this,this,this,322217,DET,det,True
+world,world,world,367566,NOUN,pobj,False

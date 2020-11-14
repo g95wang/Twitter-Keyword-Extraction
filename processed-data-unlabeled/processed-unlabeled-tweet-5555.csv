@@ -1,0 +1,9 @@
+FCI,fci,foci,115678,VERB,nmod,False
+compassionate,compassionate,compassionate,64449,ADJ,amod,False
+appointment,appointment,appointment,17851,NOUN,compound,False
+north,north,north,208605,NOUN,compound,False
+zone,zone,zone,369696,NOUN,compound,False
+FCI,FCI,foci,115678,PROPN,compound,False
+compassionate,compassionate,compassionate,64449,ADJ,compound,False
+appointment,appointment,appointment,17851,NOUN,ROOT,False
+north,north,north,208605,NOUN,advmod,False

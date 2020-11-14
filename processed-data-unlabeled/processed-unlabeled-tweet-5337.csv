@@ -1,0 +1,14 @@
+RECORD,record,record,263489,NOUN,nsubj,False
+ALERT,alert,alert,7892,VERB,ROOT,False
+Tag,tag,tag,315231,NOUN,dobj,False
+SuriyaBdayFestin50Days,suriyabdayfestin50day,suprabasidorsal,313110,NOUN,nsubj,False
+Becomes,become,become,29882,VERB,ROOT,True
+The,the,the,320691,DET,det,True
+MOST,MOST,most,193889,ADJ,amod,True
+TWEETED,tweet,tweet,333246,VERB,compound,False
+BIRTHDAY,birthday,birthday,34904,NOUN,attr,False
+COUNTDOWN,COUNTDOWN,countdown,70601,PROPN,compound,False
+TAG,TAG,tag,315231,PROPN,appos,False
+In,in,in,149313,ADP,ROOT,True
+Kollywood,Kollywood,hollywood,142499,PROPN,compound,False
+History,history,history,141866,NOUN,pobj,False

@@ -1,0 +1,17 @@
+YOUNGSTER,youngster,youngster,157744,NOUN,ROOT,False
+FOR,for,for,116301,ADP,prep,True
+PRIME,PRIME,prime,250501,PROPN,amod,False
+MINISTER,MINISTER,minister,187927,PROPN,pobj,False
+ILL,ILL,ill,147293,PROPN,compound,False
+TAKE,take,take,315491,NOUN,nsubj,True
+CARE,care,care,47901,NOUN,ROOT,False
+OF,of,of,211535,ADP,prep,True
+EVERYBODY,EVERYBODY,everybody,106159,PROPN,pobj,False
+FREE,free,free,118571,ADJ,amod,False
+FOOD,food,food,116078,NOUN,npadvmod,False
+FREE,free,free,118571,ADJ,amod,False
+HOUSES,house,house,144380,NOUN,nsubj,False
+FREE,free,free,118571,ADJ,ROOT,False
+EVERYTHING,everything,everything,106171,NOUN,dobj,True
+JUST,just,just,162503,ADV,advmod,True
+LO,LO,lo,174065,PROPN,npadvmod,False

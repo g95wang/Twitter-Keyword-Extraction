@@ -1,0 +1,8 @@
+EDITION,EDITION,edition,95779,PROPN,ROOT,False
+PRE,PRE,pre,245405,PROPN,dep,False
+ORDER,ORDER,order,214218,PROPN,nsubj,False
+STARTS,start,start,302958,VERB,ROOT,False
+TUE,tue,tue,332135,VERB,nmod,False
+GOT7,got7,got,128258,VERB,compound,False
+IGOT7,igot7,bigot,33775,VERB,ROOT,False
+GOT7_7EDITION,GOT7_7EDITION,edition,95779,VERB,ROOT,False

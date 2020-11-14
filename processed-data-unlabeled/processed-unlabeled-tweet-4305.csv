@@ -1,0 +1,15 @@
+How,how,how,144540,ADV,advmod,True
+d,d,d,75936,NOUN,dep,False
+manage,manage,manage,178873,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+have,have,have,134390,AUX,xcomp,True
+back,back,back,25705,ADV,advmod,True
+to,to,to,324862,ADP,aux,True
+back,back,back,25705,NOUN,advmod,True
+to,to,to,324862,ADP,prep,True
+back,back,back,25705,NOUN,pobj,True
+nightmares,nightmare,nightmare,199956,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+hour,hour,hour,144367,NOUN,compound,False
+nap,nap,nap,196808,NOUN,pobj,False

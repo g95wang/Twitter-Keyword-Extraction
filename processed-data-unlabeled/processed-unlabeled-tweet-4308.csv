@@ -1,0 +1,17 @@
+Part,part,part,226929,NOUN,npadvmod,True
+accept,accept,accept,1468,VERB,ROOT,False
+proposal,proposal,proposal,252788,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,conj,True
+a,a,a,0,DET,det,True
+lifetime,lifetime,lifetime,171940,NOUN,attr,False
+together,together,together,325095,ADV,advmod,True
+Penguins,penguin,penguin,229635,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+animals,animal,animal,13153,NOUN,pobj,False
+that,that,that,320639,DET,nsubj,True
+are,be,be,29345,AUX,relcl,True
+monogamous,monogamous,monogamous,192302,ADJ,acomp,False

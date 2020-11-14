@@ -1,0 +1,7 @@
+Customer,customer,customer,75712,NOUN,compound,False
+Delivery,delivery,delivery,80192,NOUN,compound,False
+Driver,driver,driver,93202,NOUN,nsubj,False
+More,More,more,193383,ADJ,amod,True
+info,info,info,152193,NOUN,ROOT,False
+PeterboroughJobs,PeterboroughJobs,interborough,154518,PROPN,appos,False
+DrivingJobs,DrivingJobs,driving,93211,PROPN,ROOT,False

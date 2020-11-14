@@ -1,0 +1,16 @@
+tested,test,test,319741,VERB,ROOT,False
+positive,positive,positive,243805,ADJ,amod,False
+April,April,april,18068,PROPN,compound,False
+rd,rd,rd,261390,PROPN,dobj,False
+BITCH,bitch,bitch,35166,NOUN,npadvmod,False
+died,die,die,85120,VERB,ROOT,False
+May,May,may,177739,PROPN,npadvmod,True
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+relevant,relevant,relevant,266858,ADJ,amod,False
+AT,AT,at,22372,PROPN,compound,True
+ALL,all,all,8522,DET,attr,True
+Go,go,go,127161,VERB,ROOT,True
+to,to,to,324862,ADP,prep,True
+hell,hell,hell,135648,NOUN,pobj,False

@@ -1,0 +1,5 @@
+Family,Family,family,109591,PROPN,compound,False
+stocks,stock,stock,304901,NOUN,ROOT,False
+Rt,Rt,rt,275072,PROPN,dobj,False
+for,for,for,116301,ADP,prep,True
+Rt,Rt,rt,275072,PROPN,pobj,False

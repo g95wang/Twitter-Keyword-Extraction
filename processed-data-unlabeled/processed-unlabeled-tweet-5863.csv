@@ -1,0 +1,16 @@
+Daddies,daddy,daddy,76097,NOUN,nsubj,False
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+just,just,just,162503,ADV,advmod,True
+love,love,love,175534,VERB,ROOT,False
+children,child,child,54285,NOUN,dobj,False
+every,every,every,106158,ADV,advmod,True
+now,now,now,209199,ADV,advmod,True
+and,and,and,12285,CCONJ,cc,True
+then,then,then,320906,ADV,conj,True
+'s,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+love,love,love,175534,NOUN,attr,False
+without,without,without,366665,ADP,prep,True
+end,end,end,99559,NOUN,pobj,False
+AlwaysW,alwaysw,always,9710,NOUN,ROOT,False

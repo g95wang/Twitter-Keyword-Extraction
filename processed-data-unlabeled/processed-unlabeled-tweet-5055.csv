@@ -1,0 +1,16 @@
+PLEASE,PLEASE,please,239622,PROPN,nmod,True
+DEAR,DEAR,dear,77603,PROPN,nmod,False
+CJ,CJ,cuj,74687,PROPN,compound,False
+ENM,ENM,enam,99019,PROPN,nsubj,False
+AND,and,and,12285,CCONJ,cc,True
+THE,the,the,320691,DET,det,True
+AGENCIES,agency,agency,5992,NOUN,conj,False
+DROP,drop,drop,93338,NOUN,ROOT,False
+SOMETHING,something,something,297061,NOUN,dobj,True
+PLEASE,PLEASE,please,239622,PROPN,ROOT,True
+GOOD,GOOD,good,127869,PROPN,compound,False
+NEWS,NEWS,news,199421,PROPN,ROOT,False
+OT11,OT11,ot,215804,PROPN,compound,False
+RE,RE,re,261391,PROPN,dep,True
+DEBUT,DEBUT,debut,77883,PROPN,nsubj,False
+PLEASE,please,please,239622,NOUN,ROOT,True

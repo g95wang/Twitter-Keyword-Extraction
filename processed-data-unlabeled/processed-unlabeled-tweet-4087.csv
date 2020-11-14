@@ -1,0 +1,13 @@
+no,no,no,200529,DET,det,True
+more,more,more,193383,ADV,advmod,True
+clean,clean,clean,59613,ADJ,amod,False
+linework,linework,linework,172810,NOUN,compound,False
+society,society,society,296137,NOUN,nsubj,False
+has,have,have,134390,AUX,aux,True
+progressed,progress,progress,251932,VERB,ROOT,False
+past,past,past,227394,ADP,prep,False
+the,the,the,320691,DET,det,True
+need,need,need,197910,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+clean,clean,clean,59613,ADJ,amod,False
+linework,linework,linework,172810,NOUN,pobj,False

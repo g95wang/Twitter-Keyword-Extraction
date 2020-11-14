@@ -1,0 +1,8 @@
+other,other,other,215836,ADJ,amod,True
+artist,artist,artist,20750,NOUN,ROOT,False
+MR,MR,mr,194474,PROPN,nsubj,False
+removed,remove,remove,267487,VERB,ROOT,False
+TOP,TOP,top,325810,PROPN,dobj,True
+MR,MR,mr,194474,PROPN,compound,False
+too,too,too,325685,ADV,advmod,True
+slow,slow,slow,294448,ADJ,ROOT,False

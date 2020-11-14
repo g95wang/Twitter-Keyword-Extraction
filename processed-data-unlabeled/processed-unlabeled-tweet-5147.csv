@@ -1,0 +1,8 @@
+Reminder,reminder,reminder,267298,NOUN,ROOT,False
+next,next,next,199504,ADJ,amod,True
+meeting,meeting,meeting,182309,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+this,this,this,322217,DET,det,True
+Wednesday,Wednesday,wednesday,363732,PROPN,npadvmod,False
+at,at,at,22372,ADP,prep,True
+55am,55am,am,9714,NOUN,pobj,False

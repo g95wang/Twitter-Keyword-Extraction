@@ -1,0 +1,13 @@
+Tag,tag,tag,315231,NOUN,nsubj,False
+someone,someone,someone,297038,PRON,dobj,True
+wish,wish,wish,366457,VERB,relcl,False
+was,be,be,29345,AUX,ROOT,True
+friend,friend,friend,118947,NOUN,attr,False
+Lets,let,let,170875,NOUN,nsubj,False
+make,make,make,178090,VERB,ROOT,True
+new,new,new,199367,ADJ,amod,False
+friends,friend,friend,118947,NOUN,dobj,False
+as,as,as,20837,SCONJ,mark,True
+follow,follow,follow,115989,VERB,advcl,False
+each,each,each,94673,DET,det,True
+other,other,other,215836,ADJ,dobj,True

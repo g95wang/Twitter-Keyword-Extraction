@@ -1,0 +1,16 @@
+dad,dad,dad,76084,NOUN,nsubj,False
+Dietrich,Dietrich,dimetric,85886,PROPN,compound,False
+Logan,Logan,logan,174550,PROPN,appos,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+black,black,black,35431,ADJ,amod,False
+architect,architect,architect,19007,NOUN,attr,False
+in,in,in,149313,ADP,prep,True
+Atlanta,Atlanta,atlanta,22651,PROPN,pobj,False
+Logan,Logan,logan,174550,PROPN,compound,False
+Design,Design,design,82572,PROPN,compound,False
+Group,Group,group,130347,PROPN,nsubj,False
+heres,here,here,136991,VERB,ROOT,False
+some,some,some,297029,DET,dobj,True
+of,of,of,211535,ADP,prep,True
+work,work,work,367468,NOUN,pobj,False

@@ -1,0 +1,15 @@
+There,there,there,321216,PRON,expl,True
+'s,be,be,29345,AUX,ROOT,True
+something,something,something,297061,PRON,attr,True
+refreshing,refresh,refresh,265368,VERB,acl,False
+about,about,about,756,ADP,prep,True
+watching,watch,watch,363049,VERB,pcomp,False
+Dane,Dane,dane,76738,PROPN,compound,False
+surf,surf,surf,313382,NOUN,compound,False
+boards,board,board,36931,NOUN,dobj,False
+from,from,from,119298,ADP,prep,True
+shapers,shaper,shaper,287454,NOUN,pobj,False
+'s,be,be,29345,AUX,auxpass,True
+never,never,never,199350,ADV,neg,True
+tested,test,test,319741,VERB,relcl,False
+before,before,before,30510,ADV,advmod,True

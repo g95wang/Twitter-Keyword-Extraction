@@ -1,0 +1,14 @@
+The,the,the,320691,DET,det,True
+new,new,new,199367,ADJ,amod,False
+cluster,cluster,cluster,60734,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+infections,infection,infection,151868,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+China,China,china,54539,PROPN,pobj,False
+shows,show,show,289042,VERB,ROOT,False
+signs,sign,sign,290081,NOUN,dobj,False
+the,the,the,320691,DET,det,True
+coronavirus,coronavirus,coronavirus,69453,NOUN,nsubj,False
+could,could,could,70511,VERB,aux,True
+be,be,be,29345,AUX,aux,True
+changing,change,change,52470,VERB,relcl,False

@@ -1,0 +1,10 @@
+M,M,m,176591,PROPN,compound,False
+Tweets,Tweets,tweets,333251,PROPN,nsubj,False
+Done,Done,done,91408,PROPN,ROOT,True
+Another,another,another,13899,DET,det,True
+K,k,k,162637,NOUN,dobj,False
+Required,require,require,268870,VERB,acl,False
+For,for,for,116301,ADP,prep,True
+M,M,m,176591,PROPN,compound,False
+Milestone,Milestone,milestone,187151,PROPN,compound,False
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,ROOT,False

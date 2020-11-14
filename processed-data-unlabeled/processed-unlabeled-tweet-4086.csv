@@ -1,0 +1,12 @@
+The,the,the,320691,DET,det,True
+face,face,face,108932,NOUN,ROOT,False
+make,make,make,178090,VERB,relcl,True
+when,when,when,364637,ADV,advmod,True
+headphones,headphone,headphone,134673,NOUN,nsubj,False
+are,be,be,29345,AUX,advcl,True
+on,on,on,212644,ADV,advmod,True
+and,and,and,12285,CCONJ,cc,True
+somebody,somebody,somebody,297030,PRON,nsubj,False
+keeps,keep,keep,163579,VERB,ROOT,False
+talking,talk,talk,315639,VERB,xcomp,False
+to,to,to,324862,ADP,prep,True

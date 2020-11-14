@@ -1,0 +1,16 @@
+ve,have,have,134390,VERB,aux,False
+seen,see,see,283054,VERB,ROOT,False
+some,some,some,297029,DET,dobj,True
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+videos,video,video,359514,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+as,as,as,20837,SCONJ,mark,True
+a,a,a,0,DET,det,True
+kid,kid,kid,164450,NOUN,nsubj,False
+loved,love,love,175534,VERB,advcl,False
+watching,watch,watch,363049,VERB,xcomp,False
+team,team,team,317482,NOUN,dobj,False
+constantly,constantly,constantly,67013,ADV,advmod,False
+working,work,work,367468,VERB,advcl,False
+on,on,on,212644,ADP,prep,True

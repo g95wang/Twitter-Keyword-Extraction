@@ -1,0 +1,12 @@
+to,to,to,324862,ADP,prep,True
+anyone,anyone,anyone,13244,PRON,pobj,True
+who,who,who,365278,PRON,nsubj,True
+sees,see,see,283054,VERB,relcl,False
+this,this,this,322217,DET,dobj,True
+please,please,please,239622,INTJ,intj,True
+retweet,retweet,etwee,105245,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+reply,reply,reply,268301,VERB,conj,False
+with,with,with,366582,ADP,prep,True
+NoCPTPP,nocptpp,nocht,200599,NOUN,pobj,False
+CPTPP,CPTPP,cpt,71764,NOUN,ROOT,False

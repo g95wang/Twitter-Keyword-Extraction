@@ -1,0 +1,9 @@
+all,all,all,8522,DET,nsubj,True
+of,of,of,211535,ADP,prep,True
+faves,fave,fauve,110459,NOUN,pobj,False
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+miserable,miserable,miserable,189232,ADJ,acomp,False
+at,at,at,22372,ADP,prep,True
+all,all,all,8522,DET,det,True
+times,time,time,323746,NOUN,pobj,False

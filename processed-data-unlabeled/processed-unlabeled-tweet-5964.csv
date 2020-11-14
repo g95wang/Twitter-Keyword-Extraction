@@ -1,0 +1,9 @@
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+really,really,really,261766,ADV,advmod,True
+how,how,how,144540,ADV,advmod,True
+fast,fast,fast,110179,ADV,acomp,False
+and,and,and,12285,CCONJ,cc,True
+easy,easy,easy,94901,ADJ,conj,False
+is,be,be,29345,AUX,ccomp,True
+too,too,too,325685,ADV,advmod,True

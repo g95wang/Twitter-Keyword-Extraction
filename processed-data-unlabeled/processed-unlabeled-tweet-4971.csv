@@ -1,0 +1,14 @@
+True,true,true,331515,ADJ,compound,False
+abdul,abdul,abdal,239,NOUN,compound,False
+bhai,bhai,bahai,26376,NOUN,dep,False
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,aux,True
+surely,surely,surely,313368,ADV,advmod,False
+happening,happen,happen,133505,VERB,ROOT,False
+True,true,true,331515,ADJ,compound,False
+abdul,abdul,abdal,239,NOUN,compound,False
+bhai,bhai,bahai,26376,NOUN,dep,False
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,aux,True
+surely,surely,surely,313368,ADV,advmod,False
+happening,happen,happen,133505,VERB,ROOT,False

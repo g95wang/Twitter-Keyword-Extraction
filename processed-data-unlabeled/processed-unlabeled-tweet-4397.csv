@@ -1,0 +1,11 @@
+Michael,Michael,michael,185754,PROPN,compound,False
+Rooker,Rooker,rooker,274231,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+that,that,that,320639,DET,det,True
+ride,ride,ride,272642,NOUN,attr,False
+or,or,or,213904,CCONJ,cc,True
+die,die,die,85120,VERB,conj,False
+brother,brother,brother,41578,NOUN,dobj,False
+outside,outside,outside,217444,ADP,prep,False
+the,the,the,320691,DET,det,True
+show,show,show,289042,NOUN,pobj,True

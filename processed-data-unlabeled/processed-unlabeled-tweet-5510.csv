@@ -1,0 +1,15 @@
+Hag,hag,hag,132163,INTJ,compound,False
+fight,fight,fight,112433,VERB,ROOT,False
+Is,be,be,29345,AUX,ROOT,True
+nt,not,not,208798,PART,neg,False
+unfortunate,unfortunate,unfortunate,342612,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+see,see,see,283054,VERB,xcomp,True
+these,these,these,321594,DET,det,True
+eating,eat,eat,94953,VERB,ccomp,False
+each,each,each,94673,DET,det,True
+others,other,other,215836,NOUN,compound,True
+livers,liver,liver,173957,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+breakfast,breakfast,breakfast,40248,NOUN,pobj,False
+NOT,not,not,208798,ADV,ROOT,True

@@ -1,0 +1,17 @@
+album,album,album,7508,PROPN,ROOT,False
+GA,GA,ga,120760,PROPN,appos,False
+of,of,of,211535,ADP,prep,True
+Young,Young,young,157730,PROPN,compound,False
+Forever,Forever,forever,117124,PROPN,compound,False
+Day,Day,day,76257,PROPN,compound,False
+Version,Version,version,358827,PROPN,pobj,False
+with,with,with,366582,ADP,prep,True
+official,official,official,211620,ADJ,amod,False
+Yoongi,Yoongi,yogi,157545,PROPN,compound,False
+polaroid,polaroid,polaroid,241504,PROPN,compound,False
+photocard,photocard,postcard,243962,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+official,official,official,211620,ADJ,amod,False
+day,day,day,76257,NOUN,conj,False
+version,version,version,358827,NOUN,compound,False
+po,po,po,240883,PROPN,pobj,False

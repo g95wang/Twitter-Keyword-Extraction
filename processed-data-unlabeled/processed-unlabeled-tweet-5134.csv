@@ -1,0 +1,10 @@
+Number,number,number,209515,NOUN,nsubj,False
+throwing,throw,throw,322857,VERB,acl,False
+kicking,kick,kick,164415,VERB,dobj,False
+out,out,out,216108,ADP,prt,True
+the,the,the,320691,DET,det,True
+Chuslets,Chuslets,culets,74704,PROPN,dobj,False
+from,from,from,119298,ADP,prep,True
+num1,num1,num,209507,PROPN,pobj,False
+position,position,position,243797,NOUN,compound,False
+PowerOfSid,PowerOfSid,poneroid,243018,PROPN,pobj,False

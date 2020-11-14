@@ -1,0 +1,14 @@
+BILLBOARD,BILLBOARD,billboard,33977,PROPN,compound,False
+SOCIAL,SOCIAL,social,296098,PROPN,ROOT,False
+Small,Small,small,294676,PROPN,amod,False
+Challenge,Challenge,challenge,52186,PROPN,compound,False
+Yang,Yang,yang,145651,PROPN,compound,False
+Jeongin,Jeongin,engin,100338,PROPN,compound,False
+Retweet,Retweet,etwee,105245,PROPN,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+reply,reply,reply,268301,VERB,conj,False
+with,with,with,366582,ADP,prep,True
+colors,color,color,63304,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+tag,tag,tag,315231,NOUN,compound,False
+R,r,r,259188,NOUN,conj,False

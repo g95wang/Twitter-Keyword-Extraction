@@ -1,0 +1,16 @@
+re,be,be,29345,VERB,ccomp,True
+the,the,the,320691,DET,det,True
+worst,bad,bad,26158,ADJ,amod,False
+cunt,cunt,cunt,75047,NOUN,compound,False
+mate,mate,mate,181070,NOUN,attr,False
+re,be,be,29345,VERB,ROOT,True
+no,no,no,200529,ADV,intj,True
+even,even,even,106079,ADV,advmod,True
+funny,funny,funny,120308,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+resort,resort,resort,269648,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+this,this,this,322217,DET,det,True
+bullshit,bullshit,bullshit,42642,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+attention,attention,attention,23026,NOUN,pobj,False

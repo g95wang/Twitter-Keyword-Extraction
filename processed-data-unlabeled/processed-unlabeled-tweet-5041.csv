@@ -1,0 +1,13 @@
+Girls,girl,girl,125519,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+always,always,always,9710,ADV,advmod,True
+expect,expect,expect,107598,VERB,ROOT,False
+a,a,a,0,DET,det,True
+reply,reply,reply,268301,NOUN,dobj,False
+even,even,even,106079,ADV,advmod,True
+if,if,if,146980,SCONJ,mark,True
+last,last,last,168771,ADJ,amod,True
+message,message,message,184460,NOUN,nsubj,False
+was,be,be,29345,AUX,advcl,True
+n't,not,not,208798,PART,neg,True
+replyable,replyable,repayable,267973,ADJ,acomp,False

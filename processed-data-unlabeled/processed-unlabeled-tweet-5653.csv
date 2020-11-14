@@ -1,0 +1,14 @@
+see,see,see,283054,VERB,ROOT,True
+why,why,why,364728,ADV,advmod,True
+parents,parent,parent,226369,NOUN,nsubj,False
+did,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+want,want,want,362465,VERB,ccomp,False
+sleeping,sleep,sleep,293885,VERB,ccomp,False
+over,over,over,218092,ADP,prep,True
+at,at,at,22372,ADP,advmod,True
+hardly,hardly,hardly,133685,ADV,advmod,False
+anyone,anyone,anyone,13244,PRON,compound,True
+house,house,house,144380,NOUN,nsubj,False
+growing,grow,grow,130412,VERB,advcl,False
+up,up,up,354457,ADP,prt,True

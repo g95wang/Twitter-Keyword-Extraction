@@ -1,0 +1,9 @@
+m,be,be,29345,VERB,appos,False
+convinced,convince,convince,68103,VERB,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+Glo,Glo,gilo,124956,PROPN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+better,well,well,364011,ADJ,acomp,False
+than,than,than,320565,SCONJ,prep,True
+Airtel,Airtel,artel,20459,PROPN,pobj,False
+tbh,tbh,tb,317378,DET,npadvmod,False

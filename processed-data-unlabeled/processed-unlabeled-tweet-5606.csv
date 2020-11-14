@@ -1,0 +1,9 @@
+ARIZONA,ARIZONA,arizona,19830,PROPN,nsubj,False
+WILL,WILL,will,365768,VERB,aux,True
+NOT,not,not,208798,ADV,neg,True
+VOTE,vote,vote,361409,VERB,ROOT,False
+FOR,for,for,116301,ADP,prep,True
+THE,the,the,320691,DET,det,True
+NURSING,nursing,nursing,209730,NOUN,compound,False
+HOME,home,home,142751,NOUN,compound,False
+CANDIDATE,candidate,candidate,46161,NOUN,pobj,False

@@ -1,0 +1,17 @@
+personal,personal,personal,231959,ADJ,amod,False
+favorite,favorite,favorite,110510,ADJ,amod,False
+quotes,quote,quote,259156,NOUN,ROOT,False
+by,by,by,33133,ADP,prep,True
+namjoon,namjoon,majoon,178049,PROPN,pobj,False
+as,as,as,20837,SCONJ,prep,True
+a,a,a,0,DET,det,True
+philosophy,philosophy,philosophy,233936,NOUN,compound,False
+major,major,major,178050,NOUN,pobj,False
+who,who,who,365278,PRON,nsubj,True
+'s,be,be,29345,AUX,relcl,True
+in,in,in,149313,ADP,prep,True
+love,love,love,175534,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+brain,brain,brain,39724,NOUN,pobj,False
+a,a,a,0,DET,det,True
+thread,thread,thread,322554,NOUN,appos,False

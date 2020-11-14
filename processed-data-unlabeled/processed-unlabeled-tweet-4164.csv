@@ -1,0 +1,15 @@
+Students,student,student,306785,NOUN,nsubj,False
+from,from,from,119298,ADP,prep,True
+different,different,different,85278,ADJ,amod,False
+parts,part,part,226929,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+world,world,world,367566,NOUN,pobj,False
+pay,pay,pay,223065,NOUN,ROOT,False
+tribute,tribute,tribute,329290,NOUN,dobj,False
+to,to,to,324862,ADP,dative,True
+healthcare,healthcare,healthcare,134769,NOUN,compound,False
+workers,worker,worker,367494,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+a,a,a,0,DET,det,True
+song,song,song,297195,NOUN,pobj,False

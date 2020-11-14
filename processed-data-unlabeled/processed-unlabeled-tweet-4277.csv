@@ -1,0 +1,17 @@
+London,London,london,174855,PROPN,compound,False
+Decontamination,Decontamination,decontamination,78667,PROPN,compound,False
+team,team,team,317482,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+working,work,work,367468,VERB,ROOT,False
+around,around,around,20104,ADP,prep,True
+the,the,the,320691,DET,det,True
+clock,clock,clock,60270,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+help,help,help,135801,VERB,advcl,False
+restore,restore,restore,269985,VERB,xcomp,False
+places,place,place,238538,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+worship,worship,worship,367675,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+preparation,preparation,preparation,248742,NOUN,pobj,False
+to,to,to,324862,ADP,prep,True

@@ -1,0 +1,17 @@
+get,get,get,124419,AUX,ROOT,True
+a,a,a,0,DET,det,True
+man,man,man,178862,NOUN,nsubj,False
+who,who,who,365278,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+do,do,do,90528,AUX,relcl,True
+both,both,both,38714,CCONJ,det,True
+fave,fave,fauve,110459,NOUN,dobj,False
+is,be,be,29345,AUX,ccomp,True
+problematic,problematic,problematic,251072,ADJ,acomp,False
+dank,dank,dank,76793,PROPN,compound,False
+memes,meme,mneme,190869,NOUN,appos,False
+frantically,frantically,frantically,118412,ADV,advmod,False
+shoving,shove,shove,289014,VERB,acl,False
+breadsticks,breadstick,breadstitch,40214,NOUN,dobj,False
+into,into,into,156343,ADP,prep,True
+purse,purse,purse,257105,NOUN,pobj,False

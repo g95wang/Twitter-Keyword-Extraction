@@ -1,0 +1,17 @@
+Chenle,chenle,chenille,53802,ADJ,ROOT,False
+main,main,main,177882,ADJ,amod,False
+dancer,dancer,dancer,76678,NOUN,dobj,False
+i,i,i,145455,PRON,nsubj,True
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+dance,dance,dance,76674,VERB,relcl,False
+for,for,for,116301,ADP,prep,True
+shit,shit,shit,288544,NOUN,pobj,False
+so,so,so,295959,ADV,advmod,True
+to,to,to,324862,ADP,prep,True
+all,all,all,8522,DET,nsubj,True
+of,of,of,211535,ADP,prep,True
+are,be,be,29345,AUX,ROOT,True
+amazing,amazing,amazing,9904,ADJ,acomp,False
+as,as,as,20837,SCONJ,prep,True
+hell,hell,hell,135648,NOUN,pobj,False

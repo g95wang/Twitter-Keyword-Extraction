@@ -1,0 +1,14 @@
+Howard,Howard,howard,144542,PROPN,npadvmod,False
+some,some,some,297029,DET,det,True
+people,people,people,230162,NOUN,nsubj,False
+have,have,have,134390,AUX,ccomp,True
+religious,religious,religious,266952,ADJ,amod,False
+beliefs,belief,belief,31073,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+others,other,other,215836,NOUN,conj,True
+do,do,do,90528,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+As,as,as,20837,SCONJ,prep,True
+a,a,a,0,DET,det,True
+Christian,Christian,christian,56131,PROPN,pobj,False
+app,app,app,17530,NOUN,ROOT,False

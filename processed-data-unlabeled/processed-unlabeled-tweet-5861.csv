@@ -1,0 +1,13 @@
+lots,lot,lot,175365,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+petitions,petition,petition,232417,NOUN,pobj,False
+ask,ask,ask,21294,VERB,acl,False
+for,for,for,116301,ADP,prep,True
+US,US,us,355940,PROPN,nmod,True
+postal,postal,postal,243910,ADJ,amod,False
+codes,code,code,61687,NOUN,pobj,False
+so,so,so,295959,SCONJ,advmod,True
+heres,here,here,136991,VERB,ROOT,False
+some,some,some,297029,DET,dobj,True
+can,can,can,45964,VERB,aux,True
+use,use,use,355958,VERB,relcl,False

@@ -1,0 +1,15 @@
+Who,who,who,365278,PRON,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+harder,hard,hard,133614,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+live,live,live,173931,VERB,xcomp,False
+with,with,with,366582,ADP,prep,True
+A,a,a,0,DET,det,True
+messy,messy,messy,184481,ADJ,amod,False
+lazy,lazy,lazy,169446,ADJ,amod,False
+person,person,person,231951,NOUN,pobj,False
+or,or,or,213904,CCONJ,cc,True
+A,a,a,0,DET,det,True
+boring,boring,boring,38442,ADJ,amod,False
+mood,mood,mood,192988,NOUN,compound,False
+swinger,swinger,swinger,314495,NOUN,conj,False

@@ -1,0 +1,8 @@
+The,the,the,320691,DET,det,True
+MSM,MSM,mm,190861,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+enemy,enemy,enemy,100116,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+people,people,people,230162,NOUN,pobj,False

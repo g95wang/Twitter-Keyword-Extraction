@@ -1,0 +1,16 @@
+app,app,app,17530,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+still,still,still,304511,ADV,advmod,True
+not,not,not,208798,PART,neg,True
+working,work,work,367468,VERB,ccomp,False
+for,for,for,116301,ADP,prep,True
+paying,pay,pay,223065,VERB,pcomp,False
+in,in,in,149313,ADP,prep,True
+cheques,cheque,cheque,53814,NOUN,compound,False
+Huawei,Huawei,chumawi,56599,PROPN,compound,False
+Mate,Mate,mate,181070,PROPN,compound,False
+Pro,Pro,pro,250901,PROPN,pobj,False
+photos,photo,photo,234975,NOUN,nsubj,False
+look,look,look,175060,VERB,ROOT,False
+absoultely,absoultely,absolutely,985,ADV,advmod,False
+fine,fine,fine,112898,ADJ,acomp,False

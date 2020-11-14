@@ -1,0 +1,17 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+a,a,a,0,DET,det,True
+protest,protest,protest,253491,NOUN,attr,False
+against,against,against,5830,ADP,prep,True
+racism,racism,racism,259428,NOUN,pobj,False
+This,this,this,322217,DET,det,True
+thuggish,thuggish,thuggish,322933,NOUN,amod,False
+lawlessness,lawlessness,lawlessness,169369,NOUN,nsubj,False
+seeks,seek,seek,283114,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+create,create,create,72418,VERB,xcomp,False
+division,division,division,90386,NOUN,dobj,False
+attacking,attack,attack,22933,VERB,advcl,False
+British,british,british,40996,ADJ,amod,False
+Police,Police,police,241679,NOUN,dobj,False

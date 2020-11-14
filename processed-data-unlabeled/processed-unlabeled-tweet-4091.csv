@@ -1,0 +1,14 @@
+now,now,now,209199,ADV,advmod,True
+i,i,i,145455,PRON,nsubj,True
+wonder,wonder,wonder,367029,VERB,ROOT,False
+if,if,if,146980,SCONJ,mark,True
+all,all,all,8522,DET,nsubj,True
+of,of,of,211535,ADP,prep,True
+rly,rly,rly,273458,ADV,advmod,False
+set,set,set,286614,VERB,ccomp,False
+this,this,this,322217,DET,det,True
+photo,photo,photo,234975,NOUN,dobj,False
+as,as,as,20837,SCONJ,prep,True
+home,home,home,142751,NOUN,nmod,False
+lockscreen,lockscreen,silkscreen,290423,NOUN,compound,False
+wallpaper,wallpaper,wallpaper,362281,NOUN,pobj,False

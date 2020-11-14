@@ -1,0 +1,16 @@
+People,People,people,230162,NOUN,nsubj,False
+who,who,who,365278,PRON,nsubj,True
+have,have,have,134390,AUX,aux,True
+received,receive,receive,262684,VERB,relcl,False
+an,an,an,11448,DET,det,True
+organ,organ,organ,214345,NOUN,compound,False
+transplant,transplant,transplant,328240,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+remain,remain,remain,267090,VERB,conj,False
+on,on,on,212644,ADP,prep,True
+ongoing,ongoing,ongoing,212773,ADJ,amod,False
+immunosuppression,immunosuppression,immunosuppression,148177,NOUN,compound,False
+medication,medication,medication,182086,NOUN,pobj,False
+should,should,should,288990,VERB,aux,True
+follow,follow,follow,115989,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True

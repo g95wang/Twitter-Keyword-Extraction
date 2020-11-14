@@ -1,0 +1,11 @@
+Command,Command,command,63866,PROPN,nmod,False
+special,special,special,298743,ADJ,amod,False
+forces,force,force,116404,NOUN,compound,False
+cat,cat,cat,49166,NOUN,compound,False
+Mission,Mission,mission,190064,PROPN,ROOT,False
+stealing,steal,steal,303257,VERB,ROOT,False
+food,food,food,116078,NOUN,dobj,False
+from,from,from,119298,ADP,prep,True
+dogs,dog,dog,90839,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+AddictedViral,AddictedViral,addicted,3530,PROPN,pobj,False

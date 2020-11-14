@@ -1,0 +1,12 @@
+Listen,listen,listen,173504,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+Dating,Dating,dating,77184,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+Bash,Bash,bash,28532,PROPN,conj,False
+and,and,and,12285,CCONJ,cc,True
+Dash,Dash,dash,77064,PROPN,conj,False
+from,from,from,119298,ADP,ROOT,True
+AMERICA,AMERICA,america,10297,PROPN,compound,False
+VS,VS,vs,361509,PROPN,compound,False
+ENGLAND,ENGLAND,england,100377,PROPN,pobj,False
+on,on,on,212644,ADP,prep,True

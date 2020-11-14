@@ -1,0 +1,16 @@
+Good,good,good,127869,ADJ,amod,False
+morning,morning,morning,193499,NOUN,ROOT,False
+know,know,know,165702,VERB,ccomp,False
+many,many,many,179225,ADJ,amod,True
+changes,change,change,52470,NOUN,dobj,False
+amp,amp,amp,10991,NOUN,conj,False
+emotions,emotion,emotion,98645,NOUN,nsubj,False
+have,have,have,134390,AUX,aux,True
+bombarded,bombard,bombard,37677,VERB,ccomp,False
+lives,life,life,171890,NOUN,dobj,False
+amp,amp,amp,10991,NOUN,conj,False
+gets,get,get,124419,VERB,ROOT,False
+overwhelming,overwhelming,overwhelming,221836,ADJ,acomp,False
+are,be,be,29345,AUX,ROOT,True
+all,all,all,8522,ADV,advmod,True
+frustra,frustra,frusta,119662,ADJ,attr,False

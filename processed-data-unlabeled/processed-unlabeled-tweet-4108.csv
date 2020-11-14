@@ -1,0 +1,15 @@
+HappyBithdayNTRDear,HappyBithdayNTRDear,habitant,131784,VERB,compound,False
+anna,anna,anna,13459,NOUN,nsubj,False
+wishing,wish,wish,366457,VERB,ROOT,False
+a,a,a,0,DET,det,True
+very,very,very,358514,ADV,advmod,True
+very,very,very,358514,ADV,advmod,True
+happy,happy,happy,133513,ADJ,amod,False
+birthday,birthday,birthday,34904,NOUN,dobj,False
+may,may,may,177739,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+blessed,bless,bless,36144,VERB,ROOT,False
+forever,forever,forever,117124,ADV,advmod,False
+with,with,with,366582,ADP,prep,True
+success,success,success,309812,NOUN,pobj,False
+happin,happin,chappin,52668,ADJ,conj,False

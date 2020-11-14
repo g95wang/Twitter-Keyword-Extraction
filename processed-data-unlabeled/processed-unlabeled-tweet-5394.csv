@@ -1,0 +1,13 @@
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+care,care,care,47901,VERB,ROOT,False
+if,if,if,146980,SCONJ,mark,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+agree,agree,agree,6445,VERB,ccomp,False
+and,and,and,12285,CCONJ,cc,True
+whoever,whoever,whoever,365284,PRON,conj,True
+else,else,else,97787,ADV,advmod,True
+how,how,how,144540,ADV,advmod,True
+about,about,about,756,ADP,prep,True
+that,that,that,320639,DET,pobj,True

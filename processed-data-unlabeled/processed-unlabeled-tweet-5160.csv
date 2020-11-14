@@ -1,0 +1,10 @@
+if,if,if,146980,SCONJ,mark,True
+u,u,u,333554,PRON,nsubj,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+remember,remember,remember,267232,VERB,ROOT,False
+this,this,this,322217,DET,det,True
+video,video,video,359514,NOUN,dobj,False
+re,be,be,29345,VERB,relcl,True
+too,too,too,325685,ADV,advmod,True
+young,young,young,157730,ADJ,acomp,False

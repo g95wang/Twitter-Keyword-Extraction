@@ -1,0 +1,15 @@
+Why,why,why,364728,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+that,that,that,320639,DET,mark,True
+the,the,the,320691,DET,det,True
+police,police,police,241679,NOUN,nsubj,False
+get,get,get,124419,VERB,ccomp,True
+a,a,a,0,DET,det,True
+tank,tank,tank,316128,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True
+teachers,teacher,teacher,317432,NOUN,nsubj,False
+ca,can,can,45964,VERB,aux,True
+n't,not,not,208798,PART,neg,True
+get,get,get,124419,AUX,conj,True
+a,a,a,0,DET,det,True
+raise,raise,raise,260134,NOUN,dobj,False

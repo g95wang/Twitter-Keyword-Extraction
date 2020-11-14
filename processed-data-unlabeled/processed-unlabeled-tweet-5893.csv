@@ -1,0 +1,17 @@
+Looking,look,look,175060,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+digital,digital,digital,85441,ADJ,amod,False
+shift,shift,shift,288211,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+better,well,well,364011,ADJ,amod,False
+service,service,service,286444,NOUN,conj,False
+for,for,for,116301,ADP,prep,True
+customers,customer,customer,75712,NOUN,pobj,False
+Understand,understand,understand,339888,VERB,ROOT,False
+current,current,current,75405,ADJ,amod,False
+interactions,interaction,interaction,154423,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+know,know,know,165702,VERB,advcl,False
+where,where,where,364654,ADV,advmod,True
+to,to,to,324862,PART,aux,True
+target,target,target,316574,VERB,xcomp,False

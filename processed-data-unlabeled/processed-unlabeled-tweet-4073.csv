@@ -1,0 +1,15 @@
+Get,get,get,124419,AUX,ROOT,True
+a,a,a,0,DET,det,True
+daily,daily,daily,76310,ADJ,amod,False
+dose,dose,dose,91835,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+socialism,socialism,socialism,296104,NOUN,pobj,False
+into,into,into,156343,ADP,prep,True
+inbox,inbox,sinkbox,291823,NOUN,pobj,False
+Sign,sign,sign,290081,VERB,ROOT,False
+up,up,up,354457,ADP,prt,True
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+MorningStarDaily,morningstardaily,morningstar,193503,ADJ,compound,False
+newsletter,newsletter,newsletter,199451,NOUN,pobj,False
+here,here,here,136991,ADV,advmod,True

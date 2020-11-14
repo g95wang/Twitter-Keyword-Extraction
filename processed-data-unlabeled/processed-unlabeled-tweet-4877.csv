@@ -1,0 +1,14 @@
+when,when,when,364637,ADV,advmod,True
+makes,make,make,178090,VERB,ROOT,False
+when,when,when,364637,ADV,advmod,True
+i,i,i,145455,PRON,nsubj,True
+make,make,make,178090,VERB,ccomp,True
+mad,mad,mad,177147,ADJ,ccomp,False
+mad,mad,mad,177147,ADJ,amod,False
+when,when,when,364637,ADV,advmod,True
+makes,make,make,178090,VERB,ROOT,False
+when,when,when,364637,ADV,advmod,True
+i,i,i,145455,PRON,nsubj,True
+make,make,make,178090,VERB,ccomp,True
+mad,mad,mad,177147,ADJ,ccomp,False
+mad,mad,mad,177147,ADJ,amod,False

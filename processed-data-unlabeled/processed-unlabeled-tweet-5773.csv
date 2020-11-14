@@ -1,0 +1,10 @@
+retweet,retweet,etwee,105245,NOUN,compound,False
+reply,reply,reply,268301,NOUN,nsubj,False
+with,with,with,366582,ADP,prep,True
+NoCPTPP,NoCPTPP,nocht,200599,PROPN,dep,False
+do,do,do,90528,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+same,same,same,277518,ADJ,amod,True
+and,and,and,12285,CCONJ,cc,True
+tag,tag,tag,315231,NOUN,conj,False
+people,people,people,230162,NOUN,dobj,False

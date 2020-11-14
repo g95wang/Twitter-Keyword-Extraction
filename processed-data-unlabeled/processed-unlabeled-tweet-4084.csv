@@ -1,0 +1,10 @@
+Aaahhh,Aaahhh,aaa,2,PROPN,ROOT,False
+'s,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+butler,butler,butler,43631,NOUN,amod,False
+outfit,outfit,outfit,216618,NOUN,attr,False
+'re,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+great,great,great,129442,ADJ,amod,False
+looking,looking,looking,175069,ADJ,amod,False
+butler,butler,butler,43631,NOUN,attr,False

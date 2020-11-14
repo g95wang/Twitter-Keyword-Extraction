@@ -1,0 +1,17 @@
+Shows,show,show,289042,VERB,ROOT,False
+how,how,how,144540,ADV,advmod,True
+crap,crap,crap,72160,ADJ,ccomp,False
+lives,life,life,171890,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+probably,probably,probably,251013,ADV,advmod,False
+eating,eat,eat,94953,VERB,conj,False
+habits,habit,habit,131771,NOUN,dobj,False
+are,be,be,29345,AUX,ccomp,True
+that,that,that,320639,SCONJ,mark,True
+re,re,re,261391,VERB,dep,True
+opening,opening,opening,213243,ADJ,nsubj,False
+means,mean,mean,181735,NOUN,ccomp,False
+so,so,so,295959,ADV,advmod,True
+much,much,much,194510,ADV,advmod,True
+to,to,to,324862,ADP,prep,True
+Ju,Ju,ju,161970,PROPN,ROOT,False

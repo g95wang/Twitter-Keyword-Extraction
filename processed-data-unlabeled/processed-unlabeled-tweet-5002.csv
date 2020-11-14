@@ -1,0 +1,14 @@
+Mumbai,Mumbai,macumba,177140,PROPN,ROOT,False
+Urgent,Urgent,urgent,355619,PROPN,compound,False
+Need,Need,need,197910,PROPN,ROOT,False
+Any,any,any,13086,DET,det,True
+group,group,group,130347,NOUN,dobj,False
+blood,blood,blood,36415,NOUN,pobj,False
+Sir,Sir,sir,292308,PROPN,compound,False
+HN,HN,chn,55244,PROPN,compound,False
+hospital,hospital,hospital,144164,NOUN,appos,False
+Girgaon,Girgaon,gigaton,124814,PROPN,appos,False
+Call,call,call,45246,VERB,ROOT,True
+BloodAid,bloodaid,bloodied,36440,NOUN,oprd,False
+via,via,via,359224,ADP,prep,True
+cc,cc,cc,50284,NOUN,pobj,False

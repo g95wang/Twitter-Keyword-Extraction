@@ -1,0 +1,13 @@
+Do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+shy,shy,shy,288156,VERB,ROOT,False
+at,at,at,22372,ADP,prep,True
+things,thing,thing,321869,NOUN,npadvmod,False
+old,old,old,212002,ADJ,amod,False
+clothes,clothe,clothe,60488,NOUN,npadvmod,False
+poor,poor,poor,243168,ADJ,amod,False
+friends,friend,friend,118947,NOUN,npadvmod,False
+old,old,old,212002,ADJ,amod,False
+parents,parent,parent,226369,NOUN,pobj,False
+simple,simple,simple,291047,ADJ,amod,False
+living,living,living,174005,NOUN,pobj,False

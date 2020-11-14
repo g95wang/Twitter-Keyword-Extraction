@@ -1,0 +1,15 @@
+better,well,well,364011,ADV,advmod,False
+believe,believe,believe,31085,VERB,ccomp,False
+the,the,the,320691,DET,det,True
+children,child,child,54285,NOUN,nsubj,False
+are,be,be,29345,AUX,ccomp,True
+future,future,future,120712,NOUN,attr,False
+amp,amp,amp,10991,NOUN,conj,False
+future,future,future,120712,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+F,f,f,108866,NOUN,compound,False
+I,I,i,145455,PROPN,nmod,True
+E,e,e,94669,NOUN,compound,False
+R,r,r,259188,NOUN,compound,False
+C,c,c,43829,NOUN,compound,False
+E,e,e,94669,NOUN,attr,False

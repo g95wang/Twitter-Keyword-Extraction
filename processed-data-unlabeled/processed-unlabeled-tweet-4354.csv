@@ -1,0 +1,15 @@
+will,will,will,365768,VERB,aux,True
+always,always,always,9710,ADV,advmod,True
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+communicate,communicate,communicate,64241,VERB,xcomp,False
+with,with,with,366582,ADP,prep,True
+text,text,text,320378,NOUN,appos,False
+and,and,and,12285,CCONJ,cc,True
+calls,call,call,45246,NOUN,conj,False
+Communication,communication,communication,64246,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+key,key,key,163636,ADJ,acomp,False
+in,in,in,149313,ADP,prep,True
+every,every,every,106158,DET,det,True
+relationship,relationship,relationship,266756,NOUN,pobj,False

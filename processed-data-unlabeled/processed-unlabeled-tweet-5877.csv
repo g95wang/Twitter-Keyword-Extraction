@@ -1,0 +1,11 @@
+Male,Male,male,178348,PROPN,compound,False
+K,K,k,162637,PROPN,compound,False
+Pop,Pop,pop,243193,PROPN,compound,False
+Idols,idol,idol,146612,NOUN,ROOT,False
+Who,who,who,365278,PRON,nsubj,True
+Prove,prove,prove,254009,VERB,ROOT,False
+That,that,that,320639,SCONJ,det,True
+Pink,pink,pink,237088,NOUN,nsubj,False
+Is,be,be,29345,AUX,ccomp,True
+For,for,for,116301,ADP,prep,True
+Everyone,everyone,everyone,106169,PRON,pobj,True

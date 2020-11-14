@@ -1,0 +1,10 @@
+These,these,these,321594,DET,det,True
+pillow,pillow,pillow,236706,NOUN,compound,False
+sculptures,sculpture,sculpture,282208,NOUN,nsubj,False
+look,look,look,175060,VERB,ROOT,False
+incredible,incredible,incredible,150446,ADJ,acomp,False
+pillows,pillow,pillow,236706,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+much,much,much,194510,ADV,amod,True
+comfier,comfy,comfy,63785,ADJ,attr,False
+though,though,though,322468,ADV,advmod,True

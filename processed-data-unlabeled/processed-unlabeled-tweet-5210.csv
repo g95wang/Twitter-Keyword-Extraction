@@ -1,0 +1,12 @@
+m,m,m,176591,VERB,dep,False
+going,go,go,127161,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+retweet,retweet,etwee,105245,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+best,good,good,127869,ADJ,amod,False
+tweets,tweet,tweet,333246,NOUN,dobj,False
+today,today,today,325003,NOUN,npadvmod,False
+on,on,on,212644,ADP,prep,True
+where,where,where,364654,ADV,advmod,True
+'m,be,be,29345,AUX,auxpass,True
+tagged,tag,tag,315231,VERB,relcl,False

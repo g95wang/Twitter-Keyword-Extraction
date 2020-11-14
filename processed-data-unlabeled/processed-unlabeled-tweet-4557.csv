@@ -1,0 +1,16 @@
+coming,come,come,63721,VERB,ROOT,False
+home,home,home,142751,ADV,advmod,False
+drunk,drunk,drunk,93580,ADJ,advmod,False
+trying,try,try,329065,VERB,advcl,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,xcomp,True
+to,to,to,324862,ADP,prep,True
+room,room,room,274247,NOUN,pobj,False
+coming,come,come,63721,VERB,ROOT,False
+home,home,home,142751,ADV,advmod,False
+drunk,drunk,drunk,93580,ADJ,advmod,False
+trying,try,try,329065,VERB,advcl,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,xcomp,True
+to,to,to,324862,ADP,prep,True
+room,room,room,274247,NOUN,pobj,False

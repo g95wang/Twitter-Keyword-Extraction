@@ -1,0 +1,12 @@
+Invercargill,Invercargill,intercalarily,154538,PROPN,nsubj,False
+has,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+smorgasbord,smorgasbord,smorgasbord,295087,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+beautiful,beautiful,beautiful,29674,ADJ,amod,False
+ladies,lady,lady,167178,NOUN,pobj,False
+on,on,on,212644,ADP,prep,True
+offer,offer,offer,211581,NOUN,pobj,False
+tonight,tonight,tonight,325593,NOUN,npadvmod,False
+including,include,include,149975,VERB,prep,False
+and,and,and,12285,CCONJ,cc,True

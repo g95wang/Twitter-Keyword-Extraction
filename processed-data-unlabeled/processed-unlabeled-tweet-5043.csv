@@ -1,0 +1,9 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+why,why,why,364728,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+have,have,have,134390,AUX,ccomp,True
+flying,fly,fly,114525,VERB,xcomp,False
+cars,car,car,47250,NOUN,dobj,False
+yet,yet,yet,146952,ADV,advmod,True

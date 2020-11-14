@@ -1,0 +1,16 @@
+good,good,good,127869,ADJ,amod,False
+news,news,news,199421,NOUN,ROOT,False
+according,accord,accord,1684,VERB,prep,False
+to,to,to,324862,ADP,prep,True
+sources,source,source,297914,NOUN,pobj,False
+won,win,win,365877,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+first,first,first,113286,ADJ,amod,True
+Elite,Elite,elite,97609,PROPN,compound,False
+Club,Club,club,60615,PROPN,compound,False
+member,member,member,183109,NOUN,compound,False
+task,task,task,316883,NOUN,dobj,False
+Shefali,Shefali,sheal,287686,PROPN,compound,False
+Zariwala,Zariwala,zoarial,369613,PROPN,nsubj,False
+Evicted,Evicted,evicted,106217,PROPN,ROOT,False
+Re,Re,re,261391,PROPN,prep,True

@@ -1,0 +1,13 @@
+Good,good,good,127869,ADJ,amod,False
+morning,morning,morning,193499,NOUN,compound,False
+JJ,JJ,hajj,132500,PROPN,npadvmod,False
+hope,hope,hope,143674,VERB,ROOT,False
+have,have,have,134390,AUX,ccomp,True
+an,an,an,11448,DET,det,True
+awesome,awesome,awesome,25000,ADJ,amod,False
+day,day,day,76257,NOUN,dobj,False
+friendStay,friendstay,friends,118960,ADJ,nsubj,False
+be,be,be,29345,AUX,aux,True
+keeping,keep,keep,163579,VERB,ROOT,False
+watch,watch,watch,363049,NOUN,dobj,False
+for,for,for,116301,ADP,dative,True

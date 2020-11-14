@@ -1,0 +1,16 @@
+this,this,this,322217,DET,det,True
+scandal,scandal,scandal,279534,NOUN,nsubj,False
+brought,bring,bring,40851,VERB,ROOT,False
+YG,YG,yug,159646,PROPN,dobj,False
+down,down,down,92197,ADV,advmod,True
+think,think,think,321897,VERB,ROOT,False
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+put,put,put,257261,VERB,ccomp,True
+in,in,in,149313,ADP,prt,True
+for,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+few,few,few,111900,ADJ,amod,True
+months,month,month,192909,NOUN,pobj,False
+AT,at,at,22372,ADP,compound,True
+LEAST,least,least,169698,NOUN,npadvmod,True

@@ -1,0 +1,9 @@
+Step,step,step,303739,NOUN,ROOT,False
+Ask,ask,ask,21294,VERB,ROOT,False
+Marie,Marie,marie,180053,PROPN,dobj,False
+out,out,out,216108,ADP,prt,True
+Step,step,step,303739,NOUN,ROOT,False
+Buy,buy,buy,42353,VERB,ROOT,False
+Marie,Marie,marie,180053,PROPN,compound,False
+coffee,coffee,coffee,62136,NOUN,dobj,False
+Step,step,step,303739,NOUN,ROOT,False

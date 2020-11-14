@@ -1,0 +1,12 @@
+VIDEO,video,video,359514,NOUN,ROOT,False
+Chicago,Chicago,chicago,54099,PROPN,compound,False
+Shootout,Shootout,shootout,288790,PROPN,ROOT,False
+As,as,as,20837,SCONJ,ROOT,True
+Latin,latin,latin,168969,ADJ,compound,False
+Gangs,gang,gang,121842,NOUN,compound,False
+Protect,protect,protect,253369,VERB,compound,False
+Neighborhood,neighborhood,neighborhood,198141,NOUN,pobj,False
+From,from,from,119298,ADP,prep,True
+Alleged,alleged,alleged,8580,ADJ,amod,False
+Looters,Looters,looters,175139,PROPN,pobj,False
+via,via,via,359224,ADP,prep,True

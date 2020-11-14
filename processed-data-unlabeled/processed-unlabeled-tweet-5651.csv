@@ -1,0 +1,17 @@
+So,so,so,295959,ADV,advmod,True
+says,say,say,276740,VERB,ROOT,False
+this,this,this,322217,DET,det,True
+guy,guy,guy,131001,NOUN,nsubj,False
+the,the,the,320691,DET,det,True
+worst,bad,bad,26158,ADJ,amod,False
+President,President,president,249451,PROPN,ROOT,False
+in,in,in,149313,ADP,prep,True
+U.S.,U.S.,us,355940,PROPN,compound,False
+history,history,history,141866,NOUN,pobj,False
+the,the,the,320691,DET,det,True
+lowest,low,low,175601,ADJ,amod,False
+approval,approval,approval,18014,NOUN,compound,False
+ratings,rating,rating,261041,NOUN,appos,False
+of,of,of,211535,ADP,prep,True
+any,any,any,13086,DET,det,True
+Presid,Presid,presaid,249213,PROPN,pobj,False

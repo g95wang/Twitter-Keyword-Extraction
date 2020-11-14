@@ -1,0 +1,16 @@
+a,a,a,0,DET,det,True
+question,question,question,258416,NOUN,nmod,False
+suggestion,suggestion,suggestion,310252,NOUN,compound,False
+Nitin,Nitin,inition,152833,PROPN,compound,False
+Gadkari,Gadkari,gadaria,120846,PROPN,ROOT,False
+ji,ji,ji,161145,NOUN,nsubj,False
+was,be,be,29345,AUX,aux,True
+talking,talk,talk,315639,VERB,ROOT,False
+about,about,about,756,ADP,prep,True
+using,use,use,355958,VERB,pcomp,True
+biofuels,biofuel,binful,34196,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+city,city,city,58633,NOUN,compound,False
+buses,bus,bus,43363,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+n,n,n,196396,NOUN,punct,False

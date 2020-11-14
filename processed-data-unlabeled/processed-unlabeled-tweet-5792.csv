@@ -1,0 +1,15 @@
+thread,thread,thread,322554,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+petitions,petition,petition,232417,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+sign,sign,sign,290081,VERB,relcl,False
+for,for,for,116301,ADP,prep,True
+the,the,the,320691,DET,det,True
+black,black,black,35431,ADJ,amod,False
+lives,life,life,171890,NOUN,pobj,False
+that,that,that,320639,DET,nsubj,True
+still,still,still,304511,ADV,advmod,True
+have,have,have,134390,AUX,aux,True
+not,not,not,208798,PART,neg,True
+gotten,get,get,124419,VERB,relcl,False
+justice,justice,justice,162510,NOUN,dobj,False

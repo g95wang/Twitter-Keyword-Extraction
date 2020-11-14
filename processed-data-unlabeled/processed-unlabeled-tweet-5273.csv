@@ -1,0 +1,15 @@
+Betsy,Betsy,betsy,32823,PROPN,compound,False
+DeVos,DeVos,devons,83665,PROPN,nsubj,False
+could,could,could,70511,VERB,aux,True
+face,face,face,108932,VERB,ROOT,False
+jail,jail,jail,160146,NOUN,dobj,False
+after,after,after,5615,ADP,prep,True
+judge,judge,judge,162053,NOUN,compound,False
+rules,rule,rule,275459,VERB,pobj,False
+violated,violate,violate,360008,VERB,relcl,False
+order,order,order,214218,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+student,student,student,306785,NOUN,compound,False
+loans,loan,loan,174113,NOUN,pobj,False
+Yes,yes,yes,146918,INTJ,ROOT,False
+Vi,Vi,vi,359223,PROPN,pobj,False

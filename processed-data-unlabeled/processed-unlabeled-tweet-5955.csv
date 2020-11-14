@@ -1,0 +1,16 @@
+eVIN,eVIN,kevin,164188,VERB,nsubj,False
+to,to,to,324862,ADP,aux,True
+degree,degree,degree,79645,NOUN,relcl,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+ILR,ILR,il,147205,PROPN,compound,False
+Freeze,Freeze,freeze,118682,PROPN,compound,False
+temperature,temperature,temperature,318525,NOUN,attr,False
+Responsibility,responsibility,responsibility,269789,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+Pharmacist,Pharmacist,pharmacist,233113,PROPN,compound,False
+increase,increase,increase,150431,VERB,pobj,False
+with,with,with,366582,ADP,prep,True
+fluctuations,fluctuation,fluctuation,115243,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+tempe,tempe,tempe,318502,PROPN,pobj,False

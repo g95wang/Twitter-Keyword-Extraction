@@ -1,0 +1,15 @@
+Archived,archived,archived,19033,ADJ,ROOT,False
+Detransitioners,detransitioner,transitioned,327997,NOUN,nsubj,False
+tell,tell,tell,318356,VERB,ROOT,False
+thought,think,think,321897,VERB,ccomp,False
+were,be,be,29345,AUX,ccomp,True
+trans,tran,tran,327612,NOUN,attr,False
+when,when,when,364637,ADV,advmod,True
+were,be,be,29345,AUX,advcl,True
+gay,gay,gay,120981,ADJ,acomp,False
+So,so,so,295959,ADV,advmod,True
+Gender,gender,gender,123411,NOUN,compound,False
+identity,identity,identity,146383,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+n't,not,not,208798,PART,neg,True
+relate,relate,relate,266736,ADJ,acomp,False

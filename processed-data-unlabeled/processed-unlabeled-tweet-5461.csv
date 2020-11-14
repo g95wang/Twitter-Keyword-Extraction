@@ -1,0 +1,13 @@
+Awesome,awesome,awesome,25000,ADJ,compound,False
+discount,discount,discount,87620,NOUN,ROOT,False
+from,from,from,119298,ADP,prep,True
+use,use,use,355958,NOUN,compound,False
+code,code,code,61687,NOUN,compound,False
+discount,discount,discount,87620,NOUN,compound,False
+BCN0785,BCN0785,bacin,25702,PROPN,compound,False
+works,work,work,367468,VERB,pobj,False
+for,for,for,116301,ADP,prep,True
+all,all,all,8522,DET,det,True
+orders,order,order,214218,NOUN,compound,False
+iherb,iherb,herb,136883,PROPN,compound,False
+code,code,code,61687,NOUN,pobj,False

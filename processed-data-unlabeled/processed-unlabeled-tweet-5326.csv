@@ -1,0 +1,15 @@
+As,as,as,20837,SCONJ,prep,True
+per,per,per,230311,ADP,prep,True
+the,the,the,320691,DET,det,True
+update,update,update,354620,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+service,service,service,286444,NOUN,compound,False
+team,team,team,317482,NOUN,pobj,False
+understand,understand,understand,339888,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+believe,believe,believe,31085,VERB,conj,False
+that,that,that,320639,SCONJ,mark,True
+complaint,complaint,complaint,64595,NOUN,nsubj,False
+has,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,ccomp,True
+resol,resol,cresol,72750,PROPN,acomp,False

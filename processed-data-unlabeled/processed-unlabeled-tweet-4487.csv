@@ -1,0 +1,15 @@
+BrusselsMotorShow,brusselsmotorshow,brussels,41846,VERB,npadvmod,False
+are,be,be,29345,AUX,ROOT,True
+ready,ready,ready,261587,ADJ,acomp,False
+Are,be,be,29345,AUX,aux,True
+coming,come,come,63721,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+visit,visit,visit,360423,VERB,advcl,False
+at,at,at,22372,ADP,prep,True
+Paleis,Paleis,pales,223809,PROPN,compound,False
+Stand,Stand,stand,302655,PROPN,pobj,False
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,aux,True
+attending,attend,attend,23005,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+Autos,auto,auto,23853,NOUN,dobj,False

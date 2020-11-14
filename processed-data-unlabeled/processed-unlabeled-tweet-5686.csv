@@ -1,0 +1,11 @@
+Keep,keep,keep,163579,VERB,ROOT,True
+name,name,name,196686,NOUN,dobj,True
+outa,outa,outas,216127,NOUN,amod,False
+silly,silly,silly,290499,ADJ,amod,False
+shit,shit,shit,288544,INTJ,oprd,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+even,even,even,106079,ADV,advmod,True
+rock,rock,rock,273647,VERB,ROOT,False
+like,like,like,172172,SCONJ,prep,False
+that,that,that,320639,DET,pobj,True

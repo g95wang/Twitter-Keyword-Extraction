@@ -1,0 +1,14 @@
+Breaking,Breaking,breaking,40257,PROPN,ROOT,False
+News,News,news,199421,PROPN,dobj,False
+The,the,the,320691,DET,det,True
+Last,last,last,168771,ADJ,amod,True
+Dance,dance,dance,76674,NOUN,ROOT,False
+Pacers,pacer,pacer,222580,NOUN,compound,False
+fan,fan,fan,109645,NOUN,nsubj,False
+seen,see,see,283054,VERB,ROOT,False
+shouting,shout,shout,289005,VERB,xcomp,False
+at,at,at,22372,ADP,prep,True
+Michael,Michael,michael,185754,PROPN,compound,False
+Jordans,Jordans,jordans,161781,PROPN,compound,False
+Bulls,Bulls,bulls,42640,PROPN,pobj,False
+identifiesherself,identifiesherself,identifiers,146379,VERB,advmod,False

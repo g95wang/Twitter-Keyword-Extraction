@@ -1,0 +1,17 @@
+DYK,DYK,dyak,84183,PROPN,compound,False
+products,product,product,251582,NOUN,nsubjpass,False
+on,on,on,212644,ADP,prep,True
+EU,EU,eu,105248,PROPN,compound,False
+supermarket,supermarket,supermarket,312225,NOUN,compound,False
+shelves,shelf,shelf,287924,NOUN,pobj,False
+can,can,can,45964,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+linked,link,link,172930,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+deforestation,deforestation,deforestation,79453,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+tropical,tropical,tropical,331223,ADJ,amod,False
+rainforests,rainforest,rainforest,260093,NOUN,pobj,False
+Deforestation,deforestation,deforestation,79453,NOUN,npadvmod,False
+related,relate,relate,266736,VERB,amod,False
+ingredien,ingredien,ingredient,152572,NOUN,ROOT,False

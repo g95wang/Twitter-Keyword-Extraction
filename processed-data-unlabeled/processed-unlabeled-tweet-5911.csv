@@ -1,0 +1,13 @@
+issues,issue,issue,159379,NOUN,ROOT,False
+that,that,that,320639,DET,nsubj,True
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,relcl,True
+top,top,top,325810,NOUN,attr,True
+of,of,of,211535,ADP,prep,True
+mind,mind,mind,187702,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+the,the,the,320691,DET,det,True
+Philippines,Philippines,philippines,233643,PROPN,pobj,False
+JunkTerrorBill,JunkTerrorBill,counterroll,71059,PROPN,dep,False
+MassTestingNowPH,MassTestingNowPH,mastersinger,180874,PROPN,dep,False
+S,s,s,275971,NOUN,ROOT,False

@@ -1,0 +1,16 @@
+not,not,not,208798,PART,neg,True
+entirely,entirely,entirely,101451,ADV,ROOT,False
+i,i,i,145455,PRON,nsubj,True
+cleared,clear,clear,59644,VERB,ROOT,False
+Shinjuku,Shinjuku,shrink,289230,PROPN,dobj,False
+after,after,after,5615,ADP,prep,True
+some,some,some,297029,DET,det,True
+trouble,trouble,trouble,331313,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+hours,hour,hour,144367,NOUN,pobj,False
+agartha,agartha,agatha,5935,PROPN,nsubj,False
+was,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+main,main,main,177882,ADJ,amod,False
+block,block,block,36348,NOUN,attr,False
+cause,cause,cause,50043,VERB,attr,False

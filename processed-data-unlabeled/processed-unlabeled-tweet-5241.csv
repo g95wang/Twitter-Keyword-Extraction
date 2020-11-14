@@ -1,0 +1,16 @@
+The,the,the,320691,DET,det,True
+King,King,king,164870,PROPN,nsubj,False
+Of,of,of,211535,ADP,prep,True
+Bigg,Bigg,bigg,33720,PROPN,pobj,False
+Boss,Boss,boss,38606,PROPN,compound,False
+House,House,house,144380,PROPN,pobj,False
+Is,be,be,29345,AUX,ROOT,True
+Asim,Asim,aswim,22365,PROPN,compound,False
+Riaz,Riaz,ria,272390,PROPN,attr,False
+And,and,and,12285,CCONJ,cc,True
+Will,Will,will,365768,VERB,aux,True
+win,win,win,365877,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+show,show,show,289042,NOUN,dobj,True
+Asimriaz,Asimriaz,asimina,21236,PROPN,appos,False
+https,https,hts,144605,NOUN,appos,False

@@ -1,0 +1,13 @@
+FANCAFE,FANCAFE,achafe,2192,PROPN,nmod,False
+EVENT,event,event,106111,NOUN,compound,False
+NOTICE,notice,notice,208919,NOUN,ROOT,False
+VLIVE,VLIVE,live,173931,VERB,poss,False
+THE,the,the,320691,DET,det,True
+WEEEKLY,WEEEKLY,weekly,363772,PROPN,compound,False
+STORY,STORY,story,305411,PROPN,appos,False
+CAPTURE,capture,capture,47224,NOUN,compound,False
+EVENT,event,event,106111,NOUN,appos,False
+How,how,how,144540,ADV,advmod,True
+to,to,to,324862,PART,aux,True
+Participate,participate,participate,227015,VERB,ROOT,False
+Weeekly,weeekly,weekly,363772,NOUN,compound,False

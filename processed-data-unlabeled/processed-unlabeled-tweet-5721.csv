@@ -1,0 +1,14 @@
+Mr.,Mr.,mr,194474,PROPN,compound,False
+Golic,Golic,goldic,127536,PROPN,npadvmod,False
+sound,sound,sound,297846,VERB,ROOT,False
+like,like,like,172172,SCONJ,prep,False
+a,a,a,0,DET,det,True
+parent,parent,parent,226369,NOUN,pobj,False
+protecting,protect,protect,253369,VERB,acl,False
+child,child,child,54285,NOUN,dobj,False
+whom,whom,whom,365315,PRON,nsubj,True
+knew,know,know,165702,VERB,relcl,False
+did,do,do,90528,AUX,ccomp,True
+something,something,something,297061,PRON,dobj,True
+wrong,wrong,wrong,368091,ADJ,amod,False
+and,and,and,12285,CCONJ,cc,True

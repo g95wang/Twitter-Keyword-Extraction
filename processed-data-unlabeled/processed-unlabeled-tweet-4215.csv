@@ -1,0 +1,13 @@
+The,the,the,320691,DET,det,True
+bad,bad,bad,26158,ADJ,amod,False
+days,day,day,76257,NOUN,npadvmod,False
+the,the,the,320691,DET,det,True
+all,all,all,8522,DET,amod,True
+or,or,or,213904,CCONJ,cc,True
+nothing,nothing,nothing,208898,PRON,conj,True
+days,day,day,76257,NOUN,npadvmod,False
+'re,be,be,29345,AUX,ROOT,True
+back,back,back,25705,ADV,advmod,True
+Ask,ask,ask,21294,VERB,xcomp,False
+am,be,be,29345,AUX,ROOT,True
+ready,ready,ready,261587,ADJ,acomp,False

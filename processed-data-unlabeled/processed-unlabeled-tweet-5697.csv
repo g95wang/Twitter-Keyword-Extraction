@@ -1,0 +1,14 @@
+IG,IG,big,33680,PROPN,compound,False
+UPDATE,UPDATE,update,354620,PROPN,ROOT,False
+Trans,Trans,trans,327664,PROPN,ROOT,False
+Title,title,title,324727,NOUN,ROOT,False
+Photos,photo,photo,234975,NOUN,appos,False
+taken,take,take,315491,VERB,acl,False
+by,by,by,33133,ADP,agent,True
+Han,Han,han,133076,PROPN,compound,False
+Jisung,Jisung,jing,161280,PROPN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+'s,be,be,29345,AUX,ROOT,True
+phone,phone,phone,234654,NOUN,compound,False
+LeeKnowIsCute,leeknowiscute,lemniscate,170336,NOUN,punct,False
+StrayK,StrayK,stray,305644,PROPN,ROOT,False

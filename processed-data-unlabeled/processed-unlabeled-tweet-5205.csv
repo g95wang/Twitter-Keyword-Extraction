@@ -1,0 +1,16 @@
+m,be,be,29345,VERB,ROOT,False
+actually,actually,actually,3298,ADV,advmod,False
+in,in,in,149313,ADP,prep,True
+tears,tear,tear,317512,NOUN,pobj,False
+over,over,over,218092,ADP,prep,True
+these,these,these,321594,DET,det,True
+people,people,people,230162,NOUN,pobj,False
+trying,try,try,329065,VERB,advcl,False
+to,to,to,324862,PART,aux,True
+remember,remember,remember,267232,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+names,name,name,196686,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+Jonas,Jonas,jonas,161745,PROPN,compound,False
+brothers,brother,brother,41578,NOUN,pobj,False

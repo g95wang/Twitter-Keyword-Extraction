@@ -1,0 +1,17 @@
+Sir,Sir,sir,292308,PROPN,npadvmod,False
+Kindly,Kindly,kindly,164776,PROPN,advmod,False
+inform,inform,inform,152203,VERB,ROOT,False
+about,about,about,756,ADP,prep,True
+the,the,the,320691,DET,det,True
+latest,late,late,168810,ADJ,amod,False
+moment,moment,moment,191630,NOUN,pobj,False
+pass,pass,pass,227250,VERB,dep,False
+policy,policy,policy,241742,NOUN,dobj,False
+for,for,for,116301,ADP,dative,True
+Advocates,Advocates,advocates,4720,PROPN,pobj,False
+who,who,who,365278,PRON,nsubj,True
+live,live,live,173931,VERB,relcl,False
+in,in,in,149313,ADP,prep,True
+Noida,Noida,anoia,13722,PROPN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+work,work,work,367468,NOUN,conj,False

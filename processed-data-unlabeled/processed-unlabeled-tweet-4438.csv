@@ -1,0 +1,8 @@
+Uhuru,Uhuru,uhuru,333684,PROPN,compound,False
+Kenyatta,Kenyatta,kenya,163802,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+errand,errand,errand,103968,NOUN,compound,False
+boy,boy,boy,37378,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+busy,busy,busy,43464,ADJ,acomp,False
+working,work,work,367468,VERB,xcomp,False

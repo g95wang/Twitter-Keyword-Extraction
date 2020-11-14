@@ -1,0 +1,9 @@
+is,be,be,29345,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+going,go,go,127161,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+do,do,do,90528,AUX,xcomp,True
+anything,anything,anything,13370,PRON,dobj,True
+need,need,need,197910,VERB,ROOT,False
+recall,recall,recall,262552,NOUN,compound,False
+petitions,petition,petition,232417,NOUN,dobj,False

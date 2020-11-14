@@ -1,0 +1,15 @@
+Let,let,let,170875,VERB,ROOT,False
+Go,go,go,127161,VERB,ccomp,True
+Once,once,once,212661,ADV,advmod,True
+Again,again,again,5827,ADV,advmod,True
+Lets,let,let,170875,NOUN,nsubj,False
+Do,do,do,90528,AUX,appos,True
+Nothing,nothing,nothing,208898,PRON,nsubj,True
+is,be,be,29345,AUX,ccomp,True
+Impossible,impossible,impossible,148931,ADJ,acomp,False
+the,the,the,320691,DET,det,True
+word,word,word,367408,NOUN,nsubj,False
+says,say,say,276740,VERB,ROOT,False
+I,i,i,145455,NOUN,nsubj,True
+m,m,m,176591,NOUN,ccomp,False
+Possible,possible,possible,243886,ADJ,acomp,False

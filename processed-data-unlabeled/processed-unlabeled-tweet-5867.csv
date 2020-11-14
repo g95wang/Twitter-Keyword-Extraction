@@ -1,0 +1,17 @@
+Looking,look,look,175060,VERB,ROOT,False
+forward,forward,forward,117747,ADV,advmod,False
+to,to,to,324862,ADP,prep,True
+summer,summer,summer,310930,NOUN,compound,False
+term,term,term,319345,NOUN,compound,False
+group,group,group,130347,NOUN,compound,False
+meeting,meeting,meeting,182309,NOUN,pobj,False
+on,on,on,212644,ADP,prep,True
+Zoom,Zoom,zoom,369842,PROPN,pobj,False
+tomorrow,tomorrow,tomorrow,325475,NOUN,npadvmod,False
+are,be,be,29345,AUX,aux,True
+discussing,discuss,discuss,87788,VERB,ccomp,False
+service,service,service,286444,NOUN,dobj,False
+online,online,online,212850,ADV,advmod,False
+community,community,community,64281,NOUN,nsubj,False
+support,support,support,313022,NOUN,ROOT,False
+a,a,a,0,DET,dobj,True

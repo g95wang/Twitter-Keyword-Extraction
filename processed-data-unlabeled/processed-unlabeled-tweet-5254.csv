@@ -1,0 +1,14 @@
+early,early,early,94742,ADV,advmod,False
+to,to,to,324862,ADP,prep,True
+bed,bed,bed,29953,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+early,early,early,94742,ADV,conj,False
+to,to,to,324862,PART,aux,True
+rise,rise,rise,273227,VERB,xcomp,False
+makes,make,make,178090,VERB,ROOT,False
+a,a,a,0,DET,det,True
+man,man,man,178862,NOUN,nsubj,False
+healthy,healthy,healthy,134775,ADJ,ccomp,False
+wealthy,wealthy,wealthy,363496,ADJ,conj,False
+and,and,and,12285,CCONJ,cc,True
+wise,wise,wise,366417,ADJ,conj,False

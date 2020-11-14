@@ -1,0 +1,16 @@
+i,i,i,145455,PRON,nsubj,True
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+buy,buy,buy,42353,VERB,xcomp,False
+new,new,new,199367,ADJ,amod,False
+mobile,mobile,mobile,190942,NOUN,amod,False
+pls,pls,pals,224182,INTJ,dobj,False
+suggest,suggest,suggest,310240,VERB,ROOT,False
+which,which,which,364730,DET,nsubj,True
+compny,compny,company,64367,PROPN,ccomp,False
+mobile,mobile,mobile,190942,PROPN,amod,False
+best,well,well,364011,ADV,advmod,False
+use,use,use,355958,VERB,ROOT,False
+jarur,jarur,jalur,160230,PROPN,compound,False
+kre,kre,akre,7196,PROPN,dobj,False
+IAmWithSana,IAmWithSana,withania,366586,PROPN,ROOT,False

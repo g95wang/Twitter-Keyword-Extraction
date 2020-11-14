@@ -1,0 +1,12 @@
+Minibar,Minibar,minbar,187680,PROPN,amod,False
+price,price,price,250334,NOUN,ROOT,False
+vs,vs,vs,361509,ADP,prep,False
+Safeway,Safeway,safeway,276580,PROPN,compound,False
+price,price,price,250334,NOUN,pobj,False
+the,the,the,320691,DET,det,True
+force,force,force,116404,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+strong,strong,strong,306510,ADJ,acomp,False
+with,with,with,366582,ADP,prep,True
+this,this,this,322217,DET,det,True
+one,one,one,212715,NOUN,pobj,True

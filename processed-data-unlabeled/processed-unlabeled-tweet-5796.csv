@@ -1,0 +1,16 @@
+If,if,if,146980,SCONJ,mark,True
+lose,lose,lose,175338,VERB,advcl,False
+followers,follower,follower,115992,NOUN,nmod,False
+friends,friend,friend,118947,NOUN,nmod,False
+customers,customer,customer,75712,NOUN,nmod,False
+clients,client,client,59907,NOUN,dobj,False
+by,by,by,33133,ADP,prep,True
+supporting,support,support,313022,VERB,pcomp,False
+this,this,this,322217,DET,det,True
+movement,movement,movement,194393,NOUN,dobj,False
+then,then,then,320906,ADV,advmod,True
+had,have,have,134390,AUX,ROOT,True
+shitty,shitty,shitty,288555,ADJ,amod,False
+followers,follower,follower,115992,NOUN,nmod,False
+friends,friend,friend,118947,NOUN,dobj,False
+customers/,customers/,customers,75713,NOUN,punct,False

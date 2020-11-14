@@ -1,0 +1,10 @@
+Every,every,every,106158,DET,det,True
+soul,soul,soul,297813,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+taste,taste,taste,316934,VERB,ROOT,False
+death,death,death,77637,NOUN,dobj,False
+Then,then,then,320906,ADV,advmod,True
+to,to,to,324862,ADP,prep,True
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+returned,return,return,270970,VERB,ROOT,False
