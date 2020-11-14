@@ -1,0 +1,14 @@
+On,on,on,212644,ADP,prep,True
+AI,AI,ai,6683,PROPN,pobj,False
+How,how,how,144540,ADV,advmod,True
+AI,AI,ai,6683,PROPN,nsubj,False
+affects,affect,affect,5295,VERB,pcomp,False
+human,human,human,144841,ADJ,amod,False
+rights,right,right,272806,NOUN,dobj,False
+From,from,from,119298,ADP,prep,True
+surveillance,surveillance,surveillance,313656,NOUN,pobj,False
+to,to,to,324862,ADP,prep,True
+healthcare,healthcare,healthcare,134769,NOUN,pobj,False
+artificial,artificial,artificial,20719,ADJ,amod,False
+intelligence,intelligence,intelligence,154289,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True

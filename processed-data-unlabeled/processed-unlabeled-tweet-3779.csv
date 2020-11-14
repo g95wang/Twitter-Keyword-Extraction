@@ -1,0 +1,17 @@
+Do,do,do,90528,AUX,aux,True
+know,know,know,165702,VERB,ROOT,False
+what,what,what,364447,PRON,nsubj,True
+'s,be,be,29345,AUX,ccomp,True
+special,special,special,298743,ADJ,amod,False
+abt,abt,abt,1135,NOUN,compound,False
+Thirumavalavan,Thirumavalavan,himalayan,139540,PROPN,nsubj,False
+Chidambaram,Chidambaram,chambray,52273,PROPN,compound,False
+MP,MP,mp,194465,PROPN,appos,False
+election,election,election,96877,NOUN,nsubjpass,False
+was,be,be,29345,AUX,auxpass,True
+based,base,base,28484,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+single,single,single,291702,ADJ,amod,False
+point,point,point,241315,NOUN,compound,False
+agenda,agenda,agenda,5995,NOUN,pobj,False

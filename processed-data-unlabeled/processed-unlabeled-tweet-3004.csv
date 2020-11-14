@@ -1,0 +1,15 @@
+That,that,that,320639,DET,det,True
+video,video,video,359514,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+nt,not,not,208798,PART,advmod,False
+from,from,from,119298,ADP,prep,True
+Italy,Italy,italy,159438,PROPN,pobj,False
+a,a,a,0,DET,det,True
+scene,scene,scene,279964,NOUN,ROOT,False
+from,from,from,119298,ADP,prep,True
+a,a,a,0,DET,det,True
+TV,tv,tv,333139,NOUN,compound,False
+miniseries,miniserie,miniseries,187915,NOUN,poss,False
+Pandemic,Pandemic,pandemic,224465,PROPN,pobj,False
+released,release,release,266810,VERB,acl,False
+in,in,in,149313,ADP,prt,True

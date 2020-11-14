@@ -1,0 +1,12 @@
+Read,read,read,261551,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+new,new,new,199367,ADJ,amod,False
+Healing,Healing,healing,134762,PROPN,compound,False
+Hearts,Hearts,hearts,134892,PROPN,dobj,False
+by,by,by,33133,ADP,prep,True
+CB,CB,cb,50283,PROPN,compound,False
+Clark,Clark,clark,59337,PROPN,compound,False
+RLFblog,RLFblog,reflog,265178,PROPN,ROOT,False
+RomanticSuspense,RomanticSuspense,romanticise,274066,PROPN,appos,False
+Western,western,western,364247,ADJ,ROOT,False
+via,via,via,359224,ADP,punct,True

@@ -1,0 +1,17 @@
+Good,Good,good,127869,PROPN,amod,False
+Early,Early,early,94742,PROPN,amod,False
+Morning,Morning,morning,193499,PROPN,ROOT,False
+Indian,Indian,indian,150876,PROPN,compound,False
+Nation,Nation,nation,197258,PROPN,appos,False
+more,more,more,193383,ADJ,amod,True
+hours,hour,hour,144367,NOUN,ROOT,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,relcl,True
+vote,vote,vote,361409,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+for,for,for,116301,ADP,prep,True
+Gaffney,Gaffney,gaffe,120933,PROPN,pobj,False
+if,if,if,146980,SCONJ,mark,True
+have,have,have,134390,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+already,already,already,9397,ADV,advcl,True

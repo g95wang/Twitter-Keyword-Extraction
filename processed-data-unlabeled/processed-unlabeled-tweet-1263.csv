@@ -1,0 +1,16 @@
+To,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+guy,guy,guy,131001,NOUN,pobj,False
+who,who,who,365278,PRON,nsubj,True
+will,will,will,365768,VERB,aux,True
+always,always,always,9710,ADV,advmod,True
+have,have,have,134390,AUX,relcl,True
+more,more,more,193383,ADJ,advmod,True
+twitter,twitt,twitty,333485,ADJ,amod,False
+followers,follower,follower,115992,NOUN,dobj,False
+than,than,than,320565,SCONJ,prep,True
+Happy,happy,happy,133513,ADJ,amod,False
+birthday,birthday,birthday,34904,NOUN,ROOT,False
+Appreciate,appreciate,appreciate,17903,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+friendship,friendship,friendship,118961,NOUN,conj,False

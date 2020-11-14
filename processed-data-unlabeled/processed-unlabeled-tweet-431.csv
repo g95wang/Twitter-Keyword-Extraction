@@ -1,0 +1,15 @@
+Not,not,not,208798,PART,neg,True
+to,to,to,324862,PART,aux,True
+name,name,name,196686,VERB,ROOT,True
+drop,drop,drop,93338,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True
+once,once,once,212661,ADV,advmod,True
+saw,see,see,283054,VERB,conj,False
+Chuck,Chuck,chuck,56514,PROPN,compound,False
+Norris,Norris,orris,214910,PROPN,nsubj,False
+eating,eat,eat,94953,VERB,ccomp,False
+murder,murder,murder,195668,NOUN,compound,False
+hornets,hornet,hornet,143851,NOUN,dobj,False
+like,like,like,172172,SCONJ,prep,False
+jalapeo,jalapeo,jalapeno,160206,PROPN,compound,False
+poppers,popper,popper,243270,NOUN,pobj,False

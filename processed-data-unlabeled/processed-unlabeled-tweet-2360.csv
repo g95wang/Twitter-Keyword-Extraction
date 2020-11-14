@@ -1,0 +1,14 @@
+m,be,be,29345,VERB,ROOT,False
+trying,try,try,329065,VERB,xcomp,False
+very,very,very,358514,ADV,advmod,True
+hard,hard,hard,133614,ADV,advmod,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,xcomp,True
+this,this,this,322217,DET,nsubj,True
+some,some,some,297029,DET,det,True
+attention,attention,attention,23026,NOUN,ccomp,False
+appalling,appalling,appalling,17540,ADJ,npadvmod,False
+the,the,the,320691,DET,det,True
+things,thing,thing,321869,NOUN,dobj,False
+ve,have,have,134390,VERB,aux,False
+hear,hear,hear,134794,VERB,relcl,False

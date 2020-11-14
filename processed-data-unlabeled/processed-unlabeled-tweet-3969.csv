@@ -1,0 +1,11 @@
+Retweet,Retweet,etwee,105245,PROPN,compound,False
+Target,Target,target,316574,PROPN,compound,False
+Rt,Rt,rt,275072,PROPN,ROOT,False
+'s,'s,s,275971,PART,case,True
+in,in,in,149313,ADP,prep,True
+min,min,min,187647,NOUN,compound,False
+Tarakians,Tarakians,arabians,18308,PROPN,nsubj,False
+Let,let,let,170875,VERB,ROOT,False
+show,show,show,289042,VERB,ccomp,True
+power,power,power,245001,NOUN,dobj,False
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,ROOT,False

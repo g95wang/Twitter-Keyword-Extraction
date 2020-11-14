@@ -1,0 +1,13 @@
+Undergoing,undergo,undergo,339271,VERB,csubj,False
+a,a,a,0,DET,det,True
+personal,personal,personal,231959,ADJ,amod,False
+change,change,change,52470,NOUN,dobj,False
+could,could,could,70511,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+very,very,very,358514,ADV,advmod,True
+stimulating,stimulating,stimulating,304640,ADJ,acomp,False
+now,now,now,209199,ADV,advmod,True
+tha,tha,tha,320422,NOUN,npadvmod,False
+More,More,more,193383,ADJ,ROOT,True
+for,for,for,116301,ADP,prep,True
+Gemini,Gemini,gemini,123313,PROPN,pobj,False

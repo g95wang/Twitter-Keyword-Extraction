@@ -1,0 +1,10 @@
+if,if,if,146980,SCONJ,mark,True
+anyone,anyone,anyone,13244,PRON,nsubj,True
+deserves,deserve,deserve,82519,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+'s,be,be,29345,AUX,ROOT,True
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+such,such,such,309936,ADJ,amod,True
+bs,bs,bs,41895,NOUN,attr,False

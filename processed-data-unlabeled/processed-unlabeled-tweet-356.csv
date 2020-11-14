@@ -1,0 +1,17 @@
+'ve,have,have,134390,AUX,aux,True
+read,read,read,261551,VERB,ROOT,False
+a,a,a,0,DET,det,True
+bit,bit,bit,35156,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+dededestruction,dededestruction,destruction,82978,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True
+the,the,the,320691,DET,det,True
+same,same,same,277518,ADJ,amod,True
+author,author,author,23808,NOUN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+have,have,have,134390,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+gotten,get,get,124419,VERB,conj,False
+to,to,to,324862,ADP,aux,True
+punpun,punpun,pungapung,256638,PROPN,xcomp,False
+yet,yet,yet,146952,ADV,advmod,True

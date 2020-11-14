@@ -1,0 +1,10 @@
+British,british,british,40996,ADJ,amod,False
+Prime,Prime,prime,250501,PROPN,compound,False
+Minister,Minister,minister,187927,PROPN,compound,False
+Boris,Boris,boris,38447,PROPN,compound,False
+Johnson,Johnson,johnson,161569,PROPN,nsubj,False
+tests,test,test,319741,VERB,ROOT,False
+positive,positive,positive,243805,ADJ,oprd,False
+for,for,for,116301,ADP,prep,True
+Corona,Corona,corona,69428,PROPN,compound,False
+Virus,Virus,virus,360286,PROPN,pobj,False

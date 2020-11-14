@@ -1,0 +1,17 @@
+Absolutely,absolutely,absolutely,985,ADV,advmod,False
+agree,agree,agree,6445,VERB,ROOT,False
+Suspect,Suspect,suspect,313718,PROPN,npadvmod,False
+'ll,will,will,365768,VERB,aux,True
+have,have,have,134390,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+make,make,make,178090,VERB,xcomp,True
+do,do,do,90528,AUX,ccomp,True
+with,with,with,366582,ADP,prep,True
+a,a,a,0,DET,det,True
+period,period,period,231096,NOUN,pobj,False
+hopefully,hopefully,hopefully,143677,ADV,advmod,False
+short,short,short,288895,ADJ,amod,False
+of,of,of,211535,ADP,prep,True
+a,a,a,0,DET,det,True
+game,game,game,121666,NOUN,pobj,False
+barely,barely,barely,27916,ADV,advmod,False

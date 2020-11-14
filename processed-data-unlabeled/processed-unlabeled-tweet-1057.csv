@@ -1,0 +1,15 @@
+maybe,maybe,maybe,177755,ADV,advmod,False
+today,today,today,325003,NOUN,poss,False
+'s,be,be,29345,AUX,case,True
+the,the,the,320691,DET,det,True
+day,day,day,76257,NOUN,ROOT,False
+when,when,when,364637,ADV,advmod,True
+the,the,the,320691,DET,det,True
+cat,cat,cat,49166,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+finally,finally,finally,112856,ADV,advmod,False
+tell,tell,tell,318356,VERB,relcl,False
+how,how,how,144540,ADV,advmod,True
+got,get,get,124419,VERB,ccomp,False
+so,so,so,295959,ADV,advmod,True
+handsome,handsome,handsome,133283,ADJ,acomp,False

@@ -1,0 +1,17 @@
+Schumer,Schumer,chaumer,53186,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+Pelosi,Pelosi,peliosis,229296,PROPN,conj,False
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+care,care,care,47901,VERB,ROOT,False
+about,about,about,756,ADP,prep,True
+Americans,Americans,americans,10314,PROPN,pobj,False
+Only,only,only,212848,ADV,advmod,True
+and,and,and,12285,CCONJ,cc,True
+political,political,political,242538,ADJ,amod,False
+agenda,agenda,agenda,5995,NOUN,conj,False
+The,the,the,320691,DET,det,True
+unnecessary,unnecessary,unnecessary,346814,ADJ,amod,False
+items,item,item,159501,NOUN,ROOT,False
+wanted,want,want,362465,VERB,relcl,False
+i,i,i,145455,PRON,dobj,True

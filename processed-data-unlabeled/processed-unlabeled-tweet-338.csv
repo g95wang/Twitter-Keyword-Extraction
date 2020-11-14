@@ -1,0 +1,11 @@
+The,the,the,320691,DET,det,True
+answer,answer,answer,13962,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+right,right,right,272806,ADJ,advmod,False
+in,in,in,149313,ADP,prep,True
+front,front,front,119330,NOUN,pobj,True
+of,of,of,211535,ADP,prep,True
+face,face,face,108932,NOUN,pobj,False
+if,if,if,146980,SCONJ,mark,True
+just,just,just,162503,ADV,advmod,True
+look,look,look,175060,VERB,advcl,False

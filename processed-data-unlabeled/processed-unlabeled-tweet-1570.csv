@@ -1,0 +1,11 @@
+rt,rt,rt,275072,PROPN,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+'ll,will,will,365768,VERB,aux,True
+make,make,make,178090,VERB,ROOT,True
+a,a,a,0,DET,det,True
+go,go,go,127161,NOUN,amod,True
+live,live,live,173931,ADJ,amod,False
+header,header,header,134601,NOUN,dobj,False
+that,that,that,320639,DET,nsubj,True
+matches,match,match,181035,VERB,relcl,False
+pfp,pfp,fp,118119,NOUN,dobj,False

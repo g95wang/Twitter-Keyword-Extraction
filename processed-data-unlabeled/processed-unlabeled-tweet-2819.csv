@@ -1,0 +1,17 @@
+Nowhere,nowhere,nowhere,209212,ADV,ROOT,True
+to,to,to,324862,PART,aux,True
+go,go,go,127161,VERB,advcl,True
+this,this,this,322217,DET,det,True
+weekend,weekend,weekend,363767,NOUN,dobj,False
+Escape,escape,escape,104129,VERB,pobj,False
+with,with,with,366582,ADP,prep,True
+a,a,a,0,DET,det,True
+new,new,new,199367,ADJ,amod,False
+book,book,book,38039,NOUN,pobj,False
+The,the,the,320691,DET,det,True
+Chamala,Chamala,chamal,52251,PROPN,compound,False
+Quest,Quest,quest,258407,PROPN,ROOT,False
+ActionAdventure,ActionAdventure,coadventure,60897,PROPN,nmod,False
+Thriller,thriller,thriller,322687,NOUN,appos,False
+Humor,Humor,humor,145033,PROPN,compound,False
+Backbeat,Backbeat,backbeat,25719,PROPN,appos,False

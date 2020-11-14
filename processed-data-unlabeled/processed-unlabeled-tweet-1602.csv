@@ -1,0 +1,9 @@
+When,when,when,364637,ADV,advmod,True
+play,play,play,238701,VERB,advcl,False
+the,the,the,320691,DET,det,True
+game,game,game,121666,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+thrones,throne,throne,322803,NOUN,pobj,False
+win,win,win,365877,VERB,ROOT,False
+or,or,or,213904,CCONJ,cc,True
+die,die,die,85120,VERB,conj,False

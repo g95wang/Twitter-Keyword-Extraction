@@ -1,0 +1,16 @@
+get,get,get,124419,AUX,ROOT,True
+well,well,well,364011,ADJ,acomp,True
+soon,soon,soon,297339,ADV,advmod,False
+need,need,need,197910,VERB,ROOT,False
+more,more,more,193383,ADJ,dobj,True
+like,like,like,172172,SCONJ,prep,False
+around,around,around,20104,ADP,prep,True
+the,the,the,320691,DET,det,True
+country,country,country,71230,NOUN,pobj,False
+would,would,would,367745,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+far,far,far,109839,ADV,advmod,False
+better,well,well,364011,ADJ,amod,False
+place,place,place,238538,NOUN,pobj,False

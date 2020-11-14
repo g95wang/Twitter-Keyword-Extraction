@@ -1,0 +1,11 @@
+i,i,i,145455,PRON,nsubj,True
+keep,keep,keep,163579,VERB,ROOT,True
+hearing,hear,hear,134794,VERB,xcomp,False
+this,this,this,322217,DET,det,True
+christian,christian,christian,56131,ADJ,amod,False
+dior,dior,digor,85528,NOUN,compound,False
+remix,remix,remix,267373,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+i,i,i,145455,PRON,nsubj,True
+just,just,just,162503,ADV,advmod,True
+wanna,wanna,wanna,362445,VERB,ROOT,False

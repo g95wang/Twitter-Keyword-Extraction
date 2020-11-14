@@ -1,0 +1,15 @@
+few,few,few,111900,ADJ,amod,True
+things,thing,thing,321869,NOUN,nsubj,False
+hollie,hollie,hollies,142493,PROPN,compound,False
+rose,rose,rose,274457,NOUN,amod,False
+has,have,have,134390,AUX,ROOT,True
+bedn,bedn,beden,30036,NOUN,dobj,False
+doing,do,do,90528,VERB,acl,True
+today,today,today,325003,NOUN,npadvmod,False
+reading,read,read,261551,VERB,nsubj,False
+purplemash,purplemash,purples,257024,NOUN,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+making,make,make,178090,VERB,conj,False
+flags,flag,flag,113704,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+VEDay,VEDay,veda,357634,PROPN,pobj,False

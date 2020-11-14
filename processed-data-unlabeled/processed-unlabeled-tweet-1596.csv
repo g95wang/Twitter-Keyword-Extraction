@@ -1,0 +1,15 @@
+Minneapolis,Minneapolis,minneapolis,187970,PROPN,compound,False
+gang,gang,gang,121842,NOUN,compound,False
+factions,faction,faction,109040,NOUN,nsubj,False
+split,split,split,300565,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+evolve,evolve,evolve,106327,VERB,conj,False
+fueled,fuel,fuel,119783,VERB,acl,False
+by,by,by,33133,ADP,agent,True
+social,social,social,296098,ADJ,amod,False
+media,medium,medium,182217,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+old,old,old,212002,ADJ,amod,False
+beefs,beefs,beefs,30319,PROPN,compound,False
+Star,Star,star,302844,PROPN,compound,False
+Tribune,Tribune,tribune,329276,PROPN,conj,False

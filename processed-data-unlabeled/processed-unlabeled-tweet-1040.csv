@@ -1,0 +1,11 @@
+elon,elon,elon,97752,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+grimes,grime,grime,129894,NOUN,conj,False
+be,be,be,29345,AUX,ROOT,True
+like,like,like,172172,SCONJ,mark,False
+X,X,x,368209,PROPN,dep,False
+come,come,come,63721,VERB,advcl,False
+downstairs,downstairs,downstairs,92322,ADV,advmod,False
+pb&amp;j,pb&amp;j,abamp,82,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+ready,ready,ready,261587,ADJ,acomp,False

@@ -1,0 +1,10 @@
+These,these,these,321594,DET,det,True
+boys,boy,boy,37378,NOUN,nsubj,False
+ai,be,be,29345,VERB,ROOT,False
+nt,not,not,208798,PART,neg,False
+shit,shit,shit,288544,INTJ,acomp,False
+but,but,but,43550,CCONJ,cc,True
+m,be,be,29345,VERB,conj,False
+not,not,not,208798,PART,neg,True
+here,here,here,136991,ADV,advmod,True
+for,for,for,116301,ADP,prep,True

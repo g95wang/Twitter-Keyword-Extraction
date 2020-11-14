@@ -1,0 +1,16 @@
+Looks,look,look,175060,VERB,ROOT,False
+like,like,like,172172,SCONJ,prep,False
+a,a,a,0,DET,det,True
+third,third,third,322055,ADJ,amod,True
+rate,rate,rate,260983,NOUN,pobj,False
+Grandstander,Grandstander,grandstander,128896,PROPN,nsubj,False
+named,name,name,196686,VERB,relcl,False
+a,a,a,0,DET,det,True
+Congressman,Congressman,congressman,66269,PROPN,appos,False
+from,from,from,119298,ADP,prep,True
+unfortunately,unfortunately,unfortunately,342613,ADV,advmod,False
+a,a,a,0,DET,det,True
+truly,truly,truly,331555,ADV,advmod,False
+GREAT,great,great,129442,ADJ,amod,False
+State,State,state,303029,PROPN,npadvmod,False
+K,K,k,162637,PROPN,npadvmod,False

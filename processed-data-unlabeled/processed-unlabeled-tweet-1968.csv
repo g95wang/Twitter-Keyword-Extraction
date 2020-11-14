@@ -1,0 +1,16 @@
+Feedback,feedback,feedback,110857,NOUN,ROOT,False
+regarding,regard,regard,265530,VERB,prep,True
+Reilance,reilance,relance,266716,NOUN,pobj,False
+jioMart,jioMart,comart,63600,PROPN,ROOT,False
+Ordering,ordering,ordering,214224,NOUN,amod,False
+process,process,process,251194,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+simple,simple,simple,291047,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+user,user,user,355977,NOUN,compound,False
+interface,interface,interface,154905,NOUN,nsubj,False
+is,be,be,29345,AUX,conj,True
+fine,fine,fine,112898,ADJ,acomp,False
+No,no,no,200529,DET,det,True
+problem,problem,problem,251071,NOUN,compound,False
+encount,encount,encounter,99475,NOUN,ROOT,False

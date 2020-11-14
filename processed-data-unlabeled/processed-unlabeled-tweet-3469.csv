@@ -1,0 +1,16 @@
+'re,be,be,29345,AUX,aux,True
+giving,give,give,125692,VERB,ROOT,False
+away,away,away,24923,ADP,prt,False
+in,in,in,149313,ADP,prep,True
+BNB,bnb,bb,29314,NOUN,pobj,False
+To,to,to,324862,PART,aux,True
+enter,enter,enter,101211,VERB,ROOT,False
+Customize,customize,customize,75720,VERB,ROOT,False
+Binance,Binance,finance,112858,PROPN,compound,False
+Futures,Futures,futures,120716,PROPN,compound,False
+trading,trading,trading,327270,NOUN,compound,False
+interface,interface,interface,154905,NOUN,dobj,False
+Post,post,post,243900,VERB,ROOT,False
+a,a,a,0,DET,det,True
+screenshot,screenshot,screeno,281717,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True

@@ -1,0 +1,16 @@
+Sending,send,send,285228,VERB,ROOT,False
+pics,pic,pic,235778,NOUN,dobj,False
+off,off,off,211539,ADP,prep,True
+month,month,month,192909,NOUN,nmod,False
+old,old,old,212002,ADJ,amod,False
+babycat,babycat,babysat,25541,NOUN,pobj,False
+Tyga,Tyga,tyg,323430,PROPN,appos,False
+to,to,to,324862,ADP,dative,True
+anyone,anyone,anyone,13244,PRON,pobj,True
+which,which,which,364730,DET,nsubj,True
+likes,like,like,172172,VERB,relcl,False
+this,this,this,322217,DET,det,True
+post,post,post,243900,NOUN,dobj,False
+later,later,later,168843,ADV,advmod,False
+this,this,this,322217,DET,det,True
+evening,evening,evening,106097,NOUN,npadvmod,False

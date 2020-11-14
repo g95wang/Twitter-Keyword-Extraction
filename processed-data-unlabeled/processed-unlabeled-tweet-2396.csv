@@ -1,0 +1,15 @@
+now,now,now,209199,ADV,advmod,True
+have,have,have,134390,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+time,time,time,323746,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+make,make,make,178090,VERB,relcl,True
+limited,limited,limited,172398,ADJ,amod,False
+edition,edition,edition,95779,NOUN,compound,False
+cues,cue,cue,74617,NOUN,dobj,False
+The,the,the,320691,DET,det,True
+first,first,first,113286,ADJ,amod,True
+one,one,one,212715,NOUN,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+nearly,nearly,nearly,197611,ADV,advmod,False
+ready,ready,ready,261587,ADJ,acomp,False

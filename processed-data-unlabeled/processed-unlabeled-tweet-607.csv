@@ -1,0 +1,15 @@
+IU,IU,imu,149311,PROPN,nmod,False
+Feat,Feat,feat,110640,PROPN,ROOT,False
+amp,amp,amp,10991,NOUN,conj,False
+Prod,Prod,prod,251504,PROPN,ROOT,False
+SUGA,SUGA,sugan,310201,PROPN,ROOT,False
+of,of,of,211535,ADP,prep,True
+BTS,BTS,bats,29070,PROPN,pobj,False
+KST,KST,kist,165149,PROPN,appos,False
+MelOn,melon,melon,183049,NOUN,appos,False
+Genie,Genie,genie,123581,PROPN,appos,False
+Bugs,bug,bug,42278,NOUN,appos,False
+Soribada,Soribada,oribatidae,214516,PROPN,appos,False
+FLO,FLO,flo,114794,PROPN,appos,False
+RAK,RAK,arak,18399,PROPN,compound,False
+i,i,i,145455,PROPN,appos,True

@@ -1,0 +1,13 @@
+mean,mean,mean,181735,VERB,ROOT,False
+not,not,not,208798,PART,neg,True
+a,a,a,0,DET,det,True
+hate,hate,hate,134216,NOUN,compound,False
+crime,crime,crime,72941,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+call,call,call,45246,VERB,relcl,True
+someone,someone,someone,297038,PRON,dobj,True
+a,a,a,0,DET,det,True
+welfare,welfare,welfare,363999,NOUN,compound,False
+queen,queen,queen,258246,NOUN,oprd,False
+not,not,not,208798,PART,neg,True
+eve,eve,eve,106060,NOUN,ROOT,False

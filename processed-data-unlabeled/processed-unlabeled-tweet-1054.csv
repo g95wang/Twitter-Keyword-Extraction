@@ -1,0 +1,12 @@
+think,think,think,321897,VERB,ROOT,False
+an,an,an,11448,DET,det,True
+African,african,african,5584,ADJ,amod,False
+man,man,man,178862,NOUN,compound,False
+issue,issue,issue,159379,NOUN,ccomp,False
+of,of,of,211535,ADP,prep,True
+wanting,want,want,362465,VERB,pcomp,False
+to,to,to,324862,PART,aux,True
+hold,hold,hold,142390,VERB,xcomp,False
+on,on,on,212644,ADP,prt,True
+to,to,to,324862,ADP,prep,True
+power,power,power,245001,NOUN,pobj,False

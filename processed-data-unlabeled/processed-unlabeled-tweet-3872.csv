@@ -1,0 +1,11 @@
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+care,care,care,47901,VERB,ccomp,False
+feel,feel,feel,110884,VERB,ccomp,False
+that,that,that,320639,SCONJ,mark,True
+are,be,be,29345,AUX,ccomp,True
+the,the,the,320691,DET,det,True
+cutest,cut,cut,75735,ADJ,attr,False
+ah,ah,ah,6618,INTJ,intj,False
+mother,mother,mother,193933,NOUN,nsubj,False
+loves,love,love,175534,VERB,ROOT,False

@@ -1,0 +1,16 @@
+What,what,what,364447,PRON,nsubj,True
+happened,happen,happen,133505,VERB,csubj,False
+to,to,to,324862,ADP,prep,True
+'s,be,be,29345,AUX,ccomp,True
+not,not,not,208798,PART,neg,True
+fault,fault,fault,110398,NOUN,attr,False
+the,the,the,320691,DET,det,True
+ChineseVirus,ChineseVirus,chinenses,54593,PROPN,nsubj,False
+came,come,come,63721,VERB,ROOT,False
+from,from,from,119298,ADP,prep,True
+China,China,china,54539,PROPN,pobj,False
+that,that,that,320639,SCONJ,mark,True
+all,all,all,8522,DET,appos,True
+should,should,should,288990,VERB,aux,True
+n't,not,not,208798,PART,neg,True
+suffe,suffe,suffer,310094,VERB,relcl,False

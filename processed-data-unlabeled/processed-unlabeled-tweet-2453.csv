@@ -1,0 +1,13 @@
+Then,then,then,320906,ADV,advmod,True
+money,money,money,191829,NOUN,nsubj,False
+move,move,move,194383,VERB,ROOT,True
+out,out,out,216108,ADV,prt,True
+cause,cause,cause,50043,VERB,conj,False
+been,be,be,29345,AUX,nsubj,True
+a,a,a,0,DET,det,True
+year,year,year,146706,NOUN,npadvmod,False
+and,and,and,12285,CCONJ,cc,True
+more,more,more,193383,ADJ,nummod,True
+now,now,now,209199,ADV,advmod,True
+sleeping,sleep,sleep,293885,VERB,ccomp,False
+out,out,out,216108,ADP,prt,True

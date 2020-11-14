@@ -1,0 +1,11 @@
+Make,make,make,178090,VERB,ROOT,True
+sure,sure,sure,313361,ADJ,acomp,False
+put,put,put,257261,VERB,ccomp,True
+all,all,all,8522,DET,det,True
+paperwork,paperwork,paperwork,225183,NOUN,dobj,False
+out,out,out,216108,ADP,prt,True
+not,not,not,208798,PART,neg,True
+cherry,cherry,cherry,53868,NOUN,dep,False
+pick,pick,pick,235851,VERB,dep,False
+what,what,what,364447,PRON,dobj,True
+want,want,want,362465,VERB,ccomp,False

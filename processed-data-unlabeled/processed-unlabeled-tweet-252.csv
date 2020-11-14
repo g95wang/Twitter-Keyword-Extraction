@@ -1,0 +1,16 @@
+how,how,how,144540,ADV,advmod,True
+can,can,can,45964,VERB,aux,True
+white,white,white,365106,ADJ,amod,False
+people,people,people,230162,NOUN,nsubj,False
+get,get,get,124419,AUX,ROOT,True
+away,away,away,24923,ADV,advmod,False
+with,with,with,366582,ADP,prep,True
+not,not,not,208798,PART,neg,True
+socially,socially,socially,296122,ADV,advmod,False
+distancing,distance,distance,89691,VERB,pcomp,False
+but,but,but,43550,CCONJ,cc,True
+black,black,black,35431,ADJ,amod,False
+people,people,people,230162,NOUN,nsubjpass,False
+get,get,get,124419,VERB,auxpass,True
+attacked,attack,attack,22933,VERB,conj,False
+and,and,and,12285,CCONJ,cc,True

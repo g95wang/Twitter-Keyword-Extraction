@@ -1,0 +1,6 @@
+The,the,the,320691,DET,det,True
+Political,political,political,242538,ADJ,amod,False
+Media,medium,medium,182217,NOUN,nsubj,False
+Are,be,be,29345,AUX,ROOT,True
+Failing,fail,fail,109249,VERB,compound,False
+America,America,america,10297,PROPN,attr,False

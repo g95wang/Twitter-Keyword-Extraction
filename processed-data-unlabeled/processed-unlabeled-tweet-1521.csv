@@ -1,0 +1,13 @@
+Action,Action,action,3227,PROPN,nsubjpass,False
+is,be,be,29345,AUX,auxpass,True
+needed,need,need,197910,VERB,ccomp,False
+Justice,Justice,justice,162510,PROPN,dobj,False
+for,for,for,116301,ADP,prep,True
+all,all,all,8522,DET,det,True
+employees,employee,employee,98836,NOUN,pobj,False
+Ethics,ethic,ethic,104952,NOUN,nsubjpass,False
+in,in,in,149313,ADP,prep,True
+business,business,business,43481,NOUN,pobj,False
+must,must,must,196148,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+maintained,maintain,maintain,177933,VERB,ROOT,False

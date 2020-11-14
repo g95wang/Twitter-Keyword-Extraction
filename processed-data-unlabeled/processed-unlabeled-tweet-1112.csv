@@ -1,0 +1,15 @@
+really,really,really,261766,ADV,advmod,True
+have,have,have,134390,AUX,ROOT,True
+no,no,no,200529,DET,det,True
+complaints,complaint,complaint,64595,NOUN,dobj,False
+m,be,be,29345,VERB,ROOT,False
+well,well,well,364011,ADV,advmod,True
+taken,take,take,315491,VERB,ROOT,False
+care,care,care,47901,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+in,in,in,149313,ADP,prep,True
+all,all,all,8522,DET,det,True
+aspects,aspect,aspect,21373,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+m,be,be,29345,VERB,ROOT,False
+healthy,healthy,healthy,134775,ADJ,acomp,False

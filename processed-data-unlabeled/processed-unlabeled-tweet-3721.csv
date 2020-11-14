@@ -1,0 +1,15 @@
+In,in,in,149313,ADP,prep,True
+final,final,final,112840,ADJ,amod,False
+series,series,series,286094,NOUN,compound,False
+story,story,story,305411,NOUN,pobj,False
+owner,owner,owner,222075,NOUN,compound,False
+Dr.,Dr.,dr,92424,PROPN,compound,False
+Beth,Beth,beth,32715,PROPN,nsubj,False
+speaks,speak,speak,298684,VERB,ROOT,False
+about,about,about,756,ADP,prep,True
+how,how,how,144540,ADV,advmod,True
+the,the,the,320691,DET,det,True
+pandemic,pandemic,pandemic,224465,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+causing,cause,cause,50043,VERB,pcomp,False
+all,all,all,8522,DET,dobj,True

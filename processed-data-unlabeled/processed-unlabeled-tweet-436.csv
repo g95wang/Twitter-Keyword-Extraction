@@ -1,0 +1,8 @@
+How,how,how,144540,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+politely,politely,politely,242509,ADV,advmod,False
+tell,tell,tell,318356,VERB,ROOT,False
+someone,someone,someone,297038,PRON,dobj,True
+want,want,want,362465,VERB,relcl,False
+to,to,to,324862,PART,aux,True
+fvck,fvck,fack,109016,VERB,xcomp,False

@@ -1,0 +1,16 @@
+Get,get,get,124419,AUX,ROOT,True
+ready,ready,ready,261587,ADJ,acomp,False
+for,for,for,116301,ADP,prep,True
+the,the,the,320691,DET,det,True
+trend,trend,trend,328944,NOUN,pobj,False
+#singularity,#singularity,singularity,291748,INTJ,ROOT,False
+hope,hope,hope,143674,VERB,ccomp,False
+get,get,get,124419,VERB,ccomp,True
+to,to,to,324862,ADP,aux,True
+witness,witness,witness,366708,NOUN,xcomp,False
+yesterday,yesterday,yesterday,146935,NOUN,poss,False
+'s,'s,s,275971,PART,case,True
+tweets,tweet,tweet,333246,NOUN,compound,False
+energy,energy,energy,100134,NOUN,dobj,False
+today,today,today,325003,NOUN,npadvmod,False
+lol,lol,lola,174784,INTJ,ROOT,False

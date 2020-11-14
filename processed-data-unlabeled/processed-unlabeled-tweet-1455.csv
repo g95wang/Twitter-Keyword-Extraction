@@ -1,0 +1,11 @@
+The,the,the,320691,DET,det,True
+way,way,way,361946,NOUN,nsubj,False
+called,call,call,45246,VERB,relcl,False
+GOT7,GOT7,got,128258,PROPN,dobj,False
+brothers,brother,brother,41578,NOUN,dobj,False
+is,be,be,29345,AUX,ROOT,True
+someone,someone,someone,297038,PRON,attr,True
+cutting,cut,cut,75735,VERB,acl,False
+onions,onion,onion,212818,NOUN,dobj,False
+GOT7,got7,got,128258,VERB,ROOT,False
+JacksonWang,JacksonWang,jacksonian,159965,PROPN,appos,False

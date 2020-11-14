@@ -1,0 +1,14 @@
+all,all,all,8522,DET,det,True
+data,datum,datum,77210,NOUN,nsubj,False
+shows,show,show,289042,VERB,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+Democrats,Democrats,democrats,80734,PROPN,nsubj,False
+are,be,be,29345,AUX,ccomp,True
+monolithic,monolithic,monolithic,192388,ADJ,acomp,False
+in,in,in,149313,ADP,prep,True
+thinking,thinking,thinking,321905,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+just,just,just,162503,ADV,advmod,True
+love,love,love,175534,NOUN,conj,False
+echo,echo,echo,95265,NOUN,compound,False
+chambers,chamber,chamber,52254,NOUN,dobj,False

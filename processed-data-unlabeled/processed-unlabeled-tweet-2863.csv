@@ -1,0 +1,10 @@
+SDC,sdc,sdlc,282380,NOUN,ROOT,False
+TLRY,tlry,tlr,324850,NOUN,compound,False
+PLAYERS,player,player,238740,NOUN,nsubj,False
+STARTING,start,start,302958,VERB,ROOT,False
+TO,to,to,324862,PART,aux,True
+ROLL,roll,roll,273944,VERB,xcomp,False
+OUT,out,out,216108,ADP,prt,True
+RECENT,recent,recent,262709,ADJ,amod,False
+PROFITABLE,profitable,profitable,251764,NOUN,compound,False
+POSITIONS,position,position,243797,NOUN,dobj,False

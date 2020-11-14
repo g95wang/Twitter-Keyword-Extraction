@@ -1,0 +1,15 @@
+In,in,in,149313,ADP,prep,True
+experience,experience,experience,107708,NOUN,pobj,False
+COMPANIONSHIP,COMPANIONSHIP,companionship,64389,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+byproduct,byproduct,byproduct,34699,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+excellent,excellent,excellent,106584,ADJ,amod,False
+CONVERSATIONS,conversation,conversation,68015,NOUN,pobj,False
+birthed,birth,birth,34902,VERB,acl,False
+by,by,by,33133,ADP,agent,True
+honest,honest,honest,143389,ADJ,amod,False
+LISTENING,listening,listening,173510,NOUN,pobj,False
+which,which,which,364730,DET,nsubj,True
+can,can,can,45964,VERB,relcl,True

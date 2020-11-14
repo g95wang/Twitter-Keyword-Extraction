@@ -1,0 +1,5 @@
+When,when,when,364637,ADV,advmod,True
+show,show,show,289042,VERB,ccomp,True
+a,a,a,0,DET,det,True
+good,good,good,127869,ADJ,amod,False
+meme,meme,mneme,190869,NOUN,dobj,False

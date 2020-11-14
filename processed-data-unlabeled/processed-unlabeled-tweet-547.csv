@@ -1,0 +1,17 @@
+GIVEAWAY,GIVEAWAY,giveaway,125695,PROPN,ROOT,False
+will,will,will,365768,VERB,aux,True
+win,win,win,365877,VERB,ROOT,False
+set,set,set,286614,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+hoops,hoop,hoop,143601,NOUN,pobj,False
+amp,amp,amp,10991,PROPN,conj,False
+a,a,a,0,DET,det,True
+mystery,mystery,mystery,190222,NOUN,compound,False
+gift,gift,gift,124755,NOUN,appos,False
+-follow,-follow,follow,115989,VERB,ROOT,False
+-retweet,-retweet,etwee,105245,PROPN,dep,False
+-like,-like,like,172172,ADJ,punct,False
+friends,friend,friend,118947,NOUN,ROOT,False
+Extra,extra,extra,108417,ADJ,amod,False
+entries,entry,entry,101704,NOUN,ROOT,False

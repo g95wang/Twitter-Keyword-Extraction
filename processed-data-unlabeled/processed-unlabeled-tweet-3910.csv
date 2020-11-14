@@ -1,0 +1,17 @@
+Wishing,wish,wish,366457,VERB,ROOT,False
+a,a,a,0,DET,det,True
+person,person,person,231951,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+golden,golden,golden,127499,ADJ,amod,False
+heart,heart,heart,134817,NOUN,pobj,False
+Many,many,many,179225,ADJ,amod,True
+more,more,more,193383,ADV,advmod,True
+happy,happy,happy,133513,ADJ,amod,False
+returns,return,return,270970,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+day,day,day,76257,NOUN,pobj,False
+May,May,may,177739,VERB,aux,True
+future,future,future,120712,ADJ,amod,False
+projects,project,project,252003,NOUN,nsubj,False
+are,be,be,29345,AUX,relcl,True

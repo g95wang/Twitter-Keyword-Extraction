@@ -1,0 +1,13 @@
+when,when,when,364637,ADV,advmod,True
+shampoo,shampoo,shampoo,287373,NOUN,nsubj,False
+says,say,say,276740,VERB,advcl,False
+damage,damage,damage,76498,NOUN,compound,False
+repair,repair,repair,267984,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True
+u,u,u,333554,PRON,nsubjpass,False
+are,be,be,29345,AUX,auxpass,True
+still,still,still,304511,ADV,advmod,True
+broken,break,break,40228,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+inside,inside,inside,153595,NOUN,pobj,False

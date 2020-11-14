@@ -1,0 +1,13 @@
+The,the,the,320691,DET,det,True
+top,top,top,325810,ADJ,amod,True
+quote,quote,quote,259156,NOUN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+from,from,from,119298,ADP,prep,True
+January,January,january,160353,PROPN,pobj,False
+the,the,the,320691,DET,det,True
+bottom,bottom,bottom,38820,NOUN,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+from,from,from,119298,ADP,prep,True
+yesterday,yesterday,yesterday,146935,NOUN,pobj,False
+on,on,on,212644,ADP,prep,True
+IMHE,IMHE,imphee,148687,PROPN,pobj,False

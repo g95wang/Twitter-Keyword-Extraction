@@ -1,0 +1,16 @@
+could,could,could,70511,VERB,aux,True
+rephrase,rephrase,rephrase,268202,VERB,ROOT,False
+this,this,this,322217,DET,dobj,True
+as,as,as,20837,SCONJ,prep,True
+the,the,the,320691,DET,det,True
+number,number,number,209515,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+people,people,people,230162,NOUN,pobj,False
+'re,be,be,29345,AUX,relcl,True
+willing,willing,willing,365803,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+condemn,condemn,condemn,65519,VERB,xcomp,False
+to,to,to,324862,PART,aux,True
+abject,abject,abject,498,VERB,advcl,False
+poverty,poverty,poverty,244975,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True

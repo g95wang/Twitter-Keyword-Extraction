@@ -1,0 +1,15 @@
+worried,worry,worry,367636,VERB,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+landlord,landlord,landlord,167973,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+becoming,become,become,29882,VERB,ccomp,True
+increasingly,increasingly,increasingly,150440,ADV,advmod,False
+addicted,addicted,addicted,3530,ADJ,acomp,False
+to,to,to,324862,ADP,prep,True
+wages,wage,wage,361819,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+should,should,should,288990,VERB,aux,True
+probably,probably,probably,251013,ADV,advmod,False
+be,be,be,29345,AUX,auxpass,True
+weaned,wean,wean,363507,VERB,conj,False
+off,off,off,211539,ADP,prep,True

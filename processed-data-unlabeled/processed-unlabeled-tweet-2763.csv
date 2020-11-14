@@ -1,0 +1,12 @@
+Check,check,check,53311,VERB,advcl,False
+out,out,out,216108,ADP,prt,True
+Gig,Gig,gig,124770,PROPN,dobj,False
+on,on,on,212644,ADP,prep,True
+Fiverr,Fiverr,fiver,113583,PROPN,pobj,False
+do,do,do,90528,AUX,ROOT,True
+web,web,web,363659,NOUN,compound,False
+research,research,research,269100,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+b2b,b2b,bb,29314,PROPN,conj,False
+lead,lead,lead,169508,NOUN,compound,False
+generation,generation,generation,123491,NOUN,appos,False

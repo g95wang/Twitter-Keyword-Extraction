@@ -1,0 +1,13 @@
+were,be,be,29345,AUX,ROOT,True
+parents,parent,parent,226369,NOUN,attr,False
+the,the,the,320691,DET,det,True
+last,last,last,168771,ADJ,amod,True
+ones,one,one,212715,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+pick,pick,pick,235851,VERB,relcl,False
+up,up,up,354457,ADP,prt,True
+from,from,from,119298,ADP,prep,True
+school,school,school,280423,NOUN,pobj,False
+or,or,or,213904,CCONJ,cc,True
+are,be,be,29345,AUX,conj,True
+normal,normal,normal,208534,ADJ,acomp,False

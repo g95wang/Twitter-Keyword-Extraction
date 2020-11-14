@@ -1,0 +1,14 @@
+when,when,when,364637,ADV,advmod,True
+jimin,jimin,jiminy,161252,PROPN,nsubj,False
+did,do,do,90528,AUX,advcl,True
+the,the,the,320691,DET,det,True
+invisible,invisible,invisible,157263,ADJ,amod,False
+box,box,box,39266,PROPN,compound,False
+challenge,challenge,challenge,52186,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+jin,jin,jin,161274,PROPN,conj,False
+tried,try,try,329065,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+do,do,do,90528,AUX,xcomp,True
+after,after,after,5615,ADV,prep,True
+and,and,and,12285,CCONJ,cc,True

@@ -1,0 +1,10 @@
+i,i,i,145455,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+feel,feel,feel,110884,VERB,ROOT,False
+brightwin,brightwin,bighting,33751,ADJ,amod,False
+selfie,selfie,selfcide,283525,NOUN,dobj,False
+tonight,tonight,tonight,325593,NOUN,npadvmod,False
+is,be,be,29345,AUX,ROOT,True
+just,just,just,162503,ADV,advmod,True
+or,or,or,213904,CCONJ,cc,True
+EP6,EP6,ep,101985,PROPN,conj,False

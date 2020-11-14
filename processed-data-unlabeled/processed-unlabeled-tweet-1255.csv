@@ -1,0 +1,16 @@
+Unfortunately,unfortunately,unfortunately,342613,ADV,advmod,False
+Canada,Canada,canada,45976,PROPN,nsubj,False
+has,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+problem,problem,problem,251071,NOUN,dobj,False
+Trudeaus,trudeaus,trudges,331512,NOUN,nmod,False
+state,state,state,303029,NOUN,npadvmod,False
+owned,own,own,222072,VERB,amod,False
+media,medium,medium,182217,NOUN,ROOT,False
+that,that,that,320639,DET,nsubj,True
+sells,sell,sell,283572,VERB,relcl,False
+lies,lie,lie,171801,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+hides,hide,hide,138351,VERB,conj,False
+the,the,the,320691,DET,det,True
+truth,truth,truth,331721,NOUN,dobj,False

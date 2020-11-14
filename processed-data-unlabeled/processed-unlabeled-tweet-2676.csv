@@ -1,0 +1,16 @@
+'s,be,be,29345,AUX,ROOT,True
+always,always,always,9710,ADV,advmod,True
+the,the,the,320691,DET,det,True
+every,every,every,106158,DET,det,True
+day,day,day,76257,NOUN,compound,False
+events,event,event,106111,NOUN,attr,False
+birthdays,birthday,birthday,34904,NOUN,conj,False
+and,and,and,12285,CCONJ,cc,True
+holidays,holiday,holiday,142436,NOUN,conj,False
+that,that,that,320639,DET,nsubj,True
+hurt,hurt,hurt,145284,VERB,relcl,False
+the,the,the,320691,DET,det,True
+most,most,most,193889,ADV,dobj,True
+'m,be,be,29345,AUX,ROOT,True
+sorry,sorry,sorry,297653,ADJ,acomp,False
+heart,heart,heart,134817,NOUN,dobj,False

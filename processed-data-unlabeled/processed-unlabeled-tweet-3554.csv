@@ -1,0 +1,11 @@
+Kannada,Kannada,kannada,163073,PROPN,compound,False
+Powerstar,Powerstar,powerstat,245021,PROPN,compound,False
+Puneeth,Puneeth,punese,256635,PROPN,compound,False
+Rajkumar,Rajkumar,rathnakumar,261019,PROPN,nsubj,False
+wishes,wish,wish,366457,VERB,ROOT,False
+Young,Young,young,157730,PROPN,compound,False
+Tiger,Tiger,tiger,323437,PROPN,compound,False
+NTR,NTR,entr,101618,PROPN,dobj,False
+on,on,on,212644,ADP,prep,True
+birthday,birthday,birthday,34904,NOUN,pobj,False
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,appos,False

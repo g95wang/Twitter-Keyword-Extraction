@@ -1,0 +1,12 @@
+Cameron,Cameron,cameroon,45704,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+Mark,Mark,mark,180142,PROPN,conj,False
+From,from,from,119298,ADP,prep,True
+Love,Love,love,175534,PROPN,pobj,False
+Is,be,be,29345,AUX,ROOT,True
+Blind,Blind,blind,36206,PROPN,compound,False
+Talk,Talk,talk,315639,PROPN,compound,False
+Quarantine,Quarantine,quarantine,257971,PROPN,compound,False
+Live,live,live,173931,VERB,attr,False
+via,via,via,359224,ADP,prep,True
+markcuevas#cameronha,markcuevas#cameronha,marcescent,179884,NOUN,pobj,False

@@ -1,0 +1,17 @@
+At,at,at,22372,ADP,ROOT,True
+a,a,a,0,DET,det,True
+time,time,time,323746,NOUN,pobj,False
+when,when,when,364637,ADV,advmod,True
+own,own,own,222072,ADJ,amod,True
+administration,administration,administration,4148,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+predicting,predict,predict,246928,VERB,relcl,False
+a,a,a,0,DET,det,True
+significant,significant,significant,290153,ADJ,amod,False
+increase,increase,increase,150431,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+COVID-19,covid-19,covid,71525,ADJ,nummod,False
+cases,case,case,48783,NOUN,pobj,False
+stable,stable,stable,302171,ADJ,amod,False
+genius,genius,genius,123630,NOUN,appos,False
+presid,presid,presaid,249213,ADJ,advmod,False

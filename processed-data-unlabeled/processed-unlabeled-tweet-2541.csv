@@ -1,0 +1,9 @@
+Do,do,do,90528,AUX,aux,True
+have,have,have,134390,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+pass,pass,pass,227250,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+USMLE,usmle,gusle,131542,NOUN,dobj,False
+or,or,or,213904,CCONJ,cc,True
+extraordinary,extraordinary,extraordinary,108565,ADJ,amod,False
+condition,condition,condition,65613,NOUN,conj,False

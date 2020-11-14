@@ -1,0 +1,15 @@
+know,know,know,165702,VERB,ROOT,False
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ccomp,True
+a,a,a,0,DET,det,True
+hard,hard,hard,133614,ADJ,amod,False
+decision,decision,decision,78397,NOUN,attr,False
+and,and,and,12285,CCONJ,cc,True
+senior,senior,senior,285285,NOUN,nsubj,False
+is,be,be,29345,AUX,conj,True
+sad,sad,sad,276441,ADJ,acomp,False
+but,but,but,43550,CCONJ,cc,True
+family,family,family,109591,NOUN,nsubj,False
+truly,truly,truly,331555,ADV,advmod,False
+appreciates,appreciate,appreciate,17903,VERB,conj,False
+t,t,t,314735,NOUN,dobj,False

@@ -1,0 +1,9 @@
+NO,no,no,200529,INTJ,intj,True
+THAT,that,that,320639,DET,nsubj,True
+WAS,be,be,29345,VERB,ROOT,True
+A,a,a,0,DET,det,True
+JOKE,joke,joke,161668,NOUN,compound,False
+IM,IM,im,147566,PROPN,compound,False
+SORRY,SORRY,sorry,297653,PROPN,nsubj,False
+COME,come,come,63721,NOUN,ccomp,False
+BACK,back,back,25705,ADV,advmod,True

@@ -1,0 +1,9 @@
+Terri,Terri,terri,319562,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+Ojoro,Ojoro,cotoro,70379,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+on,on,on,212644,ADP,prep,True
+Apple,Apple,apple,17774,PROPN,nmod,False
+Music,Music,music,195981,PROPN,nmod,False
+hot,hot,hot,144238,ADJ,amod,False
+tracks,track,track,327165,NOUN,pobj,False

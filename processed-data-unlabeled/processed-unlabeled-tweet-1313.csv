@@ -1,0 +1,16 @@
+TMWTGG,TMWTGG,mtg,194492,PROPN,nsubj,False
+gets,get,get,124419,VERB,ROOT,False
+a,a,a,0,DET,det,True
+little,little,little,173876,ADJ,advmod,False
+too,too,too,325685,ADV,advmod,True
+harsh,harsh,harsh,133986,ADJ,amod,False
+criticism,criticism,criticism,73491,NOUN,dobj,False
+does,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+shine,shine,shine,288344,VERB,ROOT,False
+as,as,as,20837,ADV,advmod,True
+well,well,well,364011,ADV,advmod,True
+due,due,due,93835,ADP,prep,True
+to,to,to,324862,ADP,pcomp,True
+nit,nit,nit,200307,NOUN,compound,False
+bein,bein,bein,30876,NOUN,pobj,False

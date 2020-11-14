@@ -1,0 +1,16 @@
+Too,too,too,325685,ADV,advmod,True
+lazy,lazy,lazy,169446,ADJ,ROOT,False
+to,to,to,324862,PART,aux,True
+read,read,read,261551,VERB,xcomp,False
+a,a,a,0,DET,det,True
+book,book,book,38039,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True
+can,can,can,45964,VERB,aux,True
+read,read,read,261551,VERB,conj,False
+comments,comment,comment,63980,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+people,people,people,230162,NOUN,pobj,False
+arguing,argue,argue,19578,VERB,acl,False
+in,in,in,149313,ADP,prep,True
+post,post,post,243900,NOUN,compound,False
+wtf,wtf,wf,364331,PROPN,pobj,False

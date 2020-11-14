@@ -1,0 +1,10 @@
+i,i,i,145455,PRON,nsubj,True
+mean,mean,mean,181735,VERB,parataxis,False
+mangoes,mango,mango,179184,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+like,like,like,172172,SCONJ,prep,False
+GREAT,GREAT,great,129442,PROPN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+i,i,i,145455,PRON,nsubj,True
+love,love,love,175534,VERB,ROOT,False
+watermelons,watermelon,watermelon,363212,NOUN,dobj,False

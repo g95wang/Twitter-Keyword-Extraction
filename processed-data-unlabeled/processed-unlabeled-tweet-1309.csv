@@ -1,0 +1,15 @@
+Article,Article,article,20674,PROPN,appos,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+Constitution,Constitution,constitution,67048,PROPN,compound,False
+states,state,state,303029,NOUN,pobj,False
+All,all,all,8522,DET,det,True
+minorities,minority,minority,188003,NOUN,npadvmod,False
+whether,whether,whether,364711,SCONJ,mark,True
+based,base,base,28484,VERB,acl,False
+on,on,on,212644,ADP,prep,True
+religion,religion,religion,266938,NOUN,pobj,False
+or,or,or,213904,CCONJ,cc,True
+language,language,language,168115,NOUN,conj,False
+shall,shall,shall,287261,VERB,dep,False
+h,h,h,131712,PROPN,appos,False

@@ -1,0 +1,9 @@
+Payroll,Payroll,payroll,223222,PROPN,compound,False
+Company,Company,company,64367,PROPN,nsubj,False
+ADP,ADP,adp,4370,PROPN,ROOT,False
+More,More,more,193383,ADJ,amod,True
+Than,than,than,320565,SCONJ,quantmod,True
+Jobs,job,job,161424,NOUN,nsubj,False
+Lost,lose,lose,175338,VERB,ROOT,False
+In,in,in,149313,ADP,prep,True
+April,April,april,18068,PROPN,pobj,False

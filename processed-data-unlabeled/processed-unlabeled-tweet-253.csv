@@ -1,0 +1,10 @@
+good,good,good,127869,ADJ,amod,False
+morning,morning,morning,193499,NOUN,compound,False
+friends,friend,friend,118947,NOUN,ROOT,False
+the,the,the,320691,DET,det,True
+clown,clown,clown,60597,PROPN,compound,False
+movie,movie,movie,194399,NOUN,nsubjpass,False
+was,be,be,29345,AUX,auxpass,True
+released,release,release,266810,VERB,ROOT,False
+months,month,month,192909,NOUN,npadvmod,False
+ago,ago,ago,6337,ADV,advmod,False

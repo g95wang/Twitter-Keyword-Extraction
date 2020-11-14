@@ -1,0 +1,14 @@
+Coronavirus,Coronavirus,coronavirus,69453,PROPN,compound,False
+Economic,Economic,economic,95376,PROPN,compound,False
+Impact,Impact,impact,148207,PROPN,ROOT,False
+Market,Market,market,180157,PROPN,compound,False
+Winners,Winners,winners,366209,PROPN,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+Losers,Losers,losers,175345,PROPN,conj,False
+of,of,of,211535,ADP,prep,True
+from,from,from,119298,ADP,prep,True
+Winners,winner,winner,366208,NOUN,pobj,False
+Online,online,online,212850,ADJ,amod,False
+communication,communication,communication,64246,NOUN,compound,False
+tools,tool,tool,325691,NOUN,appos,False
+Hom,hom,hom,142716,INTJ,ROOT,False

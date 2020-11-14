@@ -1,0 +1,11 @@
+what,what,what,364447,PRON,dobj,True
+else,else,else,97787,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+do,do,do,90528,AUX,xcomp,True
+after,after,after,5615,ADP,mark,True
+the,the,the,320691,DET,det,True
+quarantine,quarantine,quarantine,257971,NOUN,nsubj,False
+is,be,be,29345,AUX,advcl,True
+over,over,over,218092,ADV,advmod,True

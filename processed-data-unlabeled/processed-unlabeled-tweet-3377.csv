@@ -1,0 +1,10 @@
+MORPHER,morpher,morphea,193555,ADJ,ROOT,False
+AIRdROP,airdrop,airdrop,6886,NOUN,dep,False
+MORPHER,MORPHER,morphea,193555,PROPN,compound,False
+Tokens,Tokens,tokens,325213,PROPN,nsubj,False
+Must,Must,must,196148,VERB,aux,True
+complete,complete,complete,64635,VERB,ROOT,False
+KYC,KYC,kc,163466,PROPN,nsubj,False
+easy,easy,easy,94901,ADJ,amod,False
+Invite,invite,invite,157274,VERB,ROOT,False
+friends,friend,friend,118947,NOUN,dobj,False

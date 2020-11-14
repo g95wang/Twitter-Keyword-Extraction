@@ -1,0 +1,15 @@
+Narasimha,Narasimha,acrasia,2779,PROPN,nmod,False
+and,and,and,12285,CCONJ,cc,True
+Spiritual,Spiritual,spiritual,300131,PROPN,conj,False
+Evolution,Evolution,evolution,106312,PROPN,ROOT,False
+Best,good,good,127869,ADJ,nsubj,False
+wishes,wish,wish,366457,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+occasion,occasion,occasion,210642,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+Narasimha,Narasimha,acrasia,2779,PROPN,compound,False
+Jayanthi,Jayanthi,jayant,160136,PROPN,pobj,False
+Narasimha,Narasimha,acrasia,2779,PROPN,appos,False
+NarasimhaJayanthi,NarasimhaJayanthi,damayanti,76511,PROPN,appos,False
+Hira,Hira,hiera,139094,PROPN,ROOT,False

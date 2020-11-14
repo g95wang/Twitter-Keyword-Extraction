@@ -1,0 +1,8 @@
+Follow,follow,follow,115989,VERB,ROOT,False
+everyone,everyone,everyone,106169,PRON,dobj,True
+who,who,who,365278,PRON,nsubj,True
+likes,like,like,172172,VERB,relcl,False
+and,and,and,12285,CCONJ,cc,True
+retweets,retweet,etwee,105245,VERB,conj,False
+this,this,this,322217,DET,det,True
+tweet,tweet,tweet,333246,NOUN,dobj,False

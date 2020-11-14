@@ -1,0 +1,13 @@
+Elon,Elon,elon,97752,PROPN,compound,False
+Musks,Musks,musks,196086,PROPN,nsubj,False
+son,son,son,297156,NOUN,appos,False
+not,not,not,208798,PART,neg,True
+gon,go,go,127161,VERB,ROOT,False
+na,to,to,324862,PART,aux,False
+have,have,have,134390,AUX,xcomp,True
+birthdays,birthday,birthday,34904,NOUN,dobj,False
+s,s,s,275971,VERB,aux,False
+gon,go,go,127161,VERB,relcl,False
+na,to,to,324862,PART,aux,False
+have,have,have,134390,AUX,xcomp,True
+updates,update,update,354620,NOUN,dobj,False

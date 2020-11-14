@@ -1,0 +1,12 @@
+Niall,Niall,niall,199535,PROPN,ROOT,False
+can,can,can,45964,VERB,aux,True
+listen,listen,listen,173504,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+'s,be,be,29345,AUX,pcomp,True
+beautiful,beautiful,beautiful,29674,ADJ,amod,False
+at,at,at,22372,ADP,nmod,True
+home,home,home,142751,NOUN,pobj,False
+BigWeekend,BigWeekend,weekend,363767,PROPN,pobj,False
+set,set,set,286614,VERB,acl,False
+now,now,now,209199,ADV,advmod,True
+on,on,on,212644,ADV,advmod,True

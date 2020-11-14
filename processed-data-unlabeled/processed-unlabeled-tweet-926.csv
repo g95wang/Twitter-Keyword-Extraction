@@ -1,0 +1,17 @@
+Scenes,scene,scene,279964,NOUN,ROOT,False
+from,from,from,119298,ADP,prep,True
+Kent,Kent,kent,163860,PROPN,compound,False
+feature,feature,feature,110707,VERB,pobj,False
+prominently,prominently,prominently,252259,ADV,advmod,False
+in,in,in,149313,ADP,prep,True
+War,War,war,362529,PROPN,pobj,False
+amp,amp,amp,10991,NOUN,conj,False
+Peace,Peace,peace,228323,PROPN,nmod,False
+short,short,short,288895,ADJ,amod,False
+film,film,film,112722,NOUN,appos,False
+created,create,create,72418,VERB,acl,False
+to,to,to,324862,PART,aux,True
+celebrate,celebrate,celebrate,50448,VERB,xcomp,False
+VEDay75,veday75,veda,357634,VERB,dobj,False
+Including,include,include,149975,VERB,prep,False
+these,these,these,321594,DET,pobj,True

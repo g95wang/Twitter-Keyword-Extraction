@@ -1,0 +1,6 @@
+JINYOUNG,JINYOUNG,jianyun,161146,PROPN,nsubj,False
+POSTED,post,post,243900,VERB,ROOT,False
+PICS,pic,pic,235778,NOUN,dobj,False
+FROM,from,from,119298,ADP,prep,True
+LAST,last,last,168771,NOUN,compound,True
+YEAR,year,year,146706,NOUN,pobj,False

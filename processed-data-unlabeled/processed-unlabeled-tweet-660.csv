@@ -1,0 +1,15 @@
+Last,last,last,168771,ADJ,amod,True
+Minute,minute,minute,188058,NOUN,compound,False
+Domain,Domain,domain,91238,PROPN,compound,False
+Auction,auction,auction,23246,NOUN,compound,False
+Recap,Recap,recap,262585,PROPN,compound,False
+May,May,may,177739,VERB,compound,True
+bitcoin,bitcoin,biscotin,34951,NOUN,compound,False
+cannabis,cannabi,cannabic,46368,VERB,compound,False
+crypto,crypto,crypto,73188,NOUN,compound,False
+weed,weed,weed,363738,VERB,ROOT,False
+cryptocoin,cryptocoin,cryptococci,73215,VERB,ccomp,False
+ico,ico,fico,112164,NOUN,ROOT,False
+AI,ai,ai,6683,NOUN,compound,False
+btc,btc,bt,41899,NOUN,compound,False
+startup,startup,startup,302984,NOUN,ROOT,False

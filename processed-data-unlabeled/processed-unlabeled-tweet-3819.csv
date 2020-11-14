@@ -1,0 +1,14 @@
+Ah,ah,ah,6618,INTJ,intj,False
+yes,yes,yes,146918,INTJ,intj,False
+Monday,Monday,monday,191810,PROPN,npadvmod,False
+have,have,have,134390,AUX,ROOT,True
+and,and,and,12285,CCONJ,cc,True
+a,a,a,0,DET,quantmod,True
+half,half,half,132585,NOUN,amod,False
+hours,hour,hour,144367,NOUN,conj,False
+of,of,of,211535,ADP,prep,True
+Economics,Economics,economics,95380,PROPN,pobj,False
+in,in,in,149313,ADP,ROOT,True
+the,the,the,320691,DET,det,True
+gym,gym,gym,124975,NOUN,pobj,False
+tf,tf,ctf,74387,PROPN,ROOT,False

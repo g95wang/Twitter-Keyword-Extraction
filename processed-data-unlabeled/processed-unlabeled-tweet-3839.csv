@@ -1,0 +1,16 @@
+Here,here,here,136991,ADV,advmod,True
+is,be,be,29345,AUX,aux,True
+walking,walk,walk,362193,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True
+on,on,on,212644,ADP,prep,True
+own,own,own,222072,ADJ,amod,True
+press,press,press,249564,NOUN,compound,False
+conference,conference,conference,65817,NOUN,pobj,False
+after,after,after,5615,ADP,prep,True
+questions,question,question,258416,NOUN,pobj,False
+about,about,about,756,ADP,prep,True
+forced,force,force,116404,VERB,amod,False
+resignation,resignation,resignation,269398,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+COVID19,covid19,covid,71525,NOUN,nummod,False
+tracker,tracker,tracker,327171,NOUN,pobj,False

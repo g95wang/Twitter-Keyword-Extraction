@@ -1,0 +1,14 @@
+Ca,can,can,45964,VERB,aux,True
+n't,not,not,208798,PART,neg,True
+stop,stop,stop,305323,VERB,ROOT,False
+thinking,think,think,321897,VERB,xcomp,False
+about,about,about,756,ADP,prep,True
+how,how,how,144540,ADV,advmod,True
+sweaty,sweaty,sweaty,314222,NOUN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+smelly,smelly,smelly,294817,ADV,advmod,False
+Barrett,Barrett,barrett,28350,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+arm,arm,arm,19862,NOUN,conj,False
+must,must,must,196148,VERB,aux,True
+be,be,be,29345,AUX,pcomp,True

@@ -1,0 +1,14 @@
+listening,listen,listen,173504,VERB,advcl,False
+to,to,to,324862,ADP,prep,True
+Lloyd,Lloyd,lloyd,174059,PROPN,compound,False
+Dobbler,Dobbler,dobber,90544,PROPN,pobj,False
+by,by,by,33133,ADP,prep,True
+Pencey,Pencey,pencey,229519,PROPN,compound,False
+Prep,Prep,prep,248717,PROPN,pobj,False
+gimme,gimme,gimme,125009,VERB,parataxis,False
+a,a,a,0,DET,det,True
+second,second,second,282753,ADJ,appos,False
+man,man,man,178862,NOUN,appos,False
+gimme,gimme,gimme,125009,VERB,ROOT,False
+a,a,a,0,DET,det,True
+second,second,second,282753,NOUN,npadvmod,False

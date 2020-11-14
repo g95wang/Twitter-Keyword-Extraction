@@ -1,0 +1,15 @@
+Proverbs,proverb,proverb,254037,NOUN,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+being,be,be,29345,AUX,auxpass,True
+often,often,often,211701,ADV,advmod,True
+reproved,reprove,reprove,268689,VERB,relcl,False
+hardeneth,hardeneth,hardened,133639,ADJ,dobj,False
+neck,neck,neck,197736,NOUN,npadvmod,False
+shall,shall,shall,287261,VERB,aux,False
+suddenly,suddenly,suddenly,310027,ADV,advmod,False
+be,be,be,29345,AUX,auxpass,True
+destroyed,destroy,destroy,82964,VERB,conj,False
+and,and,and,12285,CCONJ,cc,True
+that,that,that,320639,SCONJ,conj,True
+without,without,without,366665,ADP,prep,True
+remedy,remedy,remedy,267205,NOUN,pobj,False

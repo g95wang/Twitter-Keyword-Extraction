@@ -1,0 +1,14 @@
+so,so,so,295959,ADV,advmod,True
+winter,winter,winter,366247,PROPN,compound,False
+flower,flower,flower,115181,NOUN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+up,up,up,354457,ADP,advmod,True
+against,against,against,5830,ADP,prep,True
+eachother,eachother,achter,2384,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+collab,collab,collab,62801,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+year,year,year,146706,NOUN,pobj,False

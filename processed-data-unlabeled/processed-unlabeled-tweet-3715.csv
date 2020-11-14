@@ -1,0 +1,16 @@
+President,President,president,249451,PROPN,compound,False
+Trump,Trump,trump,331570,PROPN,nsubj,False
+will,will,will,365768,VERB,aux,True
+not,not,not,208798,PART,neg,True
+loose,loose,loose,175115,VERB,amod,False
+FL,FL,fl,113654,PROPN,pobj,False
+GA,GA,ga,120760,PROPN,conj,False
+WI,WI,wi,365431,PROPN,conj,False
+OH,oh,oh,211771,INTJ,intj,False
+that,that,that,320639,DET,nsubj,True
+'s,be,be,29345,AUX,ROOT,True
+TRUE,true,true,331515,ADJ,acomp,False
+Get,get,get,124419,AUX,ROOT,True
+that,that,that,320639,DET,dobj,True
+in,in,in,149313,ADP,prep,True
+mind,mind,mind,187702,NOUN,npadvmod,False

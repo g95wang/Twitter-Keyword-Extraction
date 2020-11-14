@@ -1,0 +1,13 @@
+JUST,just,just,162503,ADV,advmod,True
+IN,in,in,149313,ADP,ROOT,True
+magnitude,magnitude,magnitude,177619,NOUN,compound,False
+quake,quake,quake,257827,NOUN,compound,False
+strikes,strike,strike,306300,NOUN,ROOT,False
+in,in,in,149313,ADP,prep,True
+Indonesias,Indonesias,indonesians,151258,PROPN,compound,False
+Banda,Banda,banda,27258,PROPN,compound,False
+Sea,Sea,sea,282385,PROPN,compound,False
+USGS,usgs,usages,355948,NOUN,pobj,False
+More,more,more,193383,ADV,advmod,True
+soon,soon,soon,297339,ADV,advmod,False
+on,on,on,212644,ADV,advmod,True

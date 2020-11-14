@@ -1,0 +1,7 @@
+Think,think,think,321897,VERB,ROOT,False
+means,mean,mean,181735,VERB,ccomp,False
+ears,ear,ear,94707,NOUN,nsubj,False
+are,be,be,29345,AUX,ccomp,True
+still,still,still,304511,ADV,advmod,True
+fully,fully,fully,119955,ADV,advmod,False
+functional,functional,functional,120129,ADJ,acomp,False

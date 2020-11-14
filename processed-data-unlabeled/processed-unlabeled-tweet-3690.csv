@@ -1,0 +1,11 @@
+Sometimes,sometimes,sometimes,297064,ADV,advmod,True
+just,just,just,162503,ADV,advmod,True
+got,get,get,124419,VERB,ROOT,False
+ta,to,to,324862,PART,aux,False
+say,say,say,276740,VERB,xcomp,True
+is,be,be,29345,AUX,ccomp,True
+what,what,what,364447,PRON,attr,True
+is,be,be,29345,AUX,ccomp,True
+a,a,a,0,DET,quantmod,True
+couple,couple,couple,71262,NOUN,nummod,False
+times,time,time,323746,NOUN,npadvmod,False

@@ -1,0 +1,6 @@
+Aircraft,aircraft,aircraft,6868,NOUN,compound,False
+carrier,carrier,carrier,48518,NOUN,nsubj,False
+runs,run,run,275612,VERB,ROOT,False
+aground,aground,aground,6575,ADV,advmod,False
+over,over,over,218092,ADP,prep,True
+virus,virus,virus,360286,NOUN,pobj,False

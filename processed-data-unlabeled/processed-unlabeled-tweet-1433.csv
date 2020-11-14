@@ -1,0 +1,14 @@
+Tuned,tune,tune,332388,VERB,ROOT,False
+into,into,into,156343,ADP,prep,True
+at,at,at,22372,ADP,prep,True
+only,only,only,212848,ADV,advmod,True
+took,take,take,315491,VERB,dep,False
+minute,minute,minute,188058,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+mention,mention,mention,183534,VERB,advcl,False
+DC,DC,dc,77394,PROPN,dobj,False
+switched,switch,switch,314565,VERB,conj,False
+over,over,over,218092,ADP,prt,True
+to,to,to,324862,ADP,prep,True
+until,until,until,353020,ADP,prep,True
+am,am,am,9714,PROPN,pobj,True

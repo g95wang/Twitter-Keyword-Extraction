@@ -1,0 +1,15 @@
+not,not,not,208798,PART,neg,True
+fair,fair,fair,109302,ADJ,ROOT,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+government,government,government,128391,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+give,give,give,125692,VERB,advcl,True
+all,all,all,8522,DET,predet,True
+this,this,this,322217,DET,det,True
+money,money,money,191829,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+tattoo,tattoo,tattoo,317034,PROPN,amod,False
+shops,shop,shop,288793,NOUN,nsubj,False
+closed,close,close,60433,VERB,conj,False

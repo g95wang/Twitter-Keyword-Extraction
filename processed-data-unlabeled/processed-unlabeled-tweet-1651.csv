@@ -1,0 +1,5 @@
+Furnishing,furnish,furnish,120463,VERB,csubj,False
+a,a,a,0,DET,det,True
+home,home,home,142751,NOUN,dobj,False
+is,be,be,29345,AUX,ROOT,True
+expensive,expensive,expensive,107702,ADJ,acomp,False

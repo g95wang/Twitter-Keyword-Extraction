@@ -1,0 +1,15 @@
+i,i,i,145455,PRON,nsubj,True
+say,say,say,276740,VERB,ROOT,True
+this,this,this,322217,DET,det,True
+outfit,outfit,outfit,216618,NOUN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+probably,probably,probably,251013,ADV,advmod,False
+favorite,favorite,favorite,110510,ADJ,amod,False
+outfit,outfit,outfit,216618,NOUN,attr,False
+about,about,about,756,ADP,prep,True
+almost,almost,almost,9157,ADV,advmod,True
+every,every,every,106158,DET,nummod,True
+outfit,outfit,outfit,216618,NOUN,compound,False
+villanelle,villanelle,villanelle,359749,NOUN,pobj,False
+has,have,have,134390,AUX,aux,True
+worn,wear,wear,363540,VERB,ccomp,False

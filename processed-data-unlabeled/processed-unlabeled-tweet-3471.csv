@@ -1,0 +1,14 @@
+At,at,at,22372,ADP,ROOT,True
+00:00UTC,00:00UTC,utch,356108,PROPN,punct,False
+on,on,on,212644,ADP,prep,True
+Temp,temp,temp,318501,NOUN,pobj,False
+C,C,c,43829,PROPN,compound,False
+Pressure,pressure,pressure,249604,NOUN,ROOT,False
+mb,mb,mb,181640,NOUN,compound,False
+Relative,relative,relative,266759,ADJ,compound,False
+Humidity,Humidity,humidity,144974,PROPN,ROOT,False
+Dew,Dew,dew,83721,PROPN,compound,False
+Point,Point,point,241315,PROPN,ROOT,False
+C,C,c,43829,PROPN,compound,False
+Precipitation,precipitation,precipitation,246119,NOUN,ROOT,False
+No,no,no,200529,INTJ,intj,True

@@ -1,0 +1,9 @@
+Drop,drop,drop,93338,VERB,ROOT,False
+Twitter,Twitter,twitter,333475,PROPN,compound,False
+handle,handle,handle,133207,VERB,dobj,False
+and,and,and,12285,CCONJ,cc,True
+let,let,let,170875,VERB,conj,False
+follow,follow,follow,115989,VERB,ccomp,False
+Don`t,Don`t,dont,91473,PROPN,nsubj,False
+miss,miss,miss,189987,VERB,dep,False
+this,this,this,322217,DET,dobj,True

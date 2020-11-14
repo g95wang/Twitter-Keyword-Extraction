@@ -1,0 +1,16 @@
+colonial,colonial,colonial,63228,ADJ,amod,False
+contry,contry,country,71230,NOUN,ROOT,False
+China,China,china,54539,PROPN,nsubjpass,False
+was,be,be,29345,AUX,auxpass,True
+colonized,colonize,colonize,63263,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+thesame,thesame,theme,320895,VERB,compound,False
+Britain,Britain,britain,40980,PROPN,pobj,False
+that,that,that,320639,DET,nsubj,True
+colonized,colonize,colonize,63263,VERB,relcl,False
+but,but,but,43550,CCONJ,cc,True
+domped,dompe,dome,91251,VERB,ROOT,False
+English,English,english,100389,PROPN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+adopt,adopt,adopt,4300,VERB,conj,False
+thi,thi,tchi,317401,PROPN,dobj,False

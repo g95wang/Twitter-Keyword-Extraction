@@ -1,0 +1,14 @@
+IUxSUGA,IUxSUGA,sugan,310201,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+still,still,still,304511,ADV,advmod,True
+trending,trend,trend,328944,VERB,ROOT,False
+worldwide,worldwide,worldwide,367593,ADV,advmod,False
+at,at,at,22372,ADP,prep,True
+No.2,no.2,no,200529,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+over,over,over,218092,ADP,prep,True
+M,m,m,176591,NOUN,compound,False
+tweets,tweet,tweet,333246,NOUN,pobj,False
+IUxSUGA,IUxSUGA,sugan,310201,PROPN,dep,False
+EightOutNow,EightOutNow,leighton,170235,PROPN,appos,False
+EightWithMinPD,eightwithminpd,weightwith,363917,NOUN,ROOT,False

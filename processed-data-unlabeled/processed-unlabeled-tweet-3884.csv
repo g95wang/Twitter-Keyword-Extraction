@@ -1,0 +1,14 @@
+U,u,u,333554,PRON,nsubj,False
+lose,lose,lose,175338,VERB,ROOT,False
+yo,yo,yo,157406,PROPN,compound,False
+mama,mama,mama,178719,PROPN,compound,False
+house,house,house,144380,PROPN,nmod,False
+key,key,key,163636,PROPN,amod,False
+shell,shell,shell,287937,PROPN,compound,False
+act,act,act,3071,PROPN,dobj,False
+like,like,like,172172,SCONJ,prep,False
+the,the,the,320691,DET,det,True
+whole,whole,whole,365285,ADJ,amod,True
+city,city,city,58633,NOUN,pobj,False
+got,get,get,124419,VERB,ROOT,False
+address,address,address,3590,NOUN,dobj,False

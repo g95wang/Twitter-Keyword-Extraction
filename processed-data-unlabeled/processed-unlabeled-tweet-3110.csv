@@ -1,0 +1,16 @@
+The,the,the,320691,DET,det,True
+family,family,family,109591,NOUN,nsubj,False
+has,have,have,134390,AUX,aux,True
+aunty,aunty,aunty,23484,VERB,ROOT,False
+Mello,Mello,mellon,182957,PROPN,dobj,False
+Very,very,very,358514,ADV,advmod,True
+friendly,friendly,friendly,118952,ADJ,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+gets,get,get,124419,VERB,conj,False
+along,along,along,9258,ADP,advmod,True
+with,with,with,366582,ADP,prep,True
+everyone,everyone,everyone,106169,PRON,pobj,True
+as,as,as,20837,ADV,advmod,True
+long,long,long,174883,ADV,advmod,False
+as,as,as,20837,SCONJ,mark,True
+do,do,do,90528,AUX,advcl,True

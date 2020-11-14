@@ -1,0 +1,15 @@
+Many,many,many,179225,ADJ,amod,True
+happy,happy,happy,133513,ADJ,amod,False
+returns,return,return,270970,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+day,day,day,76257,NOUN,pobj,False
+Wishing,wish,wish,366457,VERB,ROOT,False
+a,a,a,0,DET,det,True
+happy,happy,happy,133513,ADJ,amod,False
+healthy,healthy,healthy,134775,ADJ,conj,False
+and,and,and,12285,CCONJ,cc,True
+successful,successful,successful,309814,ADJ,conj,False
+year,year,year,146706,NOUN,dobj,False
+ahead,ahead,ahead,6628,ADV,advmod,False
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,ROOT,False

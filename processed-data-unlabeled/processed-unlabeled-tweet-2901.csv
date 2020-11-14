@@ -1,0 +1,17 @@
+Nothing,nothing,nothing,208898,PRON,compound,True
+screams,scream,scream,281670,NOUN,nsubj,False
+remain,remain,remain,267090,VERB,ROOT,False
+calm,calm,calm,45368,ADJ,acomp,False
+quite,quite,quite,259028,ADV,advmod,True
+like,like,like,172172,SCONJ,prep,False
+pegging,peg,peg,229111,VERB,pcomp,False
+out,out,out,216108,SCONJ,prep,True
+of,of,of,211535,ADP,prep,True
+Number,Number,number,209515,PROPN,pobj,False
+like,like,like,172172,SCONJ,mark,False
+re,be,be,29345,VERB,advcl,True
+Indiana,Indiana,indiana,150877,PROPN,compound,False
+Jones,Jones,jones,161749,PROPN,nsubj,False
+fleeing,flee,flee,114350,VERB,ccomp,False
+a,a,a,0,DET,det,True
+boulder,boulder,boulder,38919,NOUN,dobj,False

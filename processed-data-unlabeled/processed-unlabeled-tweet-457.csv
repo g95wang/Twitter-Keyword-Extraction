@@ -1,0 +1,5 @@
+i,i,i,145455,PRON,nsubj,True
+think,think,think,321897,VERB,ROOT,False
+reasons,reason,reason,262021,NOUN,nsubj,False
+are,be,be,29345,AUX,ccomp,True
+justified,justified,justified,162545,ADJ,acomp,False

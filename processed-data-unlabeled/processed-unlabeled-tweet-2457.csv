@@ -1,0 +1,9 @@
+PRESS,PRESS,press,249564,PROPN,compound,False
+RELEASE,RELEASE,release,266810,PROPN,ROOT,False
+NSFAS,NSFAS,nefas,197998,PROPN,nsubj,False
+UPDATE,update,update,354620,NOUN,ROOT,False
+ON,on,on,212644,ADP,prep,True
+THE,the,the,320691,DET,det,True
+NATION,nation,nation,197258,NOUN,compound,False
+WIDE,WIDE,wide,365506,NOUN,compound,False
+LOCKDOWN,lockdown,lookdown,175062,NOUN,pobj,False

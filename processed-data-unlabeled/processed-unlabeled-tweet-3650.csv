@@ -1,0 +1,8 @@
+TOP,TOP,top,325810,PROPN,compound,True
+Passwords,Passwords,passwords,227392,PROPN,compound,False
+Hour,Hour,hour,144367,PROPN,compound,False
+Report,Report,report,268373,PROPN,dep,False
+shell,shell,shell,287937,PROPN,nsubj,False
+enable,enable,enable,98986,VERB,ROOT,False
+support,support,support,313022,NOUN,nmod,False
+system,system,system,292520,NOUN,dobj,False

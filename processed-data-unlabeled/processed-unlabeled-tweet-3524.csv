@@ -1,0 +1,13 @@
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,compound,False
+Year,Year,year,146706,PROPN,ROOT,False
+Movie,movie,movie,194399,NOUN,ROOT,False
+Jai,Jai,jai,160134,PROPN,compound,False
+Lava,Lava,lava,169247,PROPN,compound,False
+kusa,kusa,kusa,166525,PROPN,compound,False
+Role,Role,role,273937,PROPN,appos,False
+Jai,Jai,jai,160134,PROPN,nmod,False
+Lava,Lava,lava,169247,PROPN,appos,False
+kusa,kusa,kusa,166525,PROPN,compound,False
+Director,Director,director,86783,PROPN,ROOT,False
+Bobby,Bobby,bobby,37050,PROPN,compound,False
+Only,only,only,212848,ADV,ROOT,True

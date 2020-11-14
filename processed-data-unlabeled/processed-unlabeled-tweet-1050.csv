@@ -1,0 +1,11 @@
+Stop,stop,stop,305323,VERB,ROOT,False
+needing,need,need,197910,VERB,xcomp,False
+family,family,family,109591,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+friends,friend,friend,118947,NOUN,conj,False
+to,to,to,324862,PART,aux,True
+agree,agree,agree,6445,VERB,xcomp,False
+with,with,with,366582,ADP,prep,True
+goals,goal,goal,127172,NOUN,pobj,False
+before,before,before,30510,ADP,mark,True
+pursue,pursue,pursue,257132,VERB,advcl,False

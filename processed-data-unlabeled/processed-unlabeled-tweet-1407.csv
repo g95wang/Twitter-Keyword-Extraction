@@ -1,0 +1,12 @@
+Protests,protest,protest,253491,NOUN,nsubj,False
+have,have,have,134390,AUX,aux,True
+reached,reach,reach,261480,VERB,ROOT,False
+Los,Los,clos,60431,PROPN,compound,False
+Angeles,Angeles,angeles,12665,PROPN,dobj,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+downtown,downtown,downtown,92339,NOUN,acomp,False
+right,right,right,272806,ADV,advmod,False
+now,now,now,209199,ADV,advmod,True
+all,all,all,8522,DET,nsubj,True
+happening,happen,happen,133505,VERB,ROOT,False

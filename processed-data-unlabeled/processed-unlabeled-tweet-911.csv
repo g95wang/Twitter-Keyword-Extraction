@@ -1,0 +1,16 @@
+MY,my,my,185619,DET,nmod,True
+GO/,go/,go,127161,NOUN,compound,False
+HELP,HELP,help,135801,PROPN,compound,False
+RT,RT,rt,275072,PROPN,ROOT,False
+'s,'s,s,275971,PART,case,True
+Seventeen,Seventeen,seventeen,286726,PROPN,compound,False
+Song,Song,song,297195,PROPN,compound,False
+Cereal,Cereal,cereal,51358,PROPN,compound,False
+Cup,Cup,cup,75053,PROPN,ROOT,False
+May,May,may,177739,PROPN,compound,True
+th,th,th,320421,NOUN,dep,False
+PM,PM,pm,240704,PROPN,compound,False
+RM40,RM40,rm,273459,PROPN,nmod,False
+details,detail,detail,83068,NOUN,ROOT,False
+amp,amp,amp,10991,NOUN,conj,False
+form,form,form,117338,NOUN,conj,False

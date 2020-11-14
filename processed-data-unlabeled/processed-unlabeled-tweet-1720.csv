@@ -1,0 +1,13 @@
+have,have,have,134390,AUX,ROOT,True
+ate,eat,eat,94953,VERB,ccomp,False
+come,come,come,63721,VERB,ROOT,False
+with,with,with,366582,ADP,prep,True
+sleeping,sleep,sleep,293885,VERB,ROOT,False
+together,together,together,325095,ADV,advmod,True
+look,look,look,175060,VERB,ROOT,False
+good,good,good,127869,ADJ,acomp,False
+send,send,send,285228,VERB,advcl,False
+this,this,this,322217,DET,dobj,True
+to,to,to,324862,ADP,dative,True
+prayed,pray,pray,245225,VERB,ROOT,False
+for,for,for,116301,ADP,dative,True

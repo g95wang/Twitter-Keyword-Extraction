@@ -1,0 +1,15 @@
+An,an,an,11448,DET,det,True
+actual,actual,actual,3283,ADJ,amod,False
+journalist,journalist,journalist,161884,NOUN,nsubj,False
+might,may,may,177739,VERB,aux,True
+have,have,have,134390,AUX,aux,True
+considered,consider,consider,66795,VERB,ROOT,False
+making,make,make,178090,VERB,xcomp,False
+a,a,a,0,DET,det,True
+call,call,call,45246,NOUN,dobj,True
+to,to,to,324862,ADP,prep,True
+Henry,Henry,henry,136607,PROPN,compound,False
+Ford,Ford,ford,116452,PROPN,compound,False
+Hospital,Hospital,hospital,144164,PROPN,pobj,False
+Just,just,just,162503,ADV,advmod,True
+saying,say,say,276740,VERB,ROOT,False

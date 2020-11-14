@@ -1,0 +1,14 @@
+UEFA,UEFA,gufa,130976,PROPN,nsubj,False
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+schedule,schedule,schedule,280061,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+Juventus,Juventus,juventas,162613,PROPN,compound,False
+Lyon,Lyon,lyon,173053,PROPN,compound,False
+return,return,return,270970,NOUN,compound,False
+leg,leg,leg,170004,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+August,August,august,23404,PROPN,pobj,False
+According,accord,accord,1684,VERB,prep,False
+to,to,to,324862,ADP,prep,True
+RMC,RMC,mc,181651,PROPN,pobj,False

@@ -1,0 +1,10 @@
+What,what,what,364447,PRON,attr,True
+Corona,Corona,corona,69428,PROPN,compound,False
+Virus,Virus,virus,360286,PROPN,nsubj,False
+is,be,be,29345,AUX,csubj,True
+to,to,to,324862,ADP,prep,True
+Humans,Humans,humans,144891,PROPN,compound,False
+Arnab,Arnab,arab,18293,PROPN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+to,to,to,324862,ADP,prep,True
+Journalism,Journalism,journalism,161883,PROPN,pobj,False

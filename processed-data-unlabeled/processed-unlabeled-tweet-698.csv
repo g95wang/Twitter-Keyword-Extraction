@@ -1,0 +1,14 @@
+Use,use,use,355958,VERB,csubj,False
+this,this,this,322217,DET,det,True
+link,link,link,172930,NOUN,dobj,False
+get,get,get,124419,VERB,ROOT,True
+some,some,some,297029,DET,det,True
+tokens,token,token,325206,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+go,go,go,127161,VERB,conj,True
+have,have,have,134390,AUX,advcl,True
+fun,fun,fun,120110,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+this,this,this,322217,DET,det,True
+sexy,sexy,sexy,286852,ADJ,amod,False
+woman,woman,woman,366955,NOUN,pobj,False

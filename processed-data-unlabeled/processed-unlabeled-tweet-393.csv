@@ -1,0 +1,14 @@
+mint,mint,mint,188024,PROPN,compound,False
+chocolate,chocolate,chocolate,55285,NOUN,compound,False
+ice,ice,ice,145963,NOUN,compound,False
+cream,cream,cream,72372,NOUN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+pineapple,pineapple,pineapple,236983,NOUN,conj,False
+on,on,on,212644,ADP,prep,True
+pizza,pizza,pizza,238497,NOUN,pobj,False
+are,be,be,29345,AUX,ROOT,True
+both,both,both,38714,DET,dep,True
+good,good,good,127869,ADJ,amod,False
+end,end,end,99559,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+story,story,story,305411,NOUN,pobj,False

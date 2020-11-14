@@ -1,0 +1,17 @@
+In,in,in,149313,ADP,prep,True
+Rigveda,Rigveda,rived,273371,PROPN,compound,False
+Mandala,Mandala,mandala,178968,PROPN,compound,False
+No,No,no,200529,PROPN,compound,True
+Sukta,Sukta,scuta,282301,PROPN,compound,False
+Mantra,Mantra,mantra,179599,PROPN,pobj,False
+is,be,be,29345,AUX,auxpass,True
+written,write,write,368047,VERB,ROOT,False
+that,that,that,320639,DET,punct,True
+like,like,like,172172,SCONJ,intj,False
+the,the,the,320691,DET,det,True
+Sun,Sun,sun,311023,PROPN,pobj,False
+that,that,that,320639,ADV,advmod,True
+is,is,is,158524,ADV,advmod,True
+the,the,the,320691,DET,det,True
+Sun,Sun,sun,311023,PROPN,punct,False
+a,a,a,0,DET,appos,True

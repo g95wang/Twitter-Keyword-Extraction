@@ -1,0 +1,17 @@
+DJ,DJ,dj,90488,PROPN,nsubjpass,False
+an,an,an,11448,DET,det,True
+undercover,undercover,undercover,339044,ADJ,amod,False
+officer,officer,officer,211608,NOUN,appos,False
+is,be,be,29345,AUX,auxpass,True
+tasked,task,task,316883,VERB,ROOT,False
+with,with,with,366582,ADP,prep,True
+bringing,bring,bring,40851,VERB,pcomp,False
+down,down,down,92197,ADP,prt,True
+a,a,a,0,DET,det,True
+real,real,real,261710,ADJ,amod,False
+estate,estate,estate,104593,NOUN,compound,False
+crime,crime,crime,72941,NOUN,compound,False
+lord,lord,lord,175244,PROPN,dobj,False
+Royyala,Royyala,royal,273863,PROPN,compound,False
+Naidu,Naidu,naid,196565,PROPN,appos,False
+and,and,and,12285,CCONJ,cc,True

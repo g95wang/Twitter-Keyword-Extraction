@@ -1,0 +1,16 @@
+Should,Should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+have,have,have,134390,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+seen,see,see,283054,VERB,ROOT,False
+as,as,as,20837,SCONJ,prep,True
+so,so,so,295959,ADV,advmod,True
+much,much,much,194510,ADJ,amod,True
+attention,attention,attention,23026,NOUN,nsubj,False
+craving,craving,craving,72297,NOUN,pcomp,False
+until,until,until,353020,ADP,prep,True
+that,that,that,320639,DET,det,True
+video,video,video,359514,NOUN,pobj,False
+Pity,Pity,pity,238360,PROPN,npadvmod,False
+could,could,could,70511,VERB,aux,True
+release,release,release,266810,VERB,ROOT,False

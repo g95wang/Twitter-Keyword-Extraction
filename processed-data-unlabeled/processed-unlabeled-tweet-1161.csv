@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True
+number,number,number,209515,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+deaths,death,death,77637,NOUN,pobj,False
+is,be,be,29345,AUX,aux,True
+appalling,appalling,appalling,17540,ADJ,ROOT,False
+but,but,but,43550,CCONJ,cc,True
+will,will,will,365768,VERB,aux,True
+never,never,never,199350,ADV,neg,True
+know,know,know,165702,VERB,conj,False
+the,the,the,320691,DET,det,True
+truth,truth,truth,331721,NOUN,dobj,False
+as,as,as,20837,SCONJ,advmod,True
+likely,likely,likely,172179,ADV,amod,False
+number,number,number,209515,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+infecti,infecti,infect,151860,NOUN,pobj,False

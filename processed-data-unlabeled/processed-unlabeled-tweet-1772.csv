@@ -1,0 +1,14 @@
+Hello,hello,hello,135727,INTJ,ROOT,False
+d,d,d,75936,VERB,ROOT,False
+like,like,like,172172,VERB,intj,False
+to,to,to,324862,PART,aux,True
+redeem,redeem,redeem,263983,VERB,xcomp,False
+-month,-month,month,192909,NOUN,compound,False
+warranty,warranty,warranty,362770,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+defective,defective,defective,79157,ADJ,pobj,False
+and,and,and,12285,CCONJ,cc,True
+need,need,need,197910,VERB,ROOT,False
+a,a,a,0,DET,det,True
+new,new,new,199367,ADJ,amod,False
+one,one,one,212715,NOUN,dobj,True

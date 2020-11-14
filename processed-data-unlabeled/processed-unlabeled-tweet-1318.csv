@@ -1,0 +1,15 @@
+A,a,a,0,DET,det,True
+return,return,return,270970,NOUN,dep,False
+to,to,to,324862,ADP,aux,True
+sunshine,sunshine,sunshine,311203,NOUN,acl,False
+after,after,after,5615,ADP,prep,True
+several,several,several,286743,ADJ,amod,True
+days,day,day,76257,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+wind,wind,wind,365902,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+rain,rain,rain,260071,NOUN,conj,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+Saskatoon,Saskatoon,saskatoon,278603,PROPN,compound,False
+forecast,forecast,forecast,116541,NOUN,attr,False

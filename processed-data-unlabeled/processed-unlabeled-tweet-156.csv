@@ -1,0 +1,15 @@
+As,as,as,20837,ADV,advmod,True
+long,long,long,174883,ADV,advmod,False
+as,as,as,20837,SCONJ,prep,True
+tranquilising,tranquilising,tranquilizing,327649,NOUN,pobj,False
+is,be,be,29345,AUX,auxpass,True
+given,give,give,125692,VERB,ROOT,False
+preeminence,preeminence,preeminence,247233,NOUN,dobj,False
+stories,story,story,305411,NOUN,nsubjpass,False
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+suppressed,suppress,suppress,313075,VERB,acl,False
+and,and,and,12285,CCONJ,cc,True
+discounted,discount,discount,87620,VERB,conj,False
+For,for,for,116301,ADP,ROOT,True
+t,t,t,314735,NOUN,pobj,False

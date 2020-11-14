@@ -1,0 +1,17 @@
+IDGAF,IDGAF,idgah,146436,PROPN,ROOT,False
+about,about,about,756,ADP,prep,True
+body,body,body,37181,NOUN,compound,False
+image,image,image,147569,NOUN,pobj,False
+Big,big,big,33680,ADJ,amod,False
+small,small,small,294676,ADJ,amod,False
+tall,tall,tall,315662,ADJ,amod,False
+short,short,short,288895,ADJ,ROOT,False
+Just,just,just,162503,ADV,advmod,True
+have,have,have,134390,AUX,ROOT,True
+all,all,all,8522,DET,det,True
+teeth,tooth,tooth,325746,NOUN,dobj,False
+amp,amp,amp,10991,PROPN,conj,False
+limbs,limbs,limbs,172325,PROPN,conj,False
+amp,amp,amp,10991,PROPN,conj,False
+of,of,of,211535,ADP,prep,True
+course,course,course,71315,NOUN,pobj,False

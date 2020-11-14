@@ -1,0 +1,17 @@
+Love,Love,love,175534,PROPN,compound,False
+Scenario,Scenario,scenario,279948,PROPN,compound,False
+Dance,Dance,dance,76674,PROPN,compound,False
+Practice,practice,practice,245090,NOUN,ROOT,False
+video,video,video,359514,NOUN,compound,False
+M,m,m,176591,NOUN,nmod,False
+to,to,to,324862,ADP,prep,True
+M,m,m,176591,NOUN,pobj,False
+views,view,view,359574,NOUN,nmod,False
+Dive,Dive,dive,90217,PROPN,compound,False
+Dance,Dance,dance,76674,PROPN,compound,False
+Practice,practice,practice,245090,NOUN,appos,False
+video,video,video,359514,NOUN,compound,False
+M,m,m,176591,NOUN,ROOT,False
+to,to,to,324862,ADP,prep,True
+M,M,m,176591,PROPN,pobj,False
+view,view,view,359574,VERB,pobj,False

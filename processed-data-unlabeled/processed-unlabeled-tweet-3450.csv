@@ -1,0 +1,13 @@
+years,year,year,146706,NOUN,npadvmod,False
+later,later,later,168843,ADV,advmod,False
+Earth,Earth,earth,94806,PROPN,compound,False
+Days,Days,days,76383,PROPN,nsubj,False
+unsolved,unsolve,unsolve,351569,VERB,ROOT,False
+problem,problem,problem,251071,NOUN,dobj,False
+How,how,how,144540,ADV,advmod,True
+to,to,to,324862,PART,aux,True
+build,build,build,42364,VERB,acl,False
+a,a,a,0,DET,det,True
+more,more,more,193383,ADV,advmod,True
+sustainable,sustainable,sustainable,313793,ADJ,amod,False
+world,world,world,367566,NOUN,dobj,False

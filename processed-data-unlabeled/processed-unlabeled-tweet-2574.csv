@@ -1,0 +1,10 @@
+has,have,have,134390,AUX,aux,True
+expanded,expand,expand,107543,VERB,ROOT,False
+call,call,call,45246,NOUN,compound,True
+centers,center,center,50830,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+agents,agent,agent,6014,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+facilitate,facilitate,facilitate,108995,VERB,advcl,False
+communication,communication,communication,64246,NOUN,dobj,False
+UBCNews,ubcnew,unfew,342226,NOUN,ROOT,False

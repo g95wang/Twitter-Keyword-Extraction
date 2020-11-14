@@ -1,0 +1,17 @@
+and,and,and,12285,CCONJ,cc,True
+everybody,everybody,everybody,106159,PRON,nsubj,False
+is,be,be,29345,AUX,aux,True
+loving,love,love,175534,VERB,ROOT,False
+sour,sour,sour,297904,ADJ,amod,False
+candy,candy,candy,46155,NOUN,dobj,False
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+why,why,why,364728,ADV,advmod,True
+wait,wait,wait,362072,VERB,ccomp,False
+till,till,till,323593,SCONJ,mark,False
+music,music,music,195981,NOUN,nsubjpass,False
+is,be,be,29345,AUX,auxpass,True
+OFFCIALLY,OFFCIALLY,officially,211631,PROPN,advmod,False
+released,release,release,266810,VERB,advcl,False
+to,to,to,324862,PART,aux,True
+listen,listen,listen,173504,VERB,xcomp,False

@@ -1,0 +1,13 @@
+just,just,just,162503,ADV,advmod,True
+got,get,get,124419,VERB,ROOT,False
+ta,to,to,324862,PART,aux,False
+learn,learn,learn,169659,VERB,xcomp,False
+to,to,to,324862,PART,aux,True
+only,only,only,212848,ADV,advmod,True
+care,care,care,47901,VERB,xcomp,False
+about,about,about,756,ADP,prep,True
+own,own,own,222072,ADJ,amod,True
+opinion,opinion,opinion,213551,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+end,end,end,99559,NOUN,pobj,False

@@ -1,0 +1,14 @@
+Hamburger,Hamburger,hamburger,132942,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+folding,fold,fold,115846,VERB,ccomp,False
+the,the,the,320691,DET,det,True
+paper,paper,paper,225148,NOUN,dobj,False
+horizontally,horizontally,horizontally,143796,ADV,advmod,False
+hotdog,hotdog,hotdog,144259,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+folding,fold,fold,115846,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+paper,paper,paper,225148,NOUN,dobj,False
+vertically,vertically,vertically,358886,ADV,advmod,False
+is,be,be,29345,AUX,ROOT,True
+important,important,important,148877,ADJ,acomp,False

@@ -1,0 +1,13 @@
+Fungus,fungus,fungus,120263,NOUN,nsubj,False
+just,just,just,162503,ADV,advmod,True
+had,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+bath,bath,bath,28914,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+s,s,s,275971,VERB,ROOT,False
+not,not,not,208798,PART,neg,True
+very,very,very,358514,ADV,advmod,True
+happy,happy,happy,133513,ADJ,acomp,False
+about,about,about,756,ADP,prep,True
+Faversham,Faversham,adversa,4636,PROPN,appos,False
+Kent,Kent,kent,163860,PROPN,npadvmod,False

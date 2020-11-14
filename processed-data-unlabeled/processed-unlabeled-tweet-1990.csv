@@ -1,0 +1,10 @@
+absolutely,absolutely,absolutely,985,ADV,advmod,False
+disgusted,disgust,disgust,88200,VERB,ROOT,False
+today,today,today,325003,NOUN,npadvmod,False
+must,must,must,196148,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+able,able,able,559,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+do,do,do,90528,AUX,xcomp,True
+better,well,well,364011,ADJ,advmod,False
+GeorgeFloyd,GeorgeFloyd,george,124030,PROPN,ROOT,False

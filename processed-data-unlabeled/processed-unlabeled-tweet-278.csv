@@ -1,0 +1,10 @@
+What,what,what,364447,DET,det,True
+compensation,compensation,compensation,64516,NOUN,dobj,False
+does,do,do,90528,AUX,aux,True
+have,have,have,134390,AUX,ROOT,True
+beside,beside,beside,32353,ADP,prep,True
+salary,salary,salary,276954,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+bonus,bonus,bonus,37981,NOUN,conj,False
+Stock,stock,stock,304901,NOUN,compound,False
+options,option,option,213845,NOUN,ROOT,False

@@ -1,0 +1,6 @@
+physics,physics,physics,234111,NOUN,compound,False
+professor,professor,professor,251722,NOUN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+so,so,so,295959,ADV,advmod,True
+cute,cute,cute,75755,ADJ,acomp,False
+love,love,love,175534,VERB,ROOT,False

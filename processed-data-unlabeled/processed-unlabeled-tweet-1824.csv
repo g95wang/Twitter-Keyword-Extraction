@@ -1,0 +1,15 @@
+When,when,when,364637,ADV,advmod,True
+a,a,a,0,DET,det,True
+good,good,good,127869,ADJ,amod,False
+person,person,person,231951,NOUN,nsubj,False
+GOD,GOD,god,127304,PROPN,compound,False
+ALWAYS,ALWAYS,always,9710,PROPN,appos,True
+has,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+way,way,way,361946,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+working,work,work,367468,VERB,pcomp,False
+things,thing,thing,321869,NOUN,dobj,False
+out,out,out,216108,ADP,prt,True
+in,in,in,149313,ADP,prep,True
+FAVOR,favor,favor,110497,NOUN,pobj,False

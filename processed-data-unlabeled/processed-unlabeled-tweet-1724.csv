@@ -1,0 +1,13 @@
+m,be,be,29345,VERB,ROOT,False
+so,so,so,295959,ADV,advmod,True
+excited,excited,excited,106704,ADJ,acomp,False
+m,be,be,29345,VERB,aux,False
+going,go,go,127161,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+repaint,repaint,repaint,267980,VERB,xcomp,False
+room,room,room,274247,NOUN,compound,False
+tommorow,tommorow,tomorrow,325475,VERB,dobj,False
+and,and,and,12285,CCONJ,cc,True
+get,get,get,124419,AUX,conj,True
+new,new,new,199367,ADJ,amod,False
+furniture,furniture,furniture,120473,NOUN,dobj,False

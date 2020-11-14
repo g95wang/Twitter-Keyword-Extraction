@@ -1,0 +1,13 @@
+teacher,teacher,teacher,317432,NOUN,ROOT,False
+m,be,be,29345,VERB,appos,False
+not,not,not,208798,PART,neg,True
+even,even,even,106079,ADV,advmod,True
+gon,go,go,127161,VERB,ROOT,False
+na,to,to,324862,PART,aux,False
+try,try,try,329065,VERB,xcomp,False
+to,to,to,324862,PART,aux,True
+pronounce,pronounce,pronounce,252434,VERB,xcomp,False
+this,this,this,322217,DET,det,True
+one,one,one,212715,NOUN,dobj,True
+X,x,x,368209,NOUN,dep,False
+present,present,present,249344,ADJ,ROOT,False

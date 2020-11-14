@@ -1,0 +1,8 @@
+When,when,when,364637,ADV,advmod,True
+get,get,get,124419,VERB,auxpass,True
+hurt,hurt,hurt,145284,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+coach,coach,coach,60803,NOUN,nsubj,False
+says,say,say,276740,VERB,conj,False
+walk,walk,walk,362193,VERB,ccomp,False
+off,off,off,211539,ADP,prt,True

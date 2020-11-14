@@ -1,0 +1,11 @@
+Coronavirus,Coronavirus,coronavirus,69453,PROPN,nsubj,False
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+kill,kill,kill,164577,VERB,ROOT,False
+because,because,because,29780,SCONJ,mark,True
+i,i,i,145455,PRON,nsubj,True
+already,already,already,9397,ADV,advmod,True
+died,die,die,85120,VERB,advcl,False
+on,on,on,212644,ADP,prep,True
+this,this,this,322217,DET,det,True
+day,day,day,76257,NOUN,pobj,False

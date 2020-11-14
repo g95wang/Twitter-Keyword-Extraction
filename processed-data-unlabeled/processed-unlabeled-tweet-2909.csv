@@ -1,0 +1,11 @@
+BOTMy,BOTMy,biotomy,34591,PROPN,compound,False
+initials,initial,initial,152790,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+same,same,same,277518,ADJ,acomp,True
+as,as,as,20837,SCONJ,prep,True
+the,the,the,320691,DET,det,True
+successor,successor,successor,309830,NOUN,pobj,False
+to,to,to,324862,ADP,prep,True
+Japanese,Japanese,japanese,160366,PROPN,amod,False
+Monopoly,Monopoly,monopoly,192565,PROPN,compound,False
+Corporation,Corporation,corporation,69525,PROPN,pobj,False

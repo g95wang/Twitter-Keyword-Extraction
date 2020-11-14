@@ -1,0 +1,15 @@
+Premier,Premier,premier,248383,PROPN,compound,False
+League,League,league,169589,PROPN,compound,False
+players,player,player,238740,NOUN,ROOT,False
+averaging,average,average,24667,VERB,acl,False
+the,the,the,320691,DET,det,True
+highest,high,high,139224,ADJ,amod,False
+number,number,number,209515,NOUN,compound,False
+shots,shot,shot,288962,NOUN,dobj,False
+per,per,per,230311,ADP,prep,True
+game,game,game,121666,NOUN,pobj,False
+this,this,this,322217,DET,det,True
+season,season,season,282586,NOUN,npadvmod,False
+Jimenez,Jimenez,ajimez,7092,PROPN,compound,False
+Rashford,Rashford,radford,259513,PROPN,compound,False
+A,a,a,0,NOUN,ROOT,True

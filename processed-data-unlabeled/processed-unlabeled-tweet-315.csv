@@ -1,0 +1,13 @@
+That,that,that,320639,DET,det,True
+transition,transition,transition,327992,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+as,as,as,20837,ADV,advmod,True
+smooth,smooth,smooth,295053,ADJ,acomp,False
+as,as,as,20837,SCONJ,prep,True
+Hyucks,Hyucks,hucks,144668,PROPN,nsubj,False
+gliding,glide,glide,126311,VERB,pcomp,False
+footsteps,footstep,footstep,116261,NOUN,dobj,False
+across,across,across,3036,ADP,prep,True
+the,the,the,320691,DET,det,True
+dance,dance,dance,76674,NOUN,compound,False
+floor,floor,floor,114931,NOUN,pobj,False

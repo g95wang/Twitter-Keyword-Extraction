@@ -1,0 +1,12 @@
+Weekly,weekly,weekly,363772,ADJ,compound,False
+unemploymentbenefits,unemploymentbenefit,unemployment,341213,VERB,nsubj,False
+claims,claim,claim,59065,NOUN,ROOT,False
+data,data,data,77138,NOUN,compound,False
+coverage,coverage,coverage,71478,NOUN,dobj,False
+from,from,from,119298,ADP,prep,True
+and,and,and,12285,CCONJ,cc,True
+This,this,this,322217,DET,det,True
+week,week,week,363764,NOUN,npadvmod,False
+switched,switch,switch,314565,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+una,una,una,334311,PROPN,pobj,False

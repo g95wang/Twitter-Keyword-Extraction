@@ -1,0 +1,10 @@
+Never,never,never,199350,ADV,neg,True
+been,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+PND,PND,pand,224440,PROPN,compound,False
+fan,fan,fan,109645,NOUN,attr,False
+but,but,but,43550,CCONJ,cc,True
+think,think,think,321897,VERB,ROOT,False
+m,be,be,29345,VERB,ccomp,False
+there,there,there,321216,ADV,advmod,True
+PARTYMOBILE,PARTYMOBILE,artmobile,20768,VERB,ROOT,False

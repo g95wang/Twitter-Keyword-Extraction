@@ -1,0 +1,17 @@
+know,know,know,165702,VERB,parataxis,False
+if,if,if,146980,SCONJ,mark,True
+the,the,the,320691,DET,det,True
+B,b,b,25416,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+feeling,feel,feel,110884,VERB,advcl,False
+more,more,more,193383,ADJ,amod,True
+pain,pain,pain,223135,NOUN,acomp,False
+pleasure,pleasure,pleasure,239639,NOUN,dobj,False
+should,should,should,288990,VERB,aux,True
+kiss,kiss,kiss,165132,VERB,ROOT,False
+hard,hard,hard,133614,ADV,advmod,False
+and,and,and,12285,CCONJ,cc,True
+will,will,will,365768,VERB,aux,True
+start,start,start,302958,VERB,conj,False
+feeling,feel,feel,110884,VERB,xcomp,False
+more,more,more,193383,ADJ,advmod,True

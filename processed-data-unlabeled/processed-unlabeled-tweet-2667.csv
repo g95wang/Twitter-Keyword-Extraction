@@ -1,0 +1,13 @@
+Tbats,tbat,bat,28865,NOUN,ROOT,False
+how,how,how,144540,ADV,advmod,True
+measure,measure,measure,181799,VERB,ccomp,False
+prevelance,prevelance,prevenance,250143,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+M.,M.,m,176591,PROPN,compound,False
+Like,Like,like,172172,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+women,woman,woman,366955,NOUN,pobj,False
+will,will,will,365768,VERB,aux,True
+develop,develop,develop,83481,VERB,ROOT,False
+breast,breast,breast,40285,NOUN,compound,False
+cancer,cancer,cancer,46095,NOUN,dobj,False

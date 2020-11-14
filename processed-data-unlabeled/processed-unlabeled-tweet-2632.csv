@@ -1,0 +1,15 @@
+actually,actually,actually,3298,ADV,advmod,False
+Mexico,Mexico,mexico,185563,PROPN,nsubj,False
+chose,choose,choose,55661,VERB,ROOT,False
+a,a,a,0,DET,det,True
+risky,risky,risky,273250,ADJ,amod,False
+strategy,strategy,strategy,305842,NOUN,dobj,False
+which,which,which,364730,DET,nsubj,True
+did,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+ignore,ignore,ignore,147087,VERB,relcl,False
+the,the,the,320691,DET,det,True
+economic,economic,economic,95376,ADJ,amod,False
+conditions,condition,condition,65613,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+population,population,population,243322,NOUN,pobj,False

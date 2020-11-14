@@ -1,0 +1,11 @@
+COMMISSIONS,COMMISSIONS,commissions,64093,PROPN,nsubj,False
+OPEN,OPEN,open,213219,PROPN,ROOT,False
+can,can,can,45964,VERB,aux,True
+make,make,make,178090,VERB,ROOT,True
+draw,draw,draw,92753,VERB,ccomp,False
+everything,everything,everything,106171,PRON,dobj,True
+want,want,want,362465,VERB,relcl,False
+like,like,like,172172,SCONJ,prep,False
+-thumbnails,-thumbnails,thumbnails,322973,ADJ,ROOT,False
+-profile,-profile,profile,251754,PROPN,ROOT,False
+-memes,-memes,emes,98486,PROPN,ROOT,False

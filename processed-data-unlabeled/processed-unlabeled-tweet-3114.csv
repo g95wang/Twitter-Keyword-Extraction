@@ -1,0 +1,11 @@
+These,these,these,321594,DET,det,True
+Solo,Solo,solo,296839,PROPN,compound,False
+Artists,artist,artist,20750,NOUN,nsubj,False
+Have,have,have,134390,AUX,aux,True
+Become,Become,become,29882,VERB,ROOT,True
+Legends,legend,legend,170058,NOUN,attr,False
+In,in,in,149313,ADP,ROOT,True
+The,the,the,320691,DET,det,True
+K,K,k,162637,PROPN,compound,False
+Pop,pop,pop,243193,NOUN,compound,False
+Scene,scene,scene,279964,NOUN,pobj,False

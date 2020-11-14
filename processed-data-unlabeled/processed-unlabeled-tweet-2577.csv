@@ -1,0 +1,16 @@
+Findings,finding,finding,112893,NOUN,nsubj,False
+from,from,from,119298,ADP,prep,True
+a,a,a,0,DET,det,True
+study,study,study,306798,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True
+researchers,researcher,researcher,269103,NOUN,pobj,False
+suggest,suggest,suggest,310240,VERB,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+the,the,the,320691,DET,det,True
+development,development,development,83493,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+hypocretin,hypocretin,hyposecretion,141170,PROPN,compound,False
+receptor,receptor,receptor,262745,NOUN,compound,False
+antagonists,antagonist,antagonist,13992,NOUN,pobj,False
+might,may,may,177739,VERB,aux,True
+pr,pr,pr,245067,VERB,ccomp,False

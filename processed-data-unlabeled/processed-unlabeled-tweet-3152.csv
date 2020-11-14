@@ -1,0 +1,17 @@
+if,if,if,146980,SCONJ,mark,True
+Johnson,Johnson,johnson,161569,PROPN,nsubj,False
+really,really,really,261766,ADV,advmod,True
+does,do,do,90528,AUX,aux,True
+have,have,have,134390,AUX,ROOT,True
+CV,CV,cv,75893,PROPN,dobj,False
+wish,wish,wish,366457,VERB,ROOT,False
+well,well,well,364011,ADV,advmod,True
+If,if,if,146980,SCONJ,mark,True
+as,as,as,20837,SCONJ,mark,True
+suspect,suspect,suspect,313718,VERB,advcl,False
+just,just,just,162503,ADV,advmod,True
+a,a,a,0,DET,det,True
+publicity,publicity,publicity,255920,NOUN,compound,False
+stunt,stunt,stunt,306915,NOUN,pobj,False
+do,do,do,90528,AUX,ROOT,True
+nt,not,not,208798,PART,neg,False

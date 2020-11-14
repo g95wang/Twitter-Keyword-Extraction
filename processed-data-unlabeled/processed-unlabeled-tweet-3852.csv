@@ -1,0 +1,13 @@
+And,and,and,12285,CCONJ,cc,True
+When,when,when,364637,ADV,advmod,True
+call,call,call,45246,VERB,advcl,True
+a,a,a,0,DET,det,True
+bird,bird,bird,34732,NOUN,oprd,False
+make,make,make,178090,VERB,ROOT,True
+sure,sure,sure,313361,ADJ,ccomp,False
+put,put,put,257261,VERB,ccomp,True
+the,the,the,320691,DET,det,True
+baddest,badd,baddy,26174,ADJ,dobj,False
+in,in,in,149313,ADP,prep,True
+front,front,front,119330,NOUN,pobj,True
+of,of,of,211535,ADP,prep,True

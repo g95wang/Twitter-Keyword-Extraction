@@ -1,0 +1,16 @@
+To,to,to,324862,ADP,prep,True
+all,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+celebrities,celebrity,celebrity,50466,NOUN,pobj,False
+posting,post,post,243900,VERB,acl,False
+memes,meme,mneme,190869,NOUN,dobj,False
+connecting,connect,connect,66493,VERB,acl,False
+the,the,the,320691,DET,det,True
+cop,cop,cop,68392,NOUN,dobj,False
+that,that,that,320639,DET,nsubj,True
+killed,kill,kill,164577,VERB,relcl,False
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,dobj,False
+to,to,to,324862,ADP,prep,True
+President,President,president,249451,PROPN,pobj,False
+Stop,stop,stop,305323,VERB,ROOT,False

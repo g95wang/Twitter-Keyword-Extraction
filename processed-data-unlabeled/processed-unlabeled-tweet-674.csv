@@ -1,0 +1,16 @@
+was,be,be,29345,AUX,ROOT,True
+physically,physically,physically,234059,ADV,advmod,False
+ill,ill,ill,147293,ADJ,acomp,False
+after,after,after,5615,ADP,prep,True
+watching,watch,watch,363049,VERB,pcomp,False
+that,that,that,320639,DET,det,True
+video,video,video,359514,NOUN,dobj,False
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+help,help,help,135801,VERB,xcomp,False
+want,want,want,362465,VERB,ROOT,False
+things,thing,thing,321869,NOUN,nsubj,False
+to,to,to,324862,PART,aux,True
+change,change,change,52470,VERB,ccomp,False
+But,but,but,43550,CCONJ,cc,True
+do,do,do,90528,AUX,ROOT,True

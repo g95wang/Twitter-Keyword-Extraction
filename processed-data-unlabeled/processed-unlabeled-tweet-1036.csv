@@ -1,0 +1,9 @@
+Stop,stop,stop,305323,VERB,ROOT,False
+being,be,be,29345,AUX,xcomp,True
+ok,ok,ok,211942,ADJ,acomp,False
+with,with,with,366582,ADP,prep,True
+shit,shit,shit,288544,NOUN,pobj,False
+really,really,really,261766,ADV,advmod,True
+not,not,not,208798,PART,neg,True
+ok,ok,ok,211942,ADJ,ROOT,False
+with,with,with,366582,ADP,prep,True

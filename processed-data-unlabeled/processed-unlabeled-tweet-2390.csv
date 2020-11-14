@@ -1,0 +1,8 @@
+Wonderful,wonderful,wonderful,367038,ADJ,ROOT,False
+Other,other,other,215836,ADJ,amod,True
+states,state,state,303029,NOUN,nsubj,False
+should,should,should,288990,VERB,aux,True
+do,do,do,90528,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+same,same,same,277518,ADJ,dobj,True
+now,now,now,209199,ADV,advmod,True

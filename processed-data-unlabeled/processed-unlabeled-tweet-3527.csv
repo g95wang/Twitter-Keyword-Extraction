@@ -1,0 +1,9 @@
+Sometimes,sometimes,sometimes,297064,ADV,advmod,True
+the,the,the,320691,DET,det,True
+smallest,small,small,294676,ADJ,amod,False
+decisions,decision,decision,78397,NOUN,ROOT,False
+that,that,that,320639,DET,nsubj,True
+can,can,can,45964,VERB,aux,True
+change,change,change,52470,VERB,relcl,False
+life,life,life,171890,NOUN,dobj,False
+forever,forever,forever,117124,ADV,advmod,False

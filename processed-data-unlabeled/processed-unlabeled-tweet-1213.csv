@@ -1,0 +1,16 @@
+Lady,Lady,lady,167178,PROPN,compound,False
+Gaga,Gaga,gaga,120945,PROPN,nsubj,False
+BLACKPINK,BLACKPINK,blackprint,35561,PROPN,appos,False
+and,and,and,12285,CCONJ,cc,True
+Sour,Sour,sour,297904,PROPN,compound,False
+Candy,Candy,candy,46155,PROPN,conj,False
+are,be,be,29345,AUX,aux,True
+trending,trend,trend,328944,VERB,ROOT,False
+at,at,at,22372,ADP,prep,True
+on,on,on,212644,ADP,prep,True
+MelOn,melon,melon,183049,ADJ,compound,False
+realtime,realtime,mealtime,181731,ADJ,compound,False
+search,search,search,282535,NOUN,pobj,False
+SourCandyOutNow,sourcandyoutnow,sourcrout,297919,INTJ,ROOT,False
+SourCandy,SourCandy,organdy,214349,PROPN,ROOT,False
+LADY,LADY,lady,167178,PROPN,ROOT,False

@@ -1,0 +1,17 @@
+body,body,body,37181,VERB,ROOT,False
+beautiful,beautiful,beautiful,29674,ADJ,amod,False
+gays,gay,gay,120981,NOUN,dobj,False
+tend,tend,tend,318713,VERB,conj,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+really,really,really,261766,ADV,advmod,True
+stupid,stupid,stupid,306952,ADJ,acomp,False
+Thankfully,thankfully,thankfully,320612,ADV,advmod,False
+ve,have,have,134390,VERB,aux,False
+been,be,be,29345,AUX,auxpass,True
+blessed,bless,bless,36144,VERB,ROOT,False
+with,with,with,366582,ADP,prep,True
+vanity,vanity,vanity,357005,NOUN,pobj,False
+because,because,because,29780,SCONJ,prep,True
+wisdom,wisdom,wisdom,366411,NOUN,pobj,False
+clearly,clearly,clearly,59664,ADV,advmod,False

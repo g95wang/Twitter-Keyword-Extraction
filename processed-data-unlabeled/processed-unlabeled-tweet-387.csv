@@ -1,0 +1,14 @@
+A,a,a,0,DET,det,True
+Conversation,conversation,conversation,68015,NOUN,ROOT,False
+About,about,about,756,ADP,prep,True
+How,how,how,144540,ADV,advmod,True
+Feel,feel,feel,110884,VERB,pcomp,False
+Is,be,be,29345,AUX,auxpass,True
+nt,not,not,208798,PART,neg,False
+Supposed,suppose,suppose,313048,VERB,ROOT,False
+To,to,to,324862,PART,aux,True
+End,end,end,99559,VERB,xcomp,False
+Up,up,up,354457,ADP,prt,True
+In,in,in,149313,ADP,prep,True
+An,an,an,11448,DET,det,True
+Argument,argument,argument,19593,NOUN,pobj,False

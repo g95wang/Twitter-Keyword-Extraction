@@ -1,0 +1,9 @@
+PICTURE,PICTURE,picture,236096,PROPN,compound,False
+DISC,disc,disc,87229,NOUN,compound,False
+VINYL,vinyl,vinyl,359934,NOUN,nsubj,False
+IS,be,be,29345,VERB,ROOT,True
+HERE,here,here,136991,ADV,acomp,True
+AND,and,and,12285,CCONJ,cc,True
+SHES,SHES,shes,288127,PROPN,compound,False
+A,a,a,0,NOUN,ROOT,True
+FutureNostalgia,FutureNostalgia,nostalgia,208768,PROPN,ROOT,False

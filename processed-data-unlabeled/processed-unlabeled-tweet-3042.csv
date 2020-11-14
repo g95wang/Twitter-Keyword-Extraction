@@ -1,0 +1,7 @@
+Develop,develop,develop,83481,VERB,ROOT,False
+a,a,a,0,DET,det,True
+morning,morning,morning,193499,NOUN,compound,False
+routine,routine,routine,274959,NOUN,dobj,False
+that,that,that,320639,DET,dobj,True
+ll,will,will,365768,VERB,aux,False
+stick,stick,stick,304284,VERB,relcl,False

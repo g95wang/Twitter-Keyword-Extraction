@@ -1,0 +1,12 @@
+In,in,in,149313,ADP,prep,True
+present,present,present,249344,ADJ,amod,False
+generation,generation,generation,123491,NOUN,pobj,False
+KOHLI,KOHLI,kohl,165851,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+best,good,good,127869,ADJ,amod,False
+present,present,present,249344,ADJ,amod,False
+day,day,day,76257,NOUN,attr,False
+all,all,all,8522,DET,det,True
+formats,format,format,117387,NOUN,nsubj,False
+crick,crick,crick,72899,ADJ,relcl,False

@@ -1,0 +1,11 @@
+Cheese,Cheese,cheese,53473,PROPN,nsubj,False
+flavoured,flavour,flavour,114232,VERB,ROOT,False
+noodles,noodle,noodle,208423,NOUN,compound,False
+sis,sis,sis,292457,VERB,dobj,False
+Blink,blink,blink,36248,VERB,ROOT,False
+twice,twice,twice,333299,ADV,advmod,False
+if,if,if,146980,SCONJ,mark,True
+are,be,be,29345,AUX,auxpass,True
+held,hold,hold,142390,VERB,advcl,False
+against,against,against,5830,ADP,prep,True
+will,will,will,365768,NOUN,pobj,True

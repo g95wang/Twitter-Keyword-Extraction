@@ -1,0 +1,14 @@
+how,how,how,144540,ADV,advmod,True
+narcissistic,narcissistic,narcissistic,196932,ADJ,acomp,False
+does,do,do,90528,AUX,aux,True
+one,one,one,212715,PRON,nsubj,True
+have,have,have,134390,AUX,ccomp,True
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+to,to,to,324862,PART,aux,True
+say,say,say,276740,VERB,xcomp,True
+something,something,something,297061,PRON,dobj,True
+like,like,like,172172,SCONJ,prep,False
+this,this,this,322217,DET,pobj,True
+'s,be,be,29345,AUX,ROOT,True
+scary,scary,scary,279756,ADJ,acomp,False

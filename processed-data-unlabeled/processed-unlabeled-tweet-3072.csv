@@ -1,0 +1,14 @@
+WARNING,warning,warning,362720,NOUN,ROOT,False
+The,the,the,320691,DET,det,True
+following,follow,follow,115989,VERB,amod,False
+documentary,documentary,documentary,90699,NOUN,nsubj,False
+the,the,the,320691,DET,det,True
+history,history,history,141866,NOUN,appos,False
+of,of,of,211535,ADP,prep,True
+drawing,draw,draw,92753,VERB,pobj,False
+contains,contain,contain,67252,VERB,ROOT,False
+scenes,scene,scene,279964,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+a,a,a,0,DET,det,True
+graphic,graphic,graphic,129071,ADJ,amod,False
+nature,nature,nature,197354,NOUN,pobj,False

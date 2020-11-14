@@ -1,0 +1,6 @@
+Wish,Wish,wish,366457,PROPN,compound,False
+boris,boris,boris,38447,PROPN,nsubj,False
+was,be,be,29345,AUX,ROOT,True
+nt,not,not,208798,PART,neg,False
+a,a,a,0,DET,det,True
+liar,liar,liar,171399,NOUN,attr,False

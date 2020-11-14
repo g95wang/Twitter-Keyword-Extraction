@@ -1,0 +1,14 @@
+seems,seem,seem,283128,VERB,ccomp,True
+LSEG,LSEG,leg,170004,PROPN,compound,False
+Technology,Technology,technology,317687,PROPN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+a,a,a,0,DET,det,True
+core,core,core,68978,NOUN,amod,False
+technology,technology,technology,317687,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+AAX,AAX,ajax,7088,PROPN,compound,False
+exchange,exchange,exchange,106647,NOUN,pobj,False
+can,can,can,45964,VERB,aux,True
+tell,tell,tell,318356,VERB,ROOT,False
+what,what,what,364447,PRON,ccomp,True

@@ -1,0 +1,16 @@
+Why,why,why,364728,ADV,advmod,True
+cheat,cheat,cheat,53282,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+someone,someone,someone,297038,PRON,pobj,True
+u,u,u,333554,PROPN,nsubj,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+wanna,wanna,wanna,362445,PROPN,nsubj,False
+lose,lose,lose,175338,VERB,advcl,False
+with,with,with,366582,ADP,ROOT,True
+someone,someone,someone,297038,PRON,pobj,True
+u,u,u,333554,PROPN,nsubj,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+wanna,wanna,wanna,362445,PROPN,nsubj,False
+keep,keep,keep,163579,VERB,relcl,True

@@ -1,0 +1,17 @@
+is,be,be,29345,AUX,ROOT,True
+now,now,now,209199,ADV,advmod,True
+on,on,on,212644,ADP,prep,True
+MelOn,MelOn,melon,183049,PROPN,pobj,False
+Genie,Genie,genie,123581,PROPN,conj,False
+Bugs,Bugs,bugs,42337,PROPN,conj,False
+Soribada,Soribada,oribatidae,214516,PROPN,conj,False
+and,and,and,12285,CCONJ,cc,True
+Flo,Flo,flo,114794,PROPN,conj,False
+charts,chart,chart,52959,NOUN,appos,False
+FIRST,FIRST,first,113286,PROPN,amod,True
+realtime,realtime,mealtime,181731,NOUN,appos,False
+all,all,all,8522,DET,det,True
+kill,kill,kill,164577,NOUN,appos,False
+RAK,RAK,arak,18399,PROPN,appos,False
+IUxSUGA,IUxSUGA,sugan,310201,PROPN,dep,False
+EightOut,EightOut,eightvo,96510,PROPN,ROOT,False

@@ -1,0 +1,11 @@
+recommend,recommend,recommend,263150,VERB,ROOT,False
+watching,watch,watch,363049,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+video,video,video,359514,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+a,a,a,0,DET,det,True
+large,large,large,168493,ADJ,amod,False
+screen,screen,screen,281701,NOUN,pobj,False
+Watch,watch,watch,363049,VERB,ROOT,False
+slowly,slowly,slowly,294467,ADV,advmod,False
+breathing,breathing,breathing,40336,NOUN,dobj,False

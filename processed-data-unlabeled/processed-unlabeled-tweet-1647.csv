@@ -1,0 +1,16 @@
+What,what,what,364447,PRON,dobj,True
+do,do,do,90528,AUX,aux,True
+think,think,think,321897,VERB,ROOT,False
+of,of,of,211535,ADP,prep,True
+drive,drive,drive,93179,NOUN,pobj,False
+Hopefully,hopefully,hopefully,143677,ADV,advmod,False
+looking,look,look,175060,VERB,advcl,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,xcomp,True
+into,into,into,156343,ADP,prep,True
+a,a,a,0,DET,det,True
+team,team,team,317482,NOUN,pobj,False
+once,once,once,212661,ADV,advmod,True
+lockdown,lockdown,lookdown,175062,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+over,over,over,218092,ADV,advmod,True

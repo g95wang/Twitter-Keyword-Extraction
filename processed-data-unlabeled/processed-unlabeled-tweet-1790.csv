@@ -1,0 +1,13 @@
+'s,be,be,29345,AUX,ROOT,True
+okay,okay,okay,211944,ADJ,acomp,False
+P,p,p,222535,NOUN,npadvmod,False
+Even,even,even,106079,ADV,advmod,True
+though,though,though,322468,SCONJ,mark,True
+the,the,the,320691,DET,det,True
+picture,picture,picture,236096,NOUN,nsubjpass,False
+is,be,be,29345,AUX,auxpass,True
+blurred,blur,blur,36865,VERB,ROOT,False
+if,if,if,146980,SCONJ,mark,True
+'s,be,be,29345,AUX,advcl,True
+OhmFluke,OhmFluke,fluke,115329,PROPN,attr,False
+just,just,just,162503,ADV,advmod,True

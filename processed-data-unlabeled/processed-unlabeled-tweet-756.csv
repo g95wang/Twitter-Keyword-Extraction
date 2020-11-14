@@ -1,0 +1,8 @@
+The,the,the,320691,DET,det,True
+only,only,only,212848,ADJ,amod,True
+person,person,person,231951,NOUN,nsubj,False
+who,who,who,365278,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+make,make,make,178090,VERB,relcl,True
+happy,happy,happy,133513,ADJ,ccomp,False
+is,be,be,29345,AUX,ROOT,True

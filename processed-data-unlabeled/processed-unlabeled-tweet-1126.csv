@@ -1,0 +1,15 @@
+Google,Google,googlies,127944,PROPN,nsubj,False
+deindexed,deindexe,reindexed,266232,VERB,ROOT,False
+LinkedIn,LinkedIn,linkedit,172937,PROPN,dobj,False
+LinkedIn,LinkedIn,linkedit,172937,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+www,www,bowwow,39264,NOUN,compound,False
+results,result,result,270122,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+no,no,no,200529,ADV,neg,True
+longer,long,long,174883,ADV,advmod,False
+in,in,in,149313,ADP,prep,True
+Google,Google,googlies,127944,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+index,index,index,150858,NOUN,pobj,False
+via,via,via,359224,ADP,prep,True

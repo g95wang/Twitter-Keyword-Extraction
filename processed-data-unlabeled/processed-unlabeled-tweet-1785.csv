@@ -1,0 +1,16 @@
+Managed,manage,manage,178873,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+complete,complete,complete,64635,VERB,xcomp,False
+final,final,final,112840,ADJ,amod,False
+projects,project,project,252003,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+Javascript,Javascript,ascript,21051,PROPN,compound,False
+Algorithms,Algorithms,algorithms,8150,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+Data,Data,data,77138,PROPN,compound,False
+Structures,Structures,structures,306637,PROPN,conj,False
+today,today,today,325003,NOUN,npadvmod,False
+Feeling,feel,feel,110884,VERB,ROOT,False
+super,super,super,311253,ADV,advmod,False
+stoked,stoked,stoked,305037,ADJ,acomp,False
+Thank,thank,thank,320604,VERB,ROOT,False

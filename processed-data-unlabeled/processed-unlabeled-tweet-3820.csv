@@ -1,0 +1,14 @@
+i,i,i,145455,PRON,nsubj,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+mind,mind,mind,187702,VERB,ccomp,False
+spending,spend,spend,299147,VERB,compound,False
+hours,hour,hour,144367,NOUN,dobj,False
+just,just,just,162503,ADV,advmod,True
+for,for,for,116301,ADP,prep,True
+this,this,this,322217,DET,pobj,True
+thankyou,thankyou,thankyou,320615,ADJ,nsubj,False
+for,for,for,116301,ADP,prep,True
+everything,everything,everything,106171,PRON,pobj,True
+seonghwa,seonghwa,songhai,297208,ADJ,ROOT,False
+ATEEZ,ATEEZ,atees,22451,PROPN,ROOT,False

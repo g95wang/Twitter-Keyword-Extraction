@@ -1,0 +1,10 @@
+girls,girl,girl,125519,NOUN,nsubj,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+like,like,like,172172,VERB,ROOT,False
+boys,boy,boy,37378,NOUN,dobj,False
+like,like,like,172172,VERB,relcl,False
+nadine,nadine,nandine,196723,PROPN,compound,False
+lustre,lustre,lustre,176430,PROPN,dobj,False
+in,in,in,149313,ADP,prep,True
+suit,suit,suit,310317,NOUN,pobj,False

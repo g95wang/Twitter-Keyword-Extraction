@@ -1,0 +1,11 @@
+Nobody,nobody,nobody,200587,PRON,nsubj,True
+fucking,fucking,fucking,119745,NOUN,acl,False
+uses,use,use,355958,VERB,ROOT,False
+these,these,these,321594,DET,dobj,True
+anymore,anymore,anymore,13233,ADV,advmod,False
+Also,also,also,9416,ADV,advmod,True
+already,already,already,9397,ADV,advmod,True
+have,have,have,134390,AUX,ROOT,True
+at,at,at,22372,ADP,prep,True
+level,level,level,171192,NOUN,pobj,False
+hate,hate,hate,134216,VERB,ROOT,False

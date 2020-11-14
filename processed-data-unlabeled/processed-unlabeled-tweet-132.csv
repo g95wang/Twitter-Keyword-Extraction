@@ -1,0 +1,12 @@
+BILLBOARD,BILLBOARD,billboard,33977,PROPN,compound,False
+SOCIAL,SOCIAL,social,296098,PROPN,compound,False
+CHALLENGE,CHALLENGE,challenge,52186,PROPN,ROOT,False
+BABY,BABY,baby,25503,VERB,compound,False
+JENNIE,JENNIE,jennie,160865,PROPN,ROOT,False
+RETWEETS,RETWEETS,etwees,105246,PROPN,ROOT,False
+REPLIES,reply,reply,268301,VERB,ROOT,False
+Unlock,unlock,unlock,345749,VERB,ROOT,False
+as,as,as,20837,ADV,advmod,True
+fast,fast,fast,110179,ADV,advmod,False
+as,as,as,20837,SCONJ,mark,True
+can,can,can,45964,VERB,advcl,True

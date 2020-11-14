@@ -1,0 +1,17 @@
+Iowa,Iowa,iowa,157796,PROPN,compound,False
+High,High,high,139224,PROPN,compound,False
+School,School,school,280423,PROPN,compound,False
+Athletic,Athletic,athletic,22601,PROPN,compound,False
+Association,Association,association,21868,PROPN,ROOT,False
+Petition,Petition,petition,232417,PROPN,appos,False
+allowing,allow,allow,9006,VERB,acl,False
+spring,spring,spring,301292,NOUN,compound,False
+sports,sport,sport,301034,NOUN,nsubj,False
+to,to,to,324862,PART,aux,True
+overflow,overflow,overflow,219409,VERB,ccomp,False
+into,into,into,156343,ADP,prep,True
+summer,summer,summer,310930,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+high,high,high,139224,ADJ,amod,False
+school,school,school,280423,NOUN,compound,False
+athletes,athlete,athlete,22598,NOUN,pobj,False

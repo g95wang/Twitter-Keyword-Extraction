@@ -1,0 +1,10 @@
+RT,RT,rt,275072,PROPN,nsubj,False
+this,this,this,322217,DET,ROOT,True
+and,and,and,12285,CCONJ,cc,True
+follow,follow,follow,115989,VERB,conj,False
+"i""il","i""il",ipil,157831,NOUN,nsubj,False
+follow,follow,follow,115989,VERB,ROOT,False
+back,back,back,25705,ADV,advmod,True
+Be,be,be,29345,AUX,aux,True
+sporting,sport,sport,301034,VERB,ROOT,False
+guys,guy,guy,131001,NOUN,dobj,False

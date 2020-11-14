@@ -1,0 +1,13 @@
+Trump,trump,trump,331570,VERB,dep,False
+haunted,haunt,haunt,134334,VERB,acl,False
+by,by,by,33133,ADP,agent,True
+evangelical,evangelical,evangelical,105987,ADJ,amod,False
+supporters,supporter,supporter,313031,NOUN,compound,False
+science,science,science,280630,NOUN,compound,False
+denial,denial,denial,81103,NOUN,pobj,False
+as,as,as,20837,SCONJ,mark,True
+confronts,confront,confront,66064,VERB,advcl,False
+the,the,the,320691,DET,det,True
+coronavirus,coronavirus,coronavirus,69453,PROPN,compound,False
+crisis,crisis,crisis,73336,NOUN,dobj,False
+columnist,columnist,columnist,63557,NOUN,ROOT,False

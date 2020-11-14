@@ -1,0 +1,14 @@
+Hour,Hour,hour,144367,PROPN,npadvmod,False
+Switch,switch,switch,314565,VERB,compound,False
+giveaway,giveaway,giveaway,125695,NOUN,ROOT,False
+have,have,have,134390,AUX,ROOT,True
+hours,hour,hour,144367,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+enter,enter,enter,101211,VERB,relcl,False
+this,this,this,322217,DET,det,True
+flash,flash,flash,114007,NOUN,dobj,False
+giveaway,giveaway,giveaway,125695,NOUN,npadvmod,False
+before,before,before,30510,ADP,mark,True
+ends,end,end,99559,VERB,advcl,False
+To,to,to,324862,PART,aux,True
+enter,enter,enter,101211,VERB,ROOT,False

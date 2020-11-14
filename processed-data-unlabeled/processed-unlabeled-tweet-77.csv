@@ -1,0 +1,13 @@
+should,should,should,288990,VERB,aux,True
+change,change,change,52470,VERB,ROOT,False
+profile,profile,profile,251754,ADJ,compound,False
+picture,picture,picture,236096,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+this,this,this,322217,DET,det,True
+Surprised,surprise,surprise,313555,VERB,ROOT,False
+let,let,let,170875,VERB,ROOT,False
+Martha,Martha,martha,180485,PROPN,nsubj,False
+one,one,one,212715,PRON,ccomp,True
+up,up,up,354457,ADP,prep,True
+with,with,with,366582,ADP,prep,True
+an,an,an,11448,DET,pobj,True

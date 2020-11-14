@@ -1,0 +1,17 @@
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+go,go,go,127161,VERB,xcomp,True
+home,home,home,142751,ADV,advmod,False
+have,have,have,134390,AUX,ccomp,True
+to,to,to,324862,PART,aux,True
+make,make,make,178090,VERB,xcomp,True
+this,this,this,322217,DET,det,True
+work,work,work,367468,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+did,do,do,90528,AUX,conj,True
+really,really,really,261766,ADV,advmod,True
+made,make,make,178090,VERB,ROOT,True
+work,work,work,367468,VERB,ccomp,False
+ht,ht,ht,144603,PROPN,ROOT,False

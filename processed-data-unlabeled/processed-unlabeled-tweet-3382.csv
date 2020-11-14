@@ -1,0 +1,12 @@
+Looking,look,look,175060,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+banks,bank,bank,27482,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+Alexandria,Alexandria,alexandria,7955,PROPN,pobj,False
+time,time,time,323746,NOUN,ROOT,False
+to,to,to,324862,PART,aux,True
+consider,consider,consider,66795,VERB,relcl,False
+a,a,a,0,DET,det,True
+credit,credit,credit,72496,NOUN,compound,False
+union,union,union,344901,NOUN,dobj,False
+instead,instead,instead,153876,ADV,advmod,False

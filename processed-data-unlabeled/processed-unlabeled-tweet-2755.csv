@@ -1,0 +1,17 @@
+i,i,i,145455,PRON,nsubj,True
+think,think,think,321897,VERB,ROOT,False
+bf,bf,bf,33063,NOUN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+hot,hot,hot,144238,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+also,also,also,9416,ADV,advmod,True
+sexy,sexy,sexy,286852,ADJ,conj,False
+and,and,and,12285,CCONJ,cc,True
+also,also,also,9416,ADV,advmod,True
+cute,cute,cute,75755,ADJ,conj,False
+and,and,and,12285,CCONJ,cc,True
+also,also,also,9416,ADV,advmod,True
+handsome,handsome,handsome,133283,ADJ,conj,False
+and,and,and,12285,CCONJ,cc,True
+also,also,also,9416,ADV,advmod,True
+pretty,pretty,pretty,250049,ADV,conj,False

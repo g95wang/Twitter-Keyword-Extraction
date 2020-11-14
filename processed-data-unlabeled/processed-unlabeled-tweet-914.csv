@@ -1,0 +1,13 @@
+just,just,just,162503,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+care,care,care,47901,VERB,ROOT,False
+if,if,if,146980,SCONJ,mark,True
+point,point,point,241315,VERB,advcl,False
+out,out,out,216108,ADP,prt,True
+the,the,the,320691,DET,det,True
+form,form,form,117338,NOUN,dobj,False
+over,over,over,218092,ADP,prep,True
+the,the,the,320691,DET,det,True
+substance,substance,substance,309275,NOUN,pobj,False
+do,do,do,90528,AUX,ccomp,True

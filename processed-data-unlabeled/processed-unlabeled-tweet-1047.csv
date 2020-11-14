@@ -1,0 +1,16 @@
+For,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+lady,lady,lady,167178,NOUN,pobj,False
+to,to,to,324862,ADP,aux,True
+date,date,date,77165,NOUN,relcl,False
+for,for,for,116301,ADP,prep,True
+years,year,year,146706,NOUN,pobj,False
+even,even,even,106079,ADV,advmod,True
+must,must,must,196148,VERB,aux,True
+have,have,have,134390,AUX,aux,True
+given,give,give,125692,VERB,ROOT,False
+a,a,a,0,DET,det,True
+little,little,little,173876,ADJ,amod,False
+bit,bit,bit,35156,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+assura,assura,assurant,21957,PROPN,pobj,False

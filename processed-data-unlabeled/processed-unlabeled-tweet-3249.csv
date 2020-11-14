@@ -1,0 +1,9 @@
+really,really,really,261766,ADV,advmod,True
+weird,weird,weird,363928,ADJ,nsubj,False
+seeing,see,see,283054,VERB,acl,False
+IBMs,ibm,ibm,145942,NOUN,compound,False
+business,business,business,43481,NOUN,compound,False
+name,name,name,196686,NOUN,nsubj,True
+fully,fully,fully,119955,ADV,advmod,False
+typed,type,type,324164,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True

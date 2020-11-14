@@ -1,0 +1,7 @@
+What,what,what,364447,PRON,dobj,True
+are,be,be,29345,AUX,aux,True
+doing,do,do,90528,VERB,ROOT,True
+to,to,to,324862,PART,aux,True
+keep,keep,keep,163579,VERB,xcomp,True
+Edgemont,Edgemont,ledgement,169893,PROPN,dobj,False
+safe,safe,safe,276548,ADJ,oprd,False

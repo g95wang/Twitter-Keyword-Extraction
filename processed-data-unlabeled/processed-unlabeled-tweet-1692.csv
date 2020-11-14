@@ -1,0 +1,14 @@
+WBTC1,wbtc1,batch,28884,DET,ROOT,False
+Conserve2,Conserve2,conserve,66788,PROPN,ROOT,False
+After,after,after,5615,ADP,mark,True
+builded,build,build,42364,VERB,advcl,False
+the,the,the,320691,DET,det,True
+predictive,predictive,predictive,246941,ADJ,amod,False
+models,model,model,191042,NOUN,dobj,False
+compared,compare,compare,64409,VERB,ROOT,False
+bat,bat,bat,28865,NOUN,dobj,False
+infected,infected,infected,151862,ADJ,amod,False
+species,specie,specie,298774,NOUN,dobj,False
+against,against,against,5830,ADP,prep,True
+the,the,the,320691,DET,det,True
+mexican,mexican,mexican,185560,PROPN,pobj,False

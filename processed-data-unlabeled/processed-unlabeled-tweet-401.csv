@@ -1,0 +1,12 @@
+i,i,i,145455,PRON,nsubj,True
+would,would,would,367745,VERB,aux,True
+ve,have,have,134390,VERB,advmod,False
+been,be,be,29345,AUX,ROOT,True
+narutos,narutos,autos,24360,NOUN,compound,False
+friend,friend,friend,118947,NOUN,attr,False
+when,when,when,364637,ADV,advmod,True
+everyone,everyone,everyone,106169,PRON,nsubj,True
+hated,hate,hate,134216,VERB,advcl,False
+for,for,for,116301,ADP,prep,True
+no,no,no,200529,DET,det,True
+reason,reason,reason,262021,NOUN,pobj,False

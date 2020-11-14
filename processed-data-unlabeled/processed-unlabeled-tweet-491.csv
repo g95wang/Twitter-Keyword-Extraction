@@ -1,0 +1,11 @@
+ON,ON,on,212644,PROPN,amod,True
+sorry,sorry,sorry,297653,ADJ,amod,False
+baby,baby,baby,25503,NOUN,nsubj,False
+guess,guess,guess,130940,VERB,ROOT,False
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+stuck,stick,stick,304284,VERB,ccomp,False
+at,at,at,22372,ADP,prep,True
+hours,hour,hour,144367,NOUN,pobj,False
+at,at,at,22372,ADP,prep,True
+number,number,number,209515,NOUN,pobj,False

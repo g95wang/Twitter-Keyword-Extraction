@@ -1,0 +1,18 @@
+When,when,when,364637,ADV,advmod,True
+get,get,get,124419,VERB,ROOT,True
+bck,bck,back,25705,PROPN,compound,False
+home,home,home,142751,NOUN,dobj,False
+m,be,be,29345,VERB,ROOT,False
+a,going to,going,127453,NOUN,det,True
+kill,kill,kill,164577,VERB,attr,False
+some,some,some,297029,DET,det,True
+sleep,sleep,sleep,293885,NOUN,dobj,False
+When,when,when,364637,ADV,advmod,True
+get,get,get,124419,VERB,ROOT,True
+bck,bck,back,25705,PROPN,compound,False
+home,home,home,142751,NOUN,dobj,False
+m,be,be,29345,VERB,ROOT,False
+a,going to,going,127453,NOUN,det,True
+kill,kill,kill,164577,VERB,attr,False
+some,some,some,297029,DET,det,True
+sleep,sleep,sleep,293885,NOUN,dobj,False

@@ -1,0 +1,14 @@
+Animal,Animal,animal,13153,PROPN,compound,False
+rights,right,right,272806,NOUN,compound,False
+groups,group,group,130347,NOUN,nsubj,False
+call,call,call,45246,VERB,ROOT,True
+for,for,for,116301,ADP,prep,True
+fur,fur,fur,120324,NOUN,compound,False
+farm,farm,farm,109967,NOUN,compound,False
+bans,ban,ban,27221,NOUN,pobj,False
+after,after,after,5615,ADP,prep,True
+minks,mink,mink,187963,NOUN,compound,False
+test,test,test,319741,NOUN,pobj,False
+positive,positive,positive,243805,ADJ,amod,False
+for,for,for,116301,ADP,prep,True
+COVID-19,covid-19,covid,71525,ADJ,pobj,False

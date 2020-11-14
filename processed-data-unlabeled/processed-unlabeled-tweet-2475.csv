@@ -1,0 +1,15 @@
+Lesson,Lesson,lesson,170857,PROPN,ROOT,False
+from,from,from,119298,ADP,prep,True
+Iceland,Iceland,iceland,145990,PROPN,pobj,False
+Science,science,science,280630,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+key,key,key,163636,ADJ,amod,False
+and,and,and,12285,CCONJ,cc,True
+aggressive,aggressive,aggressive,6140,ADJ,conj,False
+testing,testing,testing,319829,NOUN,attr,False
+helps,help,help,135801,VERB,conj,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+fight,fight,fight,112433,NOUN,pobj,False
+against,against,against,5830,ADP,prep,True
+COVID-19,COVID-19,covid,71525,PROPN,pobj,False

@@ -1,0 +1,12 @@
+Cam,Cam,cam,45537,PROPN,nsubjpass,False
+is,be,be,29345,AUX,aux,True
+gon,go,go,127161,VERB,ROOT,False
+na,to,to,324862,PART,aux,False
+make,make,make,178090,VERB,xcomp,True
+the,the,the,320691,DET,det,True
+panthers,panther,panther,224941,NOUN,nsubj,False
+regret,regret,regret,265813,NOUN,ccomp,False
+releasing,release,release,266810,VERB,xcomp,False
+Ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+wait,wait,wait,362072,VERB,ROOT,False

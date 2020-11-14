@@ -1,0 +1,15 @@
+Why,why,why,364728,ADV,advmod,True
+did,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+file,file,file,112568,VERB,ROOT,False
+any,any,any,13086,DET,det,True
+complaint,complaint,complaint,64595,NOUN,dobj,False
+against,against,against,5830,ADP,prep,True
+those,those,those,322465,DET,pobj,True
+who,who,who,365278,PRON,nsubj,True
+are,be,be,29345,AUX,aux,True
+spreading,spread,spread,301217,VERB,relcl,False
+wrong,wrong,wrong,368091,ADJ,amod,False
+information,information,information,152216,NOUN,dobj,False
+about,about,about,756,ADP,prep,True
+Safoo,Safoo,samfoo,277532,PROPN,pobj,False

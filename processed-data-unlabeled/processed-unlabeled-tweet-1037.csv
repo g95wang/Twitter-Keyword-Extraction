@@ -1,0 +1,15 @@
+When,when,when,364637,ADV,advmod,True
+predict,predict,predict,246928,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+future,future,future,120712,NOUN,dobj,False
+Small,small,small,294676,ADJ,amod,False
+clip,clip,clip,60112,NOUN,nsubj,False
+from,from,from,119298,ADP,prep,True
+newest,new,new,199367,ADJ,amod,False
+video,video,video,359514,NOUN,pobj,False
+go,go,go,127161,NOUN,ROOT,True
+check,check,check,53311,VERB,advcl,False
+out,out,out,216108,ADP,prt,True
+Link,link,link,172930,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+bio,bio,bio,34269,PROPN,pobj,False

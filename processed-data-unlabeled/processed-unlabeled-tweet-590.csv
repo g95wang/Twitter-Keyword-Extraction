@@ -1,0 +1,11 @@
+Why,why,why,364728,ADV,advmod,True
+should,should,should,288990,VERB,aux,True
+love,love,love,175534,VERB,ROOT,False
+manaal,manaal,manal,178898,NOUN,dobj,False
+as,as,as,20837,ADV,advmod,True
+much,much,much,194510,ADV,advmod,True
+as,as,as,20837,SCONJ,mark,True
+i,i,i,145455,PRON,nsubj,True
+do,do,do,90528,AUX,advcl,True
+a,a,a,0,DET,det,True
+thread,thread,thread,322554,NOUN,npadvmod,False

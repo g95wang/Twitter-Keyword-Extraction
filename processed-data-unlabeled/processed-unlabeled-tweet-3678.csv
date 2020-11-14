@@ -1,0 +1,14 @@
+JOY,JOY,joy,161577,PROPN,poss,False
+'S,be,be,29345,AUX,case,True
+PARTS,PARTS,parts,227130,PROPN,ROOT,False
+SHE,she,she,287675,PRON,compound,True
+SOUNDS,sound,sound,297846,VERB,ROOT,False
+AND,and,and,12285,CCONJ,cc,True
+LOOKS,LOOKS,looks,175072,PROPN,conj,False
+SO,so,so,295959,ADV,advmod,True
+GOOD,good,good,127869,ADJ,ROOT,False
+OH,oh,oh,211771,INTJ,ROOT,False
+MY,MY,my,185619,PROPN,nmod,True
+GOD,GOD,god,127304,PROPN,appos,False
+CRUSHxJOY,crushxjoy,crush,74268,VERB,ROOT,False
+CRUSHxJOY_MAYDAY,CRUSHxJOY_MAYDAY,customary,75707,NOUN,ROOT,False

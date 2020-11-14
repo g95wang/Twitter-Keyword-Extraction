@@ -1,0 +1,17 @@
+With,with,with,366582,ADP,prep,True
+more,more,more,193383,ADJ,pobj,True
+than,than,than,320565,SCONJ,prep,True
+coronavirus,coronavirus,coronavirus,69453,NOUN,npadvmod,False
+related,relate,relate,266736,VERB,amod,False
+deaths,death,death,77637,NOUN,pobj,False
+microbiology,microbiology,microbiology,185921,NOUN,compound,False
+experts,expert,expert,107746,NOUN,nsubj,False
+in,in,in,149313,ADP,prep,True
+Spain,Spain,spain,298272,PROPN,pobj,False
+say,say,say,276740,VERB,ROOT,True
+the,the,the,320691,DET,det,True
+rapid,rapid,rapid,260725,ADJ,amod,False
+tests,test,test,319741,NOUN,dobj,False
+purchased,purchase,purchase,256880,VERB,relcl,False
+from,from,from,119298,ADP,prep,True
+China,China,china,54539,PROPN,pobj,False

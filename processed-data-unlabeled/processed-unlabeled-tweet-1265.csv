@@ -1,0 +1,14 @@
+Only,only,only,212848,ADV,advmod,True
+a,a,a,0,DET,det,True
+psycho,psycho,psycho,255292,NOUN,nsubj,False
+would,would,would,367745,VERB,aux,True
+willingly,willingly,willingly,365808,ADV,advmod,False
+keep,keep,keep,163579,VERB,ROOT,True
+a,a,a,0,DET,det,True
+snake,snake,snake,295232,NOUN,dobj,False
+as,as,as,20837,SCONJ,prep,True
+a,a,a,0,DET,det,True
+pet,pet,pet,232312,NOUN,pobj,False
+absolute,absolute,absolute,984,ADJ,amod,False
+worst,bad,bad,26158,ADJ,amod,False
+fear,fear,fear,110591,NOUN,ROOT,False

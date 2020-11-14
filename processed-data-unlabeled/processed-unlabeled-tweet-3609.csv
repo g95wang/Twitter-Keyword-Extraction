@@ -1,0 +1,14 @@
+K,K,k,162637,PROPN,compound,False
+Tweets,Tweets,tweets,333251,PROPN,ROOT,False
+in,in,in,149313,ADP,prep,True
+Last,last,last,168771,ADJ,amod,True
+One,One,one,212715,PROPN,nummod,True
+Hour,Hour,hour,144367,PROPN,pobj,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+enough,enough,enough,100831,ADJ,acomp,True
+Speed,speed,speed,299007,VERB,ROOT,False
+up,up,up,354457,ADP,prt,True
+cults,cult,cult,74795,NOUN,dobj,False
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,dobj,False

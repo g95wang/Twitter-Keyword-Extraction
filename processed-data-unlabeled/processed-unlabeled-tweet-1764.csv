@@ -1,0 +1,14 @@
+WHY,why,why,364728,ADV,advmod,True
+NOYA,NOYA,noyau,200776,PROPN,compound,False
+NOYA,NOYA,noyau,200776,PROPN,nsubj,False
+STUCK,stick,stick,304284,VERB,ROOT,False
+IN,in,in,149313,ADP,prep,True
+HEAD,HEAD,head,134575,PROPN,pobj,False
+RIGHT,right,right,272806,ADV,ROOT,False
+NOW,now,now,209199,ADV,ROOT,True
+HER,her,her,136846,DET,poss,True
+SEXY,SEXY,sexy,286852,PROPN,nsubj,False
+SWEET,SWEET,sweet,314276,PROPN,ROOT,False
+VOICE,VOICE,voice,360982,PROPN,compound,False
+SourCandy,SourCandy,organdy,214349,PROPN,ROOT,False
+Chromatica,Chromatica,chromatical,56198,PROPN,ROOT,False

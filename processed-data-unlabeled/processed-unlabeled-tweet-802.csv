@@ -1,0 +1,16 @@
+HERES,HERES,heres,137061,PROPN,ROOT,False
+A,a,a,0,DET,det,True
+STAT,STAT,stat,303022,PROPN,nsubj,False
+WORTH,worth,worth,367704,ADJ,compound,False
+SHARING,sharing,sharing,287519,NOUN,ROOT,False
+Global,global,global,126455,ADJ,nmod,False
+COVID19,covid19,covid,71525,NOUN,ROOT,False
+coronavirus,coronavirus,coronavirus,69453,ADJ,compound,False
+total,total,total,326445,ADJ,amod,False
+recoveries,recovery,recovery,263558,NOUN,nsubj,False
+have,have,have,134390,AUX,aux,True
+passed,pass,pass,227250,VERB,ROOT,False
+That,that,that,320639,DET,nsubj,True
+s,s,s,275971,VERB,ROOT,False
+nearly,nearly,nearly,197611,ADV,advmod,False
+x,x,x,368209,NOUN,punct,False

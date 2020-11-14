@@ -1,0 +1,17 @@
+BREAKING,breaking,breaking,40257,NOUN,ROOT,False
+Cummings,cumming,chumming,56611,NOUN,nsubj,False
+DID,do,do,90528,VERB,aux,True
+breach,breach,breach,40179,NOUN,ccomp,False
+lockdown,lockdown,lookdown,175062,NOUN,compound,False
+rules,rule,rule,275459,NOUN,dobj,False
+say,say,say,276740,VERB,ROOT,True
+Durham,Durham,durham,94451,PROPN,compound,False
+Police,Police,police,241679,PROPN,nsubj,False
+Please,please,please,239622,INTJ,intj,True
+RT,RT,rt,275072,PROPN,ROOT,False
+if,if,if,146980,SCONJ,mark,True
+think,think,think,321897,VERB,ROOT,False
+everyone,everyone,everyone,106169,PRON,nsubj,True
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,ccomp,True
+aware,aware,aware,24969,ADJ,acomp,False

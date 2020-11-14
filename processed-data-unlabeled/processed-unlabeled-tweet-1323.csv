@@ -1,0 +1,14 @@
+If,if,if,146980,SCONJ,mark,True
+can,can,can,45964,VERB,aux,True
+loot,loot,loot,175134,VERB,advcl,False
+a,a,a,0,DET,det,True
+Target,Target,target,316574,PROPN,compound,False
+store,store,store,305385,NOUN,dobj,False
+can,can,can,45964,VERB,aux,True
+show,show,show,289042,VERB,ROOT,True
+up,up,up,354457,ADP,prt,True
+to,to,to,324862,ADP,prep,True
+a,a,a,0,DET,det,True
+voting,voting,voting,361418,NOUN,compound,False
+booth,booth,booth,38233,NOUN,pobj,False
+MAGA,MAGA,maga,177344,PROPN,pobj,False

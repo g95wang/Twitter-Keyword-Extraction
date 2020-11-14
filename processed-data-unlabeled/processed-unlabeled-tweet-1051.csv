@@ -1,0 +1,15 @@
+Adele,Adele,adelea,3641,PROPN,nsubj,False
+was,be,be,29345,AUX,ROOT,True
+beautiful,beautiful,beautiful,29674,ADJ,acomp,False
+before,before,before,30510,ADP,mark,True
+lost,lose,lose,175338,VERB,advcl,False
+weight,weight,weight,363896,NOUN,dobj,False
+Adele,Adele,adelea,3641,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+beautiful,beautiful,beautiful,29674,ADJ,acomp,False
+after,after,after,5615,ADP,mark,True
+lost,lose,lose,175338,VERB,advcl,False
+weight,weight,weight,363896,NOUN,dobj,False
+Losing,lose,lose,175338,VERB,ROOT,False
+weight,weight,weight,363896,NOUN,compound,False
+beauty,beauty,beauty,29660,NOUN,dobj,False

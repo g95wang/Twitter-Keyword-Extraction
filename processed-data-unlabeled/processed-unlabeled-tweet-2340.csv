@@ -1,0 +1,13 @@
+Will,Will,will,365768,VERB,aux,True
+do,do,do,90528,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+same,same,same,277518,ADJ,dobj,True
+with,with,with,366582,ADP,prep,True
+Cuomo,Cuomo,combo,63683,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+di,di,di,83957,PROPN,compound,False
+Blasio,Blasio,abasio,137,PROPN,conj,False
+and,and,and,12285,CCONJ,cc,True
+evening,evening,evening,106097,NOUN,conj,False
+Nancy,Nancy,nancy,196718,PROPN,ROOT,False

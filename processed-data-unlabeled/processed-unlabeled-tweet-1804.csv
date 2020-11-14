@@ -1,0 +1,10 @@
+Let,let,let,170875,VERB,advcl,False
+down,down,down,92197,ADP,prt,True
+guard,guard,guard,130774,NOUN,pobj,False
+let,let,let,170875,VERB,ROOT,False
+new,new,new,199367,ADJ,amod,False
+bracelet,bracelet,bracelet,39353,NOUN,nsubj,False
+perform,perform,perform,230668,VERB,ccomp,False
+well,well,well,364011,ADV,advmod,True
+for,for,for,116301,ADP,dative,True
+newbracelet,newbracelet,unbracelet,336137,ADJ,ROOT,False

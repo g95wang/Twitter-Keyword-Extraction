@@ -1,0 +1,16 @@
+Minimum,minimum,minimum,187899,ADJ,amod,False
+more,more,more,193383,ADJ,amod,True
+weeks,week,week,363764,NOUN,ROOT,False
+before,before,before,30510,ADP,mark,True
+can,can,can,45964,VERB,aux,True
+get,get,get,124419,AUX,advcl,True
+a,a,a,0,DET,det,True
+legit,legit,legit,170140,ADJ,amod,False
+haircut,haircut,haircut,132388,NOUN,dobj,False
+possible,possible,possible,243886,ADJ,amod,False
+outcomes,outcome,outcome,216390,NOUN,ROOT,False
+commit,commit,commit,64103,VERB,acl,False
+to,to,to,324862,ADP,prep,True
+growing,grow,grow,130412,VERB,pcomp,False
+hair,hair,hair,132366,NOUN,dobj,False
+out,out,out,216108,ADV,advmod,True

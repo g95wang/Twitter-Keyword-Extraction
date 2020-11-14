@@ -1,0 +1,16 @@
+Morning,Morning,morning,193499,PROPN,compound,False
+Consult,Consult,consult,67160,PROPN,compound,False
+poll,poll,poll,242656,NOUN,nsubj,False
+Republicans,Republicans,republicans,268738,PROPN,appos,False
+are,be,be,29345,AUX,ROOT,True
+nearly,nearly,nearly,197611,ADV,advmod,False
+times,time,time,323746,NOUN,quantmod,False
+more,more,more,193383,ADV,advmod,True
+likely,likely,likely,172179,ADJ,acomp,False
+than,than,than,320565,SCONJ,prep,True
+Democrats,Democrats,democrats,80734,PROPN,pobj,False
+to,to,to,324862,PART,aux,True
+say,say,say,276740,VERB,xcomp,True
+would,would,would,367745,VERB,aux,True
+not,not,not,208798,PART,neg,True
+get,get,get,124419,AUX,ccomp,True

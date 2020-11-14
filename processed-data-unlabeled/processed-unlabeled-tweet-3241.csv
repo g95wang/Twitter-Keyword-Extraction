@@ -1,0 +1,16 @@
+Trump,trump,trump,331570,ADJ,compound,False
+surgeon,surgeon,surgeon,313447,NOUN,compound,False
+general,general,general,123444,NOUN,nsubj,False
+says,say,say,276740,VERB,ccomp,False
+New,New,new,199367,PROPN,compound,False
+York,York,york,157693,PROPN,nsubj,False
+may,may,may,177739,VERB,aux,True
+not,not,not,208798,PART,neg,True
+need,need,need,197910,VERB,ccomp,False
+ventilators,ventilator,ventilator,358173,NOUN,dobj,False
+requesting,requesting,requesting,268855,NOUN,dobj,False
+The,the,the,320691,DET,det,True
+models,model,model,191042,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+way,way,way,361946,ADV,advmod,False
+off,off,off,211539,ADV,advmod,True

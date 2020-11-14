@@ -1,0 +1,16 @@
+in,in,in,149313,ADP,prep,True
+people,people,people,230162,NOUN,nsubj,False
+in,in,in,149313,ADP,prep,True
+Greater,Greater,greater,129450,PROPN,compound,False
+Manchester,Manchester,manchester,178929,PROPN,pobj,False
+have,have,have,134390,AUX,aux,True
+started,start,start,302958,VERB,ROOT,False
+doing,do,do,90528,VERB,xcomp,True
+online,online,online,212850,ADJ,amod,False
+exercise,exercise,exercise,107054,NOUN,compound,False
+videos,video,video,359514,NOUN,dobj,False
+since,since,since,291358,SCONJ,prep,True
+lockdown,lockdown,lookdown,175062,NOUN,pobj,False
+Will,Will,will,365768,VERB,aux,True
+join,join,join,161599,VERB,ROOT,False
+an,an,an,11448,DET,prt,True

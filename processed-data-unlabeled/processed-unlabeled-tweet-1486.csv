@@ -1,0 +1,14 @@
+m,be,be,29345,VERB,ROOT,False
+tired,tired,tired,324484,ADJ,acomp,False
+of,of,of,211535,ADP,prep,True
+typing,type,type,324164,VERB,pcomp,False
+rest,rest,rest,269833,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+peace,peace,peace,228323,NOUN,pobj,False
+wish,wish,wish,366457,VERB,ROOT,False
+black,black,black,35431,ADJ,amod,False
+people,people,people,230162,NOUN,nsubj,False
+could,could,could,70511,VERB,aux,True
+live,live,live,173931,VERB,ccomp,False
+in,in,in,149313,ADP,prep,True
+peace,peace,peace,228323,NOUN,pobj,False

@@ -1,0 +1,9 @@
+US,US,us,355940,PROPN,compound,True
+Pop,Pop,pop,243193,PROPN,compound,False
+Radio,Radio,radio,259607,PROPN,ROOT,False
+Say,say,say,276740,VERB,ROOT,True
+So,so,so,295959,ADV,ROOT,True
+New,New,new,199367,PROPN,compound,False
+Peak,Peak,peak,228403,PROPN,ROOT,False
+Spins,Spins,spins,299970,PROPN,ROOT,False
+Audience,audience,audience,23277,NOUN,ROOT,False

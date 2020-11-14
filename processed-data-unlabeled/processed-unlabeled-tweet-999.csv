@@ -1,0 +1,17 @@
+Look,look,look,175060,VERB,ROOT,False
+what,what,what,364447,PRON,dobj,True
+found,find,find,112884,VERB,ccomp,False
+at,at,at,22372,ADP,prep,True
+All,All,all,8522,PROPN,det,True
+Star,Star,star,302844,PROPN,compound,False
+Chevrolet,Chevrolet,chevrolet,54011,PROPN,pobj,False
+of,of,of,211535,ADP,prep,True
+Olive,Olive,olive,212287,PROPN,compound,False
+Branch,Branch,branch,39831,PROPN,pobj,False
+Can,Can,can,45964,VERB,aux,True
+let,let,let,170875,VERB,ROOT,False
+know,know,know,165702,VERB,ccomp,False
+what,what,what,364447,PRON,dobj,True
+think,think,think,321897,VERB,ccomp,False
+SALE,SALE,sale,276966,PROPN,nsubj,False
+PRICE,price,price,250334,NOUN,ROOT,False

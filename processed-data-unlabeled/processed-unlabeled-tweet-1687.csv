@@ -1,0 +1,17 @@
+If,if,if,146980,SCONJ,mark,True
+any,any,any,13086,DET,det,True
+journalist,journalist,journalist,161884,NOUN,nsubj,False
+was,be,be,29345,AUX,advcl,True
+to,to,to,324862,PART,aux,True
+write,write,write,368047,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+following,following,following,115996,NOUN,dobj,False
+would,would,would,367745,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+entirely,entirely,entirely,101451,ADV,advmod,False
+libel,libel,libel,171440,NOUN,npadvmod,False
+safe,safe,safe,276548,ADJ,acomp,False
+because,because,because,29780,SCONJ,prep,True
+of,of,of,211535,ADP,pcomp,True
+Cummings,cumming,chumming,56611,NOUN,appos,False
+who,who,who,365278,PRON,nsubj,True

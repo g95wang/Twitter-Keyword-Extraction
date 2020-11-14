@@ -1,0 +1,15 @@
+literally,literally,literally,173575,ADV,advmod,False
+signed,sign,sign,290081,VERB,ROOT,False
+warrantless,warrantless,warrantless,362775,ADJ,amod,False
+surveillance,surveillance,surveillance,313656,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+Americans,Americans,americans,10314,PROPN,pobj,False
+into,into,into,156343,ADP,prep,True
+law,law,law,169329,NOUN,pobj,False
+on,on,on,212644,ADP,prep,True
+January,January,january,160353,PROPN,pobj,False
+with,with,with,366582,ADP,prep,True
+the,the,the,320691,DET,det,True
+reauthorization,reauthorization,reauthorization,262158,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+FISA,FISA,faisan,109355,PROPN,pobj,False

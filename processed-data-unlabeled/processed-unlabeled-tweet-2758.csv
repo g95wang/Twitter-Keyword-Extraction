@@ -1,0 +1,16 @@
+Speaker,Speaker,speaker,298691,PROPN,ROOT,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+House,House,house,144380,PROPN,pobj,False
+Nancy,Nancy,nancy,196718,PROPN,compound,False
+Pelosi,Pelosi,peliosis,229296,PROPN,appos,False
+years,year,year,146706,NOUN,nmod,False
+old17th,old17th,goldsmith,127552,ADP,amod,False
+term,term,term,319345,NOUN,appos,False
+Majority,Majority,majority,178068,PROPN,compound,False
+Leader,Leader,leader,169520,PROPN,compound,False
+Steny,Steny,stey,303532,PROPN,compound,False
+Hoyer,Hoyer,hoer,142220,PROPN,appos,False
+years,year,year,146706,NOUN,compound,False
+term,term,term,319345,NOUN,compound,False
+Majority,Majority,majority,178068,PROPN,ROOT,False

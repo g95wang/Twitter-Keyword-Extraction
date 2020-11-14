@@ -1,0 +1,14 @@
+The,the,the,320691,DET,det,True
+last,last,last,168771,ADJ,amod,True
+time,time,time,323746,NOUN,npadvmod,False
+checked,check,check,53311,VERB,ROOT,False
+Blackpink,Blackpink,blackprint,35561,PROPN,nmod,False
+r,r,r,259188,PROPN,amod,False
+members,member,member,183109,NOUN,dobj,False
+So,so,so,295959,ADV,advmod,True
+wtf,wtf,wf,364331,PROPN,compound,False
+r,r,r,259188,PROPN,det,False
+u,u,u,333554,PROPN,dep,False
+doing,do,do,90528,VERB,ROOT,True
+Billboard,Billboard,billboard,33977,PROPN,dobj,False
+BLACKPINK,BLACKPINK,blackprint,35561,PROPN,pobj,False

@@ -1,0 +1,10 @@
+Microsoft,Microsoft,microdot,186093,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+ultra,ultra,ultra,333859,ADJ,dep,False
+portable,portable,portable,243572,ADJ,amod,False
+Surface,Surface,surface,313384,PROPN,compound,False
+Go,Go,go,127161,PROPN,compound,True
+tablet,tablet,tablet,314861,NOUN,ROOT,False
+goes,go,go,127161,VERB,xcomp,False
+official,official,official,211620,NOUN,acomp,False
+for,for,for,116301,ADP,prep,True

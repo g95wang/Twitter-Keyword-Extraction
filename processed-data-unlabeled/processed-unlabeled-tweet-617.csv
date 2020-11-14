@@ -1,0 +1,16 @@
+years,year,year,146706,NOUN,npadvmod,False
+with,with,with,366582,ADP,prep,True
+ROS,ROS,ros,274418,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+many,many,many,179225,ADJ,nsubj,True
+more,more,more,193383,ADJ,amod,True
+to,to,to,324862,PART,aux,True
+come,come,come,63721,VERB,ROOT,False
+Let,let,let,170875,VERB,ROOT,False
+pray,pray,pray,245225,VERB,ccomp,False
+for,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+solo,solo,solo,296839,NOUN,pobj,False
+soon,soon,soon,297339,ADV,advmod,False
+BLACKPINK,BLACKPINK,blackprint,35561,PROPN,appos,False
+ROS,ros,ros,274418,NOUN,appos,False

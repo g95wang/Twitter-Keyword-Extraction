@@ -1,0 +1,14 @@
+Incoming,Incoming,incoming,150049,PROPN,amod,False
+Freshman,Freshman,freshman,118823,PROPN,ROOT,False
+All,all,all,8522,DET,det,True
+future,future,future,120712,ADJ,amod,False
+Wolfpack,Wolfpack,woolpack,367340,PROPN,compound,False
+football,football,football,116135,NOUN,compound,False
+players,player,player,238740,NOUN,nsubjpass,False
+are,be,be,29345,AUX,auxpass,True
+encouraged,encourage,encourage,99482,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+join,join,join,161599,VERB,xcomp,False
+tonight,tonight,tonight,325593,NOUN,npadvmod,False
+Wolfpack,Wolfpack,woolpack,367340,PROPN,compound,False
+Wolfpackway,Wolfpackway,packway,222773,PROPN,ROOT,False

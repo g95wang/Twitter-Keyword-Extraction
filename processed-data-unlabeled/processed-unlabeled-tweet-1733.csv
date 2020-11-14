@@ -1,0 +1,10 @@
+HER,her,her,136846,DET,poss,True
+NAME,NAME,name,196686,PROPN,nsubj,True
+IS,be,be,29345,VERB,ROOT,True
+REGIS,REGIS,regius,265698,PROPN,compound,False
+KORCHINKSI,KORCHINKSI,chinks,54619,PROPN,compound,False
+PAQUET,paquet,paquet,225333,NOUN,compound,False
+DONT,DONT,dont,91473,NOUN,attr,False
+FORGET,forget,forget,117219,VERB,ROOT,False
+HER,her,her,136846,DET,compound,True
+NAME,NAME,name,196686,PROPN,dobj,True

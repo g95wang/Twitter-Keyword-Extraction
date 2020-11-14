@@ -1,0 +1,14 @@
+Halsey,Halsey,halse,132854,PROPN,nsubj,False
+posted,post,post,243900,VERB,ROOT,False
+this,this,this,322217,DET,dobj,True
+on,on,on,212644,ADP,prep,True
+IG,IG,big,33680,PROPN,compound,False
+story,story,story,305411,NOUN,pobj,False
+If,if,if,146980,SCONJ,mark,True
+s,s,s,275971,VERB,aux,False
+streaming,stream,stream,305976,VERB,advcl,False
+CALM,CALM,calm,45368,VERB,dobj,False
+by,by,by,33133,ADP,prep,True
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+too,too,too,325685,ADV,advmod,True

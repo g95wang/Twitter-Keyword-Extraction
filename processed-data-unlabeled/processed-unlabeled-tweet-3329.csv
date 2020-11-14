@@ -1,0 +1,13 @@
+An,an,an,11448,DET,det,True
+update,update,update,354620,NOUN,ROOT,False
+on,on,on,212644,ADP,prep,True
+changes,change,change,52470,NOUN,pobj,False
+to,to,to,324862,ADP,prep,True
+production,production,production,251589,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+Scottish,scottish,scottish,281409,ADJ,amod,False
+official,official,official,211620,ADJ,amod,False
+statistics,statistic,statistic,303108,NOUN,pobj,False
+due,due,due,93835,ADJ,prep,True
+to,to,to,324862,ADP,pcomp,True
+COVID-19,covid-19,covid,71525,NOUN,pobj,False

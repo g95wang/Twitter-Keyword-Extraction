@@ -1,0 +1,12 @@
+really,really,really,261766,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+like,like,like,172172,VERB,ROOT,False
+mixing,mix,mix,190685,VERB,xcomp,False
+friend,friend,friend,118947,NOUN,compound,False
+groupseach,groupseach,grouch,130283,PROPN,compound,False
+friendship,friendship,friendship,118961,NOUN,dobj,False
+has,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+different,different,different,85278,ADJ,amod,False
+vibe,vibe,vibe,359269,NOUN,dobj,False

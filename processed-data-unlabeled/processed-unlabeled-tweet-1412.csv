@@ -1,0 +1,13 @@
+What,what,what,364447,PRON,nsubj,True
+on,on,on,212644,ADP,prep,True
+Earth,Earth,earth,94806,PROPN,pobj,False
+is,be,be,29345,AUX,aux,True
+Happening,happen,happen,133505,VERB,ROOT,False
+Mark,Mark,mark,180142,PROPN,compound,False
+Passio,Passio,passion,227332,PROPN,compound,False
+Presentation,presentation,presentation,249350,NOUN,compound,False
+inspiration,inspiration,inspiration,153786,NOUN,nmod,False
+leadership,leadership,leadership,169525,NOUN,appos,False
+mustwatch,mustwatch,mustache,196149,VERB,compound,False
+solutions,solution,solution,296901,NOUN,dobj,False
+learning,learn,learn,169659,VERB,pobj,False

@@ -1,0 +1,14 @@
+The,the,the,320691,DET,det,True
+problem,problem,problem,251071,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+'re,be,be,29345,AUX,ROOT,True
+in,in,in,149313,ADP,prep,True
+hustling,hustling,hustling,145389,NOUN,compound,False
+years,year,year,146706,NOUN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+act,act,act,3071,VERB,xcomp,False
+like,like,like,172172,SCONJ,mark,False
+already,already,already,9397,ADV,advmod,True
+made,make,make,178090,VERB,advcl,True

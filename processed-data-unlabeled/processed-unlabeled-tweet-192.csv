@@ -1,0 +1,10 @@
+Happy,Happy,happy,133513,PROPN,compound,False
+Birthday,Birthday,birthday,34904,PROPN,compound,False
+Go,Go,go,127161,PROPN,compound,True
+Toubun,Toubun,itoubou,159589,PROPN,ROOT,False
+Drew,draw,draw,92753,VERB,ROOT,False
+fave,fave,fauve,110459,NOUN,dobj,False
+out,out,out,216108,SCONJ,prep,True
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+GoToubunnoHanayome,GoToubunnoHanayome,unhandsome,343486,VERB,ROOT,False

@@ -1,0 +1,9 @@
+Way,way,way,361946,NOUN,npadvmod,False
+more,more,more,193383,ADJ,amod,True
+than,than,than,320565,SCONJ,quantmod,True
+people,people,people,230162,NOUN,nsubj,False
+have,have,have,134390,AUX,aux,True
+recovered,recover,recover,263550,VERB,ROOT,False
+globally,globally,globally,126464,ADV,advmod,False
+more,more,more,193383,ADJ,advmod,True
+like,like,like,172172,SCONJ,quantmod,False

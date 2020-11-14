@@ -1,0 +1,12 @@
+Federer,Federer,fleerer,114374,PROPN,nsubj,False
+won,win,win,365877,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+sets,set,set,286614,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+capture,capture,capture,47224,VERB,advcl,False
+fourth,fourth,fourth,118022,ADJ,amod,False
+consecutive,consecutive,consecutive,66711,ADJ,amod,False
+Wimbledon,Wimbledon,wimbled,365861,PROPN,compound,False
+title,title,title,324727,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+sets,set,set,286614,NOUN,pobj,False

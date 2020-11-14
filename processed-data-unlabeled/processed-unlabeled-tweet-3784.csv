@@ -1,0 +1,12 @@
+PSY,PSY,opsy,213742,PROPN,nmod,False
+supporting,support,support,313022,VERB,acl,False
+Joy,Joy,joy,161577,PROPN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+Crush,crush,crush,74268,VERB,conj,False
+on,on,on,212644,ADP,prep,True
+collab,collab,collab,62801,NOUN,compound,False
+song,song,song,297195,NOUN,pobj,False
+MAYDAY,MAYDAY,mayday,177765,NOUN,compound,False
+CRUSHxJOY_Mayday,crushxjoy_mayday,customary,75707,NOUN,appos,False
+CRUSH,crush,crush,74268,NOUN,appos,False
+JOY,joy,joy,161577,NOUN,compound,False

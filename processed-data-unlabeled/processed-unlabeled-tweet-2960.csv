@@ -1,0 +1,13 @@
+i,i,i,145455,PRON,nsubj,True
+just,just,just,162503,ADV,advmod,True
+know,know,know,165702,VERB,ROOT,False
+s,s,s,275971,VERB,ccomp,False
+in,in,in,149313,ADP,prep,True
+quarantine,quarantine,quarantine,257971,NOUN,pobj,False
+listening,listen,listen,173504,VERB,advcl,False
+to,to,to,324862,ADP,aux,True
+carti,carti,cart,48587,VERB,advcl,False
+leaks,leak,leak,169600,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+another,another,another,13899,DET,det,True
+guy,guy,guy,131001,NOUN,pobj,False

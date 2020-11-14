@@ -1,0 +1,15 @@
+Last,last,last,168771,ADJ,amod,True
+night,night,night,199909,NOUN,npadvmod,False
+Mumbai,Mumbai,macumba,177140,PROPN,compound,False
+MLAs,MLAs,melas,182784,PROPN,nsubj,False
+from,from,from,119298,ADP,prep,True
+the,the,the,320691,DET,det,True
+MahaVikasAghadi,MahaVikasAghadi,maharishi,177677,NOUN,pobj,False
+participated,participate,participate,227015,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+video,video,video,359514,NOUN,compound,False
+conference,conference,conference,65817,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+Guardian,guardian,guardian,130791,ADJ,compound,False
+ministers,minister,minister,187927,NOUN,pobj,False

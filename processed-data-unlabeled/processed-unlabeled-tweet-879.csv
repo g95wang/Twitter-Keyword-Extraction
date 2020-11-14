@@ -1,0 +1,17 @@
+Good,good,good,127869,ADJ,amod,False
+evening,evening,evening,106097,NOUN,npadvmod,False
+everything,everything,everything,106171,PRON,dobj,True
+i,i,i,145455,PRON,nsubj,True
+had,have,have,134390,AUX,ccomp,True
+a,a,a,0,DET,det,True
+good,good,good,127869,ADJ,amod,False
+rest,rest,rest,269833,NOUN,dobj,False
+here,here,here,136991,ADV,advmod,True
+'s,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+progress,progress,progress,251932,NOUN,nsubj,False
+so,so,so,295959,ADV,advmod,True
+far,far,far,109839,ADV,advmod,False
+for,for,for,116301,ADP,prep,True
+wannabe,wannabe,annabel,13460,PROPN,compound,False
+yeonjun,yeonjun,endjunk,99689,PROPN,pobj,False

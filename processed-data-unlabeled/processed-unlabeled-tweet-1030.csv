@@ -1,0 +1,11 @@
+Guess,guess,guess,130940,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+no,no,no,200529,DET,nsubj,True
+of,of,of,211535,ADP,prep,True
+tweets,tweet,tweet,333246,NOUN,pobj,False
+going,go,go,127161,VERB,ccomp,False
+to,to,to,324862,PART,aux,True
+end,end,end,99559,VERB,xcomp,False
+for,for,for,116301,ADP,prep,True
+this,this,this,322217,DET,det,True
+magical,magical,magical,177408,ADJ,amod,False

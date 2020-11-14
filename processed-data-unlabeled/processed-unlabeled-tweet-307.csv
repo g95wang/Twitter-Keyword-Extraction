@@ -1,0 +1,13 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+scream,scream,scream,281670,NOUN,attr,False
+Ill,Ill,ill,147293,PROPN,nsubj,False
+be,be,be,29345,AUX,aux,True
+doing,do,do,90528,VERB,relcl,True
+at,at,at,22372,ADP,prep,True
+the,the,the,320691,DET,det,True
+first,first,first,113286,ADJ,amod,True
+motive,motive,motive,194004,NOUN,pobj,False
+after,after,after,5615,ADP,prep,True
+lockdown,lockdown,lookdown,175062,NOUN,pobj,False

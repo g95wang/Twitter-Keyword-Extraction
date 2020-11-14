@@ -1,0 +1,14 @@
+did,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+even,even,even,106079,ADV,advmod,True
+get,get,get,124419,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+go,go,go,127161,VERB,xcomp,True
+into,into,into,156343,ADP,prep,True
+but,but,but,43550,CCONJ,cc,True
+lowkey,lowkey,lowery,175630,VERB,ROOT,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+feel,feel,feel,110884,VERB,ROOT,False
+like,like,like,172172,SCONJ,prep,False
+now,now,now,209199,ADV,advmod,True

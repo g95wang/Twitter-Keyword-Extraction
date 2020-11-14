@@ -1,0 +1,13 @@
+Do,do,do,90528,AUX,aux,True
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+know,know,know,165702,VERB,xcomp,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+fastest,fast,fast,110179,ADJ,amod,False
+growing,grow,grow,130412,VERB,amod,False
+segment,segment,segment,283206,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+homeless,homeless,homeless,142788,ADJ,amod,False
+pop,pop,pop,243193,NOUN,pobj,False

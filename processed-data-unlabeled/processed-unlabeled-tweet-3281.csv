@@ -1,0 +1,16 @@
+A,a,a,0,DET,det,True
+bipartisan,bipartisan,bipartisan,34623,ADJ,amod,False
+and,and,and,12285,CCONJ,cc,True
+socially,socially,socially,296122,ADV,advmod,False
+distanced,distance,distance,89691,VERB,amod,False
+flight,flight,flight,114591,NOUN,ROOT,False
+to,to,to,324862,ADP,prep,True
+DC,DC,dc,77394,PROPN,pobj,False
+this,this,this,322217,DET,det,True
+morning,morning,morning,193499,NOUN,npadvmod,False
+to,to,to,324862,PART,aux,True
+vote,vote,vote,361409,VERB,relcl,False
+on,on,on,212644,ADP,prep,True
+Coronavirus,Coronavirus,coronavirus,69453,PROPN,nmod,False
+economic,economic,economic,95376,ADJ,amod,False
+relief,relief,relief,266903,NOUN,pobj,False

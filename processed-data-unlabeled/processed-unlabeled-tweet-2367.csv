@@ -1,0 +1,17 @@
+Young,Young,young,157730,PROPN,compound,False
+Thug,Thug,thug,322923,PROPN,nsubj,False
+posed,pose,pose,243770,VERB,ROOT,False
+different,different,different,85278,ADJ,amod,False
+times,time,time,323746,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+create,create,create,72418,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+outline,outline,outline,216942,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+portrait,portrait,portrait,243720,NOUN,pobj,False
+on,on,on,212644,ADP,prep,True
+album,album,album,7508,ADJ,compound,False
+cover,cover,cover,71476,NOUN,ROOT,False
+So,so,so,295959,ADV,advmod,True
+Much,much,much,194510,ADJ,advmod,True
+Fun,Fun,fun,120110,PROPN,ROOT,False

@@ -1,0 +1,17 @@
+SNP,SNP,snap,295280,PROPN,compound,False
+Leader,Leader,leader,169520,PROPN,compound,False
+Ian,Ian,ian,145644,PROPN,compound,False
+Blackford,Blackford,blackboard,35454,PROPN,nsubj,False
+Travelled,Travelled,travelled,328598,PROPN,ROOT,False
+Miles,Miles,miles,187145,PROPN,npadvmod,False
+from,from,from,119298,ADP,prep,True
+London,London,london,174855,PROPN,pobj,False
+to,to,to,324862,ADP,prep,True
+Skye,Skye,skye,293122,PROPN,pobj,False
+During,during,during,94458,ADP,prep,True
+Lockdown,Lockdown,lookdown,175062,PROPN,pobj,False
+Surprisingly,surprisingly,surprisingly,313564,ADV,advmod,False
+very,very,very,358514,ADV,advmod,True
+little,little,little,173876,ADJ,advmod,False
+about,about,about,756,ADP,prep,True
+on,on,on,212644,ADP,prep,True

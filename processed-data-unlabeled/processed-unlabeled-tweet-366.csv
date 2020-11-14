@@ -1,0 +1,11 @@
+Republicans,Republicans,republicans,268738,PROPN,ROOT,False
+times,time,time,323746,NOUN,npadvmod,False
+more,more,more,193383,ADV,advmod,True
+likely,likely,likely,172179,ADJ,amod,False
+than,than,than,320565,SCONJ,prep,True
+Democrats,Democrats,democrats,80734,PROPN,pobj,False
+to,to,to,324862,PART,aux,True
+say,say,say,276740,VERB,advcl,True
+ll,will,will,365768,VERB,aux,False
+refuse,refuse,refuse,265465,VERB,ccomp,False
+vaccine,vaccine,vaccine,356380,NOUN,dobj,False

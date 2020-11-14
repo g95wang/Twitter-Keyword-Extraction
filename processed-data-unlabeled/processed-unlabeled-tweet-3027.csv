@@ -1,0 +1,15 @@
+Have,have,have,134390,AUX,aux,True
+missed,miss,miss,189987,VERB,ROOT,False
+any,any,any,13086,DET,dobj,True
+Can,Can,can,45964,VERB,aux,True
+suggest,suggest,suggest,310240,VERB,ROOT,False
+some,some,some,297029,DET,det,True
+essential,essential,essential,104520,ADJ,amod,False
+tips,tip,tip,324153,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+making,make,make,178090,VERB,pcomp,False
+video,video,video,359514,NOUN,compound,False
+meetings,meeting,meeting,182309,NOUN,compound,False
+work,work,work,367468,VERB,dobj,False
+coronavirus,coronaviru,coronavirus,69453,NOUN,compound,False
+workingfromhome,workingfromhome,workingwomen,367517,VERB,ROOT,False

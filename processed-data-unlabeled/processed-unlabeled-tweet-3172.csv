@@ -1,0 +1,14 @@
+BAEKHYUN,BAEKHYUN,akhund,7160,PROPN,nsubj,False
+WAS,be,be,29345,VERB,aux,True
+WATCHING,watch,watch,363049,VERB,ROOT,False
+NCT127,NCT127,unct,338260,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+VLIVE,vlive,live,173931,NOUN,dobj,False
+AND,and,and,12285,CCONJ,cc,True
+CONGRATULATED,congratulate,congratulate,66224,VERB,conj,False
+THEM,them,them,320888,PRON,appos,True
+BEFORE,before,before,30510,ADP,prep,True
+THE,the,the,320691,DET,det,True
+BOYS,boy,boy,37378,NOUN,pobj,False
+WENT,go,go,127161,VERB,conj,False
+LIVE,live,live,173931,ADV,intj,False

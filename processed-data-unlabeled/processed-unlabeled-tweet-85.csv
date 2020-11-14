@@ -1,0 +1,10 @@
+Iggy,Iggy,biggy,33729,PROPN,compound,False
+Azalea,Azalea,azalea,25222,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+Britney,Britney,britany,40981,PROPN,conj,False
+Spears,Spears,spears,298734,PROPN,conj,False
+Film,Film,film,112722,PROPN,ROOT,False
+Music,music,music,195981,NOUN,compound,False
+Video,video,video,359514,NOUN,ROOT,False
+in,in,in,149313,ADP,prep,True
+Hollywood,Hollywood,hollywood,142499,PROPN,pobj,False

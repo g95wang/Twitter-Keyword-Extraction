@@ -1,0 +1,16 @@
+Children,Children,children,54316,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+books,book,book,38039,NOUN,nsubj,False
+that,that,that,320639,DET,nsubj,True
+explain,explain,explain,107802,VERB,relcl,False
+germs,germ,germ,124176,NOUN,dobj,False
+hand,hand,hand,133091,NOUN,compound,False
+washing,washing,washing,362912,NOUN,conj,False
+amp,amp,amp,10991,NOUN,conj,False
+viruses,virus,virus,360286,NOUN,ROOT,False
+Topics,Topics,topics,325893,PROPN,dobj,False
+of,of,of,211535,ADP,prep,True
+germs,germ,germ,124176,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+impor,impor,impoor,148865,ADJ,conj,False

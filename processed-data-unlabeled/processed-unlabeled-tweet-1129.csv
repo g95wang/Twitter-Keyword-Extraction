@@ -1,0 +1,11 @@
+WHY,why,why,364728,ADV,advmod,True
+DO,do,do,90528,VERB,compound,True
+MORE,MORE,more,193383,ADJ,amod,True
+PPL,PPL,ppl,245060,PROPN,nsubj,False
+HAVE,have,have,134390,VERB,ROOT,True
+U,u,u,333554,NOUN,compound,False
+BLOCKED,blocked,blocked,36362,NOUN,dobj,False
+THAN,than,than,320565,ADP,prep,True
+ME,ME,me,181664,PROPN,pobj,True
+WTF,WTF,wf,364331,PROPN,compound,False
+MAFI,MAFI,mafia,177333,PROPN,pobj,False

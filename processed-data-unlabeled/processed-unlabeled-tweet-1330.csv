@@ -1,0 +1,11 @@
+is,be,be,29345,AUX,aux,True
+going,go,go,127161,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+in,in,in,149313,ADP,prep,True
+faces,face,face,108932,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+long,long,long,174883,ADJ,amod,False
+time,time,time,323746,NOUN,pobj,False
+TachaOurTreasure,tachaourtreasure,archtreasurer,19163,NOUN,ROOT,False

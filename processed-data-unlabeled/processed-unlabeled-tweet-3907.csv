@@ -1,0 +1,16 @@
+Morning,Morning,morning,193499,PROPN,nsubj,False
+loves,love,love,175534,VERB,ROOT,False
+would,would,would,367745,VERB,aux,True
+love,love,love,175534,VERB,ccomp,False
+to,to,to,324862,PART,aux,True
+grow,grow,grow,130412,VERB,xcomp,False
+instagram,instagram,ingram,152546,NOUN,compound,False
+page,page,page,222990,NOUN,dobj,False
+create,create,create,72418,VERB,ROOT,False
+beauty,beauty,beauty,29660,NOUN,compound,False
+content,content,content,67368,NOUN,dobj,False
+Please,please,please,239622,INTJ,intj,True
+help,help,help,135801,VERB,advcl,False
+grow,grow,grow,130412,VERB,ccomp,False
+following,follow,follow,115989,VERB,amod,False
+h,h,h,131712,NOUN,dobj,False

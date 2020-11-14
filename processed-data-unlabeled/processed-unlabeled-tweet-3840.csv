@@ -1,0 +1,10 @@
+These,these,these,321594,DET,det,True
+Karens,Karens,karen,163183,PROPN,nsubj,False
+have,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+real,real,real,261710,ADJ,amod,False
+mental,mental,mental,183495,ADJ,amod,False
+illness,illness,illness,147427,NOUN,dobj,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+insanity,insanity,insanity,153402,NOUN,attr,False

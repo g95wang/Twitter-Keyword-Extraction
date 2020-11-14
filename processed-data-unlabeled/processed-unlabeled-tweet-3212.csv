@@ -1,0 +1,11 @@
+reading,read,read,261551,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+class,class,class,59378,NOUN,compound,False
+whatsapp,whatsapp,watap,363044,NOUN,compound,False
+group,group,group,130347,NOUN,dobj,False
+talking,talk,talk,315639,VERB,acl,False
+about,about,about,756,ADP,prep,True
+homeworks,homework,homework,142905,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+online,online,online,212850,ADJ,amod,False
+class,class,class,59378,NOUN,conj,False

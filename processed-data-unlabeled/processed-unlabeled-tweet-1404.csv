@@ -1,0 +1,8 @@
+That,that,that,320639,DET,nsubj,True
+was,be,be,29345,AUX,ROOT,True
+nt,not,not,208798,PART,neg,False
+a,a,a,0,DET,det,True
+lie,lie,lie,171801,NOUN,attr,False
+was,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+compliment,compliment,compliment,64714,NOUN,attr,False

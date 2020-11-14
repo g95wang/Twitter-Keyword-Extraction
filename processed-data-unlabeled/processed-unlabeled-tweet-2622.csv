@@ -1,0 +1,10 @@
+Why,why,why,364728,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+cheating,cheat,cheat,53282,VERB,csubj,False
+married,married,married,180346,ADJ,amod,False
+men,man,man,178862,NOUN,dobj,False
+think,think,think,321897,VERB,ROOT,False
+wives,wife,wife,365591,NOUN,nsubj,False
+ga,ga,ga,120760,PROPN,ccomp,False
+ba,ba,ba,25417,PROPN,compound,False
+jewe,jewe,jewed,161086,PROPN,dobj,False

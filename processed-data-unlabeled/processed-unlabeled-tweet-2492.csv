@@ -1,0 +1,16 @@
+If,if,if,146980,SCONJ,mark,True
+i,i,i,145455,PRON,nsubj,True
+seen,see,see,283054,VERB,advcl,False
+story,story,story,305411,NOUN,nsubj,False
+seconds,second,second,282753,NOUN,ccomp,False
+after,after,after,5615,ADP,mark,True
+post,post,post,243900,VERB,advcl,False
+m,be,be,29345,VERB,ROOT,False
+sorry,sorry,sorry,297653,INTJ,acomp,False
+really,really,really,261766,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+have,have,have,134390,AUX,ROOT,True
+shit,shit,shit,288544,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+do,do,do,90528,AUX,relcl,True

@@ -1,0 +1,16 @@
+That,that,that,320639,DET,nsubj,True
+'s,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+lot,lot,lot,175365,NOUN,npadvmod,False
+more,more,more,193383,ADJ,amod,True
+cops,cop,cop,68392,NOUN,attr,False
+protecting,protect,protect,253369,VERB,acl,False
+killers,killer,killer,164593,NOUN,dobj,False
+home,home,home,142751,ADV,advmod,False
+than,than,than,320565,SCONJ,mark,True
+there,there,there,321216,PRON,expl,True
+were,be,be,29345,AUX,advcl,True
+cops,cop,cop,68392,NOUN,attr,False
+protecting,protect,protect,253369,VERB,acl,False
+elected,elect,elect,96866,VERB,acl,False
+offic,offic,offic,211601,NOUN,oprd,False

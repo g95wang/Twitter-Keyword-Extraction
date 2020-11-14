@@ -1,0 +1,9 @@
+That,that,that,320639,DET,nsubj,True
+'s,be,be,29345,AUX,ROOT,True
+what,what,what,364447,PRON,dobj,True
+said,say,say,276740,VERB,ccomp,False
+booty,booty,booty,38244,ADV,amod,False
+traps,trap,trap,328432,NOUN,attr,False
+Data,data,data,77138,ADJ,ccomp,False
+Data,Data,data,77138,PROPN,dobj,False
+TheGoonies,thegoonie,theogonies,320981,NOUN,ROOT,False

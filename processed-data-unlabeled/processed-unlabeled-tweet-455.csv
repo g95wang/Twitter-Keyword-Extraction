@@ -1,0 +1,15 @@
+When,when,when,364637,ADV,advmod,True
+trump,trump,trump,331570,NOUN,nsubj,False
+loses,lose,lose,175338,VERB,advcl,False
+the,the,the,320691,DET,det,True
+election,election,election,96877,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+November,November,november,209151,PROPN,pobj,False
+what,what,what,364447,PRON,nsubj,True
+would,would,would,367745,VERB,aux,True
+prevent,prevent,prevent,250153,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+administration,administration,administration,4148,NOUN,dobj,False
+from,from,from,119298,ADP,prep,True
+a,a,a,0,DET,det,True
+wholesale,wholesale,wholesale,365294,ADJ,amod,False

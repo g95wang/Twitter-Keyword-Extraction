@@ -1,0 +1,9 @@
+need,need,need,197910,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+visit,visit,visit,360423,VERB,xcomp,False
+a,a,a,0,DET,det,True
+car,car,car,47250,NOUN,compound,False
+wash,wash,wash,362870,NOUN,dobj,False
+after,after,after,5615,ADP,prep,True
+training,training,training,327467,NOUN,compound,False
+session,session,session,286585,NOUN,pobj,False

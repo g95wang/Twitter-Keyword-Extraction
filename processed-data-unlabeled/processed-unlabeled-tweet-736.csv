@@ -1,0 +1,16 @@
+Rule,rule,rule,275459,NOUN,ROOT,False
+The,the,the,320691,DET,det,True
+UK,UK,auk,23422,PROPN,compound,False
+government,government,government,128391,NOUN,poss,False
+'s,'s,s,275971,PART,case,True
+first,first,first,113286,ADJ,amod,True
+priority,priority,priority,250741,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+safety,safety,safety,276575,NOUN,compound,False
+snd,snd,sand,277699,ADJ,compound,False
+security,security,security,282950,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+citizens,citizen,citizen,58672,NOUN,pobj,False
+might,may,may,177739,VERB,ROOT,True
+like,like,like,172172,VERB,intj,False

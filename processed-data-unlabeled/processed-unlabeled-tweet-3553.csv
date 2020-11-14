@@ -1,0 +1,14 @@
+a,a,a,0,DET,det,True
+road,road,road,273470,NOUN,compound,False
+trip,trip,trip,330270,NOUN,ROOT,False
+a,a,a,0,DET,det,True
+vacation,vacation,vacation,356349,NOUN,ROOT,False
+any,any,any,13086,DET,det,True
+type,type,type,324164,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+getaway,getaway,getaway,124428,NOUN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+definitely,definitely,definitely,79325,ADV,advmod,False
+a,a,a,0,DET,det,True
+need,need,need,197910,NOUN,attr,False
+rn,rn,rn,273462,NOUN,amod,False

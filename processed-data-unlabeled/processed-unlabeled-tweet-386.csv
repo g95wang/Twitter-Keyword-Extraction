@@ -1,0 +1,17 @@
+Just,just,just,162503,ADV,advmod,True
+a,a,a,0,DET,quantmod,True
+few,few,few,111900,ADJ,ROOT,True
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+muffin,muffin,muffin,194757,NOUN,compound,False
+designs,design,design,82572,NOUN,pobj,False
+created,create,create,72418,VERB,acl,False
+by,by,by,33133,ADP,agent,True
+y9,y9,y,145456,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+today,today,today,325003,NOUN,poss,False
+'s,'s,s,275971,PART,case,True
+lesson,lesson,lesson,170857,NOUN,pobj,False
+FoodLessonsFromHome,FoodLessonsFromHome,foodlessness,116083,VERB,compound,False
+muffins,muffin,muffin,194757,NOUN,ROOT,False
+designtask,designtask,designs,82602,NOUN,ROOT,False

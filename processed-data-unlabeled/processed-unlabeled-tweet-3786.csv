@@ -1,0 +1,17 @@
+Good,good,good,127869,ADJ,amod,False
+morning,morning,morning,193499,NOUN,ROOT,False
+The,the,the,320691,DET,det,True
+time,time,time,323746,NOUN,nsubj,False
+now,now,now,209199,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+AM,am,am,9714,NOUN,attr,True
+Here,here,here,136991,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+YOUR,your,your,157754,DET,poss,True
+outdoor,outdoor,outdoor,216485,ADJ,amod,False
+forecast,forecast,forecast,116541,NOUN,nsubj,False
+txwx,txwx,taxwax,317371,NOUN,compound,False
+dfwwx,dfwwx,adfix,3825,ADJ,ROOT,False
+Texas,Texas,texas,320374,PROPN,compound,False
+hunting,hunt,hunt,145181,VERB,compound,False
+fishing,fishing,fishing,113373,NOUN,ROOT,False

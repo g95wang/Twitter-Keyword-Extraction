@@ -1,0 +1,13 @@
+Wrote,write,write,368047,VERB,ROOT,False
+something,something,something,297061,PRON,dobj,True
+with,with,with,366582,ADP,prep,True
+for,for,for,116301,ADP,pobj,True
+'s,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+first,first,first,113286,ADJ,attr,True
+of,of,of,211535,ADP,prep,True
+a,a,a,0,DET,det,True
+article,article,article,20674,NOUN,compound,False
+series,series,series,286094,NOUN,pobj,False
+Please,please,please,239622,INTJ,intj,True
+give,give,give,125692,VERB,ROOT,True

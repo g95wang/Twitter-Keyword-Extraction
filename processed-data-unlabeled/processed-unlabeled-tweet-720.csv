@@ -1,0 +1,14 @@
+the,the,the,320691,DET,det,True
+way,way,way,361946,NOUN,nsubj,False
+dog,dog,dog,90839,NOUN,nsubj,False
+stomps,stomp,stomp,305177,NOUN,nsubj,False
+around,around,around,20104,ADP,prep,True
+ready,ready,ready,261587,ADJ,relcl,False
+to,to,to,324862,PART,aux,True
+defend,defend,defend,79187,VERB,xcomp,False
+when,when,when,364637,ADV,advmod,True
+gets,get,get,124419,VERB,auxpass,False
+worked,work,work,367468,VERB,advcl,False
+up,up,up,354457,ADP,prt,True
+is,be,be,29345,AUX,ROOT,True
+fave,fave,fauve,110459,NOUN,attr,False

@@ -1,0 +1,10 @@
+Once,once,once,212661,ADV,advmod,True
+again,again,again,5827,ADV,advmod,True
+is,be,be,29345,AUX,auxpass,True
+named,name,name,196686,VERB,ROOT,False
+of,of,of,211535,ADP,prep,True
+'s,'s,s,275971,PART,pcomp,True
+Top,Top,top,325810,PROPN,compound,True
+Companies,Companies,companies,64372,PROPN,pobj,False
+for,for,for,116301,ADP,prep,True
+Diversity,diversity,diversity,90269,NOUN,pobj,False

@@ -1,0 +1,8 @@
+cases,case,case,48783,NOUN,nsubjpass,False
+have,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,auxpass,True
+deactivated,deactivate,deactivate,77432,VERB,ccomp,False
+based,base,base,28484,VERB,prep,False
+on,on,on,212644,ADP,prep,True
+abscondment,abscondment,secondment,282773,NOUN,pobj,False
+cruise,cruise,cruise,74146,NOUN,ROOT,False

@@ -1,0 +1,9 @@
+What,what,what,364447,PRON,nsubj,True
+will,will,will,365768,VERB,aux,True
+business,business,business,43481,NOUN,nsubj,False
+as,as,as,20837,SCONJ,prep,True
+usual,usual,usual,356048,ADJ,amod,False
+be,be,be,29345,AUX,ROOT,True
+like,like,like,172172,SCONJ,prep,False
+post,post,post,243900,ADJ,dep,False
+coronavirus,coronavirus,coronavirus,69453,NOUN,pobj,False

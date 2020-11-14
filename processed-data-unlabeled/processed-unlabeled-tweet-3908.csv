@@ -1,0 +1,12 @@
+asked,ask,ask,21294,VERB,ROOT,False
+some,some,some,297029,DET,det,True
+non,non,non,200943,NOUN,dep,False
+fans,fan,fan,109645,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+guess,guess,guess,130940,VERB,xcomp,False
+baekhyun,baekhyun,akhund,7160,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+age,age,age,5968,NOUN,dobj,False
+'s,be,be,29345,AUX,aux,True
+aging,age,age,5968,VERB,ROOT,False
+backwards,backwards,backwards,26003,ADV,advmod,False

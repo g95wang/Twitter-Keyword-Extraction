@@ -1,0 +1,16 @@
+Happy,Happy,happy,133513,PROPN,compound,False
+Birthday,Birthday,birthday,34904,PROPN,ROOT,False
+little,little,little,173876,ADJ,amod,False
+Archie,archie,archie,18936,NOUN,compound,False
+What,what,what,364447,DET,nsubj,True
+a,a,a,0,DET,det,True
+beautiful,beautiful,beautiful,29674,ADJ,amod,False
+idea,idea,idea,146298,NOUN,ROOT,False
+to,to,to,324862,PART,aux,True
+share,share,share,287481,VERB,acl,False
+Archies,archie,archie,18936,NOUN,compound,False
+birthday,birthday,birthday,34904,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+this,this,this,322217,DET,det,True
+way,way,way,361946,NOUN,npadvmod,False
+sti,sti,sati,278695,PROPN,conj,False

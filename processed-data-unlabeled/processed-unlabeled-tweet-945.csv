@@ -1,0 +1,13 @@
+So,so,so,295959,ADV,advmod,True
+Jamuriya,Jamuriya,jambiya,160249,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+out,out,out,216108,ADP,advmod,True
+to,to,to,324862,PART,aux,True
+defend,defend,defend,79187,VERB,xcomp,False
+a,a,a,0,DET,det,True
+terrorist,terrorist,terrorist,319630,NOUN,dobj,False
+Waiting,wait,wait,362072,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+other,other,other,215836,ADJ,amod,True
+Jamuriyas,Jamuriyas,amritas,11386,PROPN,pobj,False
+like,like,like,172172,SCONJ,prep,False

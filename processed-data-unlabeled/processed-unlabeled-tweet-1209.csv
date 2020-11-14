@@ -1,0 +1,16 @@
+An,an,an,11448,DET,det,True
+Open,open,open,213219,ADJ,amod,False
+Letter,letter,letter,170920,NOUN,ROOT,False
+To,to,to,324862,ADP,prep,True
+The,the,the,320691,DET,det,True
+-Year,-Year,year,146706,PROPN,punct,False
+Old,old,old,212002,ADJ,compound,False
+Black,black,black,35431,ADJ,compound,False
+Girl,girl,girl,125519,NOUN,pobj,False
+Who,who,who,365278,PRON,nsubj,True
+Witnessed,witness,witness,366708,VERB,relcl,False
+The,the,the,320691,DET,det,True
+Killing,killing,killing,164606,NOUN,dobj,False
+Of,of,of,211535,ADP,prep,True
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,pobj,False

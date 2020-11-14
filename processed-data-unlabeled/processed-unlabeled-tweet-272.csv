@@ -1,0 +1,15 @@
+If,if,if,146980,SCONJ,mark,True
+'re,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+hungry,hungry,hungry,145153,ADJ,acomp,False
+enough,enough,enough,100831,ADV,advmod,True
+to,to,to,324862,PART,aux,True
+have,have,have,134390,AUX,xcomp,True
+broccoli,broccoli,broccoli,41115,NOUN,dobj,False
+as,as,as,20837,SCONJ,prep,True
+a,a,a,0,DET,det,True
+snack,snack,snack,295183,NOUN,pobj,False
+YOU'RE,YOU'RE,youre,157755,PROPN,npadvmod,False
+NOT,not,not,208798,ADV,neg,True
+REALLY,REALLY,really,261766,PROPN,dep,True
+HUNGRY,HUNGRY,hungry,145153,PROPN,ROOT,False

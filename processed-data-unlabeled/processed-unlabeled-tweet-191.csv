@@ -1,0 +1,17 @@
+How,how,how,144540,ADV,advmod,True
+could,could,could,70511,VERB,aux,True
+Covid-19,covid-19,covid,71525,ADV,nsubj,False
+impact,impact,impact,148207,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+health,health,health,134768,NOUN,nsubjpass,False
+of,of,of,211535,ADP,prep,True
+newborns,newborn,newborn,199372,NOUN,pobj,False
+being,be,be,29345,AUX,auxpass,True
+birthed,birth,birth,34902,VERB,ccomp,False
+during,during,during,94458,ADP,prep,True
+the,the,the,320691,DET,det,True
+pandemic,pandemic,pandemic,224465,NOUN,pobj,False
+Considering,consider,consider,66795,VERB,csubj,False
+hospitals,hospital,hospital,144164,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+with,with,with,366582,ADP,prep,True

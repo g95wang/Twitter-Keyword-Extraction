@@ -1,0 +1,12 @@
+did,do,do,90528,AUX,aux,True
+say,say,say,276740,VERB,ROOT,True
+that,that,that,320639,SCONJ,dobj,True
+by,by,by,33133,ADP,prep,True
+claiming,claim,claim,59065,VERB,pcomp,False
+Hitler,Hitler,hitler,141982,PROPN,nsubj,False
+was,be,be,29345,AUX,ccomp,True
+a,a,a,0,DET,det,True
+socialist,socialist,socialist,296105,NOUN,attr,False
+QED,QED,qed,257413,PROPN,ROOT,False
+lose,lose,lose,175338,VERB,ROOT,False
+snowflake,snowflake,snowflake,295813,NOUN,npadvmod,False

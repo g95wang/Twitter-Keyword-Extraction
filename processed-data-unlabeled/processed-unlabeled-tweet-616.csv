@@ -1,0 +1,11 @@
+men,man,man,178862,NOUN,nsubj,False
+sexualize,sexualize,sexualize,286959,VERB,ROOT,False
+pole,pole,pole,241521,NOUN,compound,False
+dancing,dancing,dancing,76687,NOUN,dobj,False
+because,because,because,29780,SCONJ,mark,True
+think,think,think,321897,VERB,advcl,False
+everything,everything,everything,106171,PRON,nsubjpass,True
+is,be,be,29345,AUX,auxpass,True
+meant,mean,mean,181735,VERB,ccomp,False
+to,to,to,324862,PART,aux,True
+please,please,please,239622,VERB,xcomp,True

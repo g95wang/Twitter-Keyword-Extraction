@@ -1,0 +1,11 @@
+stop,stop,stop,305323,VERB,ROOT,False
+overthinking,overthinke,overthink,221570,VERB,dobj,False
+ca,can,can,45964,VERB,aux,True
+n't,not,not,208798,PART,neg,True
+control,control,control,67797,VERB,ROOT,False
+everything,everything,everything,106171,PRON,dobj,True
+just,just,just,162503,ADV,advmod,True
+let,let,let,170875,VERB,dep,False
+be,be,be,29345,AUX,ccomp,True
+i,i,i,145455,PRON,nsubj,True
+love,love,love,175534,VERB,ROOT,False

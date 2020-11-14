@@ -1,0 +1,17 @@
+BTC,BTC,bt,41899,PROPN,compound,False
+price,price,price,250334,NOUN,nsubj,False
+increased,increase,increase,150431,VERB,ROOT,False
+Buying,buy,buy,42353,VERB,ROOT,False
+amp,amp,amp,10991,NOUN,conj,False
+Selling,sell,sell,283572,VERB,conj,False
+btc,btc,bt,41899,NOUN,npadvmod,False
+eth,eth,eth,104860,PROPN,dobj,False
+neo,neo,neo,198291,VERB,dobj,False
+dgb,dgb,db,77389,NOUN,appos,False
+dash,dash,dash,77064,NOUN,appos,False
+strat,strat,stract,305599,NOUN,punct,False
+eos,eos,eos,101963,NOUN,ROOT,False
+pay,pay,pay,223065,VERB,ROOT,False
+xrp,xrp,xr,368699,NOUN,dobj,False
+xmr,xmr,mr,194474,NOUN,appos,False
+gas,gas,gas,122327,NOUN,ROOT,False

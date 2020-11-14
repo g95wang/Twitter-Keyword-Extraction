@@ -1,0 +1,17 @@
+Dr,Dr,dr,92424,PROPN,compound,False
+Robin,Robin,robin,273575,PROPN,compound,False
+Kramer,Kramer,krameria,166230,PROPN,nsubj,False
+amp,amp,amp,10991,PROPN,conj,False
+student,student,student,306785,NOUN,compound,False
+Chloe,Chloe,chloe,55014,PROPN,compound,False
+Berry,Berry,berry,32185,PROPN,nsubj,False
+have,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,ROOT,True
+successful,successful,successful,309814,ADJ,acomp,False
+in,in,in,149313,ADP,prep,True
+application,application,application,17811,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+the,the,the,320691,DET,det,True
+EPS,EPS,ceps,51218,PROPN,compound,False
+Undergraduate,Undergraduate,undergraduate,339287,PROPN,compound,False
+Research,Research,research,269100,PROPN,pobj,False

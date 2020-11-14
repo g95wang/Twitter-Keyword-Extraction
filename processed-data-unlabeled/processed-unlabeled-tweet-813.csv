@@ -1,0 +1,15 @@
+Since,since,since,291358,SCONJ,mark,True
+China,China,china,54539,PROPN,nsubj,False
+has,have,have,134390,AUX,aux,True
+given,give,give,125692,VERB,advcl,False
+more,more,more,193383,ADJ,amod,True
+than,than,than,320565,SCONJ,quantmod,True
+dollars,dollar,dollar,91139,NOUN,dobj,False
+to,to,to,324862,ADP,dative,True
+Universities,Universities,universities,345148,PROPN,pobj,False
+amp,amp,amp,10991,NOUN,conj,False
+Harvard,Harvard,harvard,134038,PROPN,nsubj,False
+received,receive,receive,262684,VERB,ROOT,False
+while,while,while,364797,SCONJ,mark,True
+America,America,america,10297,PROPN,compound,False
+c,c,c,43829,PROPN,advcl,False

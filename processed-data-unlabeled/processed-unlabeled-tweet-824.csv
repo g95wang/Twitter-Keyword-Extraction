@@ -1,0 +1,11 @@
+Check,check,check,53311,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True
+what,what,what,364447,PRON,nsubj,True
+'s,be,be,29345,AUX,aux,True
+coming,come,come,63721,VERB,ccomp,False
+from,from,from,119298,ADP,prep,True
+truly,truly,truly,331555,ADV,advmod,False
+Preorder,Preorder,preorder,248690,PROPN,ROOT,False
+today,today,today,325003,NOUN,npadvmod,False
+Amazon,Amazon,amazon,9906,PROPN,ROOT,False
+AppleBooks,AppleBooks,talebook,315578,PROPN,appos,False

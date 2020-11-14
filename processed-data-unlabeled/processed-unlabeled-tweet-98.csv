@@ -1,0 +1,16 @@
+Jammu,Jammu,ammu,10810,PROPN,nsubjpass,False
+and,and,and,12285,CCONJ,cc,True
+Kashmir,Kashmir,kashmir,163300,PROPN,conj,False
+Hizbul,Hizbul,hibla,138242,PROPN,compound,False
+Commander,Commander,commander,63877,PROPN,compound,False
+Riyaz,Riyaz,oriya,214624,PROPN,compound,False
+Naikoo,Naikoo,nakoo,196660,PROPN,nsubjpass,False
+has,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,auxpass,True
+eliminated,eliminate,eliminate,97572,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+security,security,security,282950,NOUN,compound,False
+forces,force,force,116404,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+an,an,an,11448,DET,det,True
+encounter,encounter,encounter,99475,NOUN,pobj,False

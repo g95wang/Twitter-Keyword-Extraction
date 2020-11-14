@@ -1,0 +1,13 @@
+And,and,and,12285,CCONJ,cc,True
+initially,initially,initially,152809,ADV,advmod,False
+planned,plan,plan,238877,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+shut,shut,shut,289397,VERB,xcomp,False
+off,off,off,211539,ADP,prt,True
+the,the,the,320691,DET,det,True
+service,service,service,286444,NOUN,dobj,False
+until,until,until,353020,ADP,mark,True
+the,the,the,320691,DET,det,True
+MCO,mco,maco,176847,NOUN,nsubj,False
+is,be,be,29345,AUX,advcl,True
+over,over,over,218092,ADV,advmod,True

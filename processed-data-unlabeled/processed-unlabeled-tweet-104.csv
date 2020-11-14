@@ -1,0 +1,8 @@
+pov,pov,prov,253998,VERB,ROOT,False
+a,a,a,0,DET,det,True
+palace,palace,palace,223271,NOUN,compound,False
+drop,drop,drop,93338,NOUN,compound,False
+REIN,REIN,rein,266175,PROPN,dobj,False
+IN,in,in,149313,ADP,prep,True
+DIE,DIE,die,85120,PROPN,compound,False
+KILLS,KILLS,kills,164618,PROPN,pobj,False

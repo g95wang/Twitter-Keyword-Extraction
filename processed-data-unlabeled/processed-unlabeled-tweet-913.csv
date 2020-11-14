@@ -1,0 +1,13 @@
+keep,keep,keep,163579,VERB,ROOT,True
+calm,calm,calm,45368,ADJ,oprd,False
+and,and,and,12285,CCONJ,cc,True
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+do,do,do,90528,AUX,conj,True
+anything,anything,anything,13370,PRON,dobj,True
+naughty,naughty,naughty,197385,ADJ,advmod,False
+when,when,when,364637,ADV,advmod,True
+looking,look,look,175060,VERB,advcl,False
+at,at,at,22372,ADP,prep,True
+this,this,this,322217,DET,det,True
+photo,photo,photo,234975,NOUN,pobj,False

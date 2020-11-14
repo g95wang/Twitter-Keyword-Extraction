@@ -1,0 +1,17 @@
+re,be,be,29345,VERB,aux,True
+literally,literally,literally,173575,ADV,advmod,False
+not,not,not,208798,PART,neg,True
+resuscitating,resuscitate,resuscitate,270214,VERB,ROOT,False
+people,people,people,230162,NOUN,dobj,False
+because,because,because,29780,SCONJ,prep,True
+of,of,of,211535,ADP,pcomp,True
+the,the,the,320691,DET,det,True
+amount,amount,amount,10974,NOUN,pobj,True
+of,of,of,211535,ADP,prep,True
+germs,germ,germ,124176,NOUN,pobj,False
+that,that,that,320639,DET,nsubj,True
+fly,fly,fly,114525,VERB,relcl,False
+during,during,during,94458,ADP,prep,True
+This,this,this,322217,DET,pobj,True
+is,be,be,29345,AUX,ROOT,True
+terrible,terrible,terrible,319566,ADJ,acomp,False

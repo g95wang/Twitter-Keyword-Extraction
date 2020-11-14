@@ -1,0 +1,11 @@
+The,the,the,320691,DET,det,True
+number,number,number,209515,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+There,there,there,321216,PRON,expl,True
+were,be,be,29345,AUX,ROOT,True
+deaths,death,death,77637,NOUN,attr,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+US,US,us,355940,PROPN,pobj,True
+in,in,in,149313,ADP,advmod,True
+b,b,b,25416,NOUN,npadvmod,False

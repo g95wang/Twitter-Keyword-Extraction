@@ -1,0 +1,6 @@
+Selectivity,Selectivity,selectivity,283449,PROPN,nsubj,False
+was,be,be,29345,AUX,ROOT,True
+n't,not,not,208798,PART,neg,True
+an,an,an,11448,DET,det,True
+available,available,available,24569,ADJ,amod,False
+option,option,option,213845,NOUN,attr,False

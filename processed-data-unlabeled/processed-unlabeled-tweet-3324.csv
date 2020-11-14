@@ -1,0 +1,11 @@
+WOW,wow,wow,367775,INTJ,ROOT,False
+Take,take,take,315491,VERB,ROOT,True
+a,a,a,0,DET,det,True
+look,look,look,175060,NOUN,dobj,False
+at,at,at,22372,ADP,prep,True
+this,this,this,322217,DET,pobj,True
+How,how,how,144540,ADV,advmod,True
+the,the,the,320691,DET,det,True
+Virus,virus,virus,360286,NOUN,nsubj,False
+Got,get,get,124419,VERB,ROOT,False
+Out,out,out,216108,ADP,prt,True

@@ -1,0 +1,15 @@
+Happy,happy,happy,133513,ADJ,ROOT,False
+th,th,th,320421,ADJ,prep,False
+birthday,birthday,birthday,34904,NOUN,pobj,False
+to,to,to,324862,ADP,prep,True
+Willie,Willie,willie,365796,PROPN,compound,False
+Mays,Mays,mays,177987,PROPN,pobj,False
+the,the,the,320691,DET,det,True
+greatest,great,great,129442,ADJ,amod,False
+and,and,and,12285,CCONJ,cc,True
+most,most,most,193889,ADV,advmod,True
+exciting,exciting,exciting,106712,ADJ,conj,False
+baseball,baseball,baseball,28485,NOUN,compound,False
+player,player,player,238740,NOUN,appos,False
+in,in,in,149313,ADP,prep,True
+history,history,history,141866,NOUN,pobj,False

@@ -1,0 +1,15 @@
+The,the,the,320691,DET,det,True
+past,past,past,227394,NOUN,nsubj,False
+remains,remain,remain,267090,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+past,past,past,227394,NOUN,attr,False
+can,can,can,45964,VERB,aux,True
+learn,learn,learn,169659,VERB,ROOT,False
+from,from,from,119298,ADP,prep,True
+but,but,but,43550,CCONJ,cc,True
+can,can,can,45964,VERB,aux,True
+not,not,not,208798,PART,neg,True
+change,change,change,52470,VERB,conj,False
+George,George,george,124030,PROPN,compound,False
+R.R.,R.R.,arr,20135,PROPN,compound,False
+Martin,Martin,martin,180504,PROPN,ROOT,False

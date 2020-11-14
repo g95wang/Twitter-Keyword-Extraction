@@ -1,0 +1,13 @@
+stopped,stop,stop,305323,VERB,ccomp,False
+by,by,by,33133,ADP,prep,True
+house,house,house,144380,NOUN,pobj,False
+the,the,the,320691,DET,det,True
+night,night,night,199909,NOUN,npadvmod,False
+escaped,escape,escape,104129,VERB,relcl,False
+With,with,with,366582,ADP,prep,True
+tears,tear,tear,317512,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+eyes,eye,eye,96351,NOUN,pobj,False
+begged,beg,beg,30566,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+stay,stay,stay,302393,VERB,xcomp,False

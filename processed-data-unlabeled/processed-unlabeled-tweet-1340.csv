@@ -1,0 +1,13 @@
+Morning,morning,morning,193499,NOUN,ROOT,False
+everyone,everyone,everyone,106169,PRON,nsubj,True
+at,at,at,22372,ADP,advmod,True
+least,least,least,169698,ADJ,advmod,True
+safe,safe,safe,276548,ADJ,ccomp,False
+to,to,to,324862,PART,aux,True
+say,say,say,276740,VERB,xcomp,True
+were,be,be,29345,AUX,ccomp,True
+n't,not,not,208798,PART,neg,True
+that,that,that,320639,DET,attr,True
+crazy,crazy,crazy,72341,ADJ,acomp,False
+last,last,last,168771,ADJ,amod,True
+night,night,night,199909,NOUN,npadvmod,False

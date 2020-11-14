@@ -1,0 +1,5 @@
+missed,miss,miss,189987,VERB,ccomp,False
+was,be,be,29345,AUX,ROOT,True
+an,an,an,11448,DET,det,True
+hour,hour,hour,144367,NOUN,npadvmod,False
+ago,ago,ago,6337,ADV,advmod,False

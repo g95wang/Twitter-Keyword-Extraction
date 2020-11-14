@@ -1,0 +1,17 @@
+will,will,will,365768,VERB,aux,True
+give,give,give,125692,VERB,ROOT,True
+to,to,to,324862,ADP,dative,True
+someone,someone,someone,297038,PRON,pobj,True
+that,that,that,320639,DET,nsubj,True
+retweets,retweet,etwee,105245,VERB,relcl,False
+this,this,this,322217,DET,dobj,True
+Must,Must,must,196148,VERB,aux,True
+be,be,be,29345,AUX,aux,True
+following,follow,follow,115989,VERB,ROOT,False
+Drop,drop,drop,93338,VERB,nsubj,False
+CashApp,CashApp,casha,48854,PROPN,dobj,False
+or,or,or,213904,CCONJ,cc,True
+PayPal,PayPal,papal,225108,PROPN,conj,False
+Ends,end,end,99559,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+Minutes,Minutes,minutes,188065,PROPN,pobj,False

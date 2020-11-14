@@ -1,0 +1,9 @@
+Dear,dear,dear,77603,ADJ,amod,False
+ladies,lady,lady,167178,NOUN,npadvmod,False
+are,be,be,29345,AUX,aux,True
+waiting,wait,wait,362072,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+challenge,challenge,challenge,52186,NOUN,pobj,False
+since,since,since,291358,SCONJ,mark,True
+are,be,be,29345,AUX,advcl,True
+equal,equal,equal,103154,ADJ,acomp,False

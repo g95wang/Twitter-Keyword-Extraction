@@ -1,0 +1,16 @@
+Imagine,imagine,imagine,147602,VERB,ROOT,False
+what,what,what,364447,PRON,pobj,True
+must,must,must,196148,VERB,aux,True
+be,be,be,29345,AUX,ccomp,True
+like,like,like,172172,SCONJ,prep,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+Palestinian,palestinian,palestinian,223813,ADJ,amod,False
+parents,parent,parent,226369,NOUN,attr,False
+or,or,or,213904,CCONJ,cc,True
+grandparents,grandparent,grandparent,128879,NOUN,conj,False
+refugeed,refugeed,refuged,265425,VERB,acl,False
+outside,outside,outside,217444,ADV,advmod,False
+of,of,of,211535,ADP,prep,True
+Palestine,Palestine,palestine,223812,PROPN,pobj,False
+with,with,with,366582,ADP,prep,True

@@ -1,0 +1,13 @@
+heads,head,head,134575,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+better,well,well,364011,ADJ,acomp,False
+than,than,than,320565,SCONJ,prep,True
+today,today,today,325003,NOUN,npadvmod,False
+can,can,can,45964,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+difficult,difficult,difficult,85307,ADJ,acomp,False
+for,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+More,More,more,193383,ADJ,pobj,True
+for,for,for,116301,ADP,prep,True
+Sagittarius,Sagittarius,sagittarius,276693,PROPN,pobj,False

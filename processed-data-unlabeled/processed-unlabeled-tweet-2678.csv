@@ -1,0 +1,13 @@
+PresidentCovik,PresidentCovik,presidencia,249449,PROPN,npadvmod,False
+what,what,what,364447,PRON,dobj,True
+do,do,do,90528,AUX,aux,True
+have,have,have,134390,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+say,say,say,276740,VERB,xcomp,True
+about,about,about,756,ADP,prep,True
+this,this,this,322217,DET,det,True
+dragging,dragging,dragging,92537,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+Imam,Imam,imam,147621,PROPN,pobj,False
+of,of,of,211535,ADP,prep,True
+Peace,Peace,peace,228323,PROPN,pobj,False

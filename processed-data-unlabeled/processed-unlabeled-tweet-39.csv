@@ -1,0 +1,14 @@
+becomes,become,become,29882,VERB,ROOT,True
+the,the,the,320691,DET,det,True
+first,first,first,113286,ADJ,amod,True
+Korean,korean,korean,166084,ADJ,amod,False
+duet,duet,duet,93872,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+reach,reach,reach,261480,VERB,relcl,False
+US,US,us,355940,PROPN,compound,True
+iTunes,iTunes,tunes,332404,PROPN,compound,False
+singles,single,single,291702,NOUN,compound,False
+chart,chart,chart,52959,NOUN,dobj,False
+since,since,since,291358,SCONJ,prep,True
+Winter,Winter,winter,366247,PROPN,compound,False
+Flower,Flower,flower,115181,PROPN,pobj,False

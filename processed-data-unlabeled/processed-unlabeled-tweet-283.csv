@@ -1,0 +1,15 @@
+When,when,when,364637,ADV,advmod,True
+can,can,can,45964,VERB,aux,True
+say,say,say,276740,VERB,ROOT,True
+a,a,a,0,DET,det,True
+person,person,person,231951,NOUN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+a,a,a,0,DET,det,True
+Fraghead,Fraghead,fraughted,118502,PROPN,attr,False
+Like,like,like,172172,INTJ,ROOT,False
+what,what,what,364447,PRON,nsubj,True
+makes,make,make,178090,VERB,pcomp,False
+a,a,a,0,DET,det,True
+person,person,person,231951,NOUN,nsubj,False
+a,a,a,0,DET,det,True
+fraghead,fraghead,fraughted,118502,NOUN,ccomp,False

@@ -1,0 +1,15 @@
+NEW,NEW,new,199367,PROPN,ROOT,False
+Durham,Durham,durham,94451,PROPN,compound,False
+Police,Police,police,241679,PROPN,compound,False
+statement,statement,statement,303049,NOUN,nsubj,False
+says,say,say,276740,VERB,ROOT,False
+Dominic,Dominic,dominic,91331,PROPN,compound,False
+Cummings,Cummings,cummins,74943,PROPN,dobj,False
+did,do,do,90528,AUX,aux,True
+break,break,break,40228,VERB,ROOT,False
+lockdown,lockdown,lookdown,175062,NOUN,amod,False
+rules,rule,rule,275459,NOUN,dobj,False
+during,during,during,94458,ADP,prep,True
+stay,stay,stay,302393,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+Durham,Durham,durham,94451,PROPN,pobj,False

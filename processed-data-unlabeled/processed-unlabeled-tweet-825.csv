@@ -1,0 +1,13 @@
+District,District,district,89934,PROPN,compound,False
+Wise,Wise,wise,366417,PROPN,compound,False
+Breakup,Breakup,breakup,40274,PROPN,ROOT,False
+Chennai,Chennai,chena,53788,PROPN,nsubj,False
+Cuddalore,Cuddalore,cuddle,74593,PROPN,appos,False
+and,and,and,12285,CCONJ,cc,True
+Ariyalur,Ariyalur,riyal,272896,PROPN,conj,False
+are,be,be,29345,AUX,ROOT,True
+in,in,in,149313,ADP,prep,True
+top,top,top,325810,ADJ,amod,True
+total,total,total,326445,ADJ,amod,False
+Positive,positive,positive,243805,ADJ,amod,False
+cases,case,case,48783,NOUN,pobj,False

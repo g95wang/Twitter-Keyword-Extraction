@@ -1,0 +1,15 @@
+John,John,john,161555,PROPN,compound,False
+Duffy,Duffy,duffy,93888,PROPN,nsubj,False
+director,director,director,86783,NOUN,appos,False
+of,of,of,211535,ADP,prep,True
+Nursing,Nursing,nursing,209730,PROPN,compound,False
+Resource,Resource,resource,269662,PROPN,compound,False
+Center,Center,center,50830,PROPN,pobj,False
+delivered,deliver,deliver,80183,VERB,ROOT,False
+much,much,much,194510,ADV,advmod,True
+needed,need,need,197910,VERB,amod,False
+supplies,supply,supply,312986,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+including,include,include,149975,VERB,prep,False
+a,a,a,0,DET,det,True
+ventilator,ventilator,ventilator,358173,NOUN,pobj,False

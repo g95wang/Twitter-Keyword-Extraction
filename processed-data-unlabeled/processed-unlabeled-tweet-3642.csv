@@ -1,0 +1,12 @@
+did,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+think,think,think,321897,VERB,ROOT,False
+Sin,Sin,sin,291205,PROPN,nsubjpass,False
+was,be,be,29345,AUX,aux,True
+gon,go,go,127161,VERB,ccomp,False
+na,to,to,324862,PART,aux,False
+be,be,be,29345,AUX,xcomp,True
+in,in,in,149313,ADP,prep,True
+duffy,duffy,duffy,93888,NOUN,pobj,False
+like,like,like,172172,SCONJ,prep,False
+that,that,that,320639,DET,pobj,True

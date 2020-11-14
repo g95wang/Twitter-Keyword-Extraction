@@ -1,0 +1,12 @@
+Those,those,those,322465,DET,nsubj,True
+are,be,be,29345,AUX,ROOT,True
+deaths,death,death,77637,NOUN,compound,False
+boss,boss,boss,38606,NOUN,attr,False
+What,what,what,364447,PRON,attr,True
+are,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+long,long,long,174883,ADJ,amod,False
+term,term,term,319345,NOUN,compound,False
+effects,effect,effect,95948,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+this,this,this,322217,DET,pobj,True

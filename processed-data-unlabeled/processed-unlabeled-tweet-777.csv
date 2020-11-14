@@ -1,0 +1,9 @@
+Dallas,Dallas,dallas,76467,PROPN,compound,False
+salon,salon,salon,277178,NOUN,compound,False
+owner,owner,owner,222075,NOUN,nsubj,False
+jailed,jail,jail,160146,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+defying,defy,defy,79257,VERB,pcomp,False
+virus,virus,virus,360286,NOUN,compound,False
+shutdown,shutdown,shutdown,289398,NOUN,compound,False
+order,order,order,214218,NOUN,dobj,False

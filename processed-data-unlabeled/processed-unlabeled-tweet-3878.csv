@@ -1,0 +1,10 @@
+look,look,look,175060,VERB,ROOT,False
+at,at,at,22372,ADP,prep,True
+how,how,how,144540,ADV,advmod,True
+hair,hair,hair,132366,NOUN,nsubj,False
+has,have,have,134390,AUX,pcomp,True
+a,a,a,0,DET,det,True
+shape,shape,shape,287442,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+a,a,a,0,DET,det,True
+heart,heart,heart,134817,NOUN,pobj,False

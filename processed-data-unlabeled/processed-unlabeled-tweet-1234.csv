@@ -1,0 +1,16 @@
+Medicine,medicine,medicine,182099,NOUN,nsubj,False
+law,law,law,169329,NOUN,conj,False
+business,business,business,43481,NOUN,nmod,False
+engineering,engineer,engineer,100341,VERB,dep,False
+These,these,these,321594,DET,nsubj,True
+may,may,may,177739,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+necessary,necessary,necessary,197707,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+sustain,sustain,sustain,313792,VERB,xcomp,False
+life,life,life,171890,NOUN,dobj,False
+But,but,but,43550,CCONJ,cc,True
+poetry,poetry,poetry,241225,NOUN,ROOT,False
+beauty,beauty,beauty,29660,NOUN,conj,False
+romance,romance,romance,274010,NOUN,conj,False
+love,love,love,175534,NOUN,conj,False

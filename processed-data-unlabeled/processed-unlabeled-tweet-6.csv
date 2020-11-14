@@ -1,0 +1,14 @@
+Some,some,some,297029,DET,nsubj,True
+of,of,of,211535,ADP,prep,True
+tweet,tweet,tweet,333246,VERB,ROOT,False
+like,like,like,172172,INTJ,mark,False
+there,there,there,321216,PRON,expl,True
+s,s,s,275971,VERB,advcl,False
+a,a,a,0,DET,det,True
+cash,cash,cash,48853,NOUN,compound,False
+prize,prize,prize,250878,NOUN,attr,False
+at,at,at,22372,ADP,prep,True
+the,the,the,320691,DET,det,True
+end,end,end,99559,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+this,this,this,322217,DET,pobj,True

@@ -1,0 +1,14 @@
+BREAKING,breaking,breaking,40257,NOUN,ROOT,False
+Pompeo,Pompeo,pomelo,242857,PROPN,nsubj,False
+says,say,say,276740,VERB,ROOT,False
+US,US,us,355940,PROPN,nsubj,True
+to,to,to,324862,PART,aux,True
+use,use,use,355958,VERB,ccomp,False
+every,every,every,106158,DET,det,True
+tool,tool,tool,325691,NOUN,poss,False
+to,to,to,324862,PART,aux,True
+free,free,free,118571,VERB,amod,False
+Americans,Americans,americans,10314,PROPN,dobj,False
+in,in,in,149313,ADP,prep,True
+Venezuela,Venezuela,venezuela,358069,PROPN,pobj,False
+AFP,AFP,af,5262,PROPN,ROOT,False

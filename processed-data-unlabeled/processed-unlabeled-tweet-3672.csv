@@ -1,0 +1,15 @@
+m,be,be,29345,VERB,dep,False
+thrilled,thrill,thrill,322684,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+announce,announce,announce,13604,VERB,advcl,False
+very,very,very,358514,ADV,advmod,True
+first,first,first,113286,ADJ,amod,True
+giveaway,giveaway,giveaway,125695,NOUN,dobj,False
+chance,chance,chance,52384,NOUN,ROOT,False
+to,to,to,324862,PART,aux,True
+win,win,win,365877,VERB,acl,False
+moms,moms,moms,191672,PROPN,compound,False
+knapsacks,knapsacks,knapsacks,165446,PROPN,nmod,False
+caf,caf,caf,44463,ADJ,compound,False
+curtain,curtain,curtain,75495,NOUN,dobj,False
+wall,wall,wall,362225,NOUN,appos,False

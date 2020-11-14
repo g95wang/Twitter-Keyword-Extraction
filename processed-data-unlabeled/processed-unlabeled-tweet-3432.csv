@@ -1,0 +1,16 @@
+Egypt,Egypt,egypt,96208,PROPN,nsubj,False
+extends,extend,extend,108210,VERB,ccomp,False
+international,international,international,155462,ADJ,amod,False
+flight,flight,flight,114591,PROPN,compound,False
+ban,ban,ban,27221,NOUN,dobj,False
+indefinitely,indefinitely,indefinitely,150729,ADV,advmod,False
+citizen,citizen,citizen,58672,NOUN,npadvmod,False
+facing,face,face,108932,VERB,amod,False
+services,service,service,286444,NOUN,nsubj,False
+suspended,suspend,suspend,313732,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+days,day,day,76257,NOUN,pobj,False
+after,after,after,5615,ADP,prep,True
+Eid,Eid,beid,30861,PROPN,compound,False
+Egypt,Egypt,egypt,96208,PROPN,pobj,False
+TL,TL,btl,41901,PROPN,ROOT,False

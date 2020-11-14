@@ -1,0 +1,12 @@
+Sour,sour,sour,297904,ADJ,compound,False
+Candy,Candy,candy,46155,PROPN,compound,False
+Lyrics,lyric,lyric,173372,NOUN,ROOT,False
+Color,color,color,63304,NOUN,dep,False
+Coded,code,code,61687,VERB,ROOT,False
+with,with,with,366582,ADP,prep,True
+trans,tran,tran,327612,NOUN,pobj,False
+Translated,translate,translate,328023,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+BLACKPINK,BLACKPINK,blackprint,35561,PROPN,compound,False
+LADYGAGA,LADYGAGA,lallygag,167531,PROPN,compound,False
+So,so,so,295959,ADV,ROOT,True

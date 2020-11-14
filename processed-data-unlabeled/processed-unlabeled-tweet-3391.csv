@@ -1,0 +1,16 @@
+When,when,when,364637,ADV,advmod,True
+become,become,become,29882,VERB,advcl,True
+patient,patient,patient,227804,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+consistent,consistent,consistent,66857,ADJ,conj,False
+find,find,find,112884,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+way,way,way,361946,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,relcl,True
+through,through,through,322840,ADP,prep,True
+the,the,the,320691,DET,det,True
+difficulties,difficulty,difficulty,85308,NOUN,pobj,False
+backontrack,backontrack,backtrack,25984,VERB,compound,False
+beresponsible,beresponsible,responsible,269791,ADJ,amod,False
+http,http,hatt,134258,NOUN,pobj,False

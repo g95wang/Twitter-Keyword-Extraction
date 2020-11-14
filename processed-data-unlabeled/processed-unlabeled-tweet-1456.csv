@@ -1,0 +1,11 @@
+Moon,Moon,moon,193019,PROPN,compound,False
+river,river,river,273379,NOUN,ROOT,False
+wider,wider,wider,365523,ADV,amod,False
+than,than,than,320565,SCONJ,prep,True
+a,a,a,0,DET,det,True
+mile,mile,mile,187136,NOUN,pobj,False
+'m,be,be,29345,AUX,aux,True
+crossing,cross,cross,73757,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+style,style,style,304446,NOUN,pobj,False
+someday,someday,someday,297033,ADV,npadvmod,False

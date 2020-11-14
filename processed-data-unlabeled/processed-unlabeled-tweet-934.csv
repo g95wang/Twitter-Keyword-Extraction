@@ -1,0 +1,7 @@
+Protect,protect,protect,253369,VERB,ROOT,False
+sweetness,sweetness,sweetness,314325,NOUN,dobj,False
+light,light,light,172003,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+a,a,a,0,DET,det,True
+weakness,weakness,weakness,363480,NOUN,attr,False

@@ -1,0 +1,14 @@
+Every,every,every,106158,DET,det,True
+time,time,time,323746,NOUN,npadvmod,False
+a,a,a,0,DET,det,True
+new,new,new,199367,ADJ,amod,False
+Scream,Scream,scream,281670,PROPN,compound,False
+movie,movie,movie,194399,NOUN,nsubjpass,False
+is,be,be,29345,AUX,auxpass,True
+announced,announce,announce,13604,VERB,relcl,False
+stress,stress,stress,306125,VERB,ROOT,False
+sick,sick,sick,289609,ADJ,ccomp,False
+hoping,hope,hope,143674,VERB,advcl,False
+Gail,Gail,gail,120999,PROPN,compound,False
+Weathers,Weathers,weathers,363630,PROPN,nsubj,False
+survives,survive,survive,313675,VERB,ccomp,False

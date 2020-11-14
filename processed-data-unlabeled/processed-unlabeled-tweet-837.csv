@@ -1,0 +1,16 @@
+hope,hope,hope,143674,VERB,ccomp,False
+not,not,not,208798,PART,neg,True
+either,either,either,96575,ADV,advmod,True
+'s,be,be,29345,AUX,ROOT,True
+why,why,why,364728,ADV,advmod,True
+'m,be,be,29345,AUX,aux,True
+writing,write,write,368047,VERB,ccomp,False
+on,on,on,212644,ADP,prep,True
+this,this,this,322217,DET,det,True
+platform,platform,platform,239346,NOUN,pobj,False
+that,that,that,320639,DET,nsubj,True
+has,have,have,134390,AUX,aux,True
+not,not,not,208798,PART,neg,True
+silenced,silence,silence,290264,VERB,relcl,False
+like,like,like,172172,SCONJ,prep,False
+Facebook,Facebook,facebow,108935,PROPN,pobj,False

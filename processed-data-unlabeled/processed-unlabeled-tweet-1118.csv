@@ -1,0 +1,15 @@
+Everybody,everybody,everybody,106159,PRON,nsubj,False
+has,have,have,134390,AUX,ROOT,True
+flaws,flaw,flaw,114244,NOUN,dobj,False
+the,the,the,320691,DET,det,True
+real,real,real,261710,ADJ,amod,False
+question,question,question,258416,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+Can,Can,can,45964,VERB,aux,True
+deal,deal,deal,77534,VERB,ccomp,False
+with,with,with,366582,ADP,prep,True
+Does,do,do,90528,AUX,aux,True
+happiness,happiness,happiness,133519,NOUN,nsubj,False
+outweigh,outweigh,outweigh,217901,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+flaws,flaw,flaw,114244,NOUN,dobj,False

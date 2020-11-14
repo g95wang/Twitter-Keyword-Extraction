@@ -1,0 +1,14 @@
+making,make,make,178090,VERB,ROOT,False
+friends,friend,friend,118947,NOUN,dobj,False
+know,know,know,165702,VERB,parataxis,False
+just,just,just,162503,ADV,advmod,True
+keeping,keep,keep,163579,VERB,ROOT,False
+busy,busy,busy,43464,ADJ,acomp,False
+love,love,love,175534,VERB,ROOT,False
+putting,put,put,257261,VERB,xcomp,False
+out,out,out,216108,ADP,prt,True
+content,content,content,67368,NOUN,dobj,False
+That,that,that,320639,DET,nsubj,True
+'s,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+reas,rea,rea,261392,NOUN,attr,False

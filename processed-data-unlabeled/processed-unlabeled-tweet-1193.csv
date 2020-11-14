@@ -1,0 +1,11 @@
+happy,happy,happy,133513,ADJ,amod,False
+year,year,year,146706,NOUN,npadvmod,False
+babi,babi,babi,25502,ADV,ROOT,False
+know,know,know,165702,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+rest,rest,rest,269833,NOUN,dobj,False
+miss,miss,miss,189987,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+love,love,love,175534,VERB,conj,False
+so,so,so,295959,ADV,advmod,True
+much,much,much,194510,ADV,advmod,True

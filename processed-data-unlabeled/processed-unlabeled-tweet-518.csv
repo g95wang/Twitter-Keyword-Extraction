@@ -1,0 +1,14 @@
+Workers,worker,worker,367494,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+not,not,not,208798,PART,neg,True
+starving,starve,starve,302987,VERB,ROOT,False
+Sir,Sir,sir,292308,PROPN,dobj,False
+throw,throw,throw,322857,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True
+food,food,food,116078,NOUN,compound,False
+packets,packet,packet,222740,NOUN,dobj,False
+from,from,from,119298,ADP,prep,True
+train,train,train,327443,NOUN,pobj,False
+at,at,at,22372,ADP,prep,True
+station,station,station,303088,NOUN,pobj,False
+a,a,a,0,DET,appos,True

@@ -1,0 +1,9 @@
+How,how,how,144540,ADV,advmod,True
+many,many,many,179225,ADJ,amod,True
+pizza,pizza,pizza,238497,NOUN,compound,False
+rolls,roll,roll,273944,NOUN,dobj,False
+do,do,do,90528,AUX,aux,True
+guys,guy,guy,131001,NOUN,nsubj,False
+eat,eat,eat,94953,VERB,ROOT,False
+at,at,at,22372,ADV,prep,True
+once,once,once,212661,ADV,pcomp,True

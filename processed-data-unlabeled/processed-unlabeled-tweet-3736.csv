@@ -1,0 +1,16 @@
+m,be,be,29345,VERB,ROOT,False
+both,both,both,38714,DET,preconj,True
+the,the,the,320691,DET,det,True
+replies,reply,reply,268301,NOUN,ROOT,False
+too,too,too,325685,ADV,advmod,True
+quick,quick,quick,258487,ADJ,amod,False
+kind,kind,kind,164752,NOUN,appos,False
+of,of,of,211535,ADP,prep,True
+person,person,person,231951,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+the,the,the,320691,DET,nsubj,True
+never,never,never,199350,ADV,neg,True
+replies,reply,reply,268301,VERB,conj,False
+kind,kind,kind,164752,ADV,advmod,False
+of,of,of,211535,ADP,prep,True
+person,person,person,231951,NOUN,pobj,False

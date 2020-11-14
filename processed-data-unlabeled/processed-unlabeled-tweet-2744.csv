@@ -1,0 +1,17 @@
+Lord,Lord,lord,175244,PROPN,nsubj,False
+keep,keep,keep,163579,VERB,ROOT,True
+parents,parent,parent,226369,NOUN,dobj,False
+safe,safe,safe,276548,ADJ,oprd,False
+while,while,while,364797,SCONJ,mark,True
+in,in,in,149313,ADP,advcl,True
+duty,duty,duty,94585,NOUN,pobj,False
+And,and,and,12285,CCONJ,cc,True
+keep,keep,keep,163579,VERB,ROOT,True
+other,other,other,215836,ADJ,amod,True
+people,people,people,230162,NOUN,dobj,False
+too,too,too,325685,ADV,advmod,True
+as,as,as,20837,ADV,advmod,True
+well,well,well,364011,ADV,advmod,True
+trust,trust,trust,331669,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+everything,everything,everything,106171,PRON,dobj,True

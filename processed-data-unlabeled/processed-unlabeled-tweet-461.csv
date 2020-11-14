@@ -1,0 +1,15 @@
+A,a,a,0,DET,det,True
+perfect,perfect,perfect,230579,ADJ,amod,False
+example,example,example,106472,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+a,a,a,0,DET,det,True
+ship,ship,ship,288403,NOUN,pobj,False
+shipped,ship,ship,288403,VERB,relcl,False
+before,before,before,30510,ADP,mark,True
+even,even,even,106079,ADV,advmod,True
+knew,know,know,165702,VERB,advcl,False
+what,what,what,364447,PRON,det,True
+shipping,shipping,shipping,288453,NOUN,nsubj,False
+was,be,be,29345,AUX,ccomp,True
+KimPossible,KimPossible,impossible,148931,PROPN,compound,False
+KimPossibleFanart,kimpossiblefanart,impossible,148931,NOUN,ROOT,False

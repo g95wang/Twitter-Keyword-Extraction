@@ -1,0 +1,15 @@
+i,i,i,145455,PRON,nsubj,True
+have,have,have,134390,AUX,ROOT,True
+essays,essay,essay,104478,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+write,write,write,368047,VERB,relcl,False
+for,for,for,116301,ADP,prep,True
+university,university,university,345147,NOUN,compound,False
+classes,class,class,59378,NOUN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+i,i,i,145455,PRON,nsubj,True
+rather,rather,rather,261011,ADV,advmod,True
+work,work,work,367468,VERB,conj,False
+on,on,on,212644,ADP,prep,True
+book,book,book,38039,NOUN,compound,False
+lol,lol,lola,174784,NOUN,pobj,False

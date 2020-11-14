@@ -1,0 +1,12 @@
+Cool,Cool,cool,68254,PROPN,compound,False
+TEMP:50.0F,TEMP:50.0F,temp,318501,VERB,npadvmod,False
+WIND,wind,wind,365902,NOUN,ROOT,False
+ENE,ene,bene,31512,VERB,compound,False
+RAIN:0.00,rain:0.00,rain,260071,NOUN,ROOT,False
+in,in,in,149313,ADP,prep,True
+BARO:30.31,BARO:30.31,bardo,27880,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+Steady,Steady,steady,303236,PROPN,compound,False
+SOLAR:7W,SOLAR:7W,solar,296503,PROPN,nmod,False
+sqm,sqm,qm,257430,NOUN,compound,False
+cecilwx,cecilwx,cecil,50338,NOUN,ROOT,False

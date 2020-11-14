@@ -1,0 +1,10 @@
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+even,even,even,106079,ADV,advmod,True
+explain,explain,explain,107802,VERB,ROOT,False
+The,the,the,320691,DET,det,True
+way,way,way,361946,NOUN,dobj,False
+do,do,do,90528,AUX,relcl,True
+long,long,long,174883,ADJ,amod,False
+division,division,division,90386,NOUN,dobj,False
+now,now,now,209199,ADV,advmod,True

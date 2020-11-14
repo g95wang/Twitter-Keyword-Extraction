@@ -1,0 +1,13 @@
+Just,just,just,162503,ADV,advmod,True
+another,another,another,13899,DET,det,True
+day,day,day,76257,NOUN,ROOT,False
+at,at,at,22372,ADP,prep,True
+the,the,the,320691,DET,det,True
+office,office,office,211603,NOUN,pobj,False
+Have,have,have,134390,AUX,ROOT,True
+that,that,that,320639,DET,det,True
+report,report,report,268373,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+desk,desk,desk,82667,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True
+C.O.B.,C.O.B.,cob,61169,PROPN,pobj,False

@@ -1,0 +1,15 @@
+What,what,what,364447,PRON,attr,True
+is,be,be,29345,AUX,ROOT,True
+opinion,opinion,opinion,213551,NOUN,nsubj,False
+about,about,about,756,ADP,prep,True
+nickname,nickname,nickname,199654,NOUN,pobj,False
+Why,why,why,364728,ADV,advmod,True
+does,do,do,90528,AUX,aux,True
+use,use,use,355958,VERB,ROOT,False
+a,a,a,0,DET,det,True
+name,name,name,196686,NOUN,dobj,True
+that,that,that,320639,DET,nsubj,True
+attached,attach,attach,22920,VERB,relcl,False
+to,to,to,324862,ADP,prep,True
+a,a,a,0,DET,det,True
+cheater,cheater,cheater,53287,NOUN,pobj,False

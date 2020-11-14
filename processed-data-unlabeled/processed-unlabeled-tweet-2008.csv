@@ -1,0 +1,12 @@
+CAN,CAN,can,45964,VERB,aux,True
+PLAY,play,play,238701,VERB,ROOT,False
+AT,at,at,22372,ADP,ROOT,True
+THAT,that,that,320639,DET,det,True
+GAME,GAME,game,121666,PROPN,compound,False
+BOOBOO,BOOBOO,booboo,38002,PROPN,ROOT,False
+CAN,CAN,can,45964,VERB,aux,True
+PLAY,play,play,238701,VERB,ROOT,False
+AT,at,at,22372,ADP,ROOT,True
+THAT,that,that,320639,DET,det,True
+GAME,GAME,game,121666,PROPN,compound,False
+BOOBOO,BOOBOO,booboo,38002,PROPN,ROOT,False

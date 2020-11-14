@@ -1,0 +1,9 @@
+IM,IM,im,147566,PROPN,ROOT,False
+NOT,not,not,208798,ADV,neg,True
+GON,GON,gon,127662,PROPN,nsubj,False
+STOP,STOP,stop,305323,VERB,ROOT,False
+UNTIL,UNTIL,until,353020,NOUN,nmod,True
+SOMEBODY,somebody,somebody,297030,ADV,compound,False
+SPOTS,spot,spot,301095,VERB,compound,False
+THEM,them,them,320888,DET,ROOT,True
+SOMEWHERE,SOMEWHERE,somewhere,297074,NOUN,appos,True

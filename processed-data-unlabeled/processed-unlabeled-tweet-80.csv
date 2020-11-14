@@ -1,0 +1,11 @@
+The,the,the,320691,DET,det,True
+comments,comment,comment,63980,NOUN,ROOT,False
+Ya'll,Ya'll,yalla,145590,PROPN,nsubj,False
+need,need,need,197910,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+do,do,do,90528,AUX,xcomp,True
+research,research,research,269100,NOUN,dobj,False
+or,or,or,213904,CCONJ,cc,True
+watch,watch,watch,363049,VERB,conj,False
+animal,animal,animal,13153,NOUN,compound,False
+planet,planet,planet,238917,NOUN,dobj,False

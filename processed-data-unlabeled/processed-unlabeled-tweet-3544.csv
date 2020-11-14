@@ -1,0 +1,12 @@
+literally,literally,literally,173575,ADV,advmod,False
+farm,farm,farm,109967,VERB,ROOT,False
+less,less,less,170842,ADJ,advmod,True
+than,than,than,320565,SCONJ,prep,True
+an,an,an,11448,DET,det,True
+hour,hour,hour,144367,NOUN,pobj,False
+when,when,when,364637,ADV,advmod,True
+speak,speak,speak,298684,VERB,advcl,False
+in,in,in,149313,ADP,prep,True
+annoy,annoy,annoy,13566,PROPN,amod,False
+disc,disc,disc,87229,PROPN,compound,False
+smh,smh,samh,277535,PROPN,pobj,False

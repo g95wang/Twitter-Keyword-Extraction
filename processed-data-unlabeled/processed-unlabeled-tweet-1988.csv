@@ -1,0 +1,6 @@
+Jaehyun,Jaehyun,jaun,160587,PROPN,nsubj,False
+picked,pick,pick,235851,VERB,ROOT,False
+Mark,Mark,mark,180142,PROPN,dobj,False
+to,to,to,324862,PART,aux,True
+join,join,join,161599,VERB,xcomp,False
+team,team,team,317482,NOUN,dobj,False

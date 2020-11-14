@@ -1,0 +1,6 @@
+want,want,want,362465,VERB,ROOT,False
+active,active,active,3253,ADJ,amod,False
+followers,follower,follower,115992,NOUN,nsubj,False
+follow,follow,follow,115989,VERB,ccomp,False
+follow,follow,follow,115989,VERB,advcl,False
+back,back,back,25705,ADV,advmod,True

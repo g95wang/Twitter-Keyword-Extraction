@@ -1,0 +1,8 @@
+defended,defend,defend,79187,VERB,ROOT,False
+name,name,name,196686,NOUN,dobj,True
+when,when,when,364637,ADV,advmod,True
+everybody,everybody,everybody,106159,PRON,nsubj,False
+said,say,say,276740,VERB,advcl,False
+were,be,be,29345,AUX,ccomp,True
+bad,bad,bad,26158,ADJ,acomp,False
+for,for,for,116301,ADP,dative,True

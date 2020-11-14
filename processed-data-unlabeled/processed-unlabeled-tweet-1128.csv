@@ -1,0 +1,17 @@
+Got,got,got,128258,VERB,ROOT,False
+ta,to,to,324862,PART,aux,False
+love,love,love,175534,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+healthy,healthy,healthy,134775,ADJ,amod,False
+competition,competition,competition,64547,NOUN,dobj,False
+between,between,between,32866,ADP,prep,True
+armys,armys,army,19923,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+beyhive,beyhive,beehive,30329,ADJ,conj,False
+kpop,kpop,kop,166044,ADJ,amod,False
+stans,stan,stan,302634,NOUN,nsubj,False
+need,need,need,197910,VERB,conj,False
+to,to,to,324862,PART,aux,True
+take,take,take,315491,VERB,xcomp,True
+several,several,several,286743,ADJ,amod,True
+notes,note,note,208861,NOUN,dobj,False

@@ -1,0 +1,10 @@
+Simply,simply,simply,291075,ADV,advmod,False
+is,be,be,29345,AUX,ROOT,True
+n't,not,not,208798,PART,neg,True
+human,human,human,144841,ADJ,acomp,False
+All,all,all,8522,DET,nsubj,True
+carries,carry,carry,48501,VERB,ROOT,False
+under,under,under,338801,ADP,prep,True
+heavy,heavy,heavy,135015,ADJ,amod,False
+pressure,pressure,pressure,249604,NOUN,pobj,False
+too,too,too,325685,ADV,advmod,True

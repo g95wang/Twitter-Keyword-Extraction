@@ -1,0 +1,17 @@
+all,all,all,8522,DET,appos,True
+love,love,love,175534,VERB,ccomp,False
+memes,meme,mneme,190869,VERB,dobj,False
+now,now,now,209199,ADV,advmod,True
+must,must,must,196148,VERB,aux,True
+vote,vote,vote,361409,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+pup,pup,pup,256766,PROPN,compound,False
+Gus,Gus,gus,131523,PROPN,pobj,False
+is,be,be,29345,AUX,ccomp,True
+a,a,a,0,DET,det,True
+conservative,conservative,conservative,66772,NOUN,attr,False
+and,and,and,12285,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+competition,competition,competition,64547,NOUN,nsubj,False
+is,be,be,29345,AUX,conj,True
+not,not,not,208798,PART,neg,True

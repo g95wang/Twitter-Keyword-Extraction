@@ -1,0 +1,16 @@
+The,the,the,320691,DET,det,True
+shooter,shooter,shooter,288783,NOUN,nsubj,False
+who,who,who,365278,PRON,nsubj,True
+murdered,murder,murder,195668,VERB,relcl,False
+beautiful,beautiful,beautiful,29674,ADJ,amod,False
+butterfly,butterfly,butterfly,43680,NOUN,dobj,False
+Dylan,Dylan,dylan,85669,PROPN,appos,False
+carried,carry,carry,48501,VERB,ROOT,False
+magazines,magazine,magazine,177355,NOUN,dobj,False
+into,into,into,156343,ADP,prep,True
+Sandy,Sandy,sandy,277772,PROPN,compound,False
+Hook,Hook,hook,143534,PROPN,compound,False
+Elementary,Elementary,elementary,97400,PROPN,pobj,False
+In,in,in,149313,ADP,ROOT,True
+just,just,just,162503,ADV,advmod,True
+fou,fou,fou,117873,NOUN,pobj,False

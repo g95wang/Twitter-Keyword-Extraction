@@ -1,0 +1,16 @@
+girls,girl,girl,125519,NOUN,nsubj,False
+only,only,only,212848,ADV,advmod,True
+want,want,want,362465,VERB,ROOT,False
+thing,thing,thing,321869,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+is,be,be,29345,AUX,conj,True
+to,to,to,324862,PART,aux,True
+decompose,decompose,decompose,78621,VERB,xcomp,False
+girls,girl,girl,125519,NOUN,nsubj,False
+only,only,only,212848,ADV,advmod,True
+want,want,want,362465,VERB,ROOT,False
+thing,thing,thing,321869,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+is,be,be,29345,AUX,conj,True
+to,to,to,324862,PART,aux,True
+decompose,decompose,decompose,78621,VERB,xcomp,False

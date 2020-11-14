@@ -1,0 +1,10 @@
+Britain,Britain,britain,40980,PROPN,compound,False
+prime,prime,prime,250501,ADJ,compound,False
+minister,minister,minister,187927,NOUN,compound,False
+CORONA,CORONA,corona,69428,PROPN,compound,False
+POSITIVE,POSITIVE,positive,243805,PROPN,ROOT,False
+Including,include,include,149975,VERB,ROOT,False
+Health,Health,health,134768,PROPN,compound,False
+minister,minister,minister,187927,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+Britain,Britain,britain,40980,PROPN,pobj,False

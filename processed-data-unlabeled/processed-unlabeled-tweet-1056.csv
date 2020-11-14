@@ -1,0 +1,9 @@
+lmaoo,lmaoo,mafoo,177338,PROPN,nsubj,False
+glad,glad,glad,125774,ADJ,ROOT,False
+this,this,this,322217,DET,nsubj,True
+was,be,be,29345,AUX,ccomp,True
+nt,not,not,208798,PART,neg,False
+a,a,a,0,DET,det,True
+phase,phase,phase,233191,NOUN,attr,False
+went,go,go,127161,VERB,relcl,False
+through,through,through,322840,ADV,prt,True

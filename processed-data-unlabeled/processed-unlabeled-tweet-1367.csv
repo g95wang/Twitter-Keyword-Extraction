@@ -1,0 +1,12 @@
+Eye,Eye,eye,96351,PROPN,compound,False
+Contact,Contact,contact,67230,PROPN,compound,False
+Cam,Cam,cam,45537,PROPN,nmod,False
+BAEKHYUN,BAEKHYUN,akhund,7160,PROPN,nmod,False
+Candy,candy,candy,46155,NOUN,nsubj,False
+Spicy,Spicy,spicy,299656,PROPN,compound,False
+Ver,Ver,ver,358312,PROPN,appos,False
+BAEKHYUN,BAEKHYUN,akhund,7160,PROPN,ROOT,False
+THE,the,the,320691,DET,det,True
+STAGE,stage,stage,302294,NOUN,nmod,False
+BAEKHYUN,baekhyun,akhund,7160,NOUN,appos,False
+EXO,exo,exon,107387,ADV,appos,False

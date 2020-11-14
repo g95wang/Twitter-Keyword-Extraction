@@ -1,0 +1,17 @@
+And,and,and,12285,CCONJ,cc,True
+this,this,this,322217,DET,det,True
+one,one,one,212715,NOUN,nsubj,True
+'s,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+short,short,short,288895,ADJ,amod,False
+cover,cover,cover,71476,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+Morissette,Morissette,mosette,193823,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+rendition,rendition,rendition,267584,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+Lee,Lee,lee,169910,PROPN,compound,False
+Young,Young,young,157730,PROPN,compound,False
+Hyun,Hyun,hun,145105,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+Resignation,resignation,resignation,269398,NOUN,pobj,False
