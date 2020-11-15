@@ -1,0 +1,12 @@
+Wind,wind,wind,365902,NOUN,compound,False,1
+mph,mph,mph,194470,NOUN,compound,False,0
+SE,SE,se,282384,PROPN,ROOT,False,0
+Barometer,barometer,barometer,28174,NOUN,ROOT,False,0
+in,in,in,149313,ADP,advmod,True,0
+Rising,rise,rise,273227,VERB,intj,False,0
+Temperature,Temperature,temperature,318525,PROPN,compound,False,1
+F,F,f,108866,PROPN,ROOT,False,0
+Rain,rain,rain,260071,NOUN,ROOT,False,0
+today,today,today,325003,NOUN,npadvmod,False,0
+in,in,in,149313,ADP,advmod,True,0
+Humidity,Humidity,humidity,144974,PROPN,compound,False,0

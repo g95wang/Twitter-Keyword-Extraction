@@ -1,0 +1,13 @@
+Journalists,journalist,journalist,161884,NOUN,nmod,False,0
+and,and,and,12285,CCONJ,cc,True,0
+Social,Social,social,296098,PROPN,compound,False,1
+Media,Media,media,181993,PROPN,conj,False,0
+experts,expert,expert,107746,NOUN,nsubj,False,0
+alike,alike,alike,8274,ADV,advmod,False,0
+will,will,will,365768,VERB,aux,True,0
+appreciate,appreciate,appreciate,17903,VERB,ROOT,False,0
+this,this,this,322217,DET,det,True,0
+spoof,spoof,spoof,300835,VERB,dobj,False,1
+out,out,out,216108,SCONJ,prep,True,0
+of,of,of,211535,ADP,prep,True,0
+Dallas,Dallas,dallas,76467,PROPN,pobj,False,0

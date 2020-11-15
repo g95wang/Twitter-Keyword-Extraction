@@ -1,0 +1,14 @@
+may,may,may,177739,VERB,aux,True,0
+wear,wear,wear,363540,VERB,ROOT,False,1
+hair,hair,hair,132366,NOUN,dobj,False,1
+in,in,in,149313,ADP,prep,True,0
+a,a,a,0,DET,det,True,0
+comb,comb,comb,63616,NOUN,pobj,False,0
+over,over,over,218092,ADP,prep,True,0
+fashion,fashion,fashion,110153,NOUN,pobj,False,0
+more,more,more,193383,ADV,advmod,True,0
+often,often,often,211701,ADV,advmod,True,0
+feel,feel,feel,110884,VERB,ROOT,False,0
+smart,smart,smart,294729,ADJ,acomp,False,0
+this,this,this,322217,DET,det,True,0
+way,way,way,361946,NOUN,npadvmod,False,0

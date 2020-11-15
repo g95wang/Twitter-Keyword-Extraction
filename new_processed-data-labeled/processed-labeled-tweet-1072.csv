@@ -1,0 +1,16 @@
+Photoshop,Photoshop,photoscope,235352,PROPN,compound,False,0
+Docs,Docs,docs,90645,PROPN,ROOT,False,0
+Remove,remove,remove,267487,VERB,ROOT,False,0
+Creative,Creative,creative,72440,PROPN,compound,False,0
+Suite,Suite,suite,310324,PROPN,dobj,False,0
+and,and,and,12285,CCONJ,cc,True,0
+CS5,CS5,cs,74339,PROPN,compound,False,1
+point,point,point,241315,NOUN,compound,False,0
+products,product,product,251582,NOUN,compound,False,0
+Windows,window,window,366001,NOUN,conj,False,1
+Mac,Mac,mac,176612,PROPN,compound,False,0
+OS,OS,os,215227,PROPN,ROOT,False,0
+The,the,the,320691,DET,det,True,0
+Adobe,Adobe,adobe,4263,PROPN,compound,False,0
+Applicati,Applicati,application,17811,PROPN,ROOT,False,0
+photography,photography,photography,235166,NOUN,ROOT,False,0

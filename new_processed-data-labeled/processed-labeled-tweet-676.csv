@@ -1,0 +1,17 @@
+RT,RT,rt,275072,PROPN,ROOT,False,0
+How,how,how,144540,ADV,advmod,True,0
+Jim,Jim,jim,161245,PROPN,compound,False,1
+DeMInt,demint,demit,80652,NOUN,nsubj,False,0
+the,the,the,320691,DET,det,True,0
+Tea,Tea,tea,317411,PROPN,compound,False,0
+Party,Party,party,226988,PROPN,poss,False,0
+'s,'s,s,275971,PART,case,True,0
+favorite,favorite,favorite,110510,ADJ,amod,False,0
+senator,senator,senator,285213,NOUN,appos,False,0
+has,have,have,134390,AUX,aux,True,0
+flip,flip,flip,114677,VERB,ROOT,False,0
+flopped,flop,flop,114962,VERB,dep,False,0
+on,on,on,212644,ADP,prep,True,0
+PACs,pac,pac,222557,NOUN,pobj,False,0
+by,by,by,33133,ADP,prep,True,0
+starting,start,start,302958,VERB,pcomp,False,0

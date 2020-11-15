@@ -1,0 +1,14 @@
+O,o,o,209854,INTJ,intj,False,0
+VF20,vf20,vefry,357674,ADJ,nmod,False,0
+ANACS,anacs,anaces,11519,NOUN,compound,False,0
+SILVER,silver,silver,290616,NOUN,compound,False,0
+Morgan,Morgan,morgan,193416,PROPN,compound,False,1
+Dollar,Dollar,dollar,91139,PROPN,compound,False,0
+NEW,NEW,new,199367,PROPN,ROOT,False,0
+ORLEANS,orleans,orleans,214669,NOUN,compound,False,0
+COIN,coin,coin,62472,NOUN,dobj,False,0
+US,US,us,355940,PROPN,ROOT,True,0
+Bid,Bid,bid,33491,PROPN,appos,False,0
+End,end,end,99559,NOUN,compound,False,0
+Date,date,date,77165,NOUN,ROOT,False,0
+Tuesday,Tuesday,tuesday,332139,PROPN,npadvmod,False,0

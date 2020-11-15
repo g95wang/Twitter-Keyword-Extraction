@@ -1,0 +1,12 @@
+News,news,news,199421,NOUN,ROOT,False,0
+Congress,Congress,congress,66258,PROPN,nsubj,False,1
+Gives,give,give,125692,VERB,ccomp,False,0
+Facebook,Facebook,facebow,108935,PROPN,compound,False,0
+Privacy,Privacy,privacy,250829,PROPN,compound,False,0
+Homework,Homework,homework,142905,PROPN,compound,False,0
+Extension,Extension,extension,108229,PROPN,dobj,False,1
+clickz,clickz,click,59892,PROPN,compound,False,0
+Facebook,Facebook,facebow,108935,PROPN,nsubj,False,0
+was,be,be,29345,AUX,ROOT,True,0
+please,please,please,239622,INTJ,intj,True,0
+share,share,share,287481,NOUN,parataxis,False,0

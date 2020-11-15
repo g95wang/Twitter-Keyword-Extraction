@@ -1,0 +1,12 @@
+RODE,ride,ride,272642,VERB,ROOT,False,0
+A,a,a,0,DET,det,True,0
+TRICYCLE,tricycle,tricycle,329523,NOUN,compound,False,0
+LAST,last,last,168771,NOUN,compound,True,0
+NIGHT,night,night,199909,NOUN,dobj,False,0
+'m,be,be,29345,AUX,aux,True,0
+going,go,go,127161,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+put,put,put,257261,VERB,xcomp,True,1
+this,this,this,322217,DET,dobj,True,0
+on,on,on,212644,ADP,prep,True,0
+resume,resume,resume,270142,NOUN,pobj,False,1

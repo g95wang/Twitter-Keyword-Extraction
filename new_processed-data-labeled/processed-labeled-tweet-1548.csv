@@ -1,0 +1,15 @@
+really,really,really,261766,ADV,advmod,True,0
+weird,weird,weird,363928,ADJ,ROOT,False,1
+how,how,how,144540,ADV,advmod,True,0
+FB,FB,fb,110567,PROPN,nsubj,False,0
+shows,show,show,289042,VERB,ccomp,False,1
+photo,photo,photo,234975,NOUN,compound,False,0
+memories,memory,memory,183183,NOUN,dobj,False,0
+of,of,of,211535,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+hottest,hot,hot,144238,ADJ,amod,False,0
+girl,girl,girl,125519,NOUN,pobj,False,0
+to,to,to,324862,ADP,dative,True,0
+on,on,on,212644,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+side,side,side,289721,NOUN,pobj,True,0

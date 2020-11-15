@@ -1,0 +1,15 @@
+AMERICA,AMERICA,america,10297,PROPN,ROOT,False,0
+FUCK,FUCK,fuck,119742,PROPN,compound,False,0
+YEAH,YEAH,yeah,146696,PROPN,appos,False,0
+Awesome,Awesome,awesome,25000,PROPN,compound,False,0
+Old,old,old,212002,ADJ,compound,False,0
+Man,man,man,178862,NOUN,nsubj,False,0
+Makes,make,make,178090,VERB,ROOT,False,0
+A,a,a,0,DET,det,True,0
+Jack,Jack,jack,159867,PROPN,compound,False,0
+O,O,o,209854,PROPN,compound,False,0
+Lantern,Lantern,lantern,168216,PROPN,dobj,False,0
+With,with,with,366582,ADP,ROOT,True,0
+A,a,a,0,DET,compound,True,0
+Gun,Gun,gun,131319,PROPN,pobj,False,1
+VIDEO,video,video,359514,NOUN,pobj,False,0

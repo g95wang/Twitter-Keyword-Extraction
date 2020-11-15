@@ -1,0 +1,15 @@
+Denial,Denial,denial,81103,PROPN,nsubj,False,1
+has,have,have,134390,AUX,aux,True,0
+become,become,become,29882,VERB,ROOT,True,0
+such,such,such,309936,DET,predet,True,0
+a,a,a,0,DET,det,True,0
+comfort,comfort,comfort,63793,NOUN,attr,False,0
+for,for,for,116301,ADP,prep,True,0
+some,some,some,297029,DET,pobj,True,0
+that,that,that,320639,DET,mark,True,0
+the,the,the,320691,DET,det,True,0
+truth,truth,truth,331721,NOUN,nsubj,False,1
+has,have,have,134390,AUX,aux,True,0
+become,become,become,29882,VERB,acl,True,0
+an,an,an,11448,DET,det,True,0
+illusion,illusion,illusion,147503,NOUN,attr,False,0

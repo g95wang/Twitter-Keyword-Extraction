@@ -1,0 +1,6 @@
+m,be,be,29345,VERB,ROOT,False,0
+a,going to,going,127453,DET,det,True,0
+come,come,come,63721,NOUN,attr,False,0
+get,get,get,124419,AUX,dep,True,0
+at,at,at,22372,ADP,prep,True,0
+like,like,like,172172,INTJ,intj,False,1

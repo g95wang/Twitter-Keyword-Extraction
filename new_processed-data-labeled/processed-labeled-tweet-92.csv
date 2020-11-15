@@ -1,0 +1,10 @@
+This,this,this,322217,DET,det,True,0
+st,st,st,302135,PROPN,compound,False,0
+birthday,birthday,birthday,34904,NOUN,nsubj,False,1
+is,be,be,29345,AUX,ROOT,True,0
+the,the,the,320691,DET,det,True,0
+worst,bad,bad,26158,ADJ,amod,False,0
+birthday,birthday,birthday,34904,NOUN,attr,False,1
+have,have,have,134390,AUX,aux,True,0
+EVER,ever,ever,106143,ADV,nsubj,True,0
+had,have,have,134390,VERB,relcl,True,0

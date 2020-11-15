@@ -1,0 +1,16 @@
+Word,word,word,367408,NOUN,npadvmod,False,0
+'m,be,be,29345,AUX,ROOT,True,0
+about,about,about,756,ADJ,acomp,True,0
+to,to,to,324862,ADP,aux,True,0
+holla,holla,holla,142474,PROPN,xcomp,False,0
+at,at,at,22372,ADP,prep,True,0
+via,via,via,359224,ADP,prep,True,0
+twitter,twitter,twitter,333475,NOUN,amod,False,1
+RT,RT,rt,275072,PROPN,pobj,False,0
+trushit,trushit,rushlit,275795,NOUN,compound,False,0
+m,be,be,29345,VERB,compound,False,0
+tryna,tryna,terna,319432,PROPN,compound,False,0
+fucc,fucc,fuci,119738,PROPN,compound,False,0
+nikki,nikki,kikki,164539,PROPN,compound,False,1
+minaj,minaj,mina,187648,PROPN,compound,False,0
+lol,lol,lola,174784,PROPN,ROOT,False,0

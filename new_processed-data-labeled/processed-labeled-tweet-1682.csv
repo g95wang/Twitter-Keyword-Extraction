@@ -1,0 +1,10 @@
+BJ,BJ,obj,210086,PROPN,nsubj,False,0
+'s,'s,s,275971,PART,case,True,0
+is,be,be,29345,AUX,aux,True,0
+fucking,fuck,fuck,119742,VERB,ROOT,False,0
+gross,gross,gross,130231,ADJ,dobj,False,0
+and,and,and,12285,CCONJ,cc,True,0
+a,a,a,0,DET,det,True,0
+waste,waste,waste,362983,NOUN,conj,False,1
+of,of,of,211535,ADP,prep,True,0
+money,money,money,191829,NOUN,pobj,False,0

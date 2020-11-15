@@ -1,0 +1,15 @@
+Few,few,few,111900,ADJ,amod,True,0
+weeks,week,week,363764,NOUN,npadvmod,False,0
+ago,ago,ago,6337,ADV,advmod,False,0
+someone,someone,someone,297038,PRON,nsubj,True,0
+told,tell,tell,318356,VERB,ROOT,False,0
+that,that,that,320639,SCONJ,mark,True,0
+La,La,la,166590,PROPN,compound,False,0
+Tapatia,Tapatia,apathia,16685,PROPN,nsubj,False,1
+has,have,have,134390,AUX,ccomp,True,0
+but,but,but,43550,CCONJ,cc,True,0
+do,do,do,90528,AUX,aux,True,0
+n't,not,not,208798,PART,neg,True,0
+know,know,know,165702,VERB,ROOT,False,0
+that,that,that,320639,DET,dobj,True,0
+firsthand,firsthand,firsthand,113291,ADV,advmod,False,1

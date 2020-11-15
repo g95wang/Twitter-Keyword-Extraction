@@ -1,0 +1,7 @@
+Who,who,who,365278,PRON,nsubj,True,0
+got,get,get,124419,VERB,ROOT,False,0
+a,a,a,0,DET,det,True,0
+scantron,scantron,canton,46666,NOUN,dobj,False,1
+and,and,and,12285,CCONJ,cc,True,0
+around,around,around,20104,ADP,conj,True,0
+PAB,PAB,paba,222544,PROPN,pobj,False,0

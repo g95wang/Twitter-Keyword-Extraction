@@ -1,0 +1,5 @@
+american,american,american,10298,PROPN,compound,False,0
+airlines,airlines,airlines,6940,PROPN,nsubj,False,0
+discounts,discount,discount,87620,NOUN,ROOT,False,1
+from,from,from,119298,ADP,prep,True,0
+sta,sta,sta,302136,PROPN,pobj,False,0

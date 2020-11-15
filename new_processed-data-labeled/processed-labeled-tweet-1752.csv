@@ -1,0 +1,13 @@
+TDFAMILY,tdfamily,family,109591,VERB,nsubj,False,0
+YOU,you,you,157723,PRON,nsubj,True,0
+MUST,MUST,must,196148,VERB,aux,True,0
+CONTACT,contact,contact,67230,VERB,ROOT,False,0
+ME,me,me,181664,NOUN,dobj,True,0
+IF,if,if,146980,ADP,mark,True,0
+YOU,you,you,157723,PRON,nsubj,True,0
+WILL,WILL,will,365768,VERB,aux,True,0
+NOT,not,not,208798,ADV,neg,True,0
+BE,be,be,29345,VERB,advcl,True,0
+AT,AT,at,22372,PROPN,prep,True,0
+EITHER,either,either,96575,CCONJ,amod,True,0
+MEETING,MEETING,meeting,182309,PROPN,pobj,False,1

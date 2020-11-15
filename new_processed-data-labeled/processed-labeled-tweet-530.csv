@@ -1,0 +1,9 @@
+a,a,a,0,DET,det,True,0
+chocolate,chocolate,chocolate,55285,NOUN,compound,False,0
+with,with,with,366582,ADP,prep,True,0
+oreo,oreo,ore,214282,PROPN,pobj,False,0
+'s,'s,s,275971,PART,case,True,0
+and,and,and,12285,CCONJ,cc,True,0
+some,some,some,297029,DET,det,True,0
+cheese,cheese,cheese,53473,NOUN,nsubj,False,0
+fries,fry,fry,118875,NOUN,pobj,False,0

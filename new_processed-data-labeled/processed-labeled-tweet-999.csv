@@ -1,0 +1,14 @@
+James,James,james,160268,PROPN,compound,False,0
+Cameron,Cameron,cameroon,45704,PROPN,nsubj,False,0
+confirms,confirm,confirm,65928,VERB,ROOT,False,0
+next,next,next,199504,ADJ,amod,True,1
+projects,project,project,252003,NOUN,nsubj,False,1
+will,will,will,365768,VERB,aux,True,0
+be,be,be,29345,AUX,ccomp,True,0
+Pocahontas,Pocahontas,chonta,55646,PROPN,compound,False,0
+AVATAR,AVATAR,avatar,24615,PROPN,attr,False,0
+with,with,with,366582,ADP,prep,True,0
+release,release,release,266810,NOUN,compound,False,0
+dates,date,date,77165,NOUN,pobj,False,0
+of,of,of,211535,ADP,prep,True,0
+December,December,december,78172,PROPN,pobj,False,0

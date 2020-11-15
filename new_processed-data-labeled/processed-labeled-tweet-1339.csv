@@ -1,0 +1,17 @@
+Who,who,who,365278,PRON,attr,True,0
+'s,be,be,29345,AUX,ROOT,True,0
+the,the,the,320691,DET,det,True,0
+real,real,real,261710,ADJ,amod,False,0
+Joe,Joe,joe,161519,PROPN,compound,False,1
+Miller,Miller,miller,187321,PROPN,attr,False,1
+Janine,Janine,javanine,160621,PROPN,compound,False,0
+Turner,Turner,turner,332816,PROPN,nsubj,False,0
+provide,provide,provide,254058,VERB,ccomp,False,0
+Northern,Northern,northern,208626,PROPN,compound,False,0
+Exposure,Exposure,exposure,107986,PROPN,dobj,False,0
+tomorrow,tomorrow,tomorrow,325475,NOUN,compound,False,0
+night,night,night,199909,NOUN,npadvmod,False,0
+Anchorage,Anchorage,anchorage,12177,PROPN,compound,False,0
+rally,rally,rally,260212,NOUN,nsubj,False,0
+expose,expose,expose,107949,VERB,ROOT,False,0
+truth,truth,truth,331721,NOUN,dobj,False,0

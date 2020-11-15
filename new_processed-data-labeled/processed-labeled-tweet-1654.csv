@@ -1,0 +1,13 @@
+needs,need,need,197910,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+be,be,be,29345,AUX,aux,True,0
+wrestling,wrestle,wrestle,367936,VERB,xcomp,False,1
+season,season,season,282586,NOUN,dobj,False,1
+so,so,so,295959,SCONJ,mark,True,0
+can,can,can,45964,VERB,aux,True,0
+concentrate,concentrate,concentrate,65127,VERB,advcl,False,0
+on,on,on,212644,ADP,prep,True,0
+something,something,something,297061,PRON,pobj,True,0
+other,other,other,215836,ADJ,amod,True,0
+than,than,than,320565,SCONJ,prep,True,0
+this,this,this,322217,DET,pobj,True,0

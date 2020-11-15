@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True,0
+World,World,world,367566,PROPN,nsubj,False,0
+see,see,see,283054,VERB,ROOT,True,0
+US,US,us,355940,PROPN,dobj,True,0
+as,as,as,20837,SCONJ,prep,True,1
+a,a,a,0,DET,det,True,0
+future,future,future,120712,ADJ,amod,False,0
+European,european,european,105824,ADJ,amod,False,0
+community,community,community,64281,NOUN,pobj,False,0
+politicians,politician,politician,242546,NOUN,ROOT,False,0
+like,like,like,172172,SCONJ,prep,False,0
+social,social,social,296098,ADJ,amod,False,0
+products,product,product,251582,NOUN,pobj,False,0
+TcoT,TcoT,cot,70263,PROPN,nsubj,False,0
+Do,do,do,90528,AUX,ROOT,True,0
+Vote,vote,vote,361409,VERB,compound,False,1
+Change,change,change,52470,NOUN,ROOT,False,0

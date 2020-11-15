@@ -1,0 +1,10 @@
+Nose,nose,nose,208675,NOUN,compound,False,0
+Tastes,taste,taste,316934,NOUN,ROOT,False,0
+Like,like,like,172172,SCONJ,prep,False,0
+Cute,cute,cute,75755,VERB,pobj,False,0
+Submitted,submit,submit,308567,VERB,ROOT,False,0
+by,by,by,33133,ADP,agent,True,0
+Unknown,Unknown,unknown,345369,PROPN,amod,False,0
+Pictures,picture,picture,236096,NOUN,pobj,False,1
+First,first,first,113286,ADJ,compound,True,0
+Fail,Fail,fail,109249,PROPN,appos,False,0

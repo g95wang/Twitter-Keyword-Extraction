@@ -1,0 +1,14 @@
+Goodnight,Goodnight,goodnight,127910,PROPN,nsubj,False,0
+Sweet,Sweet,sweet,314276,PROPN,compound,False,0
+Dreams,Dreams,dreams,92881,PROPN,npadvmod,False,0
+god,god,god,127304,PROPN,conj,False,0
+bless,bless,bless,36144,PROPN,ROOT,False,0
+Have,have,have,134390,AUX,ROOT,True,0
+a,a,a,0,DET,det,True,0
+safe,safe,safe,276548,ADJ,amod,False,1
+flight,flight,flight,114591,NOUN,dobj,False,1
+in,in,in,149313,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+morning,morning,morning,193499,NOUN,pobj,False,0
+Take,take,take,315491,VERB,ROOT,True,0
+Care,care,care,47901,NOUN,dobj,False,0

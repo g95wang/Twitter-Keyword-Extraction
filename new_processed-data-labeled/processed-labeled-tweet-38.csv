@@ -1,0 +1,16 @@
+Andrew,Andrew,andrew,12357,PROPN,compound,False,0
+McNulty,McNulty,cult,74795,PROPN,nsubj,False,0
+passes,pass,pass,227250,VERB,ROOT,False,1
+to,to,to,324862,ADP,prep,True,0
+Connor,Connor,oconnor,210897,PROPN,compound,False,0
+Alberhasky,Alberhasky,alberca,7414,PROPN,pobj,False,0
+for,for,for,116301,ADP,prep,True,0
+a,a,a,0,DET,det,True,0
+yard,yard,yard,145723,NOUN,compound,False,1
+gain,gain,gain,121008,NOUN,pobj,False,0
+City,city,city,58633,NOUN,ROOT,False,0
+high,high,high,139224,ADV,advmod,False,0
+on,on,on,212644,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+yard,yard,yard,145723,NOUN,compound,False,1
+line,line,line,172722,NOUN,pobj,False,0

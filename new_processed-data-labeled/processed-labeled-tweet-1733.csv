@@ -1,0 +1,11 @@
+days,day,day,76257,NOUN,ROOT,False,0
+until,until,until,353020,ADP,prep,True,0
+FreeWeezy,FreeWeezy,freezy,118687,PROPN,pobj,False,1
+Shoutout,shoutout,shutout,289410,ADV,compound,False,0
+FreeWeezy,FreeWeezy,freezy,118687,PROPN,ROOT,False,1
+all,all,all,8522,DET,det,True,0
+day,day,day,76257,NOUN,npadvmod,False,0
+everyday,everyday,everyday,106161,ADV,npadvmod,False,0
+until,until,until,353020,ADP,mark,True,0
+'s,be,be,29345,AUX,advcl,True,0
+home,home,home,142751,ADV,advmod,False,1

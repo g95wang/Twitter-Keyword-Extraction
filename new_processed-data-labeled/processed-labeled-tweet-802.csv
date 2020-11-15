@@ -1,0 +1,15 @@
+The,the,the,320691,DET,det,True,0
+Sixers,Sixers,sixer,292710,PROPN,nsubj,False,0
+should,should,should,288990,VERB,aux,True,0
+trade,trade,trade,327240,VERB,ROOT,False,0
+Elton,Elton,belton,31316,PROPN,compound,False,1
+Brand,Brand,brand,39897,PROPN,dobj,False,1
+and,and,and,12285,CCONJ,cc,True,0
+contract,contract,contract,67561,NOUN,conj,False,0
+to,to,to,324862,ADP,prep,True,0
+Turkey,Turkey,turkey,332730,PROPN,pobj,False,0
+for,for,for,116301,ADP,prep,True,0
+Iverson,Iverson,diversion,90262,PROPN,pobj,False,0
+and,and,and,12285,CCONJ,cc,True,0
+a,a,a,0,DET,det,True,0
+pack,pack,pack,222721,NOUN,conj,False,0

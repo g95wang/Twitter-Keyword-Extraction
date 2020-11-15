@@ -1,0 +1,6 @@
+Built,build,build,42364,VERB,ROOT,False,1
+This,this,this,322217,DET,det,True,0
+City,City,city,58633,PROPN,compound,False,0
+Jefferson,Jefferson,jefferson,160760,PROPN,compound,False,0
+Starship,Starship,starship,302952,PROPN,compound,False,0
+nowplaying,nowplaye,downplayed,92285,VERB,dep,False,0

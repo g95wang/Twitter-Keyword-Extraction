@@ -1,0 +1,6 @@
+RUN,RUN,run,275612,PROPN,compound,False,0
+DAT,DAT,dat,77137,PROPN,ROOT,False,0
+by,by,by,33133,ADP,prep,True,0
+ft,ft,ft,119704,NOUN,dep,False,0
+DOWNLOAD,DOWNLOAD,download,92274,PROPN,ROOT,False,0
+NOW,now,now,209199,ADV,ROOT,True,0

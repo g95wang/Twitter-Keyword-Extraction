@@ -1,0 +1,6 @@
+anyone,anyone,anyone,13244,PRON,ROOT,True,0
+here,here,here,136991,ADV,advmod,True,0
+who,who,who,365278,PRON,nsubj,True,0
+wants,want,want,362465,VERB,relcl,False,0
+to,to,to,324862,PART,aux,True,0
+talk,talk,talk,315639,VERB,xcomp,False,1

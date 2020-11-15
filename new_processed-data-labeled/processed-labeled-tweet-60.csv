@@ -1,0 +1,5 @@
+Some,some,some,297029,DET,det,True,0
+people,people,people,230162,NOUN,nsubj,False,1
+are,be,be,29345,AUX,ROOT,True,0
+just,just,just,162503,ADV,advmod,True,0
+unrealiable,unrealiable,unrealizable,349114,ADJ,acomp,False,0

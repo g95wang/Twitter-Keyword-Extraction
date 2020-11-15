@@ -1,0 +1,13 @@
+RT,RT,rt,275072,PROPN,ROOT,False,0
+U.S.,U.S.,us,355940,PROPN,compound,False,1
+Dept,Dept,dept,81910,PROPN,nsubj,False,0
+of,of,of,211535,ADP,prep,True,0
+Commerce,Commerce,commerce,64001,PROPN,pobj,False,0
+EDA,EDA,deda,78869,PROPN,nsubj,False,0
+grants,grant,grant,128969,VERB,ROOT,False,1
+500k,500k,k,162637,NOUN,dobj,False,0
+to,to,to,324862,PART,aux,True,0
+develop,develop,develop,83481,VERB,advcl,False,0
+metrics,metric,metric,185395,NOUN,dobj,False,0
+for,for,for,116301,ADP,prep,True,0
+econdev,econdev,seconde,282759,NOUN,pobj,False,0

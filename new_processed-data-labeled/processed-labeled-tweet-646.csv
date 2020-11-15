@@ -1,0 +1,10 @@
+Better,well,well,364011,ADV,nsubj,False,0
+late,late,late,168810,ADV,advmod,False,1
+than,than,than,320565,SCONJ,prep,True,0
+never,never,never,199350,ADV,pcomp,True,0
+but,but,but,43550,CCONJ,cc,True,0
+never,never,never,199350,ADV,neg,True,0
+late,late,late,168810,ADV,advmod,False,1
+is,be,be,29345,AUX,ROOT,True,0
+better,well,well,364011,ADJ,acomp,False,0
+-Drake,-drake,drake,92641,NOUN,punct,False,0

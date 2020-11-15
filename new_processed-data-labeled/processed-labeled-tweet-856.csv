@@ -1,0 +1,15 @@
+Northrop,Northrop,anthrop,14537,PROPN,compound,False,0
+Grumman,Grumman,gumma,131274,PROPN,compound,False,1
+Q,Q,q,257395,PROPN,compound,False,0
+profit,profit,profit,251762,NOUN,nsubj,False,0
+rises,rise,rise,273227,NOUN,ccomp,False,0
+boosts,boosts,boosts,38219,PROPN,nsubj,False,0
+forecast,forecast,forecast,116541,VERB,ROOT,False,0
+AP)\n,ap)\n,alpen,9304,NOUN,ROOT,False,0
+AP,AP,ap,16616,PROPN,compound,False,0
+Defense,Defense,defense,79203,PROPN,compound,False,0
+contractor,contractor,contractor,67585,NOUN,compound,False,1
+Northrop,Northrop,anthrop,14537,PROPN,compound,False,0
+Grumman,Grumman,gumma,131274,PROPN,compound,False,1
+Corp,Corp,corp,69505,PROPN,dep,False,0
+say,say,say,276740,VERB,ROOT,True,0

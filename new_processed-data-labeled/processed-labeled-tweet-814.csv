@@ -1,0 +1,14 @@
+hit,hit,hit,141950,VERB,ROOT,False,1
+the,the,the,320691,DET,det,True,0
+ground,ground,ground,130296,NOUN,nsubj,False,1
+running,run,run,275612,VERB,ccomp,False,0
+but,but,but,43550,CCONJ,cc,True,0
+may,may,may,177739,VERB,aux,True,0
+run,run,run,275612,VERB,conj,False,0
+out,out,out,216108,SCONJ,prep,True,0
+of,of,of,211535,ADP,prep,True,0
+steam,steam,steam,303282,NOUN,pobj,False,0
+before,before,before,30510,ADV,advmod,True,0
+More,More,more,193383,ADJ,ROOT,True,0
+for,for,for,116301,ADP,prep,True,0
+Aries,arie,aerie,4919,NOUN,pobj,False,0

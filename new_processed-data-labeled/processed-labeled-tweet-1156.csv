@@ -1,0 +1,14 @@
+last,last,last,168771,ADJ,amod,True,0
+day,day,day,76257,NOUN,ROOT,False,0
+of,of,of,211535,ADP,prep,True,0
+getting,get,get,124419,VERB,pcomp,False,0
+the,the,the,320691,DET,det,True,0
+rest,rest,rest,269833,NOUN,nsubj,False,0
+of,of,of,211535,ADP,prep,True,0
+things,thing,thing,321869,NOUN,pobj,False,0
+done,do,do,90528,VERB,ccomp,True,0
+for,for,for,116301,ADP,prep,True,0
+tally,tally,tally,315683,NOUN,pobj,False,0
+Hair,hair,hair,132366,NOUN,compound,False,1
+appiontment,appiontment,appointment,17851,NOUN,ROOT,False,1
+tomorrow,tomorrow,tomorrow,325475,NOUN,npadvmod,False,0

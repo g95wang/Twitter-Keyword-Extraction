@@ -1,0 +1,14 @@
+taught,teach,teach,317425,VERB,ROOT,False,0
+brother,brother,brother,41578,NOUN,dobj,False,0
+what,what,what,364447,PRON,det,True,0
+herpes,herpe,herpes,137290,VERB,nsubj,False,0
+is,be,be,29345,AUX,ccomp,True,0
+cause,cause,cause,50043,SCONJ,acomp,False,0
+of,of,of,211535,ADP,prep,True,0
+names,name,name,196686,NOUN,pobj,False,0
+for,for,for,116301,ADP,prep,True,0
+a,a,a,0,DET,det,True,0
+game,game,game,121666,NOUN,pobj,False,1
+play,play,play,238701,VERB,relcl,False,1
+is,be,be,29345,AUX,ccomp,True,0
+mouthherpes,mouthherpe,mouther,194343,NOUN,attr,False,0

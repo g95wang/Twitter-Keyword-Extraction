@@ -1,0 +1,11 @@
+MC,MC,mc,181651,PROPN,compound,False,0
+Hammer,Hammer,hammer,132996,PROPN,nsubj,False,1
+beefing,beef,beef,30293,VERB,ROOT,False,0
+with,with,with,366582,ADP,prep,True,0
+Jay,Jay,jay,160135,PROPN,compound,False,0
+z,z,z,368716,PROPN,pobj,False,0
+Lmao,Lmao,lao,168251,PROPN,nsubj,False,0
+wait,wait,wait,362072,VERB,ROOT,False,1
+no,no,no,200529,DET,det,True,0
+King,King,king,164870,PROPN,compound,False,0
+Hammer,Hammer,hammer,132996,PROPN,dobj,False,1

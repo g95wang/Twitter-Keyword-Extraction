@@ -1,0 +1,11 @@
+Good,good,good,127869,ADJ,amod,False,0
+luck,luck,luck,175838,NOUN,ROOT,False,1
+trying,try,try,329065,VERB,acl,False,1
+to,to,to,324862,PART,aux,True,0
+find,find,find,112884,VERB,xcomp,False,0
+BTW,btw,bt,41899,ADV,npadvmod,False,0
+Let,let,let,170875,VERB,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+family,family,family,109591,NOUN,nsubj,False,0
+have,have,have,134390,AUX,ccomp,True,0
+peace,peace,peace,228323,NOUN,dobj,False,0

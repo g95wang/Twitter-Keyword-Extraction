@@ -1,0 +1,17 @@
+Today,today,today,325003,NOUN,poss,False,0
+'s,'s,s,275971,PART,case,True,0
+MetroTube,MetroTube,metrotome,185519,PROPN,ROOT,False,0
+An,an,an,11448,DET,det,True,0
+oddly,oddly,oddly,211207,ADV,advmod,False,0
+touching,touching,touching,326581,ADJ,amod,False,0
+electro,electro,electro,96941,PROPN,amod,False,0
+pop,pop,pop,243193,NOUN,compound,False,1
+tribute,tribute,tribute,329290,NOUN,nsubj,False,0
+to,to,to,324862,ADP,prep,True,0
+celebrity,celebrity,celebrity,50466,NOUN,compound,False,1
+mugshots,mugshot,mugho,194806,NOUN,pobj,False,0
+almost,almost,almost,9157,ADV,advmod,True,0
+makes,make,make,178090,VERB,ROOT,False,0
+feel,feel,feel,110884,VERB,ccomp,False,0
+bad,bad,bad,26158,ADJ,acomp,False,0
+for,for,for,116301,ADP,prep,True,0

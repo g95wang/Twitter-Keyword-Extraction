@@ -1,0 +1,17 @@
+Home,home,home,142751,NOUN,nsubj,False,0
+is,be,be,29345,AUX,ROOT,True,0
+where,where,where,364654,ADV,advmod,True,0
+'d,'d,d,75936,VERB,aux,True,0
+like,like,like,172172,VERB,ccomp,False,0
+to,to,to,324862,PART,aux,True,0
+be,be,be,29345,AUX,xcomp,True,0
+right,right,right,272806,ADJ,advmod,False,0
+now,now,now,209199,ADV,advmod,True,0
+mom,mom,mom,191625,NOUN,nsubj,False,1
+feeding,feed,feed,110855,VERB,ROOT,False,1
+more,more,more,193383,ADV,advmod,True,0
+than,than,than,320565,SCONJ,prep,True,0
+what,what,what,364447,PRON,dobj,True,0
+need,need,need,197910,VERB,pcomp,False,0
+the,the,the,320691,DET,det,True,0
+best,good,good,127869,ADJ,ROOT,False,0

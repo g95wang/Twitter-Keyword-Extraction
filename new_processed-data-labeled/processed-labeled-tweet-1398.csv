@@ -1,0 +1,16 @@
+why,why,why,364728,ADV,advmod,True,0
+got,get,get,124419,VERB,ROOT,False,0
+ta,to,to,324862,PART,aux,False,0
+go,go,go,127161,VERB,xcomp,True,0
+all,all,all,8522,DET,dobj,True,0
+there,there,there,321216,ADV,advmod,True,0
+But,but,but,43550,CCONJ,cc,True,0
+yeah,yeah,yeah,146696,INTJ,ROOT,False,0
+was,be,be,29345,AUX,ROOT,True,0
+cool,cool,cool,68254,ADJ,acomp,False,1
+would,would,would,367745,VERB,aux,True,0
+like,like,like,172172,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+hear,hear,hear,134794,VERB,xcomp,False,1
+more,more,more,193383,ADJ,dobj,True,0
+though,though,though,322468,ADV,advmod,True,0

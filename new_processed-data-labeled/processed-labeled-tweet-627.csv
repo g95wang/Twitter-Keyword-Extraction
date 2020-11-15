@@ -1,0 +1,17 @@
+damm,damm,damme,76562,PROPN,compound,False,0
+RT,RT,rt,275072,PROPN,compound,False,0
+RT,RT,rt,275072,PROPN,ROOT,False,0
+Is,be,be,29345,AUX,ROOT,True,0
+n't,not,not,208798,PART,neg,True,0
+Ron,Ron,ron,274126,PROPN,compound,False,1
+Artest,Artest,artiest,20707,PROPN,attr,False,0
+auctioning,auction,auction,23246,VERB,acl,False,1
+ring,ring,ring,273011,NOUN,dobj,False,0
+off,off,off,211539,ADP,prt,True,0
+Lebron,Lebron,oleron,212117,PROPN,nsubj,False,0
+might,may,may,177739,VERB,aux,True,0
+as,as,as,20837,ADV,advmod,True,0
+well,well,well,364011,ADV,advmod,True,0
+go,go,go,127161,VERB,ROOT,True,0
+buy,buy,buy,42353,VERB,advcl,False,0
+hahaha,hahaha,haha,132277,PROPN,ROOT,False,0

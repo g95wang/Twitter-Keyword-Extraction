@@ -1,0 +1,5 @@
+That,that,that,320639,DET,nsubj,True,0
+'s,be,be,29345,AUX,ROOT,True,0
+what,what,what,364447,PRON,dobj,True,0
+call,call,call,45246,VERB,ccomp,True,1
+yeah,yeah,yeah,146696,INTJ,punct,False,0

@@ -1,0 +1,12 @@
+weighs,weigh,weigh,363873,VERB,ROOT,False,1
+too,too,too,325685,ADV,advmod,True,0
+much,much,much,194510,ADV,advmod,True,0
+this,this,this,322217,DET,det,True,0
+time,time,time,323746,NOUN,npadvmod,False,0
+hands,hand,hand,133091,NOUN,nsubjpass,False,0
+are,be,be,29345,AUX,auxpass,True,0
+broken,break,break,40228,VERB,ROOT,False,1
+'ll,will,will,365768,VERB,aux,True,0
+disappear,disappear,disappear,87027,VERB,ROOT,False,0
+this,this,this,322217,DET,det,True,0
+time,time,time,323746,NOUN,npadvmod,False,0

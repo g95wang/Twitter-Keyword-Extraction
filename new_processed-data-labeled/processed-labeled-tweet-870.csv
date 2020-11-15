@@ -1,0 +1,15 @@
+Great,great,great,129442,ADJ,amod,False,0
+article,article,article,20674,NOUN,ROOT,False,0
+Every,every,every,106158,DET,det,True,0
+cook,cook,cook,68219,NOUN,nmod,False,0
+chef,chef,chef,53515,NOUN,nsubj,False,0
+should,should,should,288990,VERB,aux,True,0
+read,read,read,261551,VERB,ROOT,False,0
+RT,RT,rt,275072,PROPN,ROOT,False,0
+Michael,Michael,michael,185754,PROPN,compound,False,0
+Ruhlman,Ruhlman,ruman,275481,PROPN,nsubj,False,1
+blogs,blog,blo,36329,VERB,ROOT,False,0
+about,about,about,756,ADP,advmod,True,0
+celiac,celiac,celiac,50498,NOUN,compound,False,0
+disease,disease,disease,87833,NOUN,dobj,False,0
+GF,GF,gif,124751,PROPN,ROOT,False,1

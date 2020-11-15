@@ -1,0 +1,12 @@
+just,just,just,162503,ADV,advmod,True,0
+find,find,find,112884,VERB,ROOT,False,0
+a,a,a,0,DET,det,True,0
+cute,cute,cute,75755,ADJ,amod,False,0
+bitch,bitch,bitch,35166,NOUN,dobj,False,1
+in,in,in,149313,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+klass,klass,lass,168750,NOUN,pobj,False,1
+and,and,and,12285,CCONJ,cc,True,0
+go,go,go,127161,VERB,conj,True,0
+smack,smack,smack,294660,ADV,acomp,False,0
+duh,duh,duhr,93915,INTJ,intj,False,0

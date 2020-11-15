@@ -1,0 +1,10 @@
+HEY,HEY,hey,135346,PROPN,nsubj,False,0
+HOW,how,how,144540,ADV,advmod,True,0
+IS,be,be,29345,VERB,aux,True,0
+IT,it,it,159424,NOUN,nsubj,True,0
+GOING,go,go,127161,VERB,ROOT,False,0
+DID,do,do,90528,VERB,aux,True,0
+U,u,u,333554,NOUN,nsubj,False,0
+SET,SET,set,286614,PROPN,ROOT,False,0
+IT,it,it,159424,PRON,dobj,True,0
+UP,up,up,354457,ADP,prt,True,0

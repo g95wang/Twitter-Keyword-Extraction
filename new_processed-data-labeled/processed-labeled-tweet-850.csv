@@ -1,0 +1,11 @@
+Man,man,man,178862,VERB,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+Lakers,Lakers,lakers,167493,PROPN,nsubj,False,1
+have,have,have,134390,AUX,ccomp,True,0
+a,a,a,0,DET,det,True,0
+fucking,fucking,fucking,119745,ADJ,amod,False,0
+all,all,all,8522,DET,det,True,0
+star,star,star,302844,NOUN,compound,False,0
+squad,squad,squad,301605,NOUN,nsubj,False,0
+fuck,fuck,fuck,119742,ADJ,ccomp,False,0
+with,with,with,366582,ADP,prep,True,0

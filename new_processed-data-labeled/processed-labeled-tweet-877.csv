@@ -1,0 +1,16 @@
+Awww,Awww,aw,24915,PROPN,nsubj,False,0
+is,be,be,29345,AUX,aux,True,0
+going,go,go,127161,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+bring,bring,bring,40851,VERB,xcomp,False,1
+a,a,a,0,DET,det,True,0
+little,little,little,173876,ADJ,amod,False,0
+girl,girl,girl,125519,NOUN,dobj,False,0
+on,on,on,212644,ADP,prep,True,0
+stage,stage,stage,302294,NOUN,pobj,False,1
+with,with,with,366582,ADP,prep,True,0
+to,to,to,324862,PART,aux,True,0
+sing,sing,sing,291662,VERB,advcl,False,0
+'s,be,be,29345,AUX,ROOT,True,0
+sooo,sooo,soosoo,297355,ADJ,advmod,False,0
+nice,nice,nice,199579,ADJ,acomp,False,0

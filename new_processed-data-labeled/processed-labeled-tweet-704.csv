@@ -1,0 +1,16 @@
+Instant,Instant,instant,153848,PROPN,compound,False,1
+Business,Business,business,43481,PROPN,compound,False,0
+Letter,Letter,letter,170920,PROPN,compound,False,0
+Kit,Kit,kit,165157,PROPN,ROOT,False,0
+Comprehensive,Comprehensive,comprehensive,64849,PROPN,compound,False,0
+Business,Business,business,43481,PROPN,compound,False,0
+Letter,Letter,letter,170920,PROPN,compound,False,0
+writing,writing,writing,368074,NOUN,ROOT,False,0
+How,how,how,144540,ADV,advmod,True,0
+To,to,to,324862,ADP,ROOT,True,0
+Style,Style,style,304446,PROPN,compound,False,0
+Manual,Manual,manual,179611,PROPN,pobj,False,1
+With,with,with,366582,ADP,conj,True,0
+Over,over,over,218092,ADV,pobj,True,0
+business,business,business,43481,NOUN,pobj,False,0
+money,money,money,191829,NOUN,pobj,False,0

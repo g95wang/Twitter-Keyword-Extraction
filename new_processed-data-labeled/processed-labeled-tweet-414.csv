@@ -1,0 +1,13 @@
+support,support,support,313022,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+help,help,help,135801,VERB,xcomp,False,1
+fairtrade,fairtrade,antitrade,16352,NOUN,compound,False,1
+workers,worker,worker,367494,NOUN,nsubj,False,0
+and,and,and,12285,CCONJ,cc,True,0
+farmers,farmer,farmer,109971,NOUN,conj,False,0
+fight,fight,fight,112433,VERB,ccomp,False,0
+poverty,poverty,poverty,244975,NOUN,dobj,False,0
+in,in,in,149313,ADP,prep,True,0
+communities,community,community,64281,NOUN,pobj,False,0
+Learn,learn,learn,169659,VERB,ROOT,False,0
+more,more,more,193383,ADJ,advmod,True,0

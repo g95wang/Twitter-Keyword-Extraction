@@ -1,0 +1,16 @@
+Motorola,Motorola,motorboat,194040,PROPN,compound,False,0
+Droid,Droid,roid,273885,PROPN,ROOT,False,0
+OEM,OEM,poem,241157,PROPN,compound,False,0
+Window,Window,window,366001,PROPN,compound,False,1
+Mount,Mount,mount,194208,PROPN,dobj,False,0
+Only,only,only,212848,ADV,advmod,True,0
+for,for,for,116301,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+First,First,first,113286,PROPN,compound,True,0
+Generation,Generation,generation,123491,PROPN,pobj,False,1
+Motorola,Motorola,motorboat,194040,PROPN,compound,False,0
+Droid,Droid,roid,273885,PROPN,ROOT,False,0
+Product,Product,product,251582,PROPN,compound,False,0
+DescriptionThe,DescriptionThe,description,82446,PROPN,compound,False,0
+Motorola,Motorola,motorboat,194040,PROPN,compound,False,0
+DR,DR,dr,92424,PROPN,appos,False,0

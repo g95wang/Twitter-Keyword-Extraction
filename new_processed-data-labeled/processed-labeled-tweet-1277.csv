@@ -1,0 +1,13 @@
+Christopher,Christopher,christopher,56180,PROPN,compound,False,1
+Nolan,Nolan,angolan,12930,PROPN,nsubj,False,0
+reveals,reveal,reveal,271110,VERB,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+villain,villain,villain,359728,NOUN,dobj,False,1
+for,for,for,116301,ADP,prep,True,0
+The,the,the,320691,DET,det,True,0
+Dark,Dark,dark,76942,PROPN,compound,False,0
+Knight,Knight,knight,165560,PROPN,compound,False,0
+Rises,Rises,rises,273232,PROPN,pobj,False,0
+The,the,the,320691,DET,det,True,0
+Cavity,Cavity,cavity,50250,PROPN,compound,False,0
+Creeps,Creeps,creeps,72568,PROPN,appos,False,0

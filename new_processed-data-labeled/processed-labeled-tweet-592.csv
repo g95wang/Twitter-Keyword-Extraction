@@ -1,0 +1,17 @@
+Pretty,pretty,pretty,250049,ADJ,advmod,False,0
+simple,simple,simple,291047,ADJ,ROOT,False,0
+actually,actually,actually,3298,ADV,advmod,False,0
+The,the,the,320691,DET,det,True,0
+DataContext,DataContext,context,67420,PROPN,nsubj,False,1
+will,will,will,365768,VERB,aux,True,0
+tunnel,tunnel,tunnel,332471,VERB,ROOT,False,0
+down,down,down,92197,ADP,prt,True,0
+to,to,to,324862,ADP,prep,True,0
+controls,control,control,67797,NOUN,pobj,False,1
+below,below,below,31285,ADP,prep,True,0
+in,in,in,149313,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+tree,tree,tree,328769,NOUN,pobj,False,0
+The,the,the,320691,DET,det,True,0
+ListBox,ListBox,lisbon,173417,PROPN,ROOT,False,0
+WPF,WPF,pf,232676,PROPN,compound,False,0

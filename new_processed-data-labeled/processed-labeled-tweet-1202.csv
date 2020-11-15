@@ -1,0 +1,12 @@
+can,can,can,45964,VERB,aux,True,0
+i,i,i,145455,PRON,nsubj,True,0
+have,have,have,134390,AUX,ROOT,True,0
+email,email,email,97893,NOUN,dobj,False,0
+so,so,so,295959,SCONJ,mark,True,0
+i,i,i,145455,PRON,nsubj,True,0
+can,can,can,45964,VERB,aux,True,0
+invite,invite,invite,157274,VERB,advcl,False,1
+to,to,to,324862,ADP,prep,True,0
+a,a,a,0,DET,det,True,0
+sample,sample,sample,277587,NOUN,compound,False,0
+sale,sale,sale,276966,NOUN,pobj,False,1

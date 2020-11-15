@@ -1,0 +1,14 @@
+had,have,have,134390,AUX,aux,True,0
+forgotten,forget,forget,117219,VERB,ROOT,False,0
+how,how,how,144540,ADV,advmod,True,0
+much,much,much,194510,ADV,advmod,True,0
+i,i,i,145455,PRON,nsubj,True,0
+love,love,love,175534,VERB,ccomp,False,1
+coffee,coffee,coffee,62136,NOUN,compound,False,0
+cake,cake,cake,44669,NOUN,dobj,False,1
+Yup,yup,yup,159691,INTJ,ROOT,False,0
+Love,love,love,175534,VERB,ROOT,False,0
+Coffee,Coffee,coffee,62136,PROPN,compound,False,0
+Cake,Cake,cake,44669,PROPN,dobj,False,0
+Y,Y,y,145456,PROPN,compound,False,0
+Que,Que,que,258208,PROPN,ROOT,False,0

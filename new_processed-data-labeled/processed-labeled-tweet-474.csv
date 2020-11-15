@@ -1,0 +1,12 @@
+no,no,no,200529,INTJ,intj,True,0
+i,i,i,145455,PRON,nsubj,True,0
+have,have,have,134390,AUX,ROOT,True,0
+n't,not,not,208798,PART,neg,True,0
+'m,be,be,29345,AUX,aux,True,0
+gon,go,go,127161,VERB,ROOT,False,0
+na,to,to,324862,PART,aux,False,0
+write,write,write,368047,VERB,xcomp,False,0
+today,today,today,325003,NOUN,npadvmod,False,1
+so,so,so,295959,ADV,advmod,True,0
+tell,tell,tell,318356,VERB,advcl,False,1
+ideas,idea,idea,146298,NOUN,dobj,False,0

@@ -1,0 +1,11 @@
+am,be,be,29345,AUX,aux,True,1
+having,have,have,134390,VERB,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+most,most,most,193889,ADV,advmod,True,0
+awesome,awesome,awesome,25000,ADJ,amod,False,0
+inappropriate,inappropriate,inappropriate,149502,ADJ,amod,False,0
+conversation,conversation,conversation,68015,NOUN,dobj,False,0
+with,with,with,366582,ADP,prep,True,0
+right,right,right,272806,ADV,advmod,False,0
+now,now,now,209199,ADV,advmod,True,0
+guesswhatabout,guesswhatabout,whatabouts,364449,NOUN,ROOT,False,0

@@ -1,0 +1,7 @@
+m,be,be,29345,VERB,ROOT,False,0
+Bout,Bout,bout,39076,PROPN,dobj,False,0
+to,to,to,324862,PART,aux,True,0
+eat,eat,eat,94953,VERB,xcomp,False,0
+something,something,something,297061,PRON,dobj,True,0
+real,real,real,261710,ADJ,advmod,False,0
+quick,quick,quick,258487,ADV,amod,False,1

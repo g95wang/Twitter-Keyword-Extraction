@@ -1,0 +1,16 @@
+rape,rape,rape,260689,NOUN,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+unlawful,unlawful,unlawful,345476,ADJ,amod,False,1
+compelling,compelling,compelling,64492,NOUN,appos,False,0
+of,of,of,211535,ADP,prep,True,0
+a,a,a,0,DET,det,True,0
+woman,woman,woman,366955,NOUN,pobj,False,1
+through,through,through,322840,ADP,prep,True,0
+physical,physical,physical,234052,ADJ,amod,False,0
+force,force,force,116404,NOUN,pobj,False,0
+or,or,or,213904,CCONJ,cc,True,0
+duress,duress,duress,94442,ADJ,conj,False,0
+to,to,to,324862,PART,aux,True,0
+have,have,have,134390,AUX,xcomp,True,0
+sexual,sexual,sexual,286951,ADJ,amod,False,0
+intercourse,intercourse,intercourse,154767,NOUN,dobj,False,0

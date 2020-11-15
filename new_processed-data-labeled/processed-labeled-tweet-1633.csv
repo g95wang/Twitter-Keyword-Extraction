@@ -1,0 +1,16 @@
+A,a,a,0,DET,det,True,0
+Chance,chance,chance,52384,NOUN,ROOT,False,0
+To,to,to,324862,PART,aux,True,0
+Win,Win,win,365877,PROPN,acl,False,0
+A,a,a,0,DET,det,True,0
+Pocket,Pocket,pocket,240926,PROPN,compound,False,0
+Devil,Devil,devil,83545,PROPN,compound,False,0
+HD,HD,hd,134568,PROPN,compound,False,0
+Promo,Promo,promo,252297,PROPN,compound,False,1
+Code,Code,code,61687,PROPN,dobj,False,0
+With,with,with,366582,ADP,prep,True,0
+A,a,a,0,DET,det,True,0
+Retweet,Retweet,etwee,105245,PROPN,pobj,False,0
+Or,or,or,213904,CCONJ,cc,True,0
+Comment,Comment,comment,63980,PROPN,conj,False,1
+via,via,via,359224,ADP,prep,True,0

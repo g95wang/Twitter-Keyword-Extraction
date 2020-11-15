@@ -1,0 +1,13 @@
+Self,self,self,283523,NOUN,compound,False,0
+Importance,Importance,importance,148875,PROPN,nsubj,False,0
+ego,ego,ego,96237,NOUN,appos,False,0
+prevents,prevent,prevent,250153,VERB,ROOT,False,1
+a,a,a,0,DET,det,True,0
+person,person,person,231951,NOUN,dobj,False,1
+from,from,from,119298,ADP,prep,True,0
+seeing,see,see,283054,VERB,pcomp,False,0
+the,the,the,320691,DET,det,True,0
+the,the,the,320691,DET,det,True,0
+value,value,value,356837,NOUN,dobj,False,0
+in,in,in,149313,ADP,prep,True,0
+others,other,other,215836,NOUN,pobj,True,0

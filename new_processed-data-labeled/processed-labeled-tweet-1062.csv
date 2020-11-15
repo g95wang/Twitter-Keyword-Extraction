@@ -1,0 +1,9 @@
+Texas,Texas,texas,320374,PROPN,compound,False,0
+Rangers,Rangers,rangers,260562,PROPN,nsubj,False,0
+are,be,be,29345,AUX,ROOT,True,0
+in,in,in,149313,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+World,World,world,367566,PROPN,compound,False,0
+Series,Series,series,286094,PROPN,pobj,False,1
+Go,go,go,127161,VERB,ROOT,True,0
+Rangers,ranger,ranger,260561,NOUN,dobj,False,0

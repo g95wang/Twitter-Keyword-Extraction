@@ -1,0 +1,10 @@
+need,need,need,197910,VERB,ROOT,False,1
+to,to,to,324862,PART,aux,True,0
+do,do,do,90528,AUX,xcomp,True,0
+an,an,an,11448,DET,det,True,0
+episode,episode,episode,102810,NOUN,dobj,False,0
+of,of,of,211535,ADP,prep,True,0
+Cops,Cops,cops,68702,PROPN,pobj,False,0
+here,here,here,136991,ADV,advmod,True,0
+in,in,in,149313,ADP,prep,True,0
+Cleveland,Cleveland,cleveland,59868,PROPN,pobj,False,0

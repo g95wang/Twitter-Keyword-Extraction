@@ -1,0 +1,16 @@
+This,this,this,322217,DET,det,True,0
+fantasia,fantasia,fantasia,109774,PROPN,compound,False,1
+bowl,bowl,bowl,39197,NOUN,compound,False,0
+hair,hair,hair,132366,NOUN,compound,False,1
+cut,cut,cut,75735,VERB,nsubj,False,0
+that,that,that,320639,DET,nsubj,True,0
+supposed,suppose,suppose,313048,VERB,relcl,False,0
+to,to,to,324862,PART,aux,True,0
+be,be,be,29345,AUX,xcomp,True,0
+in,in,in,149313,ADP,prep,True,0
+style,style,style,304446,NOUN,pobj,False,0
+KILL,kill,kill,164577,VERB,ROOT,False,0
+IT,it,it,159424,PRON,dobj,True,0
+fail,fail,fail,109249,VERB,ROOT,False,0
+PLZ,PLZ,pl,238512,PROPN,dep,False,0
+lol,lol,lola,174784,INTJ,ROOT,False,0

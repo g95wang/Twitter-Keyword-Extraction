@@ -1,0 +1,13 @@
+Welcome,welcome,welcome,363975,VERB,ROOT,False,0
+to,to,to,324862,ADP,prep,True,0
+twitter,twitter,twitter,333475,NOUN,amod,False,1
+page,page,page,222990,NOUN,pobj,False,0
+Here,here,here,136991,ADV,advmod,True,0
+will,will,will,365768,VERB,aux,True,0
+update,update,update,354620,VERB,ROOT,False,0
+with,with,with,366582,ADP,prep,True,0
+weekly,weekly,weekly,363772,ADJ,amod,False,0
+specials,special,special,298743,NOUN,pobj,False,1
+and,and,and,12285,CCONJ,cc,True,0
+monthly,monthly,monthly,192910,ADJ,amod,False,0
+giveaways,giveaway,giveaway,125695,NOUN,conj,False,0

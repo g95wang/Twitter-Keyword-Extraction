@@ -1,0 +1,16 @@
+Course,course,course,71315,NOUN,compound,False,0
+Tasting,Tasting,tasting,316957,PROPN,compound,False,0
+Menu,Menu,menu,183561,PROPN,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+Culinary,Culinary,culinary,74723,PROPN,compound,False,1
+Institute,Institute,institute,153926,PROPN,appos,False,0
+evening,evening,evening,106097,NOUN,appos,False,0
+of,of,of,211535,ADP,prep,True,0
+Donaudy,Donaudy,donald,91372,PROPN,compound,False,1
+Songs,Songs,songs,297222,PROPN,pobj,False,0
+musical,musical,musical,195983,ADJ,amod,False,0
+options,option,option,213845,NOUN,compound,False,0
+night,night,night,199909,NOUN,appos,False,0
+in,in,in,149313,ADP,prep,True,0
+Jersey,Jersey,jersey,160973,PROPN,compound,False,0
+City,City,city,58633,PROPN,pobj,False,0

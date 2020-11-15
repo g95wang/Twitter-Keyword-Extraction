@@ -1,0 +1,12 @@
+Also,also,also,9416,ADV,advmod,True,0
+fun,fun,fun,120110,ADJ,ROOT,False,0
+setting,set,set,286614,VERB,acl,False,0
+a,a,a,0,DET,det,True,0
+landspeed,landspeed,landscaped,168013,NOUN,compound,False,0
+record,record,record,263489,NOUN,dobj,False,1
+for,for,for,116301,ADP,prep,True,0
+illness,illness,illness,147427,NOUN,npadvmod,False,0
+induced,induce,induce,151307,VERB,amod,False,0
+weight,weight,weight,363896,NOUN,compound,False,0
+loss,loss,loss,175351,NOUN,pobj,False,1
+Blech,Blech,bleach,35938,PROPN,ROOT,False,0

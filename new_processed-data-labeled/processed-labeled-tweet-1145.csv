@@ -1,0 +1,13 @@
+in,in,in,149313,ADP,prep,True,0
+advance,advance,advance,4559,NOUN,pobj,False,0
+via,via,via,359224,ADP,prep,True,0
+at,at,at,22372,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+door-,door-,door,91536,ADJ,compound,False,0
+Party,Party,party,226988,PROPN,pobj,False,1
+with,with,with,366582,ADP,prep,True,0
+Chicago,Chicago,chicago,54099,PROPN,pobj,False,0
+'s,'s,s,275971,PART,case,True,0
+elite-,elite-,elite,97609,NOUN,punct,False,0
+Network,network,network,198917,NOUN,compound,False,0
+opportunities,opportunity,opportunity,213669,NOUN,ROOT,False,0

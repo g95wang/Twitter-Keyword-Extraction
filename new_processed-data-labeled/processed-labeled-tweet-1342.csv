@@ -1,0 +1,10 @@
+Just,just,just,162503,ADV,advmod,True,0
+Try,try,try,329065,VERB,dep,False,0
+and,and,and,12285,CCONJ,cc,True,0
+Play,play,play,238701,VERB,conj,False,1
+Dominoes,domino,domino,91349,NOUN,dobj,False,0
+With,with,with,366582,ADP,prep,True,0
+Fancy,Fancy,fancy,109667,PROPN,compound,False,0
+Ebooks,ebook,rebook,262374,NOUN,pobj,False,0
+Now,now,now,209199,ADV,advmod,True,0
+Video,video,video,359514,NOUN,appos,False,0

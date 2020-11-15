@@ -1,0 +1,14 @@
+What,what,what,364447,PRON,det,True,0
+exhibitors,exhibitor,exhibitor,107156,NOUN,nsubj,False,0
+are,be,be,29345,AUX,ROOT,True,0
+currently,currently,currently,75406,ADV,advmod,False,0
+least,least,least,169698,ADJ,advmod,True,0
+satisfied,satisfied,satisfied,278798,ADJ,acomp,False,1
+with,with,with,366582,ADP,prep,True,0
+in,in,in,149313,ADP,prep,True,0
+trade,trade,trade,327240,NOUN,compound,False,1
+show,show,show,289042,NOUN,pobj,True,0
+display,display,display,89051,NOUN,acomp,False,0
+exhbiting,exhbite,exhibited,107141,VERB,pcomp,False,0
+tradeshow,tradeshow,roadshow,273498,VERB,compound,False,0
+eventprofs,eventprofs,ventrose,358268,VERB,compound,False,0

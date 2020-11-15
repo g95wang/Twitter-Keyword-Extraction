@@ -1,0 +1,15 @@
+just,just,just,162503,ADV,advmod,True,0
+sit,sit,sit,292603,VERB,ROOT,False,0
+down,down,down,92197,ADP,prt,True,0
+calmly,calmly,calmly,45382,ADV,advmod,False,0
+with,with,with,366582,ADP,prep,True,0
+tell,tell,tell,318356,VERB,conj,False,0
+every,every,every,106158,DET,det,True,0
+fucking,fucking,fucking,119745,ADJ,amod,False,0
+thing,thing,thing,321869,NOUN,dobj,False,0
+that,that,that,320639,DET,nsubj,True,0
+is,be,be,29345,AUX,aux,True,0
+annoying,annoy,annoy,13566,VERB,relcl,False,0
+See,see,see,283054,VERB,ROOT,True,0
+if,if,if,146980,SCONJ,mark,True,0
+stays,stay,stay,302393,VERB,advcl,False,1

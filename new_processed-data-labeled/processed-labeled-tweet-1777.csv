@@ -1,0 +1,14 @@
+Am,be,be,29345,AUX,ROOT,True,0
+one,one,one,212715,NOUN,nummod,True,0
+and,and,and,12285,CCONJ,cc,True,0
+only,only,only,212848,ADV,conj,True,0
+desire,desire,desire,82640,NOUN,attr,False,1
+Am,be,be,29345,AUX,ROOT,True,0
+the,the,the,320691,DET,det,True,0
+reason,reason,reason,262021,NOUN,attr,False,1
+breathe,breathe,breathe,40324,VERB,relcl,False,0
+or,or,or,213904,CCONJ,cc,True,0
+am,be,be,29345,AUX,conj,True,0
+the,the,the,320691,DET,det,True,0
+reason,reason,reason,262021,NOUN,attr,False,1
+cry,cry,cry,72853,VERB,advcl,False,0

@@ -1,0 +1,15 @@
+Let,let,let,170875,VERB,ROOT,False,0
+be,be,be,29345,AUX,auxpass,True,0
+known,know,know,165702,VERB,ccomp,False,0
+that,that,that,320639,SCONJ,mark,True,0
+hate,hate,hate,134216,VERB,ccomp,False,0
+the,the,the,320691,DET,det,True,0
+holidays,holiday,holiday,142436,NOUN,dobj,False,1
+Not,not,not,208798,PART,neg,True,0
+ready,ready,ready,261587,ADJ,ROOT,False,0
+for,for,for,116301,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+responsibilities,responsibility,responsibility,269789,NOUN,pobj,False,1
+brings,bring,bring,40851,VERB,relcl,False,0
+with,with,with,366582,ADP,prep,True,0
+work,work,work,367468,NOUN,pobj,False,0

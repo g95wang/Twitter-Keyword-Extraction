@@ -1,0 +1,13 @@
+'m,be,be,29345,AUX,ccomp,True,0
+here,here,here,136991,ADV,advmod,True,0
+are,be,be,29345,AUX,ROOT,True,0
+the,the,the,320691,DET,det,True,0
+game,game,game,121666,NOUN,attr,False,1
+But,but,but,43550,CCONJ,cc,True,0
+not,not,not,208798,PART,neg,True,0
+with,with,with,366582,ADP,ROOT,True,0
+the,the,the,320691,DET,det,True,0
+tickets,ticket,ticket,323221,NOUN,pobj,False,1
+from,from,from,119298,ADP,prep,True,0
+brother,brother,brother,41578,NOUN,pobj,False,0
+Lol,lol,lola,174784,ADV,ROOT,False,0

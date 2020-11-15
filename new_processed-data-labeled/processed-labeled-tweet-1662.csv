@@ -1,0 +1,13 @@
+'ve,have,have,134390,AUX,aux,True,0
+had,have,have,134390,VERB,ROOT,True,0
+a,a,a,0,DET,det,True,0
+few,few,few,111900,ADJ,amod,True,0
+requests,request,request,268851,NOUN,dobj,False,0
+that,that,that,320639,DET,mark,True,0
+re,re,re,261391,VERB,dep,True,0
+enable,enable,enable,98986,ADJ,amod,False,0
+comments,comment,comment,63980,NOUN,relcl,False,1
+on,on,on,212644,ADP,prep,True,0
+poetry,poetry,poetry,241225,NOUN,pobj,False,0
+on,on,on,212644,ADP,prep,True,0
+site,site,site,292615,NOUN,pobj,False,0

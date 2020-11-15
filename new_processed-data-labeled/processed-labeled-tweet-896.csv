@@ -1,0 +1,13 @@
+xinnovate,xinnovate,innovate,153083,PROPN,nsubj,False,0
+pays,pay,pay,223065,VERB,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+cost,cost,cost,70153,NOUN,dobj,False,1
+of,of,of,211535,ADP,prep,True,0
+developer,developer,developer,83488,NOUN,compound,False,0
+breakfast,breakfast,breakfast,40248,NOUN,pobj,False,0
+back,back,back,25705,ADV,advmod,True,0
+to,to,to,324862,PART,aux,True,0
+feed,feed,feed,110855,VERB,advcl,False,1
+children,child,child,54285,NOUN,dobj,False,0
+through,through,through,322840,ADP,prep,True,0
+WeFeedback,WeFeedback,feedback,110857,PROPN,pobj,False,0

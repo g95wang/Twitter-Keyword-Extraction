@@ -1,0 +1,13 @@
+Do,do,do,90528,AUX,aux,True,0
+n't,not,not,208798,PART,neg,True,0
+move,move,move,194383,VERB,advcl,True,1
+on,on,on,212644,ADP,prt,True,0
+from,from,from,119298,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+Gospel,Gospel,gospel,128197,PROPN,pobj,False,1
+move,move,move,194383,VERB,ROOT,True,1
+into,into,into,156343,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+Gospel,Gospel,gospel,128197,PROPN,pobj,False,1
+Todd,Todd,todd,325007,PROPN,compound,False,0
+Friel,Friel,frizel,119192,PROPN,ROOT,False,0

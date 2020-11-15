@@ -1,0 +1,10 @@
+LMMFFO,lmmffo,lemmon,170328,NOUN,compound,False,0
+youreaninnovator,youreaninnovator,innovator,153094,NOUN,compound,False,0
+RT,RT,rt,275072,PROPN,ROOT,False,0
+how,how,how,144540,ADV,advmod,True,0
+to,to,to,324862,PART,aux,True,0
+keep,keep,keep,163579,VERB,relcl,True,0
+a,a,a,0,DET,det,True,0
+dummy,dummy,dummy,94073,ADJ,dobj,False,0
+busy,busy,busy,43464,ADJ,oprd,False,1
+RTthis,rtthis,orthis,214947,NOUN,ROOT,False,0

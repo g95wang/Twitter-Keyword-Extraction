@@ -1,0 +1,16 @@
+people,people,people,230162,NOUN,nsubj,False,0
+are,be,be,29345,AUX,aux,True,0
+really,really,really,261766,ADV,advmod,True,0
+scalping,scalp,scalp,279474,VERB,ccomp,False,0
+wiz,wiz,wiz,366770,PROPN,compound,False,0
+khalifa,khalifa,khalifa,164225,ADJ,compound,False,1
+tickets,ticket,ticket,323221,NOUN,dobj,False,1
+for,for,for,116301,ADP,prep,True,0
+more,more,more,193383,ADJ,amod,True,0
+than,than,than,320565,SCONJ,quantmod,True,0
+in,in,in,149313,ADP,prep,True,0
+AZ,AZ,az,25217,PROPN,pobj,False,0
+shit,shit,shit,288544,NOUN,nsubj,False,0
+is,be,be,29345,AUX,aux,True,0
+fucking,fuck,fuck,119742,VERB,ROOT,False,0
+ludicrous,ludicrous,ludicrous,175914,ADJ,advmod,False,0

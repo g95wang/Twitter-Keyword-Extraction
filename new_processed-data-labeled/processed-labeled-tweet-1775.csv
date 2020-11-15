@@ -1,0 +1,16 @@
+Dealers,dealer,dealer,77546,NOUN,dep,False,1
+Before,before,before,30510,ADP,mark,True,0
+get,get,get,124419,VERB,auxpass,True,0
+sold,sell,sell,283572,VERB,advcl,False,1
+an,an,an,11448,DET,det,True,0
+application,application,application,17811,NOUN,dobj,False,0
+for,for,for,116301,ADP,prep,True,0
+that,that,that,320639,DET,pobj,True,0
+check,check,check,53311,VERB,ROOT,False,0
+out,out,out,216108,ADP,prt,True,0
+what,what,what,364447,PRON,dobj,True,0
+smartphone,smartphone,marathoner,179817,NOUN,nsubj,False,0
+users,user,user,355977,NOUN,nsubj,False,0
+actually,actually,actually,3298,ADV,advmod,False,0
+do,do,do,90528,AUX,ccomp,True,0
+via,via,via,359224,ADP,parataxis,True,0

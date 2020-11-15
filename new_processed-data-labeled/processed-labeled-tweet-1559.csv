@@ -1,0 +1,12 @@
+was,be,be,29345,AUX,ROOT,True,0
+on,on,on,212644,ADP,prep,True,0
+football,football,football,116135,NOUN,compound,False,0
+wives,wife,wife,365591,NOUN,pobj,False,0
+of,of,of,211535,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+players,player,player,238740,NOUN,pobj,False,1
+and,and,and,12285,CCONJ,cc,True,0
+wife,wife,wife,365591,NOUN,nsubj,False,0
+own,own,own,222072,VERB,ROOT,True,0
+smash,smash,smash,294750,NOUN,compound,False,0
+burger,burger,burger,43061,NOUN,dobj,False,1

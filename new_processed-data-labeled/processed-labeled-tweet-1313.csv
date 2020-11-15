@@ -1,0 +1,6 @@
+Online,online,online,212850,ADJ,compound,False,0
+CAT,CAT,cat,49166,PROPN,nsubj,False,0
+evokes,evoke,evoke,106302,VERB,ROOT,False,0
+fear,fear,fear,110591,NOUN,dobj,False,0
+of,of,of,211535,ADP,prep,True,0
+mouse,mouse,mouse,194274,NOUN,pobj,False,1

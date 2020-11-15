@@ -1,0 +1,12 @@
+Wats,wats,wats,363271,VERB,advcl,False,0
+that,that,that,320639,SCONJ,det,True,0
+RT,RT,rt,275072,PROPN,dobj,False,0
+Jasmin,Jasmin,jasmin,160524,PROPN,npadvmod,False,1
+are,be,be,29345,AUX,aux,True,0
+gon,go,go,127161,VERB,ROOT,False,0
+na,to,to,324862,PART,aux,False,0
+be,be,be,29345,AUX,xcomp,True,1
+at,at,at,22372,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+SEMA,SEMA,sesma,286527,PROPN,compound,False,0
+Show,Show,show,289042,PROPN,pobj,True,0

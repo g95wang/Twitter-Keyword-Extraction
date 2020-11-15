@@ -1,0 +1,17 @@
+cholera,cholera,cholera,55449,NOUN,compound,False,0
+haiti,haiti,haiti,132480,NOUN,ROOT,False,1
+And,and,and,12285,CCONJ,cc,True,0
+how,how,how,144540,ADV,advmod,True,0
+many,many,many,179225,ADJ,amod,True,0
+lives,life,life,171890,NOUN,nsubjpass,False,0
+and,and,and,12285,CCONJ,cc,True,0
+family,family,family,109591,NOUN,compound,False,0
+providers,provider,provider,254067,NOUN,conj,False,0
+would,would,would,367745,VERB,aux,True,0
+have,have,have,134390,AUX,aux,True,0
+been,be,be,29345,AUX,auxpass,True,0
+saved,save,save,279065,VERB,ROOT,False,0
+with,with,with,366582,ADP,prep,True,0
+faster,fast,fast,110179,ADJ,amod,False,1
+warning,warning,warning,362720,NOUN,pobj,False,0
+response,response,response,269785,NOUN,conj,False,0

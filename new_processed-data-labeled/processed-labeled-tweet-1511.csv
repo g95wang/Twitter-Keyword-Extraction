@@ -1,0 +1,13 @@
+This,this,this,322217,DET,det,True,0
+little,little,little,173876,ADJ,amod,False,0
+girl,girl,girl,125519,NOUN,nsubj,False,0
+got,get,get,124419,VERB,ROOT,False,0
+some,some,some,297029,DET,det,True,0
+unnecessary,unnecessary,unnecessary,346814,ADJ,amod,False,0
+tattoos,tattoo,tattoo,317034,NOUN,dobj,False,0
+but,but,but,43550,CCONJ,cc,True,0
+the,the,the,320691,DET,det,True,0
+art,art,art,20445,NOUN,compound,False,1
+work,work,work,367468,NOUN,nsubj,False,0
+is,be,be,29345,AUX,conj,True,0
+superb,superb,superb,311423,PROPN,acomp,False,1

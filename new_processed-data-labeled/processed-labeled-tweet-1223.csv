@@ -1,0 +1,12 @@
+Does,do,do,90528,AUX,aux,True,0
+anyone,anyone,anyone,13244,PRON,nsubj,True,0
+have,have,have,134390,AUX,ROOT,True,0
+a,a,a,0,DET,det,True,0
+directbuy,directbuy,directly,86780,ADJ,compound,False,1
+membership,membership,membership,183113,NOUN,dobj,False,1
+Is,be,be,29345,AUX,ROOT,True,0
+really,really,really,261766,ADV,advmod,True,0
+worth,worth,worth,367704,ADJ,acomp,False,0
+homerenovation,homerenovation,renovation,267741,NOUN,compound,False,0
+renovation,renovation,renovation,267741,VERB,ROOT,False,0
+yyc,yyc,cyc,56970,PROPN,ROOT,False,0

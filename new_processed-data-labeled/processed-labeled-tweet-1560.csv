@@ -1,0 +1,12 @@
+Looking,look,look,175060,VERB,ROOT,False,0
+a,a,a,0,DET,det,True,0
+new,new,new,199367,ADJ,amod,False,1
+ride,ride,ride,272642,NOUN,dobj,False,0
+Purrsuit,Purrsuit,pursuit,257138,PROPN,compound,False,0
+Team,Team,team,317482,PROPN,ROOT,False,0
+maybe,maybe,maybe,177755,ADV,advmod,False,0
+AAA,AAA,aaa,2,PROPN,compound,False,0
+Auto,Auto,auto,23853,PROPN,compound,False,1
+Sales,Sales,sales,276984,PROPN,nsubj,False,0
+makes,make,make,178090,VERB,ROOT,False,0
+easy,easy,easy,94901,ADJ,ccomp,False,0

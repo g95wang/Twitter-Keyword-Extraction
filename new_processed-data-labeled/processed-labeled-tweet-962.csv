@@ -1,0 +1,8 @@
+Do,do,do,90528,AUX,aux,True,0
+n't,not,not,208798,PART,neg,True,0
+call,call,call,45246,VERB,ROOT,True,0
+a,a,a,0,DET,det,True,0
+comeback,comeback,comeback,63723,NOUN,oprd,False,0
+for,for,for,116301,ADP,prep,True,0
+good,good,good,127869,ADJ,amod,False,0
+game,game,game,121666,NOUN,pobj,False,1

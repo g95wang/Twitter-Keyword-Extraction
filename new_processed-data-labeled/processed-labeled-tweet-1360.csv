@@ -1,0 +1,17 @@
+Clinton,Clinton,clinton,60105,PROPN,nsubj,False,0
+is,be,be,29345,AUX,ROOT,True,0
+the,the,the,320691,DET,det,True,0
+reason,reason,reason,262021,NOUN,attr,False,1
+for,for,for,116301,ADP,prep,True,0
+financial,financial,financial,112862,ADJ,amod,False,0
+mess,mess,mess,184459,NOUN,pobj,False,0
+All,all,all,8522,DET,predet,True,0
+this,this,this,322217,DET,det,True,0
+Bad,Bad,bad,26158,PROPN,compound,False,0
+Credit,Credit,credit,72496,PROPN,compound,False,1
+OK,ok,ok,211942,INTJ,nsubj,False,0
+started,start,start,302958,VERB,ROOT,False,0
+when,when,when,364637,ADV,advmod,True,0
+was,be,be,29345,AUX,advcl,True,0
+in,in,in,149313,ADP,prep,True,0
+office,office,office,211603,NOUN,pobj,False,0

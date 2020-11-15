@@ -1,0 +1,17 @@
+Next,next,next,199504,ADJ,amod,True,0
+week,week,week,363764,NOUN,npadvmod,False,0
+morning,morning,morning,193499,NOUN,appos,False,0
+Zumba,Zumba,dumba,94030,PROPN,nsubj,False,1
+classes,class,class,59378,NOUN,ROOT,False,1
+with,with,with,366582,ADP,prep,True,0
+if,if,if,146980,SCONJ,mark,True,0
+'re,be,be,29345,AUX,advcl,True,0
+interested,interested,interested,154893,ADJ,acomp,False,0
+Monday,Monday,monday,191810,PROPN,compound,False,0
+Nov,Nov,nov,209078,PROPN,compound,False,0
+st,st,st,302135,PROPN,ROOT,False,0
+at,at,at,22372,ADP,prep,True,0
+am,am,am,9714,NOUN,pobj,True,0
+and,and,and,12285,CCONJ,cc,True,0
+Wednesday,Wednesday,wednesday,363732,PROPN,conj,False,0
+at,at,at,22372,ADP,prep,True,0

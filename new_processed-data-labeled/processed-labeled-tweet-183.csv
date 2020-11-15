@@ -1,0 +1,12 @@
+Kanye,Kanye,kane,163045,PROPN,compound,False,1
+West,West,west,364234,PROPN,poss,False,0
+'s,'s,s,275971,PART,case,True,0
+Runaway,Runaway,runaway,275619,PROPN,nmod,False,0
+Movie,Movie,movie,194399,PROPN,nsubj,False,1
+is,be,be,29345,AUX,ROOT,True,0
+on,on,on,212644,ADP,prep,True,0
+VH1,VH1,jhvh,161144,PROPN,pobj,False,0
+right,right,right,272806,ADV,advmod,False,0
+Now,now,now,209199,ADV,advmod,True,0
+good,good,good,127869,NOUN,acomp,False,0
+FACT,fact,fact,109031,NOUN,ROOT,False,0

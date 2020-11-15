@@ -1,0 +1,10 @@
+Anyone,anyone,anyone,13244,PRON,nsubj,True,0
+forced,force,force,116404,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+use,use,use,355958,VERB,xcomp,False,0
+MSFT,MSFT,misfit,189308,PROPN,compound,False,0
+Exchange,Exchange,exchange,106647,PROPN,dobj,False,1
+should,should,should,288990,VERB,aux,True,0
+get,get,get,124419,AUX,ROOT,True,0
+hazard,hazard,hazard,134518,NOUN,compound,False,0
+pay,pay,pay,223065,NOUN,dobj,False,0

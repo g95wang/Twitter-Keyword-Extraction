@@ -1,0 +1,13 @@
+can,can,can,45964,VERB,aux,True,0
+handle,handle,handle,133207,VERB,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+quirk,quirk,quirk,258983,PROPN,dobj,False,0
+launch,launch,launch,169150,NOUN,ROOT,False,0
+of,of,of,211535,ADP,prep,True,0
+Native,Native,native,197283,PROPN,compound,False,1
+Trees,Trees,trees,328797,PROPN,pobj,False,1
+of,of,of,211535,ADP,prep,True,0
+Canada,Canada,canada,45976,PROPN,pobj,False,0
+by,by,by,33133,ADP,prep,True,0
+Leanne,Leanne,leanness,169635,PROPN,compound,False,0
+Shapton,Shapton,hapiton,133457,PROPN,pobj,False,0

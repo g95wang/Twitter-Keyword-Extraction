@@ -1,0 +1,11 @@
+i,i,i,145455,PRON,nsubj,True,0
+spend,spend,spend,299147,VERB,ROOT,False,1
+more,more,more,193383,ADJ,amod,True,0
+time,time,time,323746,NOUN,dobj,False,0
+at,at,at,22372,ADP,prep,True,0
+this,this,this,322217,DET,det,True,0
+table,table,table,314826,NOUN,pobj,False,0
+than,than,than,320565,SCONJ,prep,True,0
+in,in,in,149313,ADP,prep,True,0
+own,own,own,222072,ADJ,amod,True,1
+apartment,apartment,apartment,16666,NOUN,pobj,False,0

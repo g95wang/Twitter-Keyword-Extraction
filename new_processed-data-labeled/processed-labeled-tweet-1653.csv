@@ -1,0 +1,10 @@
+TIME,TIME,time,323746,PROPN,compound,False,0
+WARNER,WARNER,warner,362718,PROPN,nsubj,False,0
+CABLE,CABLE,cable,43958,PROPN,ROOT,False,0
+WHAT,what,what,364447,PRON,ROOT,True,0
+THE,the,the,320691,DET,det,True,1
+FUCK,FUCK,fuck,119742,PROPN,nsubj,False,0
+IS,be,be,29345,VERB,ROOT,True,0
+THE,the,the,320691,DET,det,True,1
+FUCKIN,FUCKIN,fucking,119745,PROPN,compound,False,0
+PROBLEM,problem,problem,251071,NOUN,attr,False,0

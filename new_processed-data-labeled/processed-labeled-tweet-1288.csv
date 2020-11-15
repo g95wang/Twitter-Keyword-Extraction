@@ -1,0 +1,12 @@
+Iyaz,Iyaz,iyar,147124,PROPN,nsubj,False,1
+is,be,be,29345,AUX,ROOT,True,0
+an,an,an,11448,DET,det,True,0
+ugly,ugly,ugly,333654,ADJ,amod,False,1
+mofuhka,mofuhka,moha,191250,NOUN,attr,False,0
+Lol,Lol,lola,174784,PROPN,compound,False,0
+iv,iv,iv,159717,INTJ,nsubj,False,0
+seen,see,see,283054,VERB,ROOT,False,0
+super,super,super,311253,ADV,ccomp,False,0
+up,up,up,354457,ADV,advmod,True,0
+close,close,close,60433,ADV,advmod,False,0
+randomthought,randomthought,methought,185306,NOUN,ROOT,False,0

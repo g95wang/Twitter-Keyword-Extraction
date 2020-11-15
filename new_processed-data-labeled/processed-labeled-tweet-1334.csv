@@ -1,0 +1,16 @@
+The,the,the,320691,DET,det,True,0
+link,link,link,172930,NOUN,ROOT,False,0
+again,again,again,5827,ADV,advmod,True,0
+because,because,because,29780,SCONJ,mark,True,0
+asked,ask,ask,21294,VERB,advcl,False,0
+Free,Free,free,118571,PROPN,compound,False,0
+Prequel,Prequel,prequel,249012,PROPN,nsubj,False,1
+to,to,to,324862,ADP,prep,True,0
+EDGE,EDGE,edge,95701,PROPN,pobj,False,0
+OF,of,of,211535,ADP,prep,True,0
+SIGHT,SIGHT,sight,289996,PROPN,pobj,False,0
+is,be,be,29345,AUX,ccomp,True,0
+up,up,up,354457,ADV,advmod,True,0
+at,at,at,22372,ADP,prep,True,1
+Enjoy,Enjoy,enjoy,100598,PROPN,pobj,False,0
+rstclaire,rstclaire,claire,59088,VERB,ROOT,False,0

@@ -1,0 +1,17 @@
+missed,miss,miss,189987,VERB,ROOT,False,1
+in,in,in,149313,ADP,prep,True,0
+Milwaukee,Milwaukee,milwaukee,187550,PROPN,pobj,False,1
+Enjoy,enjoy,enjoy,100598,VERB,ROOT,False,0
+RT,RT,rt,275072,PROPN,ROOT,False,0
+Getting,get,get,124419,VERB,ROOT,False,0
+out,out,out,216108,ADP,prt,True,0
+work,work,work,367468,NOUN,dobj,False,0
+and,and,and,12285,CCONJ,cc,True,0
+off,off,off,211539,ADV,conj,True,0
+to,to,to,324862,ADP,prep,True,0
+the,the,the,320691,DET,det,True,0
+Hot,Hot,hot,144238,PROPN,compound,False,0
+Chip,Chip,chip,54683,PROPN,pobj,False,0
+LCD,LCD,lcd,169484,PROPN,compound,False,0
+Soundsystem,Soundsystem,subsystem,309210,PROPN,compound,False,0
+show,show,show,289042,NOUN,dobj,True,0

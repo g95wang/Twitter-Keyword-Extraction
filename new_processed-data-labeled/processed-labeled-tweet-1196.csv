@@ -1,0 +1,8 @@
+m,be,be,29345,VERB,ROOT,False,0
+a,going to,going,127453,NOUN,advmod,True,0
+get,get,get,124419,AUX,ROOT,True,0
+a,a,a,0,DET,det,True,0
+flip,flip,flip,114677,ADJ,amod,False,0
+phone,phone,phone,234654,NOUN,ccomp,False,1
+for,for,for,116301,ADP,prep,True,0
+real,real,real,261710,ADJ,amod,False,0

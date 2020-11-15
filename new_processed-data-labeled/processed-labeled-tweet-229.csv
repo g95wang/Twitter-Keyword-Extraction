@@ -1,0 +1,12 @@
+The,the,the,320691,DET,det,True,0
+most,most,most,193889,ADV,advmod,True,0
+impressive,impressive,impressive,149086,ADJ,amod,False,0
+quality,quality,quality,257878,NOUN,nsubj,False,0
+to,to,to,324862,PART,aux,True,0
+display,display,display,89051,VERB,relcl,False,0
+in,in,in,149313,ADP,prep,True,0
+a,a,a,0,DET,det,True,0
+meeting,meeting,meeting,182309,NOUN,pobj,False,0
+is,be,be,29345,AUX,ROOT,True,0
+curiosity,curiosity,curiosity,75322,NOUN,attr,False,1
+strengths,strength,strength,306052,NOUN,ROOT,False,1

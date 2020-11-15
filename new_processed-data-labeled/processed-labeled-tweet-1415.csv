@@ -1,0 +1,17 @@
+'ve,have,have,134390,AUX,aux,True,0
+always,always,always,9710,ADV,advmod,True,0
+had,have,have,134390,VERB,ROOT,True,0
+eye,eye,eye,96351,NOUN,dobj,False,1
+on,on,on,212644,ADP,prep,True,0
+this,this,this,322217,DET,det,True,0
+particular,particular,particular,227038,ADJ,amod,False,0
+guy,guy,guy,131001,NOUN,pobj,False,0
+i,i,i,145455,PRON,nsubj,True,0
+was,be,be,29345,AUX,ROOT,True,0
+too,too,too,325685,ADV,advmod,True,0
+shy,shy,shy,288156,ADJ,acomp,False,0
+so,so,so,295959,CCONJ,cc,True,0
+i,i,i,145455,PRON,nsubj,True,0
+decided,decide,decide,78310,VERB,conj,False,1
+to,to,to,324862,PART,aux,True,0
+write,write,write,368047,VERB,xcomp,False,0

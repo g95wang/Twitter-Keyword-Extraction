@@ -1,0 +1,9 @@
+Life,life,life,171890,NOUN,nsubj,False,0
+is,be,be,29345,AUX,ccomp,True,0
+like,like,like,172172,SCONJ,prep,False,0
+photography,photography,photography,235166,NOUN,pobj,False,0
+use,use,use,355958,VERB,ROOT,False,0
+the,the,the,320691,DET,det,True,0
+negatives,negative,negative,198018,NOUN,dobj,False,1
+to,to,to,324862,PART,aux,True,0
+develop,develop,develop,83481,VERB,xcomp,False,0

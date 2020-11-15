@@ -1,0 +1,7 @@
+Tek,Tek,teak,317470,PROPN,nsubj,False,0
+is,be,be,29345,AUX,ccomp,True,0
+back,back,back,25705,ADV,advmod,True,0
+needs,need,need,197910,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+be,be,be,29345,AUX,auxpass,True,0
+banned,ban,ban,27221,VERB,xcomp,False,1

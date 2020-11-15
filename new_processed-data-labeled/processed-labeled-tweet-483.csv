@@ -1,0 +1,12 @@
+Who,who,who,365278,PRON,nsubj,True,0
+wants,want,want,362465,VERB,ROOT,False,0
+some,some,some,297029,DET,det,True,0
+Fable,fable,fable,108880,ADJ,amod,False,1
+codes,code,code,61687,NOUN,dobj,False,1
+RT,RT,rt,275072,PROPN,ROOT,False,0
+and,and,and,12285,CCONJ,cc,True,0
+go,go,go,127161,VERB,conj,True,0
+comment,comment,comment,63980,NOUN,dobj,False,0
+for,for,for,116301,ADP,prep,True,0
+a,a,a,0,DET,det,True,0
+chance,chance,chance,52384,NOUN,pobj,False,0

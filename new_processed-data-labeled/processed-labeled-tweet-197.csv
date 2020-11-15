@@ -1,0 +1,15 @@
+Keep,keep,keep,163579,VERB,ROOT,True,0
+using,use,use,355958,VERB,xcomp,True,0
+illogical,illogical,illogical,147434,ADJ,amod,False,0
+car,car,car,47250,NOUN,dobj,False,0
+in,in,in,149313,ADP,prep,True,0
+ditch,ditch,ditch,90068,NOUN,pobj,False,1
+shows,show,show,289042,VERB,ROOT,False,0
+how,how,how,144540,ADV,advmod,True,0
+scared,scared,scared,279731,ADJ,acomp,False,0
+are,be,be,29345,AUX,ccomp,True,0
+to,to,to,324862,PART,aux,True,0
+talk,talk,talk,315639,VERB,xcomp,False,0
+about,about,about,756,ADP,prep,True,0
+Marxist,marxist,marxist,180595,ADJ,amod,False,0
+policies,policy,policy,241742,NOUN,pobj,False,1

@@ -1,0 +1,9 @@
+A,a,a,0,DET,det,True,0
+day,day,day,76257,NOUN,nsubj,False,0
+without,without,without,366665,ADP,prep,True,0
+is,be,be,29345,AUX,ROOT,True,0
+like,like,like,172172,SCONJ,prep,False,0
+a,a,a,0,DET,det,True,0
+Year,Year,year,146706,PROPN,pobj,False,0
+Without,without,without,366665,ADP,prep,True,0
+Rain,rain,rain,260071,NOUN,pobj,False,1

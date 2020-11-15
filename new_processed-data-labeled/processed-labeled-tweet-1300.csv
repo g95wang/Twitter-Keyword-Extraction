@@ -1,0 +1,14 @@
+'ve,have,have,134390,AUX,aux,True,0
+wanted,want,want,362465,VERB,ROOT,False,1
+since,since,since,291358,SCONJ,prep,True,0
+eating,eat,eat,94953,VERB,pcomp,False,0
+the,the,the,320691,DET,det,True,0
+juiciest,juicy,juicy,162193,ADJ,amod,False,1
+meat,meat,meat,181814,NOUN,dobj,False,0
+from,from,from,119298,ADP,prep,True,0
+at,at,at,22372,ADP,prep,True,0
+a,a,a,0,DET,det,True,0
+Moroccan,moroccan,moroccan,193514,ADJ,amod,False,0
+restaurant,restaurant,restaurant,269880,NOUN,pobj,False,0
+last,last,last,168771,ADJ,amod,True,0
+year,year,year,146706,NOUN,npadvmod,False,0

@@ -1,0 +1,15 @@
+SEE,see,see,283054,VERB,compound,True,0
+Agenda,Agenda,agenda,5995,PROPN,ROOT,False,0
+This,this,this,322217,DET,det,True,0
+year,year,year,146706,NOUN,npadvmod,False,0
+SEE,SEE,see,283054,PROPN,nsubj,True,0
+will,will,will,365768,VERB,aux,True,0
+feature,feature,feature,110707,VERB,ROOT,False,0
+dynamic,dynamic,dynamic,85994,ADJ,amod,False,0
+tracks,track,track,327165,NOUN,dobj,False,0
+allowing,allow,allow,9006,VERB,advcl,False,0
+the,the,the,320691,DET,det,True,1
+community,community,community,64281,NOUN,nsubj,False,0
+to,to,to,324862,PART,aux,True,0
+share,share,share,287481,VERB,ccomp,False,0
+experie,experie,experient,107716,NOUN,dobj,False,0

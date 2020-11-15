@@ -1,0 +1,9 @@
+say,say,say,276740,VERB,ROOT,True,0
+uncontrollably,uncontrollably,uncontrollably,337890,ADV,advmod,False,0
+shaking,shake,shake,287194,VERB,csubj,False,0
+is,be,be,29345,AUX,ccomp,True,0
+an,an,an,11448,DET,det,True,0
+early,early,early,94742,ADJ,amod,False,0
+signs,sign,sign,290081,NOUN,attr,False,0
+of,of,of,211535,ADP,prep,True,0
+parkinsons,parkinson,parkinson,226567,NOUN,pobj,False,1

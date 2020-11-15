@@ -1,0 +1,11 @@
+Are,be,be,29345,AUX,ROOT,True,0
+Ready,ready,ready,261587,ADJ,acomp,False,0
+to,to,to,324862,PART,aux,True,0
+Find,find,find,112884,VERB,xcomp,False,0
+out,out,out,216108,ADP,prt,True,0
+How,how,how,144540,ADV,advmod,True,0
+to,to,to,324862,PART,aux,True,0
+Tap,tap,tap,316287,VERB,xcomp,False,1
+Into,into,into,156343,ADP,prep,True,0
+True,true,true,331515,ADJ,compound,False,1
+Potential,potential,potential,244666,NOUN,pobj,False,0

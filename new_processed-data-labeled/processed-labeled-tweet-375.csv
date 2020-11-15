@@ -1,0 +1,15 @@
+Everyone,everyone,everyone,106169,PRON,nsubj,True,0
+keeps,keep,keep,163579,VERB,ccomp,False,0
+telling,tell,tell,318356,VERB,xcomp,False,1
+i,i,i,145455,PRON,nsubj,True,0
+need,need,need,197910,VERB,ccomp,False,0
+Jesus,Jesus,jesus,161034,PROPN,dobj,False,1
+i,i,i,145455,PRON,nsubj,True,0
+don,don,don,91365,VERB,appos,False,0
+know,know,know,165702,VERB,ROOT,False,0
+a,a,a,0,DET,det,True,0
+JESUS,JESUS,jesus,161034,PROPN,dobj,False,0
+who,who,who,365278,PRON,attr,True,0
+the,the,the,320691,DET,det,True,0
+fuck,fuck,fuck,119742,NOUN,nsubj,False,0
+is,be,be,29345,AUX,relcl,True,0

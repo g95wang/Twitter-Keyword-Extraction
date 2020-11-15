@@ -1,0 +1,15 @@
+Find,find,find,112884,VERB,ROOT,False,0
+great,great,great,129442,ADJ,amod,False,0
+domains,domain,domain,91238,NOUN,dobj,False,1
+for,for,for,116301,ADP,prep,True,0
+sale,sale,sale,276966,NOUN,pobj,False,1
+Come,come,come,63721,VERB,ROOT,False,0
+and,and,and,12285,CCONJ,cc,True,0
+check,check,check,53311,VERB,conj,False,0
+domains,domain,domain,91238,NOUN,dobj,False,1
+for,for,for,116301,ADP,prep,True,0
+sale,sale,sale,276966,NOUN,compound,False,1
+section,section,section,282851,NOUN,pobj,False,0
+List,list,list,173498,VERB,ROOT,False,0
+domains,domain,domain,91238,NOUN,dobj,False,1
+for,for,for,116301,ADP,prep,True,0

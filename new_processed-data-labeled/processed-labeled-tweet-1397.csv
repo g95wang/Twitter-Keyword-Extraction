@@ -1,0 +1,11 @@
+forgot,forget,forget,117219,VERB,ROOT,False,0
+just,just,just,162503,ADV,advmod,True,0
+how,how,how,144540,ADV,advmod,True,0
+good,good,good,127869,ADJ,acomp,False,1
+Molson,Molson,olson,212353,PROPN,compound,False,1
+Golden,Golden,golden,127499,PROPN,nsubj,False,0
+truly,truly,truly,331555,ADV,advmod,False,0
+is,be,be,29345,AUX,ccomp,True,0
+Thanks,thank,thank,320604,NOUN,nsubj,False,0
+TIm,TIm,tim,323674,PROPN,ROOT,False,0
+O,o,o,209854,NOUN,punct,False,0

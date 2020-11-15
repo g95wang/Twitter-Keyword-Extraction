@@ -1,0 +1,9 @@
+Who,who,who,365278,PRON,attr,True,0
+this,this,this,322217,DET,det,True,0
+prof,prof,prof,251657,NOUN,nsubj,False,0
+think,think,think,321897,VERB,ROOT,False,0
+is,be,be,29345,AUX,ccomp,True,0
+came,come,come,63721,VERB,ROOT,False,0
+to,to,to,324862,PART,aux,True,0
+get,get,get,124419,AUX,auxpass,True,0
+educated,educate,educate,95829,VERB,advcl,False,1
