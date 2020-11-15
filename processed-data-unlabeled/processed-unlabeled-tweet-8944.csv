@@ -1,0 +1,16 @@
+Jails,Jails,jails,160173,PROPN,nsubj,False
+may,may,may,177739,VERB,aux,True
+become,become,become,29882,VERB,ROOT,True
+next,next,next,199504,ADJ,amod,True
+epicenter,epicenter,epicenter,102244,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+corona,corona,corona,69428,NOUN,compound,False
+virus,virus,virus,360286,NOUN,pobj,False
+as,as,as,20837,SCONJ,mark,True
+Indian,indian,indian,150876,ADJ,amod,False
+jails,jail,jail,160146,NOUN,nsubj,False
+are,be,be,29345,AUX,advcl,True
+overcrowded,overcrowded,overcrowded,218803,ADJ,acomp,False
+Government,government,government,128391,NOUN,nsubj,False
+must,must,must,196148,VERB,aux,True
+think,think,think,321897,VERB,ROOT,False

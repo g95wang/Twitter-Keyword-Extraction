@@ -1,0 +1,8 @@
+Everyone,everyone,everyone,106169,PRON,nsubj,True
+is,be,be,29345,AUX,aux,True
+saying,say,say,276740,VERB,ROOT,False
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,ccomp,True
+child,child,child,54285,NOUN,attr,False
+Am,be,be,29345,AUX,aux,True
+expecting,expect,expect,107598,VERB,ROOT,False

@@ -1,0 +1,9 @@
+when,when,when,364637,ADV,advmod,True
+favorite,favorite,favorite,110510,ADJ,amod,False
+cousin,cousin,cousin,71384,NOUN,ROOT,False
+not,not,not,208798,PART,neg,True
+around,around,around,20104,ADV,advmod,True
+during,during,during,94458,ADP,prep,True
+a,a,a,0,DET,det,True
+family,family,family,109591,NOUN,compound,False
+trip,trip,trip,330270,NOUN,pobj,False

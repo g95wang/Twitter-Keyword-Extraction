@@ -1,0 +1,14 @@
+can,can,can,45964,VERB,aux,True
+still,still,still,304511,ADV,advmod,True
+apply,apply,apply,17795,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+apprenticeships,apprenticeship,apprenticeship,17942,NOUN,pobj,False
+despite,despite,despite,82839,SCONJ,prep,False
+office,office,office,211603,NOUN,pobj,False
+being,be,be,29345,AUX,auxpass,True
+closed,close,close,60433,VERB,acl,False
+has,have,have,134390,AUX,ROOT,True
+all,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+information,information,information,152216,NOUN,dobj,False
+ne,ne,ne,197579,PROPN,relcl,False

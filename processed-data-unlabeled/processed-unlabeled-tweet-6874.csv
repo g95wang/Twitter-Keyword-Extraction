@@ -1,0 +1,17 @@
+RT,RT,rt,275072,PROPN,ROOT,False
+if,if,if,146980,SCONJ,mark,True
+saw,see,see,283054,VERB,advcl,False
+the,the,the,320691,DET,det,True
+car,car,car,47250,NOUN,nmod,False
+and,and,and,12285,CCONJ,cc,True
+computer,computer,computer,64981,NOUN,conj,False
+love,love,love,175534,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+double,double,double,91951,ADJ,amod,False
+burger,burger,burger,43061,NOUN,nsubj,False
+with,with,with,366582,ADP,prep,True
+cheese,cheese,cheese,53473,NOUN,pobj,False
+immediately,immediately,immediately,147908,ADV,advmod,False
+popped,pop,pop,243193,VERB,conj,False
+in,in,in,149313,ADP,prep,True
+head,head,head,134575,NOUN,pobj,False

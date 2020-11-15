@@ -1,0 +1,17 @@
+Now,now,now,209199,ADV,advmod,True
+explain,explain,explain,107802,VERB,ROOT,False
+military,military,military,187187,ADJ,amod,False
+qualifications,qualification,qualification,257862,NOUN,dobj,False
+female,female,female,111131,ADJ,amod,False
+India,India,india,150872,PROPN,compound,False
+BSF,BSF,bsf,41896,PROPN,compound,False
+soldiers,soldier,soldier,296558,NOUN,nsubjpass,False
+were,be,be,29345,AUX,auxpass,True
+trapped,trap,trap,328432,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+swamp,swamp,swamp,314031,NOUN,pobj,False
+while,while,while,364797,SCONJ,prep,True
+on,on,on,212644,ADP,prep,True
+petrol,petrol,petrol,232512,NOUN,compound,False
+ac,ac,ac,1207,NOUN,pobj,False

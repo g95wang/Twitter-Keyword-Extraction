@@ -1,0 +1,12 @@
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+parallel,parallel,parallel,225724,ADJ,amod,False
+universe,universe,universe,345138,NOUN,pobj,False
+where,where,where,364654,ADV,advmod,True
+jungkook,jungkook,jingko,161289,PROPN,nsubj,False
+wears,wear,wear,363540,VERB,relcl,False
+white,white,white,365106,ADJ,acomp,False
+only,only,only,212848,ADV,advmod,True
+'s,be,be,29345,AUX,aux,True
+wearing,wear,wear,363540,VERB,ROOT,False
+these,these,these,321594,DET,dobj,True

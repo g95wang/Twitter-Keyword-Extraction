@@ -1,0 +1,16 @@
+The,the,the,320691,DET,det,True
+automobile,automobile,automobile,24223,NOUN,nmod,False
+and,and,and,12285,CCONJ,cc,True
+government,government,government,128391,NOUN,conj,False
+policies,policy,policy,241742,NOUN,nsubj,False
+emptied,empty,empty,98897,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+professional,professional,professional,251701,ADJ,amod,False
+managerial,managerial,managerial,178888,ADJ,conj,False
+and,and,and,12285,CCONJ,cc,True
+even,even,even,106079,ADV,advmod,True
+much,much,much,194510,ADJ,dobj,True
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+working,work,work,367468,VERB,compound,False
+classes,class,class,59378,NOUN,pobj,False

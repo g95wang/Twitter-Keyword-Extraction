@@ -1,0 +1,11 @@
+Heres,here,here,136991,NOUN,ROOT,False
+a,a,a,0,DET,det,True
+song,song,song,297195,NOUN,appos,False
+for,for,for,116301,ADP,prep,True
+Name,name,name,196686,NOUN,nsubj,True
+Is,be,be,29345,AUX,ROOT,True
+Not,not,not,208798,PART,neg,True
+Susan,Susan,susan,313687,PROPN,attr,False
+by,by,by,33133,ADP,prep,True
+Whitney,Whitney,whitney,365235,PROPN,compound,False
+Houston,Houston,houston,144507,PROPN,pobj,False

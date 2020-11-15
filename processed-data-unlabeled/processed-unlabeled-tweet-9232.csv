@@ -1,0 +1,13 @@
+would,would,would,367745,VERB,aux,True
+say,say,say,276740,VERB,ROOT,True
+still,still,still,304511,ADV,advmod,True
+work,work,work,367468,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+progress,progress,progress,251932,NOUN,pobj,False
+Things,thing,thing,321869,NOUN,nsubj,False
+ai,be,be,29345,VERB,aux,False
+n't,not,not,208798,PART,neg,True
+working,work,work,367468,VERB,ROOT,False
+but,but,but,43550,CCONJ,cc,True
+are,be,be,29345,AUX,conj,True
+somewhere,somewhere,somewhere,297074,ADV,advmod,True

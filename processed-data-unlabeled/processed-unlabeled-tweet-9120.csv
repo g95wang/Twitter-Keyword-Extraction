@@ -1,0 +1,16 @@
+A,a,a,0,DET,det,True
+white,white,white,365106,ADJ,amod,False
+person,person,person,231951,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+never,never,never,199350,ADV,neg,True
+say,say,say,276740,VERB,ROOT,True
+that,that,that,320639,DET,dobj,True
+because,because,because,29780,SCONJ,mark,True
+are,be,be,29345,AUX,auxpass,True
+never,never,never,199350,ADV,neg,True
+called,call,call,45246,VERB,advcl,False
+monkeys,monkey,monkey,192022,NOUN,oprd,False
+and,and,and,12285,CCONJ,cc,True
+abused,abuse,abuse,1170,VERB,conj,False
+by,by,by,33133,ADP,agent,True
+fans,fan,fan,109645,NOUN,pobj,False

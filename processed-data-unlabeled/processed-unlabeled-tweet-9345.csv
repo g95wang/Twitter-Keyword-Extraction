@@ -1,0 +1,11 @@
+Weasel,Weasel,weasel,363577,PROPN,nsubj,False
+has,have,have,134390,AUX,ROOT,True
+and,and,and,12285,CCONJ,cc,True
+nova,nova,nova,209079,PROPN,compound,False
+crawlers,crawler,crawler,72317,NOUN,dobj,False
+that,that,that,320639,DET,dobj,True
+hit,hit,hit,141950,VERB,relcl,False
+in,in,in,149313,ADP,prep,True
+Revelations,revelation,revelation,271134,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+TheSelloutPlays,theselloutplay,outplay,217080,NOUN,punct,False

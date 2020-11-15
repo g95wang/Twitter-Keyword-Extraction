@@ -1,0 +1,5 @@
+Only,only,only,212848,ADV,advmod,True
+a,a,a,0,DET,quantmod,True
+couple,couple,couple,71262,NOUN,nummod,False
+weeks,week,week,363764,NOUN,npadvmod,False
+away,away,away,24923,ADV,ROOT,False

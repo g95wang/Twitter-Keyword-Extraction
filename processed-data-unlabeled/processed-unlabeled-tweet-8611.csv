@@ -1,0 +1,10 @@
+i,i,i,145455,PRON,nsubj,True
+am,be,be,29345,AUX,aux,True
+no,no,no,200529,ADV,neg,True
+longer,long,long,174883,ADV,advmod,False
+asking,ask,ask,21294,VERB,ROOT,False
+please,please,please,239622,INTJ,intj,True
+beat,beat,beat,29590,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+shitout,shitout,shutout,289410,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True

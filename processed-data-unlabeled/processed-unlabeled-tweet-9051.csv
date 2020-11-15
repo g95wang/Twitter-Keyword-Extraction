@@ -1,0 +1,16 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+no,no,no,200529,DET,det,True
+time,time,time,323746,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,aux,True
+pretending,pretend,pretend,249869,VERB,relcl,False
+like,like,like,172172,SCONJ,mark,False
+'re,be,be,29345,AUX,ccomp,True
+ok,ok,ok,211942,ADJ,acomp,False
+The,the,the,320691,DET,det,True
+whole,whole,whole,365285,ADJ,amod,True
+world,world,world,367566,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+n't,not,not,208798,PART,neg,True
+ok,ok,ok,211942,ADJ,acomp,False

@@ -1,0 +1,13 @@
+ways,way,way,361946,NOUN,ROOT,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,relcl,True
+more,more,more,193383,ADJ,amod,True
+life,life,life,171890,NOUN,dobj,False
+out,out,out,216108,SCONJ,prep,True
+of,of,of,211535,ADP,prep,True
+an,an,an,11448,DET,det,True
+old,old,old,212002,ADJ,amod,False
+SIEM,siem,sem,283613,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True
+cybersecurity,cybersecurity,oversecurity,221018,NOUN,pobj,False
+SIEM,siem,sem,283613,NOUN,pobj,False

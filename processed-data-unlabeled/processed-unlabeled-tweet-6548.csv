@@ -1,0 +1,16 @@
+That,that,that,320639,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+an,an,an,11448,DET,det,True
+American,American,american,10298,PROPN,compound,False
+Patriot,Patriot,patriot,227902,PROPN,attr,False
+stand,stand,stand,302655,VERB,ROOT,False
+with,with,with,366582,ADP,prep,True
+All,all,all,8522,DET,det,True
+true,true,true,331515,ADJ,amod,False
+Patriots,patriot,patriot,227902,NOUN,pobj,False
+Any,any,any,13086,DET,det,True
+size,size,size,292760,NOUN,ROOT,False
+shape,shape,shape,287442,NOUN,conj,False
+color,color,color,63304,NOUN,conj,False
+or,or,or,213904,CCONJ,cc,True
+gender,gender,gender,123411,NOUN,conj,False

@@ -1,0 +1,17 @@
+i,i,i,145455,PRON,nsubj,True
+read,read,read,261551,VERB,ROOT,False
+this,this,this,322217,DET,dobj,True
+"book""the","book""the",boother,38237,PROPN,nummod,False
+agreements,agreement,agreement,6453,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+'s,be,be,29345,AUX,conj,True
+beautiful,beautiful,beautiful,29674,ADJ,amod,False
+written,write,write,368047,VERB,acomp,False
+and,and,and,12285,CCONJ,cc,True
+in,in,in,149313,ADP,prep,True
+that,that,that,320639,DET,det,True
+one,one,one,212715,NOUN,nsubj,True
+s,s,s,275971,VERB,conj,False
+this,this,this,322217,DET,det,True
+agreement,agreement,agreement,6453,NOUN,nsubj,False
+Be,be,be,29345,AUX,conj,True

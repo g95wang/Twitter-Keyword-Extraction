@@ -1,0 +1,16 @@
+tried,try,try,329065,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+kneel,kneel,kneel,165494,VERB,xcomp,False
+with,with,with,366582,ADP,prep,True
+faction,faction,faction,109040,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+protesters,protester,protester,253507,NOUN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+then,then,then,320906,ADV,advmod,True
+gassed,gas,gas,122327,VERB,conj,False
+everyone,everyone,everyone,106169,PRON,dobj,True
+minutes,minute,minute,188058,NOUN,npadvmod,False
+later,later,later,168843,ADV,advmod,False
+The,the,the,320691,DET,det,True
+gassed,gas,gas,122327,VERB,amod,False
+proteste,proteste,protested,253506,NOUN,ROOT,False

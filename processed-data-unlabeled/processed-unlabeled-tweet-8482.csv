@@ -1,0 +1,13 @@
+Females,Females,females,111134,PROPN,compound,False
+Instagram,Instagram,ingram,152546,PROPN,compound,False
+Story,Story,story,305411,PROPN,nsubj,False
+'s,'s,s,275971,PART,ROOT,True
+after,after,after,5615,ADP,mark,True
+start,start,start,302958,VERB,advcl,False
+Messin,Messin,messin,184496,PROPN,dobj,False
+with,with,with,366582,ADP,prep,True
+a,a,a,0,DET,det,True
+Baller,Baller,baller,26943,PROPN,nmod,False
+Dude,Dude,dude,93816,PROPN,pobj,False
+with,with,with,366582,ADP,prep,True
+Money,money,money,191829,NOUN,pobj,False

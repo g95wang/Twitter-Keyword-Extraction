@@ -1,0 +1,15 @@
+MISSING,missing,missing,190061,ADJ,ROOT,False
+FROM,from,from,119298,ADP,prep,True
+GURNOS,GURNOS,guanos,130731,PROPN,compound,False
+ESTATE,ESTATE,estate,104593,PROPN,pobj,False
+MERTHYR,MERTHYR,earthy,94820,NOUN,appos,False
+TYDFIL,tydfil,tydie,323346,NOUN,nsubj,False
+CF47,CF47,cf,51810,PROPN,compound,False
+AREA,AREA,area,19298,PROPN,appos,False
+WALES,wales,wales,362185,ADJ,appos,False
+since,since,since,291358,SCONJ,prep,True
+SUN,SUN,sun,311023,PROPN,pobj,False
+escaped,escape,escape,104129,VERB,ROOT,False
+from,from,from,119298,ADP,prep,True
+the,the,the,320691,DET,det,True
+gar,gar,gar,122038,NOUN,pobj,False

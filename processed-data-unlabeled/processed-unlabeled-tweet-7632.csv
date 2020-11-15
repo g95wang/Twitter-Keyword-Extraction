@@ -1,0 +1,17 @@
+BARBZ,BARBZ,barb,27693,PROPN,nsubj,False
+GAIN,GAIN,gain,121008,VERB,compound,False
+TRAIN,train,train,327443,NOUN,appos,False
+FOLLOW,follow,follow,115989,NOUN,ROOT,False
+EVERYONE,everyone,everyone,106169,NOUN,dobj,True
+WHO,who,who,365278,PRON,nsubj,True
+LIKES,LIKES,likes,172199,PROPN,relcl,False
+RETWEETS,retweets,etwees,105246,NOUN,appos,False
+OR,or,or,213904,CCONJ,det,True
+REPLIES,reply,reply,268301,VERB,ROOT,False
+TO,to,to,324862,ADP,prep,True
+THIS,THIS,this,322217,PROPN,pobj,True
+Comment,comment,comment,63980,NOUN,ROOT,False
+with,with,with,366582,ADP,prep,True
+NickiQueenOfRap,NickiQueenOfRap,nickieben,199648,PROPN,pobj,False
+amp,amp,amp,10991,PROPN,conj,False
+fol,fol,fol,115840,PROPN,npadvmod,False

@@ -1,0 +1,16 @@
+Ooooooh,Ooooooh,oooo,213063,PROPN,compound,False
+brother,brother,brother,41578,NOUN,ROOT,False
+Massive,massive,massive,180810,ADJ,amod,False
+surveillance,surveillance,surveillance,313656,NOUN,ROOT,False
+thats,that,that,320639,NOUN,ROOT,False
+what,what,what,364447,PRON,nsubjpass,True
+s,s,s,275971,VERB,auxpass,False
+been,be,be,29345,AUX,auxpass,True
+found,find,find,112884,VERB,relcl,False
+MASSIVE,MASSIVE,massive,180810,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+way,way,way,361946,NOUN,attr,False
+was,be,be,29345,AUX,auxpass,True
+sent,send,send,285228,VERB,relcl,False
+to,to,to,324862,ADP,dative,True

@@ -1,0 +1,10 @@
+wanna,wanna,wanna,362445,PROPN,nsubj,False
+sit,sit,sit,292603,VERB,ROOT,False
+at,at,at,22372,ADP,prep,True
+doms,dom,dom,91235,NOUN,amod,False
+feet,foot,foot,116131,NOUN,pobj,False
+like,like,like,172172,SCONJ,prep,False
+a,a,a,0,DET,det,True
+good,good,good,127869,ADJ,amod,False
+little,little,little,173876,ADJ,amod,False
+pup,pup,pup,256766,NOUN,pobj,False

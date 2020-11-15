@@ -1,0 +1,17 @@
+Vote,vote,vote,361409,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+as,as,as,20837,SCONJ,mark,True
+the,the,the,320691,DET,det,True
+Favorite,Favorite,favorite,110510,PROPN,compound,False
+Male,Male,male,178348,PROPN,compound,False
+OPM,OPM,om,212356,PROPN,compound,False
+Artist,Artist,artist,20750,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+MABAGAL,MABAGAL,abanga,100,PROPN,pcomp,False
+Favorite,Favorite,favorite,110510,PROPN,compound,False
+OPM,OPM,om,212356,PROPN,compound,False
+Song,Song,song,297195,PROPN,pobj,False
+REPEAT,REPEAT,repeat,268081,PROPN,compound,False
+VOTING,voting,voting,361418,NOUN,conj,False
+is,be,be,29345,AUX,advcl,True
+ALLOWED,ALLOWED,allowed,9014,PROPN,attr,False

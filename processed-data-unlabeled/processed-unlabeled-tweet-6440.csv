@@ -1,0 +1,12 @@
+London,London,london,174855,PROPN,nsubj,False
+pubs,pub,pub,255882,NOUN,ROOT,False
+serving,serve,serve,286430,VERB,amod,False
+beer,beer,beer,30363,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+thimbles,thimble,thimble,321788,NOUN,pobj,False
+London,London,london,174855,PROPN,nsubj,False
+pubs,pub,pub,255882,NOUN,ROOT,False
+serving,serve,serve,286430,VERB,amod,False
+beer,beer,beer,30363,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+thimbles,thimble,thimble,321788,NOUN,pobj,False

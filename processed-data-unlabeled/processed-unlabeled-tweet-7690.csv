@@ -1,0 +1,15 @@
+think,think,think,321897,VERB,ROOT,False
+afx,afx,af,5262,PROPN,nsubj,False
+uses,use,use,355958,VERB,ccomp,False
+modular,modular,modular,191170,ADJ,amod,False
+synths,synth,synthol,292066,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+full,full,full,119933,ADJ,amod,True
+potential,potential,potential,244666,NOUN,pobj,False
+well,well,well,364011,INTJ,intj,True
+come,come,come,63721,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+hear,hear,hear,134794,VERB,conj,False
+with,with,with,366582,ADP,prep,True
+post,post,post,243900,ADJ,dep,False
+flashcore,flashcore,ashore,21176,ADJ,pobj,False

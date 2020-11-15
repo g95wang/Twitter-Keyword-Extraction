@@ -1,0 +1,13 @@
+Have,have,have,134390,AUX,ROOT,True
+ever,ever,ever,106143,ADV,advmod,True
+been,be,be,29345,AUX,auxpass,True
+stopped,stop,stop,305323,VERB,ccomp,False
+by,by,by,33133,ADP,agent,True
+the,the,the,320691,DET,det,True
+police,police,police,241679,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+casually,casually,casually,49139,ADV,advmod,False
+grope,grope,grope,130212,VERB,ROOT,False
+Would,Would,would,367745,VERB,aux,True
+have,have,have,134390,AUX,ROOT,True
+tri,tri,tri,329064,PROPN,dobj,False

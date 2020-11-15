@@ -1,0 +1,15 @@
+Looking,look,look,175060,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+steal,steal,steal,303257,NOUN,pobj,False
+AmazonBasics,AmazonBasics,ammonobasic,10790,PROPN,compound,False
+Grey,Grey,grey,129670,PROPN,compound,False
+Herringbone,Herringbone,herringbone,137326,PROPN,compound,False
+Shower,Shower,shower,289061,PROPN,compound,False
+Curtain,Curtain,curtain,75495,PROPN,compound,False
+Inch,Inch,inch,149811,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+now,now,now,209199,ADV,advmod,True
+selling,sell,sell,283572,VERB,ROOT,False
+at,at,at,22372,ADP,prep,True
+Product,product,product,251582,NOUN,pobj,False

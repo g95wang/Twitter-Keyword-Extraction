@@ -1,0 +1,16 @@
+Why,why,why,364728,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+so,so,so,295959,ADV,advmod,True
+hard,hard,hard,133614,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+boil,boil,boil,37423,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+perfect,perfect,perfect,230579,ADJ,amod,False
+egg,egg,egg,96169,NOUN,dobj,False
+How,how,how,144540,ADV,advmod,True
+long,long,long,174883,ADV,advmod,False
+do,do,do,90528,AUX,aux,True
+boil,boil,boil,37423,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+soldier,soldier,soldier,296558,NOUN,compound,False
+boiledegg,boiledegg,boiled,37428,ADJ,ROOT,False

@@ -1,0 +1,8 @@
+when,when,when,364637,ADV,advmod,True
+are,be,be,29345,AUX,aux,True
+doing,do,do,90528,VERB,ROOT,True
+Will,Will,will,365768,PROPN,compound,True
+Smith,Smith,smith,294935,PROPN,dobj,False
+vs,vs,vs,361509,ADP,prep,False
+Jamie,Jamie,jamie,160275,PROPN,compound,False
+Foxx,Foxx,fox,118070,PROPN,pobj,False

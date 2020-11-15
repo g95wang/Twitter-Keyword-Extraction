@@ -1,0 +1,17 @@
+Good,good,good,127869,ADJ,amod,False
+afternoon,afternoon,afternoon,5723,NOUN,ROOT,False
+m,be,be,29345,VERB,dep,False
+going,go,go,127161,VERB,ROOT,False
+live,live,live,173931,ADV,advmod,False
+on,on,on,212644,ADP,prep,True
+NOW,now,now,209199,ADV,pobj,True
+Catch,catch,catch,49435,VERB,ROOT,False
+exclusive,exclusive,exclusive,106767,ADJ,amod,False
+show,show,show,289042,NOUN,dobj,True
+Or,or,or,213904,CCONJ,cc,True
+can,can,can,45964,VERB,aux,True
+see,see,see,283054,VERB,ROOT,True
+more,more,more,193383,ADJ,dobj,True
+of,of,of,211535,ADP,prep,True
+on,on,on,212644,ADP,prep,True
+http,http,hatt,134258,NOUN,pobj,False

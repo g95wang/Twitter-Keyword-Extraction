@@ -1,0 +1,15 @@
+am,be,be,29345,AUX,intj,True
+i,i,i,145455,PRON,nsubj,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+have,have,have,134390,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+energy,energy,energy,100134,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+fight,fight,fight,112433,VERB,relcl,False
+a,a,a,0,DET,det,True
+moth,moth,moth,193927,NOUN,dobj,False
+trying,try,try,329065,VERB,acl,False
+to,to,to,324862,PART,aux,True
+attack,attack,attack,22933,VERB,xcomp,False
+wtf,wtf,wf,364331,NOUN,dobj,False

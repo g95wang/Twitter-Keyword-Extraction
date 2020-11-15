@@ -1,0 +1,12 @@
+Palo,Palo,pablo,222547,PROPN,compound,False
+Alto,Alto,alto,9555,PROPN,compound,False
+Networks,Networks,networks,198920,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+looking,look,look,175060,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+Professional,Professional,professional,251701,PROPN,compound,False
+Services,Services,services,286458,PROPN,compound,False
+Engineer,Engineer,engineer,100341,PROPN,compound,False
+Saudi,Saudi,saudi,278916,PROPN,compound,False
+Arabia,Arabia,arabia,18305,PROPN,compound,False
+job,job,job,161424,NOUN,pobj,False

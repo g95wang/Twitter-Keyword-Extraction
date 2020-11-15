@@ -1,0 +1,17 @@
+Covid-19,covid-19,covid,71525,NOUN,compound,False
+patients,patient,patient,227804,NOUN,nsubj,False
+die,die,die,85120,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+St,St,st,302135,PROPN,compound,False
+Petersburg,Petersburg,petersburg,232390,PROPN,compound,False
+hospital,hospital,hospital,144164,NOUN,compound,False
+fire,fire,fire,113100,NOUN,pobj,False
+after,after,after,5615,ADP,prep,True
+short,short,short,288895,ADJ,amod,False
+circuit,circuit,circuit,57986,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+ventilator,ventilator,ventilator,358173,NOUN,npadvmod,False
+Russian,russian,russian,275824,ADJ,amod,False
+news,news,news,199421,NOUN,compound,False
+agencies,agency,agency,5992,NOUN,compound,False
+https,https,hts,144605,PROPN,pobj,False

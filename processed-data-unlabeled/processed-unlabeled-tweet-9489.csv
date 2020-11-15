@@ -1,0 +1,9 @@
+Put,put,put,257261,VERB,ROOT,True
+on,on,on,212644,ADP,prep,True
+North,North,north,208605,PROPN,pobj,False
+to,to,to,324862,PART,aux,True
+beat,beat,beat,29590,VERB,advcl,False
+DONT,DONT,dont,91473,PROPN,amod,False
+FUCK,FUCK,fuck,119742,PROPN,compound,False
+ME,ME,me,181664,PROPN,compound,True
+GUYS,GUYS,guys,131131,PROPN,dobj,False

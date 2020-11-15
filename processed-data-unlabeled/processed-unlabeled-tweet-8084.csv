@@ -1,0 +1,13 @@
+At,at,at,22372,ADP,prep,True
+big,big,big,33680,ADJ,amod,False
+age,age,age,5968,NOUN,pobj,False
+still,still,still,304511,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+know,know,know,165702,VERB,ROOT,False
+how,how,how,144540,ADV,advmod,True
+to,to,to,324862,PART,aux,True
+comfort,comfort,comfort,63793,VERB,xcomp,False
+someone,someone,someone,297038,PRON,dobj,True
+when,when,when,364637,ADV,advmod,True
+cry,cry,cry,72853,VERB,advcl,False

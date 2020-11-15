@@ -1,0 +1,15 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+first,first,first,113286,ADJ,amod,True
+tweet,tweet,tweet,333246,NOUN,attr,False
+could,could,could,70511,VERB,aux,True
+find,find,find,112884,VERB,relcl,False
+where,where,where,364654,ADV,advmod,True
+acknowledge,acknowledge,acknowledge,2556,VERB,ccomp,False
+the,the,the,320691,DET,det,True
+virus,virus,virus,360286,NOUN,dobj,False
+publicly,publicly,publicly,255927,ADV,advmod,False
+on,on,on,212644,ADP,prep,True
+Twitter,Twitter,twitter,333475,PROPN,pobj,False
+Over,over,over,218092,ADP,ROOT,True

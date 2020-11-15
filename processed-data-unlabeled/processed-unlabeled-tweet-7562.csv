@@ -1,0 +1,11 @@
+When,when,when,364637,ADV,advmod,True
+was,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+last,last,last,168771,ADJ,amod,True
+time,time,time,323746,NOUN,nsubj,False
+seen,see,see,283054,VERB,relcl,False
+ALL,all,all,8522,DET,det,True
+states,state,state,303029,NOUN,nsubj,False
+do,do,do,90528,AUX,ccomp,True
+ANYTHING,anything,anything,13370,NOUN,dobj,True
+together,together,together,325095,ADV,advmod,True

@@ -1,0 +1,13 @@
+Sis,Sis,sis,292457,PROPN,npadvmod,False
+are,be,be,29345,AUX,ROOT,True
+about,about,about,756,ADJ,acomp,True
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+so,so,so,295959,ADV,advmod,True
+blessed,blessed,blessed,36146,ADJ,acomp,False
+gon,go,go,127161,NOUN,dobj,False
+na,to,to,324862,PART,aux,False
+scare,scare,scare,279724,VERB,acl,False
+Trust,trust,trust,331669,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+process,process,process,251194,NOUN,dobj,False

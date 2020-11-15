@@ -1,0 +1,11 @@
+life,life,life,171890,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+temporary,temporary,temporary,318594,ADJ,acomp,False
+love,love,love,175534,VERB,conj,False
+the,the,the,320691,DET,det,True
+shit,shit,shit,288544,NOUN,dobj,False
+out,out,out,216108,SCONJ,prep,True
+of,of,of,211535,ADP,prep,True
+those,those,those,322465,DET,pobj,True
+who,who,who,365278,PRON,nsubj,True
+love,love,love,175534,VERB,relcl,False

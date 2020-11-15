@@ -1,0 +1,7 @@
+Pawn,Pawn,pawn,228260,PROPN,nsubj,False
+Gets,get,get,124419,VERB,ROOT,False
+Critical,Critical,critical,73477,PROPN,compound,False
+Hit,hit,hit,141950,VERB,dobj,False
+in,in,in,149313,ADP,prep,True
+Chess,Chess,chess,53917,PROPN,compound,False
+Match,match,match,181035,NOUN,pobj,False

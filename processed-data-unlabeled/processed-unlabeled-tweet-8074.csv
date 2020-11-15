@@ -1,0 +1,13 @@
+No,no,no,200529,ADV,neg,True
+matter,matter,matter,181309,ADV,advmod,False
+how,how,how,144540,ADV,advmod,True
+many,many,many,179225,ADJ,amod,True
+people,people,people,230162,NOUN,npadvmod,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+picture,picture,picture,236096,NOUN,pobj,False
+see,see,see,283054,VERB,ROOT,True
+TOB,TOB,tob,324925,PROPN,nsubj,False
+BTOB,BTOB,bob,37034,PROPN,ccomp,False
+SeoEunkwang,SeoEunkwang,seeking,283118,PROPN,appos,False
+LeeMi,LeeMi,lexemic,171328,PROPN,ROOT,False

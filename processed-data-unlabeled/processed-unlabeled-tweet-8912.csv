@@ -1,0 +1,17 @@
+Parliamentary,Parliamentary,parliamentary,226611,PROPN,compound,False
+committee,committee,committee,64113,NOUN,nsubjpass,False
+was,be,be,29345,AUX,auxpass,True
+constituted,constitute,constitute,67043,VERB,ccomp,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+issue,issue,issue,159379,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+PEF,PEF,pelf,229273,PROPN,pobj,False
+amp,amp,amp,10991,NOUN,conj,False
+PEMA,PEMA,pegma,229139,PROPN,nsubjpass,False
+but,but,but,43550,CCONJ,cc,True
+no,no,no,200529,DET,neg,True
+any,any,any,13086,DET,det,True
+result,result,result,270122,NOUN,conj,False
+was,be,be,29345,AUX,auxpass,True
+found,find,find,112884,VERB,ROOT,False

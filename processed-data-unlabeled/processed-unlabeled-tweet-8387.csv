@@ -1,0 +1,11 @@
+Handsome,handsome,handsome,133283,ADJ,nsubj,False
+presents,present,present,249344,NOUN,ROOT,False
+SYSTEM,system,system,292520,NOUN,compound,False
+SYSTEM,SYSTEM,system,292520,PROPN,nsubj,False
+HOMME,HOMME,homme,142960,PROPN,ROOT,False
+Capsule,Capsule,capsule,47153,PROPN,compound,False
+Collection,Collection,collection,62900,PROPN,ROOT,False
+inspired,inspire,inspire,153796,VERB,acl,False
+by,by,by,33133,ADP,agent,True
+BS&amp;Ts,BS&amp;Ts,samps,277597,PROPN,pcomp,False
+MV,MV,mv,196389,PROPN,pobj,False

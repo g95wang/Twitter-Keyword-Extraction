@@ -1,0 +1,12 @@
+what,what,what,364447,PRON,dobj,True
+i,i,i,145455,PRON,nsubj,True
+think,think,think,321897,VERB,ROOT,False
+d,d,d,75936,VERB,aux,False
+look,look,look,175060,VERB,ccomp,False
+like,like,like,172172,SCONJ,prep,False
+vs,vs,vs,361509,ADP,prep,False
+what,what,what,364447,PRON,pobj,True
+d,d,d,75936,VERB,appos,False
+actually,actually,actually,3298,ADV,advmod,False
+look,look,look,175060,VERB,pcomp,False
+like,like,like,172172,SCONJ,prep,False

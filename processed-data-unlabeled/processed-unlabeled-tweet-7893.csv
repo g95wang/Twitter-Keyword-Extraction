@@ -1,0 +1,12 @@
+A,a,a,0,DET,det,True
+woman,woman,woman,366955,NOUN,nsubj,False
+created,create,create,72418,VERB,ROOT,False
+every,every,every,106158,DET,det,True
+man,man,man,178862,NOUN,dobj,False
+alive,alive,alive,8375,ADJ,amod,False
+on,on,on,212644,ADP,prep,True
+this,this,this,322217,DET,det,True
+Earth,Earth,earth,94806,PROPN,pobj,False
+today,today,today,325003,NOUN,npadvmod,False
+The,the,the,320691,DET,det,True
+power,power,power,245001,NOUN,ROOT,False

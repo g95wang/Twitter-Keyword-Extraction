@@ -1,0 +1,16 @@
+u,u,u,333554,PRON,nsubj,False
+hate,hate,hate,134216,VERB,ROOT,False
+u,u,u,333554,PRON,nsubj,False
+know,know,know,165702,VERB,ROOT,False
+what,what,what,364447,PRON,dep,True
+hate,hate,hate,134216,VERB,ccomp,False
+u,u,u,333554,PRON,dobj,False
+too,too,too,325685,ADV,advmod,True
+u,u,u,333554,PRON,nsubj,False
+hate,hate,hate,134216,VERB,ROOT,False
+u,u,u,333554,PRON,nsubj,False
+know,know,know,165702,VERB,ROOT,False
+what,what,what,364447,PRON,dep,True
+hate,hate,hate,134216,VERB,ccomp,False
+u,u,u,333554,PRON,dobj,False
+too,too,too,325685,ADV,advmod,True

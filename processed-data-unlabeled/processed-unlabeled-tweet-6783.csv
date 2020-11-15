@@ -1,0 +1,15 @@
+call,call,call,45246,NOUN,nsubj,True
+for,for,for,116301,ADP,prep,True
+abolition,abolition,abolition,668,NOUN,pobj,False
+must,must,must,196148,VERB,aux,True
+recognize,recognize,recognize,263068,VERB,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+social,social,social,296098,ADJ,amod,False
+services,service,service,286444,NOUN,compound,False
+system,system,system,292520,NOUN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+mental,mental,mental,183495,ADJ,amod,False
+health,health,health,134768,NOUN,compound,False
+facilities,facility,facility,109003,NOUN,conj,False
+are,be,be,29345,AUX,ccomp,True
+violent,violent,violent,360025,ADJ,acomp,False

@@ -1,0 +1,7 @@
+Happy,happy,happy,133513,ADJ,amod,False
+birthday,birthday,birthday,34904,NOUN,nmod,False
+unstoppable,unstoppable,unstoppable,352096,ADJ,amod,False
+legend,legend,legend,170058,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+TFI,tfi,fi,111926,NOUN,compound,False
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,pobj,False

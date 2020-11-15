@@ -1,0 +1,16 @@
+Bergen,Bergen,berean,32005,PROPN,nsubj,False
+in,in,in,149313,ADP,prep,True
+Norway,Norway,norway,208662,PROPN,pobj,False
+has,have,have,134390,AUX,ROOT,True
+some,some,some,297029,DET,det,True
+fabulous,fabulous,fabulous,108923,ADJ,amod,False
+monuments,monument,monument,192953,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+museums,museum,museum,195947,NOUN,conj,False
+particularly,particularly,particularly,227056,ADV,advmod,False
+like,like,like,172172,VERB,prep,False
+these,these,these,321594,DET,pobj,True
+windowpanes,windowpane,windowpane,366014,NOUN,ROOT,False
+from,from,from,119298,ADP,prep,True
+both,both,both,38714,DET,det,True
+houses,house,house,144380,NOUN,pobj,False

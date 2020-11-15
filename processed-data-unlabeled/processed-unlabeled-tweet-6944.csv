@@ -1,0 +1,8 @@
+Buddy,Buddy,buddy,42155,PROPN,ROOT,False
+making,make,make,178090,VERB,acl,False
+hashtags,hashtag,hasht,134081,NOUN,nsubj,False
+wo,will,will,365768,VERB,aux,False
+nt,not,not,208798,PART,neg,False
+make,make,make,178090,VERB,ccomp,True
+come,come,come,63721,VERB,ccomp,False
+true,true,true,331515,ADJ,acomp,False

@@ -1,0 +1,15 @@
+was,be,be,29345,AUX,aux,True
+talking,talk,talk,315639,VERB,ROOT,False
+about,about,about,756,ADP,prep,True
+how,how,how,144540,ADV,advmod,True
+'s,be,be,29345,AUX,pcomp,True
+the,the,the,320691,DET,det,True
+local,local,local,174264,ADJ,amod,False
+government,government,government,128391,NOUN,poss,False
+'s,'s,s,275971,PART,case,True
+job,job,job,161424,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+keep,keep,keep,163579,VERB,acl,True
+policemen,policeman,policeman,241684,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+c,c,c,43829,NOUN,pobj,False

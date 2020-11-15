@@ -1,0 +1,10 @@
+Fortunate,Fortunate,fortunate,117720,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+who,who,who,365278,PRON,nsubj,True
+does,do,do,90528,AUX,aux,True
+not,not,not,208798,PART,neg,True
+carry,carry,carry,48501,VERB,ccomp,False
+envy,envy,envy,101808,NOUN,dobj,False
+as,as,as,20837,SCONJ,prep,True
+a,a,a,0,DET,det,True
+companion,companion,companion,64375,NOUN,pobj,False

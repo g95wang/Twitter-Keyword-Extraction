@@ -1,0 +1,15 @@
+ShoutoutOT,shoutoutot,shutout,289410,NOUN,ROOT,False
+ShoutOut,shoutout,shutout,289410,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+all,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+schizophrenic,schizophrenic,schizophrenic,280272,ADJ,amod,False
+depressed,depress,depress,81848,VERB,amod,False
+Mentalhealth,Mentalhealth,entheal,101376,PROPN,compound,False
+people,people,people,230162,NOUN,pobj,False
+who,who,who,365278,PRON,nsubj,True
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+blow,blow,blow,36594,VERB,relcl,False
+brainsout,brainsout,rainspout,260113,NOUN,dobj,False
+everyday,everyday,everyday,106161,ADV,advmod,False

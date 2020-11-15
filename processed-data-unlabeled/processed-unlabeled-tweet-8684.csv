@@ -1,0 +1,16 @@
+No,no,no,200529,INTJ,intj,True
+was,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+a,a,a,0,DET,det,True
+Question,question,question,258416,NOUN,attr,False
+was,be,be,29345,AUX,ccomp,True
+a,a,a,0,DET,det,True
+fact,fact,fact,109031,NOUN,attr,False
+CoronaVirus,CoronaVirus,coronavirus,69453,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+dirty,dirty,dirty,86852,ADJ,amod,False
+business,business,business,43481,NOUN,attr,False
+for,for,for,116301,ADP,prep,True
+too,too,too,325685,ADV,advmod,True
+many,many,many,179225,ADJ,pobj,True

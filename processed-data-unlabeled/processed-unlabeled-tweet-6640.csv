@@ -1,0 +1,15 @@
+was,be,be,29345,AUX,aux,True
+joking,joke,joke,161668,VERB,ccomp,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+know,know,know,165702,VERB,ROOT,False
+that,that,that,320639,DET,det,True
+guy,guy,guy,131001,NOUN,dobj,False
+m,be,be,29345,VERB,ROOT,False
+shocked,shock,shock,288642,VERB,acomp,False
+believed,believe,believe,31085,VERB,ROOT,False
+but,but,but,43550,CCONJ,cc,True
+that,that,that,320639,DET,nsubj,True
+s,s,s,275971,VERB,ROOT,False
+shagz,shagz,shag,287130,PROPN,amod,False
+tho,tho,tho,322272,NOUN,attr,False

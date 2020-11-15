@@ -1,0 +1,17 @@
+Exactly,exactly,exactly,106394,ADV,advmod,False
+how,how,how,144540,ADV,advmod,True
+can,can,can,45964,VERB,aux,True
+an,an,an,11448,DET,det,True
+adult,adult,adult,4500,NOUN,nsubj,False
+not,not,not,208798,PART,neg,True
+believe,believe,believe,31085,VERB,ROOT,False
+an,an,an,11448,DET,det,True
+innocent,innocent,innocent,153060,ADJ,amod,False
+child,child,child,54285,NOUN,compound,False
+people,people,people,230162,NOUN,nsubj,False
+are,be,be,29345,AUX,ccomp,True
+so,so,so,295959,ADV,advmod,True
+messed,messed,messed,184472,ADJ,acomp,False
+up,up,up,354457,ADP,prt,True
+hate,hate,hate,134216,VERB,ccomp,False
+here,here,here,136991,ADV,advmod,True

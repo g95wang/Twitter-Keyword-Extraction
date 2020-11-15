@@ -1,0 +1,10 @@
+m,be,be,29345,VERB,ROOT,False
+sleeping,sleep,sleep,293885,VERB,xcomp,False
+on,on,on,212644,ADP,prep,True
+after,after,after,5615,ADP,prep,True
+bc,bc,abc,234,PROPN,compound,False
+yikes,yikes,yikes,147148,PROPN,pobj,False
+were,be,be,29345,AUX,ROOT,True
+all,all,all,8522,DET,dep,True
+woke,wake,wake,362124,VERB,acomp,False
+ab,ab,ab,29,VERB,ROOT,False

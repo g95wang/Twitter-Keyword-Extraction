@@ -1,0 +1,15 @@
+World,World,world,367566,PROPN,compound,False
+Music,Music,music,195981,PROPN,compound,False
+Awards,Awards,awards,24968,PROPN,poss,False
+Instagram,Instagram,ingram,152546,PROPN,nsubj,False
+BTSV,BTSV,bats,29070,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+Conan,Conan,conand,65032,PROPN,compound,False
+Gray,Gray,gray,128617,PROPN,conj,False
+could,could,could,70511,VERB,aux,True
+have,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+new,new,new,199367,ADJ,amod,False
+collab,collab,collab,62801,NOUN,dobj,False
+coming,come,come,63721,VERB,acl,False
+soon,soon,soon,297339,ADV,advmod,False

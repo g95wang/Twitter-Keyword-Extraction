@@ -1,0 +1,15 @@
+SICK,SICK,sick,289609,PROPN,ROOT,False
+New,new,new,199367,ADJ,amod,False
+reports,report,report,268373,NOUN,nsubj,False
+show,show,show,289042,VERB,ROOT,True
+that,that,that,320639,SCONJ,mark,True
+Planned,Planned,planned,239027,PROPN,compound,False
+Parenthood,Parenthood,parenthood,226396,PROPN,compound,False
+affiliates,affiliate,affiliate,5368,NOUN,nsubj,False
+improperly,improperly,improperly,149161,ADV,advmod,False
+applied,apply,apply,17795,VERB,ccomp,False
+for,for,for,116301,ADP,prep,True
+and,and,and,12285,CCONJ,cc,True
+received,receive,receive,262684,VERB,conj,False
+in,in,in,149313,ADP,prep,True
+Stimulus,stimulus,stimulus,304653,NOUN,pobj,False

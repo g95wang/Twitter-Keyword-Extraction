@@ -1,0 +1,14 @@
+this,this,this,322217,DET,nsubj,True
+has,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,ROOT,True
+like,like,like,172172,SCONJ,prep,False
+the,the,the,320691,DET,det,True
+time,time,time,323746,NOUN,pobj,False
+'ve,have,have,134390,AUX,aux,True
+seen,see,see,283054,VERB,relcl,False
+this,this,this,322217,DET,det,True
+scene,scene,scene,279964,NOUN,dobj,False
+istg,istg,ist,159386,ADJ,nsubj,False
+never,never,never,199350,ADV,neg,True
+gets,get,get,124419,VERB,ROOT,False
+old,old,old,212002,ADJ,acomp,False

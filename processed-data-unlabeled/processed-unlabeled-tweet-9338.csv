@@ -1,0 +1,11 @@
+How,how,how,144540,ADV,advmod,True
+is,be,be,29345,AUX,ccomp,True
+mum,mum,mum,195455,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+dad,dad,dad,76084,PROPN,conj,False
+are,be,be,29345,AUX,ROOT,True
+fine,fine,fine,112898,ADJ,acomp,False
+Send,send,send,285228,VERB,ROOT,False
+regards,regard,regard,265530,NOUN,dobj,False
+oo,oo,boo,37989,ADP,prep,False
+will,will,will,365768,VERB,aux,True

@@ -1,0 +1,14 @@
+Enjoy,enjoy,enjoy,100598,VERB,ROOT,False
+pizza,pizza,pizza,238497,NOUN,dobj,False
+at,at,at,22372,ADP,prep,True
+home,home,home,142751,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True
+ordering,order,order,214218,VERB,pcomp,False
+from,from,from,119298,ADP,prep,True
+Delivery,Delivery,delivery,80192,PROPN,compound,False
+Lady,Lady,lady,167178,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+enjoy,enjoy,enjoy,100598,VERB,conj,False
+with,with,with,366582,ADP,prep,True
+family,family,family,109591,NOUN,pobj,False
+Gomora,Gomora,gomorrah,127649,PROPN,ROOT,False

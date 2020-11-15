@@ -1,0 +1,8 @@
+No,no,no,200529,DET,det,True
+toxic,toxic,toxic,326873,ADJ,amod,False
+relationships,relationship,relationship,266756,NOUN,ROOT,False
+no,no,no,200529,DET,det,True
+stress,stress,stress,306125,NOUN,ROOT,False
+just,just,just,162503,ADV,advmod,True
+worrying,worry,worry,367636,VERB,relcl,False
+about,about,about,756,ADP,prep,True

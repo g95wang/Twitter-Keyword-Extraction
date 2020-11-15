@@ -1,0 +1,6 @@
+A,a,a,0,DET,det,True
+hit,hit,hit,141950,NOUN,nsubj,False
+can,can,can,45964,VERB,aux,True
+come,come,come,63721,VERB,ROOT,False
+from,from,from,119298,ADP,prep,True
+anywhere,anywhere,anywhere,13382,ADV,pcomp,True

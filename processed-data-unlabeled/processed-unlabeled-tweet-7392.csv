@@ -1,0 +1,16 @@
+'s,be,be,29345,AUX,ccomp,True
+not,not,not,208798,PART,neg,True
+just,just,just,162503,ADV,advmod,True
+america,america,america,10297,PROPN,attr,False
+the,the,the,320691,DET,det,True
+police,police,police,241679,NOUN,nsubj,False
+betrays,betray,betray,32791,VERB,ROOT,False
+power,power,power,245001,NOUN,nsubj,False
+everwhere,everwhere,everywhere,106175,ADV,ccomp,False
+'s,be,be,29345,AUX,ROOT,True
+sad,sad,sad,276441,ADJ,acomp,False
+'re,be,be,29345,AUX,aux,True
+realising,realise,realise,261731,VERB,ccomp,False
+only,only,only,212848,ADV,advmod,True
+now,now,now,209199,ADV,advmod,True
+BLUEFALL,BLUEFALL,blueball,36692,PROPN,ROOT,False

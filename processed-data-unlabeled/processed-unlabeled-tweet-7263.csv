@@ -1,0 +1,13 @@
+colleges,college,college,62931,NOUN,nsubj,False
+be,be,be,29345,VERB,ROOT,True
+like,like,like,172172,SCONJ,mark,False
+are,be,be,29345,AUX,advcl,True
+against,against,against,5830,ADP,prep,True
+institutionalized,institutionalize,institutionalize,153943,VERB,amod,False
+racism,racism,racism,259428,NOUN,compound,False
+baby,baby,baby,25503,NOUN,compound,False
+u,u,u,333554,PROPN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+institutionalized,institutionalized,institutionalized,153944,ADJ,amod,False
+racism,racism,racism,259428,NOUN,attr,False

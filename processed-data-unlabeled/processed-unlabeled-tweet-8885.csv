@@ -1,0 +1,17 @@
+Guys,guy,guy,131001,NOUN,npadvmod,False
+do,do,do,90528,AUX,aux,True
+think,think,think,321897,VERB,ROOT,False
+things,thing,thing,321869,NOUN,dobj,False
+back,back,back,25705,ADV,advmod,True
+in,in,in,149313,ADP,prep,True
+hostel,hostel,hostel,144203,NOUN,pobj,False
+are,be,be,29345,AUX,aux,True
+doing,do,do,90528,VERB,ccomp,True
+just,just,just,162503,ADV,advmod,True
+fine,fine,fine,112898,ADV,advmod,False
+clothes,clothe,clothe,60488,NOUN,ROOT,False
+Handbags,Handbags,handbags,133094,PROPN,appos,False
+all,all,all,8522,DET,appos,True
+of,of,of,211535,ADP,prep,True
+things,thing,thing,321869,NOUN,pobj,False
+Damn,damn,damn,76569,INTJ,ROOT,False

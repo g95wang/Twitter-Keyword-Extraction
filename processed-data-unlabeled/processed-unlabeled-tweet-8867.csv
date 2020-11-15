@@ -1,0 +1,16 @@
+More,more,more,193383,ADV,advmod,True
+concentrated,concentrated,concentrated,65128,ADJ,amod,False
+and,and,and,12285,CCONJ,cc,True
+nuanced,nuanced,nuanced,209254,ADJ,conj,False
+response,response,response,269785,NOUN,ROOT,False
+Also,also,also,9416,ADV,advmod,True
+the,the,the,320691,DET,det,True
+media,medium,medium,182217,NOUN,nsubj,False
+have,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,aux,True
+screaming,scream,scream,281670,VERB,ROOT,False
+hysterically,hysterically,hysterically,141743,ADV,advmod,False
+about,about,about,756,ADP,prep,True
+lack,lack,lack,166940,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+tes,tes,ates,22488,PROPN,pobj,False

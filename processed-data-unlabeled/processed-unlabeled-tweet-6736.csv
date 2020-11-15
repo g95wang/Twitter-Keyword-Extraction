@@ -1,0 +1,14 @@
+Those,those,those,322465,DET,det,True
+trophies,trophy,trophy,331165,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+down,down,down,92197,ADV,advmod,True
+to,to,to,324862,ADP,prep,True
+having,have,have,134390,VERB,pcomp,False
+a,a,a,0,DET,det,True
+genuine,genuine,genuine,123778,ADJ,amod,False
+world,world,world,367566,NOUN,nmod,False
+class,class,class,59378,NOUN,compound,False
+manager,manager,manager,178884,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+backroom,backroom,blackroot,35563,NOUN,compound,False
+staff,staff,staff,302276,NOUN,conj,False

@@ -1,0 +1,16 @@
+had,have,have,134390,AUX,ROOT,True
+no,no,no,200529,DET,det,True
+idea,idea,idea,146298,NOUN,dobj,False
+how,how,how,144540,ADV,advmod,True
+organized,organized,organized,214402,ADJ,acomp,False
+the,the,the,320691,DET,det,True
+Hong,Hong,hong,143400,PROPN,compound,False
+Kong,Kong,kong,165984,PROPN,compound,False
+protests,protest,protest,253491,NOUN,nsubj,False
+were,be,be,29345,AUX,relcl,True
+'s,be,be,29345,AUX,ROOT,True
+about,about,about,756,ADV,prep,True
+time,time,time,323746,NOUN,pobj,False
+that,that,that,320639,DET,advmod,True
+follow,follow,follow,115989,VERB,relcl,False
+lead,lead,lead,169508,NOUN,dobj,False

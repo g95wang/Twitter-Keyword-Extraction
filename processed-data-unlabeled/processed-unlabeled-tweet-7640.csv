@@ -1,0 +1,14 @@
+LIVE,live,live,173931,ADV,nmod,False
+GeorgeFloyd,GeorgeFloyd,george,124030,PROPN,nmod,False
+memorial,memorial,memorial,183185,ADJ,amod,False
+service,service,service,286444,NOUN,ROOT,False
+at,at,at,22372,ADP,prep,True
+Minneapolis,Minneapolis,minneapolis,187970,PROPN,poss,False
+North,North,north,208605,PROPN,compound,False
+Central,Central,central,50917,PROPN,compound,False
+University,University,university,345147,PROPN,pobj,False
+Civil,civil,civil,58911,ADJ,amod,False
+rights,right,right,272806,NOUN,compound,False
+attorney,attorney,attorney,23122,NOUN,compound,False
+Benjamin,Benjamin,benjamin,31644,PROPN,compound,False
+Crump,Crump,crump,74202,PROPN,ROOT,False

@@ -1,0 +1,8 @@
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+agree,agree,agree,6445,VERB,ROOT,False
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ccomp,True
+not,not,not,208798,PART,neg,True
+the,the,the,320691,DET,det,True
+norm,norm,norm,208532,NOUN,attr,False

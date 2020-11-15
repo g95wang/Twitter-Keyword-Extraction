@@ -1,0 +1,13 @@
+Posting,post,post,243900,VERB,ROOT,False
+a,a,a,0,DET,det,True
+picture,picture,picture,236096,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+pet,pet,pet,232312,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+saying,say,say,276740,VERB,conj,False
+look,look,look,175060,VERB,xcomp,False
+at,at,at,22372,ADP,prep,True
+this,this,this,322217,DET,det,True
+freak,freak,freak,118525,NOUN,nmod,False
+retard,retard,retard,270306,NOUN,nmod,False
+scumbag,scumbag,scuba,282124,NOUN,pobj,False

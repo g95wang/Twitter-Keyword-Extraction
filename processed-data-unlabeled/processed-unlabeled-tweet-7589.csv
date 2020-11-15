@@ -1,0 +1,16 @@
+still,still,still,304511,ADV,advmod,True
+can,can,can,45964,VERB,aux,True
+carry,carry,carry,48501,VERB,ROOT,False
+legally,legally,legally,170028,ADV,advmod,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+US,US,us,355940,PROPN,pobj,True
+Now,now,now,209199,ADV,advmod,True
+some,some,some,297029,DET,det,True
+cities,city,city,58633,NOUN,nsubj,False
+have,have,have,134390,AUX,aux,True
+do,do,do,90528,AUX,aux,True
+have,have,have,134390,AUX,ROOT,True
+laws,law,law,169329,NOUN,dobj,False
+that,that,that,320639,DET,nsubj,True
+restrict,restrict,restrict,270026,VERB,relcl,False

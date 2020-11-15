@@ -1,0 +1,13 @@
+people,people,people,230162,NOUN,nsubj,False
+who,who,who,365278,PRON,nsubj,True
+say,say,say,276740,VERB,relcl,True
+now,now,now,209199,ADV,advmod,True
+is,be,be,29345,AUX,ccomp,True
+not,not,not,208798,PART,neg,True
+the,the,the,320691,DET,det,True
+time,time,time,323746,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+talk,talk,talk,315639,VERB,relcl,False
+politics,politic,politic,242537,NOUN,dobj,False
+are,be,be,29345,AUX,ROOT,True
+dense,dense,dense,81209,ADJ,acomp,False

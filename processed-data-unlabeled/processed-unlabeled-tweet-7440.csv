@@ -1,0 +1,14 @@
+The,the,the,320691,DET,det,True
+current,current,current,75405,ADJ,amod,False
+LAPD,lapd,lad,167143,ADJ,compound,False
+budget,budget,budget,42181,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+so,so,so,295959,SCONJ,advmod,True
+a,a,a,0,DET,det,True
+cut,cut,cut,75735,NOUN,ROOT,False
+NOPE,nope,nope,208479,NOUN,nsubj,False
+not,not,not,208798,PART,neg,True
+good,good,good,127869,ADJ,amod,False
+enough,enough,enough,100831,ADV,advmod,True
+try,try,try,329065,VERB,ROOT,False
+again,again,again,5827,ADV,advmod,True

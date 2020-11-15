@@ -1,0 +1,16 @@
+Make,make,make,178090,VERB,ROOT,True
+Day,day,day,76257,NOUN,dobj,False
+Episode,episode,episode,102810,NOUN,ROOT,False
+HAECHAN,HAECHAN,hachiman,131838,NOUN,compound,False
+NCT,NCT,unct,338260,PROPN,ROOT,False
+The,the,the,320691,DET,det,True
+nd,nd,nd,197577,PROPN,compound,False
+Album,Album,album,7508,PROPN,compound,False
+Repackage,Repackage,repackage,267951,PROPN,ROOT,False
+NCT,NCT,unct,338260,PROPN,appos,False
+Neo,Neo,neo,198291,PROPN,compound,False
+Zone,Zone,zone,369696,PROPN,ROOT,False
+The,The,the,320691,PROPN,det,True
+Final,Final,final,112840,PROPN,compound,False
+Round,Round,round,274842,PROPN,compound,False
+NC,NC,anc,12142,PROPN,ROOT,False

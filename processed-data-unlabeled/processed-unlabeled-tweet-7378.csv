@@ -1,0 +1,15 @@
+When,when,when,364637,ADV,advmod,True
+all,all,all,8522,DET,det,True
+states,state,state,303029,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+protesting,protest,protest,253491,VERB,advcl,False
+the,the,the,320691,DET,det,True
+same,same,same,277518,ADJ,amod,True
+issue,issue,issue,159379,NOUN,dobj,False
+the,the,the,320691,DET,det,True
+government,government,government,128391,NOUN,nsubj,False
+should,should,should,288990,VERB,aux,True
+realize,realize,realize,261754,VERB,ROOT,False
+are,be,be,29345,AUX,ccomp,True
+the,the,the,320691,DET,det,True
+problem,problem,problem,251071,NOUN,attr,False

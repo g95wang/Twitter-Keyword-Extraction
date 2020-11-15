@@ -1,0 +1,15 @@
+Black,black,black,35431,ADJ,amod,False
+Irish,irish,irish,158016,ADJ,amod,False
+people,people,people,230162,NOUN,nsubj,False
+can,can,can,45964,VERB,aux,True
+get,get,get,124419,AUX,ROOT,True
+deeper,deep,deep,78985,ADJ,acomp,False
+into,into,into,156343,ADP,prep,True
+the,the,the,320691,DET,det,True
+beauty,beauty,beauty,29660,NOUN,compound,False
+industry,industry,industry,151411,NOUN,pobj,False
+please,please,please,239622,INTJ,intj,True
+estheticians,esthetician,esthetician,104657,NOUN,dep,False
+waxing,wax,wax,363401,VERB,amod,False
+threading,threading,threading,322571,NOUN,dobj,False
+mani/,mani/,mani,179224,NOUN,intj,False

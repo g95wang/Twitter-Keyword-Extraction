@@ -1,0 +1,9 @@
+What,what,what,364447,PRON,dobj,True
+are,be,be,29345,AUX,aux,True
+doing,do,do,90528,VERB,ROOT,True
+with,with,with,366582,ADP,prep,True
+all,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+funding,funding,funding,120181,NOUN,pobj,False
+are,be,be,29345,AUX,aux,True
+receiving,receive,receive,262684,VERB,relcl,False

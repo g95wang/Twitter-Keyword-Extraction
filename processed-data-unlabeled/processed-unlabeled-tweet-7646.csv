@@ -1,0 +1,14 @@
+When,when,when,364637,ADV,advmod,True
+is,be,be,29345,AUX,aux,True
+somebody,somebody,somebody,297030,PRON,nsubj,False
+gon,go,go,127161,VERB,ROOT,False
+na,to,to,324862,PART,aux,False
+buy,buy,buy,42353,VERB,xcomp,False
+flowers,flower,flower,115181,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+hold,hold,hold,142390,VERB,conj,False
+the,the,the,320691,DET,det,True
+door,door,door,91536,NOUN,nsubj,False
+open,open,open,213219,ADJ,ccomp,False
+for,for,for,116301,ADP,prep,True
+ME,ME,me,181664,PROPN,pobj,True

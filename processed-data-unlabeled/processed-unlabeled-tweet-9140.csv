@@ -1,0 +1,5 @@
+All,all,all,8522,DET,nsubj,True
+of,of,of,211535,ADP,prep,True
+songs,song,song,297195,NOUN,pobj,False
+are,be,be,29345,AUX,ROOT,True
+fav,fav,favi,110486,NOUN,attr,False

@@ -1,0 +1,14 @@
+How,how,how,144540,ADV,advmod,True
+close,close,close,60433,ADV,advmod,False
+can,can,can,45964,VERB,aux,True
+get,get,get,124419,AUX,ROOT,True
+to,to,to,324862,ADP,prep,True
+Aris,Aris,abris,854,PROPN,pobj,False
+nose,nose,nose,208675,NOUN,advcl,False
+on,on,on,212644,ADP,prep,True
+WhiskerWednesday,WhiskerWednesday,wednesday,363732,PROPN,nmod,False
+Ari,Ari,abri,834,PROPN,pobj,False
+BirmanBaby,BirmanBaby,bimana,34087,PROPN,compound,False
+CatsOfTwitter,catsoftwitter,atwitter,23210,NOUN,nummod,False
+Purrfect,Purrfect,perfect,230579,PROPN,compound,False
+Nap,Nap,nap,196808,PROPN,pobj,False

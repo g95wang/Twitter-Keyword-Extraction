@@ -1,0 +1,14 @@
+The,the,the,320691,DET,det,True
+Mountain,Mountain,mountain,194211,PROPN,compound,False
+Desert,Desert,desert,82496,PROPN,compound,False
+Economic,Economic,economic,95376,PROPN,compound,False
+Partnership,Partnership,partnership,227117,PROPN,nsubj,False
+facilitated,facilitate,facilitate,108995,VERB,advcl,False
+by,by,by,33133,ADV,prep,True
+is,be,be,29345,AUX,aux,True
+hosting,host,host,144193,VERB,ROOT,False
+a,a,a,0,DET,det,True
+webinar,webinar,binary,34157,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+June,June,june,162340,PROPN,compound,False
+regardin,regardin,regarding,265540,NOUN,pobj,False

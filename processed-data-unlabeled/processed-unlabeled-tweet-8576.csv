@@ -1,0 +1,12 @@
+U,u,u,333554,PRON,nsubj,False
+treat,treat,treat,328716,VERB,ROOT,False
+a,a,a,0,DET,det,True
+female,female,female,111131,ADJ,amod,False
+good,good,good,127869,NOUN,dobj,False
+not,not,not,208798,PART,neg,True
+gone,go,go,127161,VERB,punct,False
+see,see,see,283054,INTJ,xcomp,True
+no,no,no,200529,DET,det,True
+other,other,other,215836,ADJ,amod,True
+nigga,nigga,niggra,199896,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True

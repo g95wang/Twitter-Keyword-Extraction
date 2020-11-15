@@ -1,0 +1,16 @@
+Going,go,go,127161,VERB,ROOT,False
+Back,back,back,25705,ADV,advmod,True
+To,to,to,324862,ADP,prep,True
+Work,work,work,367468,NOUN,pobj,False
+Is,be,be,29345,AUX,auxpass,True
+Filled,fill,fill,112683,VERB,ROOT,False
+With,with,with,366582,ADP,prep,True
+Bureaucratic,Bureaucratic,bureaucratic,43018,PROPN,amod,False
+Arbitrary,Arbitrary,arbitrary,18520,PROPN,nmod,False
+Micromanaging,Micromanaging,mismanaging,189611,PROPN,compound,False
+Craziness,Craziness,craziness,72347,PROPN,compound,False
+Watch,watch,watch,363049,VERB,pobj,False
+the,the,the,320691,DET,det,True
+whole,whole,whole,365285,ADJ,amod,True
+show,show,show,289042,NOUN,dobj,True
+here,here,here,136991,ADV,advmod,True

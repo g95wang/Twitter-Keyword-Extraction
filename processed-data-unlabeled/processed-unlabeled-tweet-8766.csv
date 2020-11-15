@@ -1,0 +1,12 @@
+Talented,talented,talented,315591,ADJ,ROOT,False
+brilliant,brilliant,brilliant,40800,ADJ,amod,False
+incredible,incredible,incredible,150446,ADJ,pcomp,False
+amazing,amazing,amazing,9904,ADJ,amod,False
+show,show,show,289042,VERB,conj,True
+stopping,stop,stop,305323,VERB,xcomp,False
+spectacular,spectacular,spectacular,298855,ADJ,advmod,False
+never,never,never,199350,ADV,neg,True
+the,the,the,320691,DET,det,True
+same,same,same,277518,ADJ,amod,True
+totally,totally,totally,326476,ADV,advmod,False
+unique,unique,unique,344965,ADJ,conj,False

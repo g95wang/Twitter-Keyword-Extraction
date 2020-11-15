@@ -1,0 +1,14 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+dangerous,dangerous,dangerous,76759,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+can,can,can,45964,VERB,aux,True
+be,be,be,29345,AUX,conj,True
+a,a,a,0,DET,det,True
+spreader,spreader,spreader,301224,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+virus,virus,virus,360286,NOUN,pobj,False
+if,if,if,146980,SCONJ,prep,True
+the,the,the,320691,DET,det,True
+sw,sw,sw,313918,NOUN,pobj,False

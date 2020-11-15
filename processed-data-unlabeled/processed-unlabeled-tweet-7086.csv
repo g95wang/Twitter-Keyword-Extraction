@@ -1,0 +1,17 @@
+think,think,think,321897,VERB,ROOT,False
+at,at,at,22372,ADP,prep,True
+the,the,the,320691,DET,det,True
+core,core,core,68978,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+DEVIL,DEVIL,devil,83545,PROPN,poss,False
+'S,'S,s,275971,PROPN,case,True
+GATE,GATE,gate,122716,PROPN,pobj,False
+was,be,be,29345,AUX,auxpass,True
+most,most,most,193889,ADV,advmod,True
+inspired,inspire,inspire,153796,VERB,ccomp,False
+subconsciously,subconsciously,subconsciously,307564,ADV,advmod,False
+by,by,by,33133,ADP,agent,True
+the,the,the,320691,DET,pobj,True
+and,and,and,12285,CCONJ,cc,True
+Invasion,invasion,invasion,157049,NOUN,conj,False
+of,of,of,211535,ADP,prep,True

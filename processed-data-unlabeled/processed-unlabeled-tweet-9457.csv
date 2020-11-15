@@ -1,0 +1,16 @@
+DO,do,do,90528,VERB,aux,True
+NOT,not,not,208798,ADV,neg,True
+REPOST,REPOST,repost,268423,PROPN,ROOT,False
+Child,child,child,54285,NOUN,compound,False
+AU,AU,abu,1142,PROPN,ROOT,False
+Baobao,baobao,bagobo,26336,NOUN,ROOT,False
+uhh,uhh,uh,333677,INTJ,dep,False
+WWX,WWX,waw,363392,PROPN,ROOT,False
+Hehe,hehe,hehe,135344,INTJ,nsubj,False
+come,come,come,63721,VERB,ROOT,False
+here,here,here,136991,ADV,advmod,True
+Baobao,Baobao,bagobo,26336,PROPN,compound,False
+Fairy,Fairy,fairy,109315,PROPN,nsubj,False
+come,come,come,63721,VERB,ROOT,False
+at,at,at,22372,ADP,prep,True
+b,b,b,25416,NOUN,ROOT,False

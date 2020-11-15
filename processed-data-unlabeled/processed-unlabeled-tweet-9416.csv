@@ -1,0 +1,12 @@
+COVID-19,covid-19,covid,71525,ADJ,nummod,False
+Pandemic,pandemic,pandemic,224465,ADJ,amod,False
+response,response,response,269785,NOUN,ROOT,False
+who,who,who,365278,PRON,nsubj,True
+did,do,do,90528,AUX,relcl,True
+better,well,well,364011,ADV,advmod,False
+Like,like,like,172172,INTJ,ROOT,False
+for,for,for,116301,ADP,prep,True
+Duterte,Duterte,deuterate,83359,PROPN,compound,False
+Retweet,Retweet,etwee,105245,PROPN,pobj,False
+for,for,for,116301,ADP,prep,True
+Robredo,Robredo,robed,273561,PROPN,pobj,False

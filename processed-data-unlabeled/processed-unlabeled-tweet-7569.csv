@@ -1,0 +1,6 @@
+Things,thing,thing,321869,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+starting,start,start,302958,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,xcomp,True
+hot,hot,hot,144238,ADJ,acomp,False

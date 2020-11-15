@@ -1,0 +1,12 @@
+LEE,LEE,lee,169910,PROPN,nsubj,False
+HANGYUL,HANGYUL,hangul,133366,PROPN,ROOT,False
+an,an,an,11448,DET,det,True
+entire,entire,entire,101450,ADJ,amod,False
+top,top,top,325810,ADJ,amod,True
+model,model,model,191042,NOUN,dobj,False
+The,the,the,320691,DET,det,True
+Star,Star,star,302844,PROPN,compound,False
+May,May,may,177739,VERB,compound,True
+Issue,issue,issue,159379,VERB,ROOT,False
+a,a,a,0,DET,det,True
+thread,thread,thread,322554,NOUN,appos,False

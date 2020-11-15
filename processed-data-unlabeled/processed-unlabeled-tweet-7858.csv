@@ -1,0 +1,15 @@
+Someday,Someday,someday,297033,PROPN,npadvmod,False
+someone,someone,someone,297038,PRON,nsubj,True
+will,will,will,365768,VERB,aux,True
+choose,choose,choose,55661,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+will,will,will,365768,VERB,aux,True
+keep,keep,keep,163579,VERB,conj,True
+choosing,choose,choose,55661,VERB,xcomp,False
+everyday,everyday,everyday,106161,ADV,advmod,False
+if,if,if,146980,SCONJ,mark,True
+'re,be,be,29345,AUX,advcl,True
+yet,yet,yet,146952,ADV,advmod,True
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,auxpass,True
+chosen,choose,choose,55661,VERB,xcomp,False

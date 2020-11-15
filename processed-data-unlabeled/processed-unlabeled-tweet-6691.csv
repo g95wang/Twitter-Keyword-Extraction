@@ -1,0 +1,16 @@
+Want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+a,a,a,0,DET,det,True
+Front,front,front,119330,ADJ,compound,True
+End,end,end,99559,NOUN,compound,False
+Developer,developer,developer,83488,NOUN,attr,False
+at,at,at,22372,ADP,prep,True
+Apacio,Apacio,papaio,225106,PROPN,compound,False
+Ltd,Ltd,ld,169488,PROPN,compound,False
+reactjs,reactj,react,261513,VERB,ROOT,False
+javascript,javascript,ascript,21051,NOUN,dobj,False
+sass,sass,sass,278604,NOUN,nmod,False
+html,html,heml,136324,VERB,compound,False
+graphql,graphql,graph,129061,PROPN,compound,False
+remo,remo,remop,267445,NOUN,ROOT,False

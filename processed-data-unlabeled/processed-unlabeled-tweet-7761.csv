@@ -1,0 +1,8 @@
+JUST,just,just,162503,ADV,advmod,True
+IN,in,in,149313,ADP,advmod,True
+Number,number,number,209515,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+worldwide,worldwide,worldwide,367593,ADJ,amod,False
+coronavirus,coronavirus,coronavirus,69453,NOUN,compound,False
+recoveries,recovery,recovery,263558,NOUN,pobj,False
+pass,pass,pass,227250,VERB,ROOT,False

@@ -1,0 +1,10 @@
+What,what,what,364447,DET,dep,True
+a,a,a,0,DET,det,True
+legend,legend,legend,170058,NOUN,attr,False
+that,that,that,320639,DET,mark,True
+kid,kid,kid,164450,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+throw,throw,throw,322857,VERB,xcomp,False
+back,back,back,25705,ADV,advmod,True
+in,in,in,149313,ADP,prep,True

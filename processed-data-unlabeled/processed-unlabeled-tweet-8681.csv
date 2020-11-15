@@ -1,0 +1,13 @@
+Yes,yes,yes,146918,INTJ,intj,False
+remember,remember,remember,267232,VERB,ROOT,False
+was,be,be,29345,AUX,ccomp,True
+so,so,so,295959,ADV,advmod,True
+nice,nice,nice,199579,ADJ,acomp,False
+that,that,that,320639,DET,det,True
+night,night,night,199909,NOUN,npadvmod,False
+be,be,be,29345,AUX,advcl,True
+same,same,same,277518,ADJ,acomp,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+be,be,be,29345,AUX,ROOT,True
+fake,fake,fake,109380,ADJ,acomp,False

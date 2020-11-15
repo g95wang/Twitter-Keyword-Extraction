@@ -1,0 +1,8 @@
+food,food,food,116078,NOUN,nsubjpass,False
+is,be,be,29345,AUX,auxpass,True
+overhyped,overhype,overhope,219730,VERB,ROOT,False
+ai,be,be,29345,VERB,ROOT,False
+nt,not,not,208798,PART,neg,False
+even,even,even,106079,ADV,advmod,True
+that,that,that,320639,DET,advmod,True
+good,good,good,127869,ADJ,acomp,False

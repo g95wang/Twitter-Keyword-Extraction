@@ -1,0 +1,17 @@
+m,be,be,29345,VERB,compound,False
+afk,afk,af,5262,NOUN,nsubj,False
+but,but,but,43550,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+mc,mc,mc,181651,PROPN,compound,False
+server,server,server,286434,NOUN,conj,False
+is,be,be,29345,AUX,ROOT,True
+online,online,online,212850,ADJ,acomp,False
+So,so,so,295959,ADV,advmod,True
+if,if,if,146980,SCONJ,mark,True
+anyone,anyone,anyone,13244,PRON,nsubj,True
+spontaneously,spontaneously,spontaneously,300830,ADV,advmod,False
+decides,decide,decide,78310,VERB,advcl,False
+to,to,to,324862,PART,aux,True
+play,play,play,238701,VERB,xcomp,False
+just,just,just,162503,ADV,advmod,True
+come,come,come,63721,VERB,ROOT,False

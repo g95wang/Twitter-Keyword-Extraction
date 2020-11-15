@@ -1,0 +1,15 @@
+Why,why,why,364728,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+women,woman,woman,366955,NOUN,nsubj,False
+in,in,in,149313,ADP,prep,True
+Pakistan,Pakistan,pakistan,223263,PROPN,npadvmod,False
+occupied,occupy,occupy,210748,VERB,amod,False
+Kashmir,Kashmir,kashmir,163300,PROPN,pobj,False
+POJK,POJK,pock,240924,PROPN,appos,False
+avoid,avoid,avoid,24847,VERB,ROOT,False
+going,go,go,127161,VERB,xcomp,False
+into,into,into,156343,ADP,prep,True
+bunkers,bunker,bunker,42882,NOUN,pobj,False
+during,during,during,94458,ADP,prep,True
+shelling,shell,shell,287937,VERB,pcomp,False
+Because,because,because,29780,SCONJ,ROOT,True

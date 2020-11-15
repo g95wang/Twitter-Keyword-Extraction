@@ -1,0 +1,12 @@
+BREAK,BREAK,break,40228,PROPN,ROOT,False
+THE,the,the,320691,DET,det,True
+SILENCE,silence,silence,290264,NOUN,appos,False
+DOCU,docu,doc,90576,NOUN,compound,False
+SERIES,SERIES,series,286094,PROPN,compound,False
+SCHEDULES,schedule,schedule,280061,NOUN,appos,False
+Episode,Episode,episode,102810,PROPN,pobj,False
+amp,amp,amp,10991,PROPN,conj,False
+Episode,Episode,episode,102810,PROPN,ROOT,False
+Episode,Episode,episode,102810,PROPN,ROOT,False
+Episode,Episode,episode,102810,PROPN,appos,False
+Episo,Episo,piso,238126,PROPN,appos,False

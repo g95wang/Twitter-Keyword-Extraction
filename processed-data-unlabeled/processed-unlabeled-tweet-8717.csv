@@ -1,0 +1,16 @@
+find,find,find,112884,VERB,ROOT,False
+difficult,difficult,difficult,85307,ADJ,ccomp,False
+how,how,how,144540,ADV,advmod,True
+anyone,anyone,anyone,13244,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+stick,stick,stick,304284,VERB,ccomp,False
+up,up,up,354457,ADP,prt,True
+for,for,for,116301,ADP,prep,True
+the,the,the,320691,DET,det,True
+toryShambles,toryshamble,shamble,287312,NOUN,pobj,False
+listening,listen,listen,173504,VERB,advcl,False
+to,to,to,324862,ADP,prep,True
+these,these,these,321594,DET,pobj,True
+are,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+question,question,question,258416,NOUN,attr,False

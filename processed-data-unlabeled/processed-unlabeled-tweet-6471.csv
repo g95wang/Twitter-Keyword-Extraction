@@ -1,0 +1,16 @@
+u,u,u,333554,PROPN,nsubj,False
+can,can,can,45964,VERB,aux,True
+do,do,do,90528,AUX,ROOT,True
+m,be,be,29345,VERB,ROOT,False
+so,so,so,295959,ADV,advmod,True
+proud,proud,proud,253981,ADJ,acomp,False
+of,of,of,211535,ADP,prep,True
+u,u,u,333554,PROPN,pobj,False
+u,u,u,333554,PROPN,nsubj,False
+can,can,can,45964,VERB,aux,True
+do,do,do,90528,AUX,ROOT,True
+m,be,be,29345,VERB,ROOT,False
+so,so,so,295959,ADV,advmod,True
+proud,proud,proud,253981,ADJ,acomp,False
+of,of,of,211535,ADP,prep,True
+u,u,u,333554,PROPN,pobj,False

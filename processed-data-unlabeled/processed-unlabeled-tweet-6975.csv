@@ -1,0 +1,16 @@
+m,be,be,29345,VERB,ROOT,False
+started,start,start,302958,VERB,ROOT,False
+own,own,own,222072,ADJ,amod,True
+pond,pond,pond,242960,NOUN,compound,False
+business,business,business,43481,NOUN,dobj,False
+a,a,a,0,DET,det,True
+few,few,few,111900,ADJ,amod,True
+months,month,month,192909,NOUN,npadvmod,False
+ago,ago,ago,6337,ADV,advmod,False
+DM,dm,dm,90523,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+prices,price,price,250334,NOUN,pobj,False
+m,be,be,29345,VERB,ROOT,False
+also,also,also,9416,ADV,advmod,True
+from,from,from,119298,ADP,prep,True
+Lou,Lou,lou,175412,PROPN,pobj,False

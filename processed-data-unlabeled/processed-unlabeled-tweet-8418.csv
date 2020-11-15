@@ -1,0 +1,10 @@
+chenle,chenle,chenille,53802,NOUN,nsubj,False
+be,be,be,29345,AUX,ROOT,True
+like,like,like,172172,SCONJ,prep,False
+i,i,i,145455,PRON,nsubj,True
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+know,know,know,165702,VERB,acl,False
+sm,sm,sm,294657,PROPN,dobj,False
+sm,sm,sm,294657,PROPN,nsubj,False
+KNOWS,KNOWS,knows,165734,PROPN,conj,False

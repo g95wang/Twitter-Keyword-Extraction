@@ -1,0 +1,14 @@
+Hi,hi,hi,138127,INTJ,ROOT,False
+everyone,everyone,everyone,106169,PRON,dobj,True
+are,be,be,29345,AUX,ROOT,True
+s,s,s,275971,PRON,advmod,False
+agent,agent,agent,6014,NOUN,attr,False
+and,and,and,12285,CCONJ,cc,True
+s,s,s,275971,PART,conj,False
+dropship,dropship,troopship,331122,NOUN,conj,False
+Anyone,anyone,anyone,13244,PRON,dobj,True
+interested,interested,interested,154893,ADJ,oprd,False
+to,to,to,324862,PART,aux,True
+purchase,purchase,purchase,256880,VERB,xcomp,False
+these,these,these,321594,DET,det,True
+prod,prod,prod,251504,NOUN,dobj,False

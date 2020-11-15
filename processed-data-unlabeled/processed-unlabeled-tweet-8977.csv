@@ -1,0 +1,17 @@
+harry,harry,harry,133956,PROPN,ROOT,False
+d,d,d,75936,NOUN,nsubj,False
+be,be,be,29345,AUX,ROOT,True
+really,really,really,261766,ADV,advmod,True
+sexy,sexy,sexy,286852,ADJ,acomp,False
+if,if,if,146980,SCONJ,mark,True
+released,release,release,266810,VERB,advcl,False
+baby,baby,baby,25503,NOUN,compound,False
+honey,honey,honey,143326,NOUN,dobj,False
+as,as,as,20837,SCONJ,prep,True
+a,a,a,0,DET,det,True
+year,year,year,146706,NOUN,pobj,False
+anniversary,anniversary,anniversary,13559,NOUN,compound,False
+gift,gift,gift,124755,NOUN,compound,False
+HS1turns3,hs1turns3,sturnus,307001,NOUN,compound,False
+HS3Year,hs3year,hear,134794,NOUN,dep,False
+https:/,https:/,chotts,55912,NOUN,ROOT,False

@@ -1,0 +1,16 @@
+H.E.L.P.,H.E.L.P.,help,135801,PROPN,compound,False
+Day,Day,day,76257,PROPN,ROOT,False
+are,be,be,29345,AUX,aux,True
+giving,give,give,125692,VERB,ROOT,False
+away,away,away,24923,ADP,prt,False
+to,to,to,324862,PART,quantmod,True
+people,people,people,230162,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+days,day,day,76257,NOUN,pobj,False
+To,to,to,324862,PART,aux,True
+enter,enter,enter,101211,VERB,ROOT,False
+retweet,retweet,etwee,105245,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+respond,respond,respond,269765,VERB,conj,False
+with,with,with,366582,ADP,prep,True
+PayPa,PayPa,papa,225088,NOUN,pobj,False

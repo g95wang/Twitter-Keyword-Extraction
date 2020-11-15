@@ -1,0 +1,17 @@
+Once,once,once,212661,SCONJ,advmod,True
+was,be,be,29345,AUX,advcl,True
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+prayer,prayer,prayer,245229,NOUN,compound,False
+meeting,meeting,meeting,182309,NOUN,pobj,False
+everyone,everyone,everyone,106169,PRON,nsubj,True
+eyes,eye,eye,96351,NOUN,appos,False
+closed,close,close,60433,VERB,ccomp,False
+palms,palm,palm,224023,NOUN,ROOT,False
+up,up,up,354457,ADP,prt,True
+was,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+fresh,fresh,fresh,118806,ADJ,amod,False
+crisp,crisp,crisp,73338,NOUN,attr,False
+so,so,so,295959,ADV,advmod,True
+copied,copy,copy,68492,VERB,ROOT,False

@@ -1,0 +1,16 @@
+AAL,AAL,aal,7,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+up,up,up,354457,ADV,advmod,True
+over,over,over,218092,ADP,prep,True
+currently,currently,currently,75406,ADV,advmod,False
+ShortSqueeze,ShortSqueeze,squeeze,301886,PROPN,appos,False
+Breakout,Breakout,breakout,40263,PROPN,appos,False
+Stock,Stock,stock,304901,PROPN,nsubj,False
+Could,Could,could,70511,VERB,ROOT,True
+other,other,other,215836,ADJ,amod,True
+airline,airline,airline,6937,NOUN,compound,False
+stocks,stock,stock,304901,NOUN,dobj,False
+like,like,like,172172,SCONJ,prep,False
+BA,BA,ba,25417,PROPN,pobj,False
+LUV,luv,lu,175724,NOUN,appos,False
+JETS,JETS,jets,161049,PROPN,appos,False

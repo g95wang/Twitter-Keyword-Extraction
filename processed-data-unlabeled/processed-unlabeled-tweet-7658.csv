@@ -1,0 +1,15 @@
+Do,do,do,90528,AUX,aux,True
+see,see,see,283054,VERB,ROOT,True
+this,this,this,322217,DET,dobj,True
+SHE,she,she,287675,PRON,nsubj,True
+IS,be,be,29345,VERB,ROOT,True
+STILL,STILL,still,304511,PROPN,advmod,True
+ALIVE,ALIVE,alive,8375,PROPN,attr,False
+This,this,this,322217,DET,nsubj,True
+was,be,be,29345,AUX,ROOT,True
+nt,not,not,208798,PART,neg,False
+a,a,a,0,DET,det,True
+very,very,very,358514,ADV,advmod,True
+long,long,long,174883,ADJ,amod,False
+time,time,time,323746,NOUN,npadvmod,False
+ago,ago,ago,6337,ADV,advmod,False

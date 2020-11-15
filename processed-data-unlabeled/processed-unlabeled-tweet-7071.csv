@@ -1,0 +1,15 @@
+Yeah,yeah,yeah,146696,INTJ,intj,False
+'s,be,be,29345,AUX,ROOT,True
+bizarre,bizarre,bizarre,35384,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+going,go,go,127161,VERB,conj,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+an,an,an,11448,DET,det,True
+issue,issue,issue,159379,NOUN,attr,False
+if,if,if,146980,SCONJ,mark,True
+have,have,have,134390,AUX,advcl,True
+to,to,to,324862,PART,aux,True
+lock,lock,lock,174349,VERB,xcomp,False
+down,down,down,92197,ADP,prt,True
+again,again,again,5827,ADV,advmod,True

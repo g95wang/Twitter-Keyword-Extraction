@@ -1,0 +1,16 @@
+Michael,Michael,michael,185754,PROPN,compound,False
+B.,B.,b,25416,PROPN,compound,False
+Jordan,Jordan,jordan,161776,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+taking,take,take,315491,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+a,a,a,0,DET,det,True
+date,date,date,77165,NOUN,pobj,False
+Michael,Michael,michael,185754,PROPN,compound,False
+B.,B.,b,25416,PROPN,compound,False
+Jordan,Jordan,jordan,161776,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+taking,take,take,315491,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+a,a,a,0,DET,det,True
+date,date,date,77165,NOUN,pobj,False

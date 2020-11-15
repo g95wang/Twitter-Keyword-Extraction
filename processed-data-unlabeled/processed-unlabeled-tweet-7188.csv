@@ -1,0 +1,17 @@
+'m,be,be,29345,AUX,ccomp,True
+very,very,very,358514,ADV,advmod,True
+pleased,pleased,pleased,239623,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+announce,announce,announce,13604,VERB,xcomp,False
+that,that,that,320639,DET,nsubj,True
+has,have,have,134390,AUX,aux,True
+offered,offer,offer,211581,VERB,ccomp,False
+to,to,to,324862,PART,aux,True
+sponsor,sponsor,sponsor,300819,VERB,xcomp,False
+with,with,with,366582,ADP,prep,True
+journey,journey,journey,161897,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+boxing,boxing,boxing,39297,NOUN,pobj,False
+would,would,would,367745,VERB,aux,True
+like,like,like,172172,VERB,ROOT,False
+to,to,to,324862,PART,xcomp,True

@@ -1,0 +1,17 @@
+Congratulations,Congratulations,congratulations,66230,PROPN,nsubjpass,False
+is,be,be,29345,AUX,auxpass,True
+ranked,rank,rank,260590,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+male,male,male,178348,ADJ,amod,False
+K,K,k,162637,PROPN,compound,False
+Idol,Idol,idol,146612,PROPN,pobj,False
+who,who,who,365278,PRON,nsubj,True
+has,have,have,134390,AUX,relcl,True
+a,a,a,0,DET,det,True
+great,great,great,129442,ADJ,amod,False
+vocal,vocal,vocal,360871,ADJ,amod,False
+tone,tone,tone,325507,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+Weibo,Weibo,ceibo,50400,PROPN,pobj,False
+will,will,will,365768,VERB,aux,True
+get,get,get,124419,AUX,ROOT,True

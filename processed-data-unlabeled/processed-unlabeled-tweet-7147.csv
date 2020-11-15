@@ -1,0 +1,17 @@
+La,La,la,166590,PROPN,compound,False
+police,police,police,241679,NOUN,compound,False
+gaze,gaze,gaze,122968,NOUN,nmod,False
+la,la,la,166590,PROPN,nmod,False
+manifestation,manifestation,manifestation,179271,PROPN,ROOT,False
+AdamaTraore,AdamaTraore,adamastor,3431,PROPN,ROOT,False
+GeorgeFlyod,GeorgeFlyod,gorgedly,128081,PROPN,compound,False
+Lille,Lille,lile,172226,PROPN,ROOT,False
+The,the,the,320691,DET,det,True
+French,french,french,118735,ADJ,amod,False
+police,police,police,241679,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+throwing,throw,throw,322857,VERB,ROOT,False
+tear,tear,tear,317512,ADJ,amod,False
+gas,gas,gas,122327,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+Black,Black,black,35431,PROPN,pobj,False

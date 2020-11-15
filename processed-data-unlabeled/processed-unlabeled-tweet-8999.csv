@@ -1,0 +1,17 @@
+Quick,quick,quick,258487,ADJ,compound,False
+SVG,SVG,svgs,313916,PROPN,compound,False
+tip,tip,tip,324153,NOUN,ROOT,False
+can,can,can,45964,VERB,aux,True
+use,use,use,355958,VERB,ROOT,False
+"preserveAspectRatio=""none","preserveaspectratio=""none",preevaporation,247367,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+SVG,svg,svgs,313916,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+make,make,make,178090,VERB,xcomp,True
+easily,easily,easily,94908,ADV,advmod,False
+resizable,resizable,sizable,292753,ADJ,ccomp,False
+without,without,without,366665,ADP,prep,True
+using,use,use,355958,VERB,pcomp,True
+the,the,the,320691,DET,det,True
+ratio,ratio,ratio,261043,NOUN,compound,False
+fro,fro,fro,119221,PROPN,dobj,False

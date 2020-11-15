@@ -1,0 +1,7 @@
+Parler,Parler,paroler,226726,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+place,place,place,238538,NOUN,attr,False
+want,want,want,362465,VERB,relcl,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True

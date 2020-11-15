@@ -1,0 +1,16 @@
+Global,global,global,126455,ADJ,compound,False
+pandemics,pandemic,pandemic,224465,NOUN,nsubj,False
+require,require,require,268870,VERB,ROOT,False
+global,global,global,126455,ADJ,amod,False
+responses,response,response,269785,NOUN,dobj,False
+The,the,the,320691,DET,det,True
+pandemic,pandemic,pandemic,224465,NOUN,nsubj,False
+has,have,have,134390,AUX,aux,True
+shown,show,show,289042,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+imperative,imperative,imperative,148473,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+global,global,global,126455,ADJ,amod,False
+engagement,engagement,engagement,100299,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+higher,high,high,139224,ADJ,amod,False

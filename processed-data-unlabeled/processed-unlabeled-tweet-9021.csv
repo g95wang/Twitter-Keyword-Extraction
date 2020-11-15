@@ -1,0 +1,15 @@
+As,as,as,20837,SCONJ,mark,True
+inmates,inmate,inmate,152992,NOUN,nsubj,False
+in,in,in,149313,ADP,prep,True
+prisons,prison,prison,250784,NOUN,pobj,False
+are,be,be,29345,AUX,advcl,True
+vulnerable,vulnerable,vulnerable,361591,ADJ,acomp,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+corona,corona,corona,69428,NOUN,compound,False
+infection,infection,infection,151868,NOUN,pobj,False
+nation,nation,nation,197258,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+demanding,demand,demand,80349,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+release,release,release,266810,NOUN,dobj,False

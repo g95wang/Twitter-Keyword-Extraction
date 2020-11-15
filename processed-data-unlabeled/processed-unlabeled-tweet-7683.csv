@@ -1,0 +1,13 @@
+Target,target,target,316574,NOUN,compound,False
+NBA,NBA,anba,12140,PROPN,compound,False
+schedule,schedule,schedule,280061,NOUN,ROOT,False
+from,from,from,119298,ADP,prep,True
+to,to,to,324862,PART,prep,True
+season,season,season,282586,NOUN,pobj,False
+Training,Training,training,327467,PROPN,compound,False
+camp,camp,camp,45775,NOUN,pobj,False
+July,July,july,162224,PROPN,compound,False
+season,season,season,282586,NOUN,compound,False
+July,July,july,162224,PROPN,compound,False
+-Oct,-oct,oct,210910,NOUN,appos,False
+Draf,Draf,daraf,76883,PROPN,ROOT,False

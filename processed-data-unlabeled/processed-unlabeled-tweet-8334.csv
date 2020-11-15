@@ -1,0 +1,9 @@
+Custom,Custom,custom,75702,PROPN,compound,False
+Department,Department,department,81504,PROPN,compound,False
+officials,official,official,211620,NOUN,nsubj,False
+test,test,test,319741,VERB,ROOT,False
+coronavirus,coronavirus,coronavirus,69453,PROPN,dobj,False
+positive,positive,positive,243805,ADJ,amod,False
+in,in,in,149313,ADP,prep,True
+Mumbai,Mumbai,macumba,177140,PROPN,pobj,False
+via,via,via,359224,ADP,prep,True

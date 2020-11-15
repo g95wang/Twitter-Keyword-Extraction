@@ -1,0 +1,9 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+kind,kind,kind,164752,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+leadership,leadership,leadership,169525,NOUN,pobj,False
+need,need,need,197910,VERB,relcl,False
+more,more,more,193383,ADJ,dobj,True
+of,of,of,211535,ADP,prep,True

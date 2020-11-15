@@ -1,0 +1,17 @@
+A,a,a,0,DET,det,True
+fantastic,fantastic,fantastic,109795,ADJ,amod,False
+feat,feat,feat,110640,NOUN,ROOT,False
+by,by,by,33133,ADP,prep,True
+both,both,both,38714,DET,pobj,True
+of,of,of,211535,ADP,prep,True
+The,the,the,320691,DET,det,True
+lockdownindia,lockdownindia,coninidia,66349,NOUN,nsubj,False
+with,with,with,366582,ADP,prep,True
+no,no,no,200529,DET,det,True
+notice,notice,notice,208919,NOUN,pobj,False
+was,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+biggest,big,big,33680,ADJ,amod,False
+blunder,blunder,blunder,36825,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+PMModi,PMModi,modi,191123,PROPN,pobj,False

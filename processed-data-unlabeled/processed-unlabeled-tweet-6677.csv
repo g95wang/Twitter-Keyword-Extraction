@@ -1,0 +1,8 @@
+NOT,not,not,208798,ADV,neg,True
+NOW,now,now,209199,ADV,advmod,True
+UNDERWATER,UNDERWATER,underwater,340097,PROPN,compound,False
+GHOST,GHOST,ghost,124558,PROPN,compound,False
+VILLAGE,village,village,359710,NOUN,nsubj,False
+FROZEN,freeze,freeze,118682,VERB,ROOT,False
+IN,in,in,149313,ADP,prep,True
+TIME,TIME,time,323746,PROPN,pobj,False

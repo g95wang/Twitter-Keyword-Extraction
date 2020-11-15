@@ -1,0 +1,11 @@
+on,on,on,212644,ADP,prep,True
+a,a,a,0,DET,det,True
+lighter,light,light,172003,ADJ,amod,False
+note,note,note,208861,NOUN,pobj,False
+i,i,i,145455,PRON,nsubj,True
+owe,owe,owe,222029,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+army,army,army,19923,NOUN,pobj,False
+now,now,now,209199,ADV,advmod,True
+instead,instead,instead,153876,ADV,advmod,False

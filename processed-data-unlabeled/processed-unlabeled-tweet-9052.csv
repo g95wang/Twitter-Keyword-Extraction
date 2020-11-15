@@ -1,0 +1,13 @@
+29F,29f,f,108866,NOUN,nummod,False
+Boyfriend,boyfriend,boyfriend,37410,NOUN,nsubj,False
+M,M,m,176591,PROPN,appos,False
+keeps,keep,keep,163579,VERB,ROOT,False
+getting,get,get,124419,VERB,xcomp,False
+into,into,into,156343,ADP,prep,True
+fights,fight,fight,112433,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+a,a,a,0,DET,det,True
+cook,cook,cook,68219,NOUN,pobj,False
+at,at,at,22372,ADP,prep,True
+Waffle,Waffle,waffle,361792,PROPN,compound,False
+House,House,house,144380,PROPN,pobj,False

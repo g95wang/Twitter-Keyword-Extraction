@@ -1,0 +1,10 @@
+found,find,find,112884,VERB,ROOT,False
+a,a,a,0,DET,det,True
+perfect,perfect,perfect,230579,ADJ,amod,False
+representation,representation,representation,268494,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+teacher,teacher,teacher,317432,NOUN,pobj,False
+once,once,once,212661,SCONJ,mark,True
+grades,grade,grade,128530,VERB,advcl,False
+exam,exam,exam,106444,NOUN,dobj,False
+apgov,apgov,ago,6337,VERB,pobj,False

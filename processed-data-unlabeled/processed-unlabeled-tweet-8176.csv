@@ -1,0 +1,12 @@
+Will,Will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,aux,True
+asking,ask,ask,21294,VERB,ROOT,False
+anything,anything,anything,13370,PRON,dobj,True
+harder,hard,hard,133614,ADJ,amod,False
+than,than,than,320565,SCONJ,prep,True
+Do,do,do,90528,AUX,aux,True
+like,like,like,172172,VERB,ccomp,False
+marshmallows,marshmallow,marshmallow,180423,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+hot,hot,hot,144238,ADJ,amod,False
+chocolate,chocolate,chocolate,55285,NOUN,pobj,False

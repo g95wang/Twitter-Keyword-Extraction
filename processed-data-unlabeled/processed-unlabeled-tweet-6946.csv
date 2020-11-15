@@ -1,0 +1,14 @@
+Steenz,Steenz,steen,303424,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+cartoonist,cartoonist,cartoonist,48664,NOUN,attr,False
+and,and,and,12285,CCONJ,cc,True
+editor,editor,editor,95781,NOUN,conj,False
+Check,check,check,53311,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True
+Archival,Archival,archival,19030,PROPN,compound,False
+Quality,Quality,quality,257878,PROPN,compound,False
+Heart,Heart,heart,134817,PROPN,dobj,False
+Of,of,of,211535,ADP,prep,True
+The,the,the,320691,DET,det,True
+City,city,city,58633,NOUN,pobj,False

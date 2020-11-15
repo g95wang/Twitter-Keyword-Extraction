@@ -1,0 +1,14 @@
+Can,Can,can,45964,VERB,aux,True
+do,do,do,90528,AUX,ROOT,True
+some,some,some,297029,DET,det,True
+research,research,research,269100,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+find,find,find,112884,VERB,conj,False
+out,out,out,216108,ADP,prt,True
+who,who,who,365278,PRON,nsubj,True
+is,be,be,29345,AUX,aux,True
+paying,pay,pay,223065,VERB,ccomp,False
+for,for,for,116301,ADP,prep,True
+all,all,all,8522,DET,predet,True
+this,this,this,322217,DET,det,True
+mess,mess,mess,184459,NOUN,pobj,False

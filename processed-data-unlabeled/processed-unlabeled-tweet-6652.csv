@@ -1,0 +1,17 @@
+Wish,Wish,wish,366457,PROPN,ROOT,False
+u,u,u,333554,PROPN,compound,False
+A,A,a,0,PROPN,advmod,True
+many,many,many,179225,ADJ,advmod,True
+more,more,more,193383,ADJ,amod,True
+Happy,happy,happy,133513,ADJ,amod,False
+Returns,return,return,270970,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+The,the,the,320691,DET,det,True
+day,day,day,76257,NOUN,compound,False
+sister,sister,sister,292572,NOUN,pobj,False
+May,May,may,177739,PROPN,aux,True
+ur,ur,ur,355246,VERB,dep,False
+all,all,all,8522,DET,det,True
+dreams,dream,dream,92852,NOUN,nsubj,False
+come,come,come,63721,VERB,ROOT,False
+true,true,true,331515,ADJ,acomp,False

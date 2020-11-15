@@ -1,0 +1,13 @@
+Greater,Greater,greater,129450,PROPN,compound,False
+Manchester,Manchester,manchester,178929,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+busiest,busy,busy,43464,ADJ,amod,False
+weekend,weekend,weekend,363767,NOUN,ROOT,False
+since,since,since,291358,SCONJ,prep,True
+lockdown,lockdown,lookdown,175062,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+reports,report,report,268373,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+parties,party,party,226988,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+gatherings,gathering,gathering,122758,NOUN,conj,False

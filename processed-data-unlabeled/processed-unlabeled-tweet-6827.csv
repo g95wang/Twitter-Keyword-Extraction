@@ -1,0 +1,17 @@
+Every,every,every,106158,DET,det,True
+other,other,other,215836,ADJ,amod,True
+basic,basic,basic,28570,ADJ,amod,False
+response,response,response,269785,NOUN,ROOT,False
+stand,stand,stand,302655,VERB,acl,False
+with,with,with,366582,ADP,prep,True
+black,black,black,35431,ADJ,amod,False
+employees,employee,employee,98836,NOUN,pobj,False
+Ben,Ben,ben,31449,PROPN,appos,False
+amp,amp,amp,10991,PROPN,conj,False
+Jerrys,Jerrys,jerry,160960,PROPN,ROOT,False
+WE,WE,we,363451,PROPN,compound,True
+GOTTA,GOTTA,gotta,128289,PROPN,compound,False
+FUCKIN,FUCKIN,fucking,119745,PROPN,compound,False
+SMASH,smash,smash,294750,NOUN,compound,False
+WHITE,WHITE,white,365106,PROPN,compound,False
+SUPREMACY,SUPREMACY,supremacy,313281,PROPN,appos,False

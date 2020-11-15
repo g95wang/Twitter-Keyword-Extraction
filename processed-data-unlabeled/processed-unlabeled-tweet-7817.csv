@@ -1,0 +1,10 @@
+That,that,that,320639,SCONJ,mark,True
+makes,make,make,178090,VERB,ROOT,False
+a,a,a,0,DET,det,True
+Big,Big,big,33680,PROPN,compound,False
+Damn,Damn,damn,76569,PROPN,compound,False
+Hero,Hero,hero,137229,PROPN,dobj,False
+And,and,and,12285,CCONJ,cc,True
+obviously,obviously,obviously,210623,ADV,advmod,False
+thoroughly,thoroughly,thoroughly,322446,ADV,advmod,False
+correct,correct,correct,69597,ADJ,ROOT,False

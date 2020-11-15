@@ -1,0 +1,11 @@
+now,now,now,209199,ADV,advmod,True
+lets,let,let,170875,VERB,ROOT,False
+charge,charge,charge,52797,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+arrest,arrest,arrest,20204,VERB,conj,False
+the,the,the,320691,DET,det,True
+officers,officer,officer,211608,NOUN,dobj,False
+who,who,who,365278,PRON,nsubj,True
+murdered,murder,murder,195668,VERB,relcl,False
+breonna,breonna,brehonia,40421,PROPN,compound,False
+taylor,taylor,taylor,315380,PROPN,dobj,False

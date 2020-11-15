@@ -1,0 +1,5 @@
+OJ,OJ,obj,210086,PROPN,nsubj,False
+ca,can,can,45964,VERB,aux,True
+n't,not,not,208798,PART,neg,True
+do,do,do,90528,AUX,ROOT,True
+that,that,that,320639,DET,dobj,True

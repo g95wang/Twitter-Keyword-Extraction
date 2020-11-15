@@ -1,0 +1,13 @@
+Need,need,need,197910,VERB,ROOT,False
+some,some,some,297029,DET,det,True
+Courage,courage,courage,71281,NOUN,dobj,False
+Spice,spice,spice,299637,NOUN,conj,False
+From,from,from,119298,ADP,ROOT,True
+the,the,the,320691,DET,det,True
+archive,archive,archive,19032,ADJ,amod,False
+Episode,Episode,episode,102810,PROPN,pobj,False
+Self,self,self,283523,NOUN,compound,False
+doubts,doubt,doubt,91994,NOUN,pobj,False
+Surprising,Surprising,surprising,313563,PROPN,amod,False
+Kryptonite,Kryptonite,kryptonite,166307,PROPN,compound,False
+ht,ht,ht,144603,PROPN,appos,False

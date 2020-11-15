@@ -1,0 +1,10 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+how,how,how,144540,ADV,advmod,True
+Odin,odin,odin,211242,ADJ,nsubj,False
+prepared,prepared,prepared,248753,ADJ,ccomp,False
+breakfast,breakfast,breakfast,40248,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+Thor,Thor,thor,322332,PROPN,pobj,False
+for,for,for,116301,ADP,prep,True
+Loki,Loki,loki,174779,PROPN,pobj,False

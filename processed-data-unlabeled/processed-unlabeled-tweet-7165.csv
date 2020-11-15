@@ -1,0 +1,13 @@
+wh*te,wh*te,white,365106,PROPN,compound,False
+ppl,ppl,ppl,245060,PROPN,nsubj,False
+see,see,see,283054,VERB,ROOT,True
+a,a,a,0,DET,det,True
+c*p,c*p,cp,71757,PROPN,compound,False
+kneeling,kneeling,kneeling,165499,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+be,be,be,29345,AUX,conj,True
+like,like,like,172172,SCONJ,mark,False
+faith,faith,faith,109359,NOUN,nsubj,False
+in,in,in,149313,ADP,prep,True
+humanity,humanity,humanity,144874,NOUN,pobj,False
+restored,restore,restore,269985,VERB,advcl,False

@@ -1,0 +1,10 @@
+FBI,FBI,fbi,110568,PROPN,nsubj,False
+OPENED,OPENED,opened,213231,PROPN,ROOT,False
+A,a,a,0,DET,det,True
+CASE,case,case,48783,NOUN,dobj,False
+FOR,for,for,116301,ADP,prep,True
+BREONNA,breonna,brehonia,40421,NOUN,compound,False
+TAYLOR,TAYLOR,taylor,315380,PROPN,pobj,False
+KEEP,KEEP,keep,163579,PROPN,compound,True
+FUCKING,FUCKING,fucking,119745,PROPN,dep,False
+TALKING,TALKING,talking,315658,PROPN,ROOT,False

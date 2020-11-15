@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True
+powerhouse,powerhouse,powerhouse,245010,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+a,a,a,0,DET,det,True
+talent,talent,talent,315590,NOUN,pobj,False
+celebrates,celebrate,celebrate,50448,VERB,ROOT,False
+birthday,birthday,birthday,34904,NOUN,dobj,False
+today,today,today,325003,NOUN,npadvmod,False
+and,and,and,12285,CCONJ,cc,True
+take,take,take,315491,VERB,conj,True
+a,a,a,0,DET,det,True
+quick,quick,quick,258487,ADJ,amod,False
+recap,recap,recap,262585,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+journey,journey,journey,161897,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+Stu,stu,stu,306715,NOUN,pobj,False

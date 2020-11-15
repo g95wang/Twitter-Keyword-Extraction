@@ -1,0 +1,9 @@
+Georgia,Georgia,georgia,124033,PROPN,nsubj,False
+does,do,do,90528,AUX,aux,True
+NOT,not,not,208798,ADV,neg,True
+have,have,have,134390,AUX,ccomp,True
+a,a,a,0,DET,det,True
+hate,hate,hate,134216,NOUN,compound,False
+crime,crime,crime,72941,NOUN,dobj,False
+so,so,so,295959,CCONJ,mark,True
+ca,ca,ca,43830,VERB,ROOT,True

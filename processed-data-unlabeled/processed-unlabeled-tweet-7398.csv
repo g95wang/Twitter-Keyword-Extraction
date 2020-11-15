@@ -1,0 +1,9 @@
+Something,something,something,297061,PRON,nsubj,True
+calls,call,call,45246,VERB,ROOT,False
+'s,be,be,29345,AUX,ROOT,True
+time,time,time,323746,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+answer,answer,answer,13962,VERB,relcl,False
+June,June,june,162340,PROPN,ROOT,False
+AM,am,am,9714,VERB,compound,True
+PT,PT,pt,255649,PROPN,ROOT,False

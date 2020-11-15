@@ -1,0 +1,5 @@
+Wearing,wear,wear,363540,VERB,csubj,False
+a,a,a,0,DET,det,True
+mask,mask,mask,180688,NOUN,dobj,False
+is,be,be,29345,AUX,ROOT,True
+NUTHIN,NUTHIN,thin,321862,PROPN,advmod,False

@@ -1,0 +1,17 @@
+Global,global,global,126455,ADJ,amod,False
+pandemic,pandemic,pandemic,224465,NOUN,ROOT,False
+or,or,or,213904,CCONJ,cc,True
+not,not,not,208798,PART,conj,True
+keep,keep,keep,163579,VERB,conj,True
+coming,come,come,63721,VERB,xcomp,False
+Gambians,Gambians,gambians,121624,PROPN,npadvmod,False
+Senegalese,Senegalese,senegalese,285252,PROPN,conj,False
+Malians,Malians,malawians,178306,PROPN,conj,False
+are,be,be,29345,AUX,ccomp,True
+all,all,all,8522,ADV,advmod,True
+determined,determined,determined,83174,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+head,head,head,134575,VERB,xcomp,False
+there,there,there,321216,ADV,advmod,True
+said,say,say,276740,VERB,ROOT,False
+A,a,a,0,DET,nsubj,True

@@ -1,0 +1,16 @@
+Perfectionist,Perfectionist,perfectionist,230603,PROPN,nsubj,False
+was,be,be,29345,AUX,ccomp,True
+original,original,original,214598,ADJ,amod,False
+username,username,undername,339510,NOUN,attr,False
+added,add,add,3502,VERB,ROOT,False
+a,a,a,0,DET,det,True
+negative,negative,negative,198018,ADJ,amod,False
+prefix,prefix,prefix,247593,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+dropped,drop,drop,93338,VERB,conj,False
+the,the,the,320691,DET,det,True
+suffix,suffix,suffix,310127,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+now,now,now,209199,ADV,advmod,True
+m,be,be,29345,VERB,compound,False
+Misfection,misfection,misaffection,188614,NOUN,ROOT,False

@@ -1,0 +1,10 @@
+i,i,i,145455,PRON,nsubj,True
+think,think,think,321897,VERB,ROOT,False
+'s,be,be,29345,AUX,ccomp,True
+such,such,such,309936,DET,predet,True
+a,a,a,0,DET,det,True
+good,good,good,127869,ADJ,amod,False
+time,time,time,323746,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+notice,notice,notice,208919,VERB,relcl,False
+love,love,love,175534,NOUN,npadvmod,False

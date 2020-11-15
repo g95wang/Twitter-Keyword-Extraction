@@ -1,0 +1,10 @@
+Free,Free,free,118571,PROPN,nsubj,False
+the,the,the,320691,DET,det,True
+Hispanic,hispanic,hispanic,141678,ADJ,amod,False
+kids,kid,kid,164450,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+adults,adult,adult,4500,NOUN,conj,False
+Locked,lock,lock,174349,VERB,ROOT,False
+up,up,up,354457,ADP,prt,True
+in,in,in,149313,ADP,prep,True
+ICE,ice,ice,145963,NOUN,pobj,False

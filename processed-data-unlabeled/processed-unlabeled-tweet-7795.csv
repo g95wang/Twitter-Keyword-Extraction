@@ -1,0 +1,12 @@
+ve,have,have,134390,VERB,aux,False
+been,be,be,29345,AUX,ROOT,True
+genuinely,genuinely,genuinely,123779,ADV,advmod,False
+more,more,more,193383,ADV,advmod,True
+happy,happy,happy,133513,ADJ,acomp,False
+this,this,this,322217,DET,det,True
+week,week,week,363764,NOUN,npadvmod,False
+and,and,and,12285,CCONJ,cc,True
+am,be,be,29345,AUX,conj,True
+grateful,grateful,grateful,129224,ADJ,acomp,False
+for,for,for,116301,ADP,prep,True
+that,that,that,320639,DET,pobj,True

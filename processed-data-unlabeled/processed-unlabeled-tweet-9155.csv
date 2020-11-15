@@ -1,0 +1,8 @@
+Build,build,build,42364,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+Boston,Boston,boston,38634,PROPN,compound,False
+Dynamics,Dynamics,dynamics,85998,PROPN,pobj,False
+once,once,once,212661,ADV,advmod,True
+owned,own,own,222072,VERB,advcl,False
+by,by,by,33133,ADP,agent,True
+Google,Google,googlies,127944,PROPN,pobj,False

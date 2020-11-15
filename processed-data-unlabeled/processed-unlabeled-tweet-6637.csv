@@ -1,0 +1,16 @@
+ppl,ppl,ppl,245060,PROPN,nsubj,False
+be,be,be,29345,AUX,ROOT,True
+like,like,like,172172,SCONJ,prep,False
+aw,aw,aw,24915,INTJ,intj,False
+ur,ur,ur,355246,PROPN,amod,False
+english,english,english,100389,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+so,so,so,295959,ADV,advmod,True
+good,good,good,127869,ADJ,acomp,False
+for,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+dirty,dirty,dirty,86852,ADJ,amod,False
+third,third,third,322055,ADJ,amod,True
+world,world,world,367566,NOUN,compound,False
+country,country,country,71230,NOUN,compound,False
+bitch,bitch,bitch,35166,NOUN,pobj,False

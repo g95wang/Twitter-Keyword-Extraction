@@ -1,0 +1,16 @@
+A,a,a,0,DET,det,True
+little,little,little,173876,ADJ,amod,False
+league,league,league,169589,NOUN,compound,False
+team,team,team,317482,NOUN,nsubjpass,False
+played,play,play,238701,VERB,relcl,False
+on,on,on,212644,ADP,prt,True
+as,as,as,20837,SCONJ,prep,True
+a,a,a,0,DET,det,True
+kid,kid,kid,164450,NOUN,nsubjpass,False
+was,be,be,29345,AUX,auxpass,True
+sponsored,sponsor,sponsor,300819,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+Archway,Archway,archway,19174,PROPN,compound,False
+Cookies,Cookies,cookies,68237,PROPN,pobj,False
+every,every,every,106158,DET,det,True
+t,t,t,314735,NOUN,ROOT,False

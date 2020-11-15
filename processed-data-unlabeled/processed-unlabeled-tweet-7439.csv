@@ -1,0 +1,13 @@
+Still,still,still,304511,ADV,advmod,True
+With,with,with,366582,ADP,mark,True
+is,be,be,29345,AUX,auxpass,True
+produced,produce,produce,251568,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+Jungkook,Jungkook,jingko,161289,PROPN,pobj,False
+prod,prod,prod,251504,PROPN,ROOT,False
+JK,JK,jak,160193,PROPN,dobj,False
+PROD,PROD,prod,251504,PROPN,ROOT,False
+JK,JK,jak,160193,PROPN,dobj,False
+HE,he,he,134574,PRON,nsubj,True
+DID,do,do,90528,VERB,ROOT,True
+THAT,that,that,320639,DET,dobj,True

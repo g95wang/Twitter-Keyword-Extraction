@@ -1,0 +1,13 @@
+What,what,what,364447,PRON,dobj,True
+Twitter,Twitter,twitter,333475,PROPN,nsubj,False
+had,have,have,134390,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+say,say,say,276740,VERB,xcomp,True
+about,about,about,756,ADP,prep,True
+tweeps,tweep,twee,333222,NOUN,pobj,False
+losing,lose,lose,175338,VERB,pcomp,False
+followers,follower,follower,115992,NOUN,dobj,False
+follow,follow,follow,115989,VERB,ROOT,False
+back,back,back,25705,ADV,advmod,True
+always,always,always,9710,ADV,advmod,True
+wuremu,wuremu,remue,267501,NOUN,appos,False

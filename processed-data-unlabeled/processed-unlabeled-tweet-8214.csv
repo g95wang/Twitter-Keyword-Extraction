@@ -1,0 +1,15 @@
+Political,political,political,242538,ADJ,amod,False
+journalists,journalist,journalist,161884,NOUN,nsubj,False
+prepare,prepare,prepare,248752,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,auxpass,True
+booked,book,book,38039,VERB,xcomp,False
+for,for,for,116301,ADP,prep,True
+any,any,any,13086,DET,pobj,True
+of,of,of,211535,ADP,prep,True
+ur,ur,ur,355246,PROPN,amod,False
+stories,story,story,305411,NOUN,pobj,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+just,just,just,162503,ADV,advmod,True
+ridiculous,ridiculous,ridiculous,272694,ADJ,acomp,False

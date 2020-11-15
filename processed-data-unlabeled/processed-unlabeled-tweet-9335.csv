@@ -1,0 +1,15 @@
+probably,probably,probably,251013,ADV,advmod,False
+are,be,be,29345,AUX,ccomp,True
+for,for,for,116301,ADP,prep,True
+so,so,so,295959,ADV,advmod,True
+each,each,each,94673,DET,det,True
+individual,individual,individual,151166,ADJ,amod,False
+decision,decision,decision,78397,NOUN,nsubj,False
+matters,matter,matter,181309,NOUN,ROOT,False
+little,little,little,173876,ADJ,advmod,False
+Going,go,go,127161,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+market,market,market,180157,NOUN,compound,False
+end,end,end,99559,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+ye,ye,ye,146694,PROPN,pobj,False

@@ -1,0 +1,16 @@
+were,be,be,29345,AUX,aux,True
+counterprotesting,counterproteste,counterprotest,71016,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+front,front,front,119330,NOUN,pobj,True
+of,of,of,211535,ADP,prep,True
+St,St,st,302135,PROPN,compound,False
+Pauls,Pauls,paulus,228115,PROPN,pobj,False
+a,a,a,0,DET,det,True
+few,few,few,111900,ADJ,amod,True
+weeks,week,week,363764,NOUN,npadvmod,False
+back,back,back,25705,ADV,advmod,True
+and,and,and,12285,CCONJ,cc,True
+also,also,also,9416,ADV,conj,True
+not,not,not,208798,PART,neg,True
+social,social,social,296098,ADJ,amod,False
+distancing,distancing,distancing,89696,NOUN,npadvmod,False

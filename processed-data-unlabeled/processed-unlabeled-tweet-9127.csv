@@ -1,0 +1,17 @@
+stormi,stormi,storm,305450,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+cutest,cut,cut,75735,ADJ,attr,False
+the,the,the,320691,DET,det,True
+way,way,way,361946,NOUN,ROOT,False
+kept,keep,keep,163579,VERB,relcl,False
+saying,say,say,276740,VERB,xcomp,False
+patient,patient,patient,227804,ADJ,dobj,False
+patient,patient,patient,227804,ADJ,conj,False
+patient,patient,patient,227804,ADJ,conj,False
+so,so,so,295959,SCONJ,mark,True
+would,would,would,367745,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+grab,grab,grab,128456,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+m&amp;ms,m&amp;m,mamma,178757,NOUN,dobj,False

@@ -1,0 +1,13 @@
+Thrash,Thrash,thrash,322523,PROPN,compound,False
+Birthday,birthday,birthday,34904,NOUN,compound,False
+Mike,Mike,mike,187073,PROPN,compound,False
+Sifringer,Sifringer,infringer,152366,PROPN,nsubjpass,False
+Was,be,be,29345,AUX,auxpass,True
+born,bear,bear,29506,VERB,ROOT,False
+May,May,may,177739,PROPN,compound,True
+Guitars,Guitars,guitars,131147,PROPN,npadvmod,False
+in,in,in,149313,ADP,prep,True
+ThrashMetal,thrashmetal,thrashel,322525,ADP,pobj,False
+Germany,Germany,germany,124186,PROPN,appos,False
+Guitars,guitar,guitar,131141,NOUN,ROOT,False
+Dest,dest,deist,79853,NOUN,ROOT,False

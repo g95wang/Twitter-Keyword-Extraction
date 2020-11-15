@@ -1,0 +1,17 @@
+Remind,remind,remind,267295,VERB,ROOT,False
+again,again,again,5827,ADV,advmod,True
+twist,twist,twist,333429,VERB,dep,False
+the,the,the,320691,DET,det,True
+turny,turny,turney,332814,PROPN,nsubj,False
+handle,handle,handle,133207,NOUN,ccomp,False
+thing,thing,thing,321869,NOUN,dobj,False
+forward,forward,forward,117747,ADV,advmod,False
+to,to,to,324862,PART,aux,True
+go,go,go,127161,VERB,advcl,True
+forward,forward,forward,117747,ADV,advmod,False
+and,and,and,12285,CCONJ,cc,True
+backwards,backwards,backwards,26003,ADV,conj,False
+to,to,to,324862,PART,aux,True
+slow,slow,slow,294448,VERB,advcl,False
+down,down,down,92197,ADP,prt,True
+right,right,right,272806,ADV,advmod,False

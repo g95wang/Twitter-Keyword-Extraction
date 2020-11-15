@@ -1,0 +1,17 @@
+HE,he,he,134574,PRON,nsubj,True
+WAS,be,be,29345,VERB,ROOT,True
+LITERALLY,LITERALLY,literally,173575,PROPN,compound,False
+WALKING,walk,walk,362193,VERB,attr,False
+AND,and,and,12285,CCONJ,cc,True
+THE,the,the,320691,DET,det,True
+COP,cop,cop,68392,NOUN,nsubj,False
+FULLY,fully,fully,119955,ADV,advmod,False
+GRABBED,grab,grab,128456,VERB,ROOT,False
+HIM,HIM,him,139537,PROPN,compound,True
+BU,BU,bu,41904,VERB,dobj,False
+THE,the,the,320691,DET,det,True
+NECK,NECK,neck,197736,PROPN,appos,False
+WHAT,what,what,364447,PRON,ROOT,True
+THE,the,the,320691,DET,det,True
+FUCK,fuck,fuck,119742,NOUN,compound,False
+BLUEFALL,bluefall,blueball,36692,NOUN,ROOT,False

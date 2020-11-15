@@ -1,0 +1,11 @@
+Stop,stop,stop,305323,VERB,ROOT,False
+harassing,harass,harass,133565,VERB,xcomp,False
+men,man,man,178862,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+name,name,name,196686,NOUN,pobj,True
+of,of,of,211535,ADP,prep,True
+equality,equality,equality,103166,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+feminism,feminism,feminism,111165,NOUN,conj,False
+BoysLockerRoomTruth,BoysLockerRoomTruth,oysterroot,211929,PROPN,ROOT,False

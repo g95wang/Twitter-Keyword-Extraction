@@ -1,0 +1,17 @@
+Zeta,Zeta,zeta,369135,PROPN,compound,False
+Gundam,Gundam,gunda,131333,PROPN,compound,False
+deadass,deadass,dadas,76094,NOUN,nsubj,False
+has,have,have,134390,AUX,ROOT,True
+character,character,character,52709,NOUN,dobj,False
+named,name,name,196686,VERB,acl,False
+Vaginas,Vaginas,vaginas,356510,PROPN,oprd,False
+and,and,and,12285,CCONJ,cc,True
+Jam,Jam,jam,160231,PROPN,compound,False
+In,in,in,149313,ADP,prep,True
+Hymen,Hymen,hymen,139549,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+expect,expect,expect,107598,VERB,conj,False
+people,people,people,230162,NOUN,nsubj,False
+to,to,to,324862,PART,aux,True
+take,take,take,315491,VERB,ccomp,True
+seriously,seriously,seriously,286135,ADV,advmod,False

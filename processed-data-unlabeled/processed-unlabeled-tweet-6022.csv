@@ -1,0 +1,14 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+pro,pro,pro,250901,ADJ,amod,False
+buff,buff,buff,42215,NOUN,attr,False
+Jhin,Jhin,hin,139645,PROPN,nsubj,False
+needs,need,need,197910,VERB,relcl,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+pro,pro,pro,250901,ADJ,amod,False
+buff,buff,buff,42215,NOUN,attr,False
+Jhin,Jhin,hin,139645,PROPN,nsubj,False
+needs,need,need,197910,VERB,relcl,False

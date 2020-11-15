@@ -1,0 +1,14 @@
+XboxSeriesX,XboxSeriesX,boiseries,37462,VERB,pobj,False
+not,not,not,208798,PART,neg,True
+really,really,really,261766,ADV,advmod,True
+shaping,shape,shape,287442,VERB,ROOT,False
+up,up,up,354457,ADP,prt,True
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,advcl,True
+a,a,a,0,DET,det,True
+true,true,true,331515,ADJ,amod,False
+next,next,next,199504,ADJ,amod,True
+generation,generation,generation,123491,NOUN,compound,False
+console,console,console,66891,NOUN,attr,False
+so,so,so,295959,ADV,advmod,True
+far,far,far,109839,ADV,advmod,False

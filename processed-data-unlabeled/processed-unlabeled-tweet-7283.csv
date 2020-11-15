@@ -1,0 +1,14 @@
+Does,do,do,90528,AUX,aux,True
+make,make,make,178090,VERB,ROOT,True
+feel,feel,feel,110884,VERB,ccomp,False
+better,well,well,364011,ADJ,acomp,False
+if,if,if,146980,SCONJ,mark,True
+told,tell,tell,318356,VERB,advcl,False
+m,be,be,29345,VERB,ccomp,False
+a,a,a,0,DET,det,True
+girl,girl,girl,125519,NOUN,dobj,False
+yes,yes,yes,146918,INTJ,intj,False
+confess,confess,confess,65844,NOUN,ROOT,False
+ur,ur,ur,355246,PROPN,amod,False
+love,love,love,175534,VERB,dobj,False
+rn,rn,rn,273462,ADP,intj,False

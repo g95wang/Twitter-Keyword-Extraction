@@ -1,0 +1,14 @@
+Which,which,which,364730,DET,det,True
+family,family,family,109591,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+brightest,bright,bright,40766,ADJ,attr,False
+tonight,tonight,tonight,325593,NOUN,npadvmod,False
+'s,be,be,29345,AUX,ROOT,True
+time,time,time,323746,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+find,find,find,112884,VERB,relcl,False
+out,out,out,216108,ADP,prt,True
+with,with,with,366582,ADP,prep,True
+BritainsBrightestCelebrityFamily,britainsbrightestcelebrityfamily,incelebrity,149751,ADV,ROOT,False

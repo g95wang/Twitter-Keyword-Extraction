@@ -1,0 +1,11 @@
+NATIONAL,NATIONAL,national,197259,PROPN,compound,False
+ACTION,action,action,3227,NOUN,ROOT,False
+AGAINST,against,against,5830,ADP,ROOT,True
+POLICE,police,police,241679,NOUN,compound,False
+BRUTALITY,BRUTALITY,brutality,41863,NOUN,pobj,False
+AND,and,and,12285,CCONJ,cc,True
+MURDER,murder,murder,195668,NOUN,conj,False
+Sign,sign,sign,290081,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+Petition,Petition,petition,232417,PROPN,dobj,False
+via,via,via,359224,ADP,ROOT,True

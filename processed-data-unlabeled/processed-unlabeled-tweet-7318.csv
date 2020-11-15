@@ -1,0 +1,16 @@
+HOF,HOF,hoof,143512,PROPN,compound,False
+Village,Village,village,359710,PROPN,npadvmod,False
+LLC,LLC,lc,169482,PROPN,nsubj,False
+has,have,have,134390,AUX,aux,True
+acquired,acquire,acquire,2737,VERB,ROOT,False
+Youth,Youth,youth,157765,PROPN,compound,False
+Sports,Sports,sports,301059,PROPN,compound,False
+Management,Management,management,178881,PROPN,dobj,False
+LLC,LLC,lc,169482,PROPN,appos,False
+Another,another,another,13899,DET,det,True
+major,major,major,178050,ADJ,amod,False
+advancement,advancement,advancement,4563,NOUN,ROOT,False
+in,in,in,149313,ADP,prep,True
+youth,youth,youth,157765,NOUN,compound,False
+sports,sport,sport,301034,NOUN,compound,False
+vertical,vertical,vertical,358880,ADJ,pobj,False

@@ -1,0 +1,12 @@
+Healthcare,Healthcare,healthcare,134769,PROPN,compound,False
+firm,firm,firm,113248,NOUN,nsubj,False
+advised,advise,advise,4692,VERB,acl,False
+by,by,by,33133,ADP,agent,True
+Owen,Owen,owen,222032,PROPN,compound,False
+Paterson,Paterson,parson,226902,PROPN,pobj,False
+won,win,win,365877,VERB,ROOT,False
+m,m,m,176591,DET,nummod,False
+coronavirus,coronavirus,coronavirus,69453,PROPN,compound,False
+testing,testing,testing,319829,NOUN,compound,False
+contract,contract,contract,67561,NOUN,dobj,False
+unopposed,unoppose,unopposed,347178,VERB,acl,False

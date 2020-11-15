@@ -1,0 +1,15 @@
+'ll,will,will,365768,VERB,aux,True
+get,get,get,124419,AUX,ROOT,True
+reason,reason,reason,262021,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+fall,fall,fall,109467,VERB,conj,False
+back,back,back,25705,ADV,advmod,True
+in,in,in,149313,ADP,prep,True
+line,line,line,172722,NOUN,pobj,False
+reason,reason,reason,262021,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+likely,likely,likely,172179,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+start,start,start,302958,VERB,xcomp,False
+with,with,with,366582,ADP,prep,True
+the,the,the,320691,DET,pobj,True

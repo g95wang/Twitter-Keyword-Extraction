@@ -1,0 +1,14 @@
+m,be,be,29345,VERB,aux,False
+not,not,not,208798,PART,neg,True
+going,go,go,127161,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+keep,keep,keep,163579,VERB,xcomp,True
+explaining,explain,explain,107802,VERB,xcomp,False
+this,this,this,322217,DET,dobj,True
+If,if,if,146980,SCONJ,mark,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+get,get,get,124419,AUX,advcl,True
+then,then,then,320906,ADV,advmod,True
+do,do,do,90528,AUX,ROOT,True
+nt,not,not,208798,PART,punct,False

@@ -1,0 +1,14 @@
+ca,can,can,45964,VERB,aux,True
+n't,not,not,208798,PART,neg,True
+emphasize,emphasize,emphasize,98749,VERB,ccomp,False
+this,this,this,322217,DET,dobj,True
+hard,hard,hard,133614,ADJ,advmod,False
+enough,enough,enough,100831,ADV,amod,True
+voting,voting,voting,361418,NOUN,nsubj,False
+did,do,do,90528,AUX,aux,True
+not,not,not,208798,PART,neg,True
+do,do,do,90528,AUX,ROOT,True
+this,this,this,322217,DET,dobj,True
+mass,mass,mass,180750,NOUN,compound,False
+protesting,protesting,protesting,253509,NOUN,nsubj,False
+did,do,do,90528,AUX,conj,True

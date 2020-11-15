@@ -1,0 +1,17 @@
+When,when,when,364637,ADV,advmod,True
+the,the,the,320691,DET,det,True
+current,current,current,75405,ADJ,amod,False
+president,president,president,249451,NOUN,nsubj,False
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+handle,handle,handle,133207,VERB,advcl,False
+the,the,the,320691,DET,det,True
+job,job,job,161424,NOUN,dobj,False
+so,so,so,295959,SCONJ,mark,True
+the,the,the,320691,DET,det,True
+previous,previous,previous,250211,ADJ,amod,False
+one,one,one,212715,NOUN,nsubj,True
+has,have,have,134390,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+step,step,step,303739,VERB,xcomp,False
+in,in,in,149313,ADP,prt,True

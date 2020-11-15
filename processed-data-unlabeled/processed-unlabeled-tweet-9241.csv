@@ -1,0 +1,13 @@
+imagine,imagine,imagine,147602,PROPN,ROOT,False
+being,be,be,29345,AUX,xcomp,True
+able,able,able,559,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+see,see,see,283054,VERB,xcomp,True
+without,without,without,366665,ADP,prep,True
+glasses,glass,glass,125960,NOUN,pobj,False
+or,or,or,213904,CCONJ,cc,True
+contacts,contact,contact,67230,NOUN,conj,False
+wow,wow,wow,367775,INTJ,intj,False
+what,what,what,364447,DET,det,True
+a,a,a,0,DET,det,True
+dream,dream,dream,92852,NOUN,npadvmod,False

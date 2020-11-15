@@ -1,0 +1,10 @@
+The,the,the,320691,DET,det,True
+Ivy,Ivy,ivy,159721,PROPN,compound,False
+Hotel,Hotel,hotel,144265,PROPN,pobj,False
+Baltimore,Baltimore,baltimore,27159,PROPN,compound,False
+Luxury,Luxury,luxury,176558,PROPN,compound,False
+Hotel,Hotel,hotel,144265,PROPN,appos,False
+in,in,in,149313,ADP,prep,True
+Downtown,Downtown,downtown,92339,PROPN,compound,False
+Baltimore,Baltimore,baltimore,27159,PROPN,pobj,False
+MD,MD,md,181660,PROPN,npadvmod,False

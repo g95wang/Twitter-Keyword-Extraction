@@ -1,0 +1,11 @@
+Muslim,muslim,muslim,196089,ADJ,compound,False
+cleric,cleric,cleric,59804,NOUN,nsubj,False
+smuggles,smuggle,smuggle,295137,NOUN,ROOT,False
+funds,fund,fund,120158,NOUN,dobj,False
+from,from,from,119298,ADP,prep,True
+Islamic,islamic,islamic,158685,ADJ,amod,False
+charities,charity,charity,52851,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+Malaysia,Malaysia,malaysia,178241,PROPN,pobj,False
+to,to,to,324862,ADP,dative,True
+Hamas,Hamas,hamals,132907,PROPN,pobj,False

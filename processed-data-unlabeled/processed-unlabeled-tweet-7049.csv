@@ -1,0 +1,12 @@
+The,the,the,320691,DET,det,True
+cops,cop,cop,68392,NOUN,nsubj,False
+who,who,who,365278,PRON,nsubj,True
+killed,kill,kill,164577,VERB,relcl,False
+are,be,be,29345,AUX,ROOT,True
+still,still,still,304511,ADV,advmod,True
+free,free,free,118571,ADJ,acomp,False
+doing,do,do,90528,VERB,xcomp,True
+what,what,what,364447,PRON,dobj,True
+pigs,pig,pig,236324,NOUN,nsubj,False
+do,do,do,90528,AUX,ccomp,True
+best,good,good,127869,ADJ,advmod,False

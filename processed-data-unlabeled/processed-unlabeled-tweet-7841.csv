@@ -1,0 +1,16 @@
+Inspiration,inspiration,inspiration,153786,NOUN,nsubj,False
+exists,exist,exist,107244,VERB,ROOT,False
+but,but,but,43550,CCONJ,cc,True
+has,have,have,134390,AUX,conj,True
+to,to,to,324862,PART,aux,True
+find,find,find,112884,VERB,xcomp,False
+working,work,work,367468,VERB,ccomp,False
+Tried,try,try,329065,VERB,ROOT,False
+some,some,some,297029,DET,det,True
+hands,hand,hand,133091,NOUN,amod,False
+on,on,on,212644,ADP,prt,True
+baby,baby,baby,25503,NOUN,compound,False
+portrait,portrait,portrait,243720,NOUN,dobj,False
+Time,Time,time,323746,PROPN,nsubj,False
+taken,take,take,315491,VERB,ROOT,False
+hrs,hrs,hrs,144597,PRON,dep,False

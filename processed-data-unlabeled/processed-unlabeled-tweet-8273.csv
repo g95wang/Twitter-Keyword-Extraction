@@ -1,0 +1,10 @@
+i,i,i,145455,PRON,nsubj,True
+called,call,call,45246,VERB,ROOT,False
+a,a,a,0,DET,det,True
+wimp,wimp,imp,148202,NOUN,amod,False
+lil,lil,lila,172215,NOUN,compound,False
+bruh,bruh,brugh,41707,NOUN,compound,False
+gon,gon,gon,127662,PROPN,nsubj,False
+look,look,look,175060,VERB,ccomp,False
+at,at,at,22372,ADP,prep,True
+like,like,like,172172,SCONJ,prep,False

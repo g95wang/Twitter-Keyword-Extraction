@@ -1,0 +1,13 @@
+Smh,Smh,samh,277535,PROPN,ROOT,False
+Pause,pause,pause,228164,VERB,ROOT,False
+Porn,Porn,porn,243459,PROPN,dobj,False
+to,to,to,324862,PART,aux,True
+reply,reply,reply,268301,VERB,xcomp,False
+texts,text,text,320378,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+still,still,still,304511,ADV,advmod,True
+think,think,think,321897,VERB,ROOT,False
+'m,be,be,29345,AUX,ccomp,True
+not,not,not,208798,PART,neg,True
+serious,serious,serious,286134,ADJ,acomp,True
+with,with,with,366582,ADP,prep,True

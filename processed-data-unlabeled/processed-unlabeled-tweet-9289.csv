@@ -1,0 +1,15 @@
+VICTON,VICTON,eviction,106221,PROPN,nsubj,False
+will,will,will,365768,VERB,aux,True
+make,make,make,178090,VERB,ROOT,True
+comeback,comeback,comeback,63723,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+June,June,june,162340,PROPN,pobj,False
+with,with,with,366582,ADP,prep,True
+new,new,new,199367,ADJ,amod,False
+album,album,album,7508,NOUN,pobj,False
+as,as,as,20837,SCONJ,prep,True
+a,a,a,0,DET,det,True
+special,special,special,298743,ADJ,amod,False
+gift,gift,gift,124755,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+fans,fan,fan,109645,NOUN,pobj,False

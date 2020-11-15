@@ -1,0 +1,13 @@
+That,that,that,320639,DET,det,True
+fajj,fajj,hajj,132500,PROPN,nsubj,False
+na,na,na,196397,ADP,ROOT,False
+vibe,vibe,vibe,359269,NOUN,dobj,False
+The,the,the,320691,DET,det,True
+aro,aro,aro,20051,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+something,something,something,297061,PRON,attr,True
+'ll,will,will,365768,VERB,aux,True
+wish,wish,wish,366457,VERB,relcl,False
+for,for,for,116301,ADP,prep,True
+ex,ex,ex,106366,NOUN,pobj,False

@@ -1,0 +1,14 @@
+Artists,Artists,artists,20760,PROPN,nsubj,False
+dropping,drop,drop,93338,VERB,ROOT,False
+projects,project,project,252003,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+J.,J.,j,159797,PROPN,compound,False
+Cole,Cole,cole,62678,PROPN,compound,False
+JID,JID,id,146280,PROPN,compound,False
+Cozz,Cozz,coz,71730,PROPN,pobj,False
+amp,amp,amp,10991,NOUN,conj,False
+Reason,Reason,reason,262021,PROPN,compound,False
+Lute,Lute,lute,176458,PROPN,compound,False
+Omen,Omen,omen,212407,PROPN,compound,False
+Spillage,Spillage,spillage,299807,PROPN,compound,False
+Village,village,village,359710,NOUN,appos,False

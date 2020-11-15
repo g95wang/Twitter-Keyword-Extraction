@@ -1,0 +1,17 @@
+utterly,utterly,utterly,356252,ADV,advmod,False
+amazing,amazing,amazing,9904,ADJ,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+lacks,lack,lack,166940,VERB,ccomp,False
+any,any,any,13086,DET,det,True
+self,self,self,283523,NOUN,compound,False
+awareness,awareness,awareness,24971,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+stop,stop,stop,305323,VERB,advcl,False
+being,be,be,29345,AUX,xcomp,True
+a,a,a,0,DET,det,True
+misogynist,misogynist,misogynist,189700,ADJ,amod,False
+asshole,asshole,asshole,21745,NOUN,attr,False
+That,that,that,320639,DET,nsubj,True
+said,say,say,276740,VERB,ROOT,False
+hope,hope,hope,143674,VERB,ccomp,False
+h,h,h,131712,PROPN,dobj,False

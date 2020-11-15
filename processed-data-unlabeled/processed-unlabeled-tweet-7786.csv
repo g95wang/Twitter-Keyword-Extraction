@@ -1,0 +1,8 @@
+when,when,when,364637,ADV,advmod,True
+someone,someone,someone,297038,PRON,nsubj,True
+mentioned,mention,mention,183534,VERB,advcl,False
+in,in,in,149313,ADP,prep,True
+prayers,prayer,prayer,245229,NOUN,pobj,False
+'re,be,be,29345,AUX,ROOT,True
+special,special,special,298743,ADJ,acomp,False
+to,to,to,324862,ADP,prep,True

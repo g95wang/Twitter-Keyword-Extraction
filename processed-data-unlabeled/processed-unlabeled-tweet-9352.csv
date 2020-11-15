@@ -1,0 +1,17 @@
+was,be,be,29345,AUX,ROOT,True
+when,when,when,364637,ADV,advmod,True
+developed,develop,develop,83481,VERB,advcl,False
+high,high,high,139224,ADJ,amod,False
+blood,blood,blood,36415,NOUN,compound,False
+pressure,pressure,pressure,249604,NOUN,dobj,False
+While,while,while,364797,SCONJ,mark,True
+agree,agree,agree,6445,VERB,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+there,there,there,321216,PRON,expl,True
+are,be,be,29345,AUX,ccomp,True
+higher,high,high,139224,ADJ,amod,False
+chances,chance,chance,52384,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+getting,get,get,124419,VERB,pcomp,False
+the,the,the,320691,DET,det,True
+older,old,old,212002,ADJ,amod,False

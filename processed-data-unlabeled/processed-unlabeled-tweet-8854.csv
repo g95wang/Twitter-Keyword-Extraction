@@ -1,0 +1,15 @@
+May,May,may,177739,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+Ex,ex,ex,106366,NOUN,dep,False
+banker,banker,banker,27490,NOUN,compound,False
+Chanda,Chanda,chandam,52436,PROPN,compound,False
+Kochhar,Kochhar,kootchar,166042,PROPN,nsubj,False
+can,can,can,45964,VERB,aux,True
+better,well,well,364011,ADV,advmod,False
+advise,advise,advise,4692,VERB,ccomp,False
+how,how,how,144540,ADV,advmod,True
+to,to,to,324862,PART,aux,True
+become,become,become,29882,VERB,xcomp,True
+rich,rich,rich,272520,ADJ,acomp,False
+by,by,by,33133,ADP,prep,True
+lending,lend,lend,170392,VERB,pobj,False

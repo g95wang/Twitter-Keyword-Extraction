@@ -1,0 +1,14 @@
+i,i,i,145455,PRON,nsubj,True
+refuse,refuse,refuse,265465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+acknowledge,acknowledge,acknowledge,2556,VERB,xcomp,False
+fb,fb,fb,110567,PROPN,compound,False
+stans,stan,stan,302634,NOUN,dobj,False
+as,as,as,20837,SCONJ,prep,True
+real,real,real,261710,ADJ,amod,False
+stans,stan,stan,302634,NOUN,pobj,False
+all,all,all,8522,DET,appos,True
+are,be,be,29345,AUX,ROOT,True
+just,just,just,162503,ADV,advmod,True
+fans,fan,fan,109645,NOUN,attr,False
+sweetie,sweetie,sweetie,314305,NOUN,attr,False

@@ -1,0 +1,17 @@
+And,and,and,12285,CCONJ,cc,True
+if,if,if,146980,SCONJ,mark,True
+and,and,and,12285,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+Congress,Congress,congress,66258,PROPN,nsubj,False
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+provide,provide,provide,254058,VERB,xcomp,False
+buses,bus,bus,43363,NOUN,dobj,False
+good,good,good,127869,ADJ,dobj,False
+for,for,for,116301,ADP,prep,True
+Migrant,migrant,migrant,187035,ADJ,amod,False
+labour,labour,labour,166768,NOUN,nsubj,False
+have,have,have,134390,AUX,ROOT,True
+no,no,no,200529,DET,det,True
+party,party,party,226988,NOUN,compound,False
+label,label,label,166618,NOUN,dobj,False

@@ -1,0 +1,16 @@
+what,what,what,364447,PRON,dobj,True
+the,the,the,320691,DET,det,True
+land,land,land,167907,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+freedom,freedom,freedom,118591,NOUN,pobj,False
+Democracy,Democracy,democracy,80714,PROPN,conj,False
+and,and,and,12285,CCONJ,cc,True
+human,human,human,144841,ADJ,amod,False
+rights,right,right,272806,NOUN,conj,False
+does,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+know,know,know,165702,VERB,ccomp,False
+about,about,about,756,ADP,prep,True
+military,military,military,187187,NOUN,pobj,False

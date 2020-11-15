@@ -1,0 +1,17 @@
+'s,'s,s,275971,PART,dep,True
+Singularity,Singularity,singularity,291748,PROPN,nsubj,False
+Filter,Filter,filter,112777,PROPN,appos,False
+and,and,and,12285,CCONJ,cc,True
+Inner,Inner,inner,153023,PROPN,compound,False
+Child,child,child,54285,NOUN,conj,False
+have,have,have,134390,AUX,aux,True
+re,re,re,261391,VERB,dep,True
+entered,enter,enter,101211,VERB,ROOT,False
+this,this,this,322217,DET,det,True
+week,week,week,363764,NOUN,dep,False
+Billboard,Billboard,billboard,33977,PROPN,compound,False
+World,World,world,367566,PROPN,compound,False
+Digital,Digital,digital,85441,PROPN,compound,False
+Song,Song,song,297195,PROPN,compound,False
+Sales,Sales,sales,276984,PROPN,compound,False
+chart,chart,chart,52959,NOUN,dep,False

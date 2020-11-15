@@ -1,0 +1,17 @@
+If,if,if,146980,SCONJ,mark,True
+re,be,be,29345,VERB,aux,True
+attending,attend,attend,23005,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+memorial,memorial,memorial,183185,NOUN,dobj,False
+are,be,be,29345,AUX,relcl,True
+imiune,imiune,imine,147801,ADJ,acomp,False
+from,from,from,119298,ADP,prep,True
+covid,covid,covid,71525,PROPN,pcomp,False
+thats,that,that,320639,NOUN,ROOT,False
+why,why,why,364728,ADV,advmod,True
+there,there,there,321216,PRON,expl,True
+is,be,be,29345,AUX,relcl,True
+nt,not,not,208798,PART,neg,False
+any,any,any,13086,DET,det,True
+social,social,social,296098,ADJ,amod,False
+distancing,distancing,distancing,89696,NOUN,attr,False

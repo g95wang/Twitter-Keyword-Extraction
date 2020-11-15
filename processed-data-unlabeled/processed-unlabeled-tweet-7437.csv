@@ -1,0 +1,16 @@
+WHO,who,who,365278,PRON,nsubj,True
+ARE,are,are,19297,VERB,ROOT,True
+THESE,these,these,321594,DET,dep,True
+TROOPS,TROOPS,troops,331121,PROPN,attr,False
+American,american,american,10298,ADJ,amod,False
+citizens,citizen,citizen,58672,NOUN,nsubj,False
+have,have,have,134390,AUX,ROOT,True
+no,no,no,200529,DET,det,True
+way,way,way,361946,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+identify,identify,identify,146368,VERB,relcl,False
+these,these,these,321594,DET,det,True
+troops,troop,troop,331112,NOUN,dobj,False
+or,or,or,213904,CCONJ,cc,True
+hold,hold,hold,142390,VERB,conj,False
+accountab,accountab,accountable,1721,PROPN,ccomp,False

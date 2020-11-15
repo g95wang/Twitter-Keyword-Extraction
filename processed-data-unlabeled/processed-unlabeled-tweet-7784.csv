@@ -1,0 +1,13 @@
+Georges,Georges,george,124030,PROPN,compound,False
+Fouquet,Fouquet,bouquet,38998,PROPN,nsubj,False
+was,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+French,french,french,118735,ADJ,amod,False
+jewelry,jewelry,jewelry,161104,NOUN,compound,False
+designer,designer,designer,82591,NOUN,attr,False
+best,best,best,32549,ADV,advmod,False
+known,know,know,165702,VERB,acl,False
+for,for,for,116301,ADP,prep,True
+Art,Art,art,20445,PROPN,compound,False
+Nouveau,Nouveau,nouveau,209072,PROPN,compound,False
+creations,creation,creation,72433,NOUN,pobj,False

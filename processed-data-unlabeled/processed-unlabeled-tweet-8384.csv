@@ -1,0 +1,7 @@
+Actually,actually,actually,3298,ADV,advmod,False
+a,a,a,0,DET,det,True
+little,little,little,173876,ADJ,npadvmod,False
+over,over,over,218092,ADP,quantmod,True
+a,a,a,0,DET,nummod,True
+month,month,month,192909,NOUN,npadvmod,False
+ago,ago,ago,6337,ADV,ROOT,False

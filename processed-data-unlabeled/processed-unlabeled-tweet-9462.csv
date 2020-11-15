@@ -1,0 +1,10 @@
+Iosing,iose,biose,34533,VERB,csubj,False
+appetite,appetite,appetite,17741,NOUN,dobj,False
+because,because,because,29780,SCONJ,mark,True
+re,be,be,29345,VERB,advcl,True
+sad,sad,sad,276441,ADJ,acomp,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+worst,bad,bad,26158,ADJ,amod,False
+feeling,feeling,feeling,110891,NOUN,attr,False
+ever,ever,ever,106143,ADV,advmod,True

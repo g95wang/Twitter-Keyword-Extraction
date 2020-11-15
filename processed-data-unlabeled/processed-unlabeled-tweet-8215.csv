@@ -1,0 +1,11 @@
+YOUNG,young,young,157730,ADJ,amod,False
+SINGERS,singer,singer,291687,NOUN,nsubj,False
+BRING,bring,bring,40851,VERB,ROOT,False
+THE,the,the,320691,DET,det,True
+SONG,SONG,song,297195,PROPN,dobj,False
+ALIVE,ALIVE,alive,8375,PROPN,npadvmod,False
+LOVE,LOVE,love,175534,PROPN,ROOT,False
+amp,amp,amp,10991,NOUN,conj,False
+HUGS,hug,hug,144730,VERB,appos,False
+TO,to,to,324862,ADP,prep,True
+THEM,them,them,320888,PRON,pobj,True

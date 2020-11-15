@@ -1,0 +1,9 @@
+Standing,stand,stand,302655,VERB,ROOT,False
+Strong,strong,strong,306510,ADJ,dobj,False
+To,to,to,324862,PART,aux,True
+Face,face,face,108932,VERB,ROOT,False
+Any,any,any,13086,DET,det,True
+Storm,storm,storm,305450,NOUN,compound,False
+ForYouMumbai,ForYouMumbai,formulaic,117492,PROPN,dobj,False
+Mumbai,Mumbai,macumba,177140,PROPN,appos,False
+CycloneNisarga,CycloneNisarga,cyclones,57180,PROPN,ROOT,False

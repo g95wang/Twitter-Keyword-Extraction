@@ -1,0 +1,12 @@
+Happy,happy,happy,133513,ADJ,amod,False
+birthday,birthday,birthday,34904,NOUN,nsubj,False
+Be,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+mad,mad,mad,177147,ADJ,advmod,False
+n,n,n,196396,CCONJ,npadvmod,False
+crazy,crazy,crazy,72341,ADJ,amod,False
+u,u,u,333554,PROPN,attr,False
+always,always,always,9710,ADV,advmod,True
+keep,keep,keep,163579,VERB,advcl,True
+rocking,rock,rock,273647,VERB,xcomp,False
+always,always,always,9710,ADV,advmod,True

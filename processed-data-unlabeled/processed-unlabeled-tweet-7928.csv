@@ -1,0 +1,12 @@
+is,be,be,29345,AUX,ROOT,True
+anything,anything,anything,13370,PRON,attr,True
+women,woman,woman,366955,NOUN,nsubj,False
+love,love,love,175534,VERB,relcl,False
+in,in,in,149313,ADP,prep,True
+life,life,life,171890,NOUN,pobj,False
+more,more,more,193383,ADJ,advmod,True
+than,than,than,320565,SCONJ,prep,True
+chocolate,chocolate,chocolate,55285,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+or,or,or,213904,CCONJ,cc,True
+cheese,cheese,cheese,53473,NOUN,conj,False

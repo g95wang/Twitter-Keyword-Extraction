@@ -1,0 +1,16 @@
+LOVE,LOVE,love,175534,NOUN,ROOT,False
+THESE,these,these,321594,DET,nsubj,True
+CATALOG,catalog,catalog,49283,VERB,ROOT,False
+PREVIEW,preview,preview,250200,VERB,compound,False
+BEST,best,best,32549,NOUN,compound,False
+DIGITAL,digital,digital,85441,NOUN,compound,False
+PHOTO,photo,photo,234975,NOUN,compound,False
+COVER,COVER,cover,71476,NOUN,nsubj,False
+Been,be,be,29345,AUX,ROOT,True
+Preview,preview,preview,250200,NOUN,compound,False
+Cover,cover,cover,71476,VERB,attr,False
+Many,many,many,179225,ADJ,amod,True
+Years,year,year,146706,NOUN,attr,False
+Purschase,purschase,purchase,256880,VERB,ROOT,False
+This,this,this,322217,DET,det,True
+Catalo,Catalo,catalo,49281,PROPN,dobj,False

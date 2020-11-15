@@ -1,0 +1,17 @@
+Online,Online,online,212850,PROPN,compound,False
+Webinar,Webinar,binary,34157,PROPN,compound,False
+conference,conference,conference,65817,NOUN,ROOT,False
+on,on,on,212644,ADP,prep,True
+Epilepsy,Epilepsy,epilepsy,102531,PROPN,pobj,False
+amp,amp,amp,10991,NOUN,conj,False
+Treatment,Treatment,treatment,328735,PROPN,compound,False
+Theme,Theme,theme,320895,PROPN,ROOT,False
+Impact,impact,impact,148207,NOUN,appos,False
+of,of,of,211535,ADP,prep,True
+COVID19,covid19,covid,71525,NOUN,pobj,False
+on,on,on,212644,ADP,prep,True
+management,management,management,178881,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+Epilepsy,Epilepsy,epilepsy,102531,PROPN,compound,False
+Abstract,abstract,abstract,1081,ADJ,compound,False
+Submissi,Submissi,submissit,308561,PROPN,pobj,False

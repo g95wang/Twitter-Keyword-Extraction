@@ -1,0 +1,9 @@
+This,this,this,322217,DET,nsubj,True
+has,have,have,134390,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+the,the,the,320691,DET,det,True
+funniest,funniest,funniest,120311,NOUN,compound,False
+nigga,nigga,niggra,199896,NOUN,attr,False
+on,on,on,212644,ADP,prep,True
+TikTok,TikTok,ticktock,323269,PROPN,pobj,False

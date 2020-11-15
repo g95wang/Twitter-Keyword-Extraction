@@ -1,0 +1,14 @@
+note,note,note,208861,VERB,ccomp,False
+to,to,to,324862,ADP,aux,True
+self,self,self,283523,NOUN,xcomp,False
+HAVE,have,have,134390,VERB,ROOT,True
+to,to,to,324862,PART,aux,True
+learn,learn,learn,169659,VERB,xcomp,False
+to,to,to,324862,PART,aux,True
+stop,stop,stop,305323,VERB,xcomp,False
+tripping,trip,trip,330270,VERB,xcomp,False
+over,over,over,218092,ADP,prep,True
+what,what,what,364447,PRON,dobj,True
+can,can,can,45964,VERB,aux,True
+not,not,not,208798,PART,neg,True
+control,control,control,67797,VERB,pcomp,False

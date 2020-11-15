@@ -1,0 +1,16 @@
+THE,the,the,320691,DET,det,True
+PEOPLE,PEOPLE,people,230162,NOUN,nsubj,False
+OF,of,of,211535,ADP,prep,True
+PERSIA,PERSIA,persia,231907,NOUN,pobj,False
+STAND,stand,stand,302655,VERB,ROOT,False
+WITH,with,with,366582,ADP,prep,True
+US,US,us,355940,PROPN,pobj,True
+THEY,they,they,320834,PRON,nsubj,True
+ARE,are,are,19297,VERB,ROOT,True
+MY,my,my,185619,DET,poss,True
+BROTHERS,brother,brother,41578,NOUN,attr,False
+AND,and,and,12285,CCONJ,cc,True
+SISTERS,sister,sister,292572,NOUN,ROOT,False
+WE,we,we,363451,PRON,nsubj,True
+STAND,stand,stand,302655,VERB,ROOT,False
+UNITED,UNITED,united,345066,PROPN,dobj,False

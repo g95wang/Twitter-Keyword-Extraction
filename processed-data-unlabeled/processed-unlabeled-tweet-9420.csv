@@ -1,0 +1,11 @@
+Here,here,here,136991,ADV,advmod,True
+Comes,come,come,63721,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+Thread,thread,thread,322554,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+Celebrities,celebrity,celebrity,50466,NOUN,pobj,False
+who,who,who,365278,PRON,nsubj,True
+wished,wish,wish,366457,VERB,relcl,False
+on,on,on,212644,ADP,prep,True
+Birthday,birthday,birthday,34904,NOUN,compound,False
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,ROOT,False

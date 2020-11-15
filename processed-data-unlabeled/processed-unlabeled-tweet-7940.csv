@@ -1,0 +1,11 @@
+i,i,i,145455,PRON,nsubj,True
+delete,delete,delete,80007,VERB,ROOT,False
+tweets,tweet,tweet,333246,NOUN,dobj,False
+sometimes,sometimes,sometimes,297064,ADV,advmod,True
+cos,cos,cos,69926,VERB,ROOT,False
+other,other,other,215836,ADJ,amod,True
+personalities,personality,personality,231966,NOUN,nsubj,False
+check,check,check,53311,VERB,ccomp,False
+and,and,and,12285,CCONJ,cc,True
+disagree,disagree,disagree,86961,VERB,conj,False
+lol,lol,lola,174784,PROPN,dobj,False

@@ -1,0 +1,9 @@
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+very,very,very,358514,ADV,advmod,True
+scary,scary,scary,279756,ADJ,amod,False
+country,country,country,71230,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+live,live,live,173931,VERB,relcl,False
+in,in,in,149313,ADP,prep,True

@@ -1,0 +1,12 @@
+Arme,Arme,armed,19901,PROPN,nmod,False
+black,black,black,35431,ADJ,amod,False
+men,man,man,178862,NOUN,nsubj,False
+walking,walk,walk,362193,VERB,ROOT,False
+through,through,through,322840,ADP,prep,True
+the,the,the,320691,DET,det,True
+white,white,white,365106,ADJ,amod,False
+neighborhood,neighborhood,neighborhood,198141,NOUN,pobj,False
+where,where,where,364654,ADV,advmod,True
+AhmaudArbery,AhmaudArbery,ambery,9958,PROPN,nsubjpass,False
+was,be,be,29345,AUX,auxpass,True
+murdered,murder,murder,195668,VERB,relcl,False

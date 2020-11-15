@@ -1,0 +1,15 @@
+literally,literally,literally,173575,ADV,advmod,False
+left,leave,leave,169747,VERB,ROOT,False
+a,a,a,0,DET,det,True
+-page,-page,page,222990,ADJ,compound,False
+Pandemic,Pandemic,pandemic,224465,PROPN,compound,False
+Playbook,Playbook,playbook,238718,PROPN,oprd,False
+that,that,that,320639,SCONJ,mark,True
+ignored,ignore,ignore,147087,VERB,ROOT,False
+And,and,and,12285,CCONJ,cc,True
+an,an,an,11448,DET,det,True
+office,office,office,211603,NOUN,conj,False
+called,call,call,45246,VERB,acl,False
+the,the,the,320691,DET,det,True
+Pandemic,Pandemic,pandemic,224465,PROPN,compound,False
+Preparedness,preparedness,preparedness,248755,NOUN,oprd,False

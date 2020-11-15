@@ -1,0 +1,16 @@
+Dear,dear,dear,77603,ADJ,compound,False
+Doctors,Doctors,doctors,90666,PROPN,ROOT,False
+Nurses,Nurses,nurses,209727,PROPN,conj,False
+Radiologists,Radiologists,radiologists,259709,PROPN,conj,False
+Pharmacists,Pharmacists,pharmacists,233114,PROPN,conj,False
+Medical,medical,medical,182067,ADJ,compound,False
+lab,lab,lab,166596,NOUN,compound,False
+scientists,scientist,scientist,280651,NOUN,conj,False
+Please,please,please,239622,INTJ,intj,True
+whenever,whenever,whenever,364648,ADV,advmod,True
+see,see,see,283054,VERB,advcl,True
+a,a,a,0,DET,det,True
+patient,patient,patient,227804,NOUN,dobj,False
+try,try,try,329065,VERB,pobj,False
+endeavor,endeavor,endeavor,99625,NOUN,ROOT,False
+t,t,t,314735,PROPN,npadvmod,False

@@ -1,0 +1,15 @@
+even,even,even,106079,ADV,advmod,True
+knowing,know,know,165702,VERB,csubj,False
+that,that,that,320639,DET,det,True
+morning,morning,morning,193499,NOUN,npadvmod,False
+will,will,will,365768,VERB,aux,True
+come,come,come,63721,VERB,ccomp,False
+day,day,day,76257,NOUN,npadvmod,False
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+stay,stay,stay,302393,VERB,xcomp,False
+in,in,in,149313,ADP,prep,True
+sky,sky,sky,293055,NOUN,pobj,False
+like,like,like,172172,SCONJ,prep,False
+a,a,a,0,DET,det,True
+star,star,star,302844,NOUN,pobj,False

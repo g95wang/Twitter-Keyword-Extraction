@@ -1,0 +1,7 @@
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+wait,wait,wait,362072,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+give,give,give,125692,VERB,xcomp,True
+to,to,to,324862,ADP,dative,True
+Ghana,Ghana,ghana,124475,PROPN,pobj,False

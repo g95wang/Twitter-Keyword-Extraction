@@ -1,0 +1,14 @@
+If,if,if,146980,SCONJ,mark,True
+are,be,be,29345,AUX,aux,True
+thinking,think,think,321897,VERB,advcl,False
+about,about,about,756,ADP,prep,True
+buying,buy,buy,42353,VERB,pcomp,False
+OR,or,or,213904,CCONJ,dobj,True
+selling,selling,selling,283589,NOUN,dobj,False
+now,now,now,209199,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+time,time,time,323746,NOUN,attr,False
+Check,check,check,53311,VERB,ROOT,False
+this,this,this,322217,DET,dobj,True
+out,out,out,216108,ADP,prt,True

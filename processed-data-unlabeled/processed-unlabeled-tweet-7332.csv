@@ -1,0 +1,13 @@
+Even,even,even,106079,ADV,advmod,True
+cousins,cousin,cousin,71384,NOUN,nsubj,False
+know,know,know,165702,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+U.S,U.S,us,355940,PROPN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+a,a,a,0,DET,det,True
+fucked,fuck,fuck,119742,VERB,amod,False
+up,up,up,354457,ADP,prt,True
+place,place,place,238538,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,relcl,True
+in,in,in,149313,ADP,prep,True

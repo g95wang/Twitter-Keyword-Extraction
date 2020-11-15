@@ -1,0 +1,16 @@
+weight,weight,weight,363896,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+most,most,most,193889,ADV,advmod,True
+obvious,obvious,obvious,210622,ADJ,amod,False
+literally,literally,literally,173575,ADV,advmod,False
+shocking,shocking,shocking,288652,ADJ,attr,False
+from,from,from,119298,ADP,prep,True
+a,a,a,0,DET,det,True
+video,video,video,359514,NOUN,pobj,False
+to,to,to,324862,ADP,prep,True
+another,another,another,13899,DET,pobj,True
+Beyonc,Beyonc,beyond,30884,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+lie,lie,lie,171801,NOUN,attr,False

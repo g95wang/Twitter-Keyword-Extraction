@@ -1,0 +1,16 @@
+BFI5350,BFI5350,befit,30468,PROPN,punct,False
+Working,work,work,367468,VERB,compound,False
+iherb,iherb,herb,136883,ADJ,compound,False
+coupon,coupon,coupon,71274,NOUN,compound,False
+coupon,coupon,coupon,71274,NOUN,ROOT,False
+from,from,from,119298,ADP,prep,True
+iherb,iherb,herb,136883,PROPN,amod,False
+use,use,use,355958,PROPN,compound,False
+code,code,code,61687,NOUN,compound,False
+discount,discount,discount,87620,NOUN,compound,False
+code,code,code,61687,PROPN,compound,False
+BFI5350,bfi5350,befit,30468,NOUN,compound,False
+works,work,work,367468,VERB,pobj,False
+for,for,for,116301,ADP,prep,True
+all,all,all,8522,DET,det,True
+orders,order,order,214218,NOUN,pobj,False

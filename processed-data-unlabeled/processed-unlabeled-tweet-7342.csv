@@ -1,0 +1,14 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+no,no,no,200529,DET,det,True
+time,time,time,323746,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,relcl,True
+silent,silent,silent,290275,ADJ,acomp,False
+Speak,speak,speak,298684,VERB,ROOT,False
+up,up,up,354457,ADP,prt,True
+Get,get,get,124419,AUX,ROOT,True
+involved,involved,involved,157343,ADJ,acomp,False
+Be,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+change,change,change,52470,NOUN,attr,False

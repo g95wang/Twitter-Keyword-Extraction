@@ -1,0 +1,14 @@
+i,i,i,145455,PRON,nsubj,True
+need,need,need,197910,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,xcomp,True
+out,out,out,216108,SCONJ,prep,True
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+house,house,house,144380,NOUN,pobj,False
+m,be,be,29345,VERB,dep,False
+blowing,blow,blow,36594,VERB,ROOT,False
+all,all,all,8522,DET,predet,True
+money,money,money,191829,NOUN,compound,False
+shopping,shopping,shopping,288842,NOUN,advcl,False
+online,online,online,212850,ADV,advmod,False

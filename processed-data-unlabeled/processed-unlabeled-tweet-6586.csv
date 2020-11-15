@@ -1,0 +1,14 @@
+HES,HES,hes,137353,PROPN,nsubj,False
+PLANNING,plan,plan,238877,VERB,nsubj,False
+ON,on,on,212644,ADP,prt,True
+GOING,go,go,127161,VERB,ROOT,False
+TO,to,to,324862,ADP,aux,True
+CLEMSON,clemson,aclemon,2575,NOUN,xcomp,False
+TWITTER,TWITTER,twitter,333475,PROPN,ROOT,False
+DO,do,do,90528,VERB,conj,True
+YOUR,your,your,157754,DET,poss,True
+THING,thing,thing,321869,NOUN,dobj,False
+AND,and,and,12285,CCONJ,cc,True
+GET,get,get,124419,VERB,conj,True
+HIS,his,his,141668,DET,poss,True
+ASS,ass,ass,21558,NOUN,dobj,False

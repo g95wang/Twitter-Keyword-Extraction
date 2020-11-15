@@ -1,0 +1,15 @@
+Amidst,amidst,amidst,10462,ADP,nsubj,False
+confusion,confusion,confusion,66095,NOUN,pobj,False
+over,over,over,218092,ADP,prep,True
+the,the,the,320691,DET,det,True
+govts,govts,govt,128405,NOUN,pobj,False
+StayAlert,StayAlert,stayable,302395,PROPN,compound,False
+advice,advice,advice,4683,NOUN,conj,False
+detail,detail,detail,83068,NOUN,appos,False
+of,of,of,211535,ADP,prep,True
+-page,-page,page,222990,NOUN,dep,False
+PlanToRebulid,PlanToRebulid,planorboid,239057,PROPN,pobj,False
+goes,go,go,127161,VERB,ROOT,False
+without,without,without,366665,ADP,prep,True
+scrutiny,scrutiny,scrutiny,282103,NOUN,pobj,False
+Yet,yet,yet,146952,ADV,ROOT,True

@@ -1,0 +1,17 @@
+Take,take,take,315491,VERB,ROOT,True
+a,a,a,0,DET,det,True
+cockroaches,cockroach,cockroach,61562,NOUN,dobj,False
+Rub,rub,rub,275079,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+thigh,thigh,thigh,321755,NOUN,pobj,False
+Stay,stay,stay,302393,VERB,ROOT,False
+like,like,like,172172,SCONJ,prep,False
+that,that,that,320639,DET,pobj,True
+for,for,for,116301,ADP,prep,True
+hours,hour,hour,144367,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+dark,dark,dark,76942,ADJ,amod,False
+room,room,room,274247,NOUN,pobj,False
+Now,now,now,209199,ADV,advmod,True
+write,write,write,368047,VERB,ROOT,False

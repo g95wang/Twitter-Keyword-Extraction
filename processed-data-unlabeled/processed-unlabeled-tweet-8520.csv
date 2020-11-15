@@ -1,0 +1,11 @@
+now,now,now,209199,ADV,advmod,True
+that,that,that,320639,SCONJ,nsubj,True
+s,s,s,275971,VERB,ROOT,False
+a,a,a,0,DET,det,True
+glowup,glowup,blowup,36653,NOUN,attr,False
+from,from,from,119298,ADP,prep,True
+s1,s1,s,275971,PROPN,pobj,False
+ok,ok,ok,211942,INTJ,ROOT,False
+bye,bye,bye,33554,INTJ,ROOT,False
+m,be,be,29345,VERB,dep,False
+done,do,do,90528,VERB,ROOT,True

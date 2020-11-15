@@ -1,0 +1,9 @@
+rock,rock,rock,273647,NOUN,compound,False
+music,music,music,195981,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+nt,not,not,208798,PART,neg,False
+music,music,music,195981,NOUN,attr,False
+unless,unless,unless,345548,SCONJ,mark,True
+m,be,be,29345,VERB,advcl,False
+rock,rock,rock,273647,VERB,dobj,False
+hard,hard,hard,133614,ADV,advmod,False

@@ -1,0 +1,11 @@
+The,the,the,320691,DET,det,True
+world,world,world,367566,NOUN,nsubj,False
+calls,call,call,45246,VERB,ROOT,False
+Money,Money,money,191829,PROPN,compound,False
+Heist,Heist,heist,135413,PROPN,oprd,False
+Here,here,here,136991,ADV,advmod,True
+in,in,in,149313,ADP,prep,True
+India,India,india,150872,PROPN,pobj,False
+call,call,call,45246,VERB,ROOT,True
+PM,PM,pm,240704,PROPN,compound,False
+Cares,Cares,cares,47939,PROPN,oprd,False

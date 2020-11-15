@@ -1,0 +1,15 @@
+THANK,thank,thank,320604,VERB,ROOT,False
+YOU,you,you,157723,PRON,dobj,True
+for,for,for,116301,ADP,mark,True
+further,further,further,120517,ADJ,advmod,True
+proving,proving,proving,254088,NOUN,csubj,False
+bot,bot,bot,38655,NOUN,compound,False
+restocks,restock,restock,269964,NOUN,dobj,False
+are,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+joke,joke,joke,161668,NOUN,attr,False
+and,and,and,12285,CCONJ,cc,True
+a,a,a,0,DET,det,True
+waste,waste,waste,362983,NOUN,conj,False
+of,of,of,211535,ADP,prep,True
+time,time,time,323746,NOUN,pobj,False

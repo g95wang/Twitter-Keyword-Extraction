@@ -1,0 +1,10 @@
+Quite,quite,quite,259028,ADV,advmod,True
+right,right,right,272806,ADV,advmod,False
+expected,expect,expect,107598,VERB,ROOT,False
+of,of,of,211535,ADP,prep,True
+any,any,any,13086,DET,det,True
+sovereign,sovereign,sovereign,298056,ADJ,amod,False
+nation,nation,nation,197258,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+protect,protect,protect,253369,VERB,advcl,False
+waters,water,water,363105,NOUN,dobj,False

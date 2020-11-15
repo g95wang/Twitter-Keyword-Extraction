@@ -1,0 +1,12 @@
+Category,category,category,49530,NOUN,ROOT,False
+Harassment,harassment,harassment,133574,NOUN,appos,False
+and,and,and,12285,CCONJ,cc,True
+intimidation,intimidation,intimidation,156315,NOUN,conj,False
+of,of,of,211535,ADP,prep,True
+journalists,journalist,journalist,161884,NOUN,compound,False
+Source,Source,source,297914,PROPN,pobj,False
+of,of,of,211535,ADP,prep,True
+Threat,Threat,threat,322589,PROPN,pobj,False
+State,state,state,303029,NOUN,ROOT,False
+From,from,from,119298,ADP,prep,True
+Serb,Serb,serb,285935,PROPN,pobj,False

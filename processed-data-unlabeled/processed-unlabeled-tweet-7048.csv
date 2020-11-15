@@ -1,0 +1,14 @@
+Children,child,child,54285,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+Not,not,not,208798,PART,neg,True
+testing,test,test,319741,VERB,ROOT,False
+kits,kit,kit,165157,NOUN,dobj,False
+First,first,first,113286,ADV,advmod,True
+open,open,open,213219,ADJ,amod,False
+Parliament,Parliament,parliament,226609,PROPN,nsubj,False
+amp,amp,amp,10991,NOUN,conj,False
+then,then,then,320906,ADV,advmod,True
+think,think,think,321897,VERB,ROOT,False
+of,of,of,211535,ADP,prep,True
+opening,open,open,213219,VERB,pcomp,False
+Schools,school,school,280423,NOUN,dobj,False

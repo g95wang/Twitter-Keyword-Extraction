@@ -1,0 +1,9 @@
+A,a,a,0,DET,det,True
+few,few,few,111900,ADJ,amod,True
+moments,moment,moment,191630,NOUN,npadvmod,False
+earlier,early,early,94742,ADV,advmod,False
+were,be,be,29345,AUX,aux,True
+feeding,feed,feed,110855,VERB,ROOT,False
+each,each,each,94673,DET,det,True
+other,other,other,215836,ADJ,amod,True
+lol,lol,lola,174784,NOUN,dobj,False

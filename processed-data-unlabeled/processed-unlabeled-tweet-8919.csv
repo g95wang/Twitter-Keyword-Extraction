@@ -1,0 +1,14 @@
+Liverpool,Liverpool,liverpool,173977,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+Man,Man,man,178862,PROPN,compound,False
+City,City,city,58633,PROPN,conj,False
+cleared,clear,clear,59644,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+seal,seal,seal,282453,VERB,xcomp,False
+m,m,m,176591,NOUN,compound,False
+transfer,transfer,transfer,327834,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+highly,highly,highly,139278,ADV,advmod,False
+rated,rate,rate,260983,VERB,amod,False
+-year,-year,year,146706,NOUN,npadvmod,False
+old,old,old,212002,ADJ,pobj,False

@@ -1,0 +1,10 @@
+A,a,a,0,DET,det,True
+woman,woman,woman,366955,NOUN,nsubj,False
+can,can,can,45964,VERB,aux,True
+apologize,apologize,apologize,17273,VERB,ROOT,False
+cry,cry,cry,72853,VERB,conj,False
+faint,faint,faint,109281,ADJ,conj,False
+and,and,and,12285,CCONJ,cc,True
+still,still,still,304511,ADV,advmod,True
+be,be,be,29345,AUX,aux,True
+lying,lie,lie,171801,VERB,conj,False

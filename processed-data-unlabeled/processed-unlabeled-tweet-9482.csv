@@ -1,0 +1,16 @@
+stole,steal,steal,303257,VERB,ROOT,False
+everything,everything,everything,106171,PRON,dobj,True
+even,even,even,106079,ADV,advmod,True
+cooking,cook,cook,68219,VERB,advcl,False
+gas,gas,gas,122327,NOUN,compound,False
+cylinders,cylinder,cylinder,57384,NOUN,dobj,False
+Indian,Indian,indian,150876,PROPN,amod,False
+Occupation,Occupation,occupation,210741,PROPN,compound,False
+Forces,Forces,forces,116424,PROPN,nsubj,False
+ransacked,ransack,ransack,260624,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+looted,loot,loot,175134,VERB,conj,False
+Muslim,Muslim,muslim,196089,PROPN,amod,False
+owned,own,own,222072,VERB,amod,False
+homes,home,home,142751,NOUN,compound,False
+i,i,i,145455,PRON,dobj,True

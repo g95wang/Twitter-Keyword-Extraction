@@ -1,0 +1,14 @@
+God,God,god,127304,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+giving,give,give,125692,VERB,ROOT,False
+Karma,Karma,karma,163238,PROPN,dobj,False
+because,because,because,29780,SCONJ,mark,True
+bigoted,bigoted,bigoted,33776,ADJ,amod,False
+people,people,people,230162,NOUN,nsubj,False
+like,like,like,172172,SCONJ,prep,False
+spread,spread,spread,301217,VERB,advcl,False
+hate,hate,hate,134216,NOUN,dobj,False
+So,so,so,295959,ADV,ROOT,True
+if,if,if,146980,SCONJ,mark,True
+only,only,only,212848,ADV,advmod,True
+stop,stop,stop,305323,VERB,punct,False

@@ -1,0 +1,16 @@
+When,when,when,364637,ADV,advmod,True
+that,that,that,320639,DET,det,True
+pathetic,pathetic,pathetic,227688,ADJ,amod,False
+senile,senile,senile,285277,ADJ,amod,False
+slime,slime,slime,294082,NOUN,compound,False
+ball,ball,ball,26890,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+a,a,a,0,DET,det,True
+president,president,president,249451,NOUN,pobj,False
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+even,even,even,106079,ADV,advmod,True
+name,name,name,196686,VERB,ROOT,True
+crime,crime,crime,72941,NOUN,dobj,False
+that,that,that,320639,DET,nsubj,True
+Pre,Pre,pre,245405,VERB,relcl,False

@@ -1,0 +1,15 @@
+Looking,look,look,175060,VERB,ROOT,False
+forward,forward,forward,117747,ADV,advmod,False
+to,to,to,324862,ADP,prep,True
+killing,kill,kill,164577,VERB,pcomp,False
+tyranny,tyranny,tyranny,324436,NOUN,dobj,False
+whoever,whoever,whoever,365284,PRON,dobj,True
+brings,bring,bring,40851,VERB,ccomp,False
+Happy,happy,happy,133513,ADJ,dobj,False
+to,to,to,324862,PART,aux,True
+serve,serve,serve,286430,VERB,xcomp,False
+against,against,against,5830,ADP,prep,True
+the,the,the,320691,DET,det,True
+billionaires,billionaire,billionaire,34028,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+personnel,personnel,personnel,232004,NOUN,conj,False

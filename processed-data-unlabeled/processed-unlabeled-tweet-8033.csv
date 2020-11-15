@@ -1,0 +1,16 @@
+By,by,by,33133,ADP,prep,True
+performing,perform,perform,230668,VERB,pcomp,False
+devotional,devotional,devotional,83684,ADJ,amod,False
+devotion,devotion,devotion,83683,NOUN,dobj,False
+the,the,the,320691,DET,det,True
+divine,divine,divine,90346,ADJ,amod,False
+powers,power,power,245001,NOUN,nsubj,False
+give,give,give,125692,VERB,ROOT,True
+full,full,full,119933,ADJ,amod,True
+benefit,benefit,benefit,31575,NOUN,dobj,False
+to,to,to,324862,ADP,dative,True
+the,the,the,320691,DET,det,True
+humans,human,human,144841,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+seek,seek,seek,283114,NOUN,conj,False

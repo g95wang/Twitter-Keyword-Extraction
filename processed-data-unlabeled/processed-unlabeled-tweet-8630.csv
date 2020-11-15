@@ -1,0 +1,14 @@
+Coronavirus,Coronavirus,coronavirus,69453,PROPN,nsubj,False
+spreads,spread,spread,301217,VERB,ROOT,False
+quickly,quickly,quickly,258506,ADV,advmod,False
+in,in,in,149313,ADP,prep,True
+closed,closed,closed,60436,ADJ,amod,False
+spaces,space,space,298142,NOUN,pobj,False
+like,like,like,172172,SCONJ,prep,False
+cruise,cruise,cruise,74146,NOUN,compound,False
+ships,ship,ship,288403,NOUN,pobj,False
+nursing,nursing,nursing,209730,NOUN,compound,False
+homes,home,home,142751,NOUN,conj,False
+and,and,and,12285,CCONJ,cc,True
+prisons,prison,prison,250784,NOUN,conj,False
+Hence,hence,hence,136532,ADV,ROOT,True

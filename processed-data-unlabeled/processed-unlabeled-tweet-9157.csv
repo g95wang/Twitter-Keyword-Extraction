@@ -1,0 +1,16 @@
+Was,be,be,29345,AUX,ROOT,True
+lucky,lucky,lucky,175842,ADJ,acomp,False
+enough,enough,enough,100831,ADV,advmod,True
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+in,in,in,149313,ADP,prep,True
+Cardiff,Cardiff,cardia,47711,PROPN,pobj,False
+with,with,with,366582,ADP,prep,True
+And,and,and,12285,CCONJ,cc,True
+witness,witness,witness,366708,VERB,ROOT,False
+Unreal,unreal,unreal,349103,ADJ,amod,False
+speed,speed,speed,299007,NOUN,ROOT,False
+for,for,for,116301,ADP,prep,True
+the,the,the,320691,DET,det,True
+second,second,second,282753,ADJ,amod,False
+goal,goal,goal,127172,NOUN,pobj,False

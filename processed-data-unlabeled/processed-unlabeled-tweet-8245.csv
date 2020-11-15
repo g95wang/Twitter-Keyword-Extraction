@@ -1,0 +1,17 @@
+happy,happy,happy,133513,PROPN,amod,False
+mother,mother,mother,193933,NOUN,poss,False
+'s,'s,s,275971,PART,case,True
+day,day,day,76257,NOUN,ROOT,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+insane,insane,insane,153391,ADJ,amod,False
+person,person,person,231951,NOUN,pobj,False
+who,who,who,365278,PRON,nsubj,True
+runs,run,run,275612,VERB,relcl,False
+the,the,the,320691,DET,det,True
+laika,laika,laik,167416,PROPN,amod,False
+social,social,social,296098,PROPN,amod,False
+media,medium,medium,182217,NOUN,compound,False
+promo,promo,promo,252297,NOUN,compound,False
+team,team,team,317482,NOUN,dobj,False
+only,only,only,212848,ADV,advmod,True

@@ -1,0 +1,17 @@
+Screen,Screen,screen,281701,PROPN,compound,False
+presence,presence,presence,249336,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+NTR,NTR,entr,101618,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+these,these,these,321594,DET,det,True
+scenes,scene,scene,279964,NOUN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+simply,simply,simply,291075,ADV,advmod,False
+next,next,next,199504,ADJ,amod,True
+level,level,level,171192,NOUN,attr,False
+Temper,Temper,temper,318506,PROPN,compound,False
+Interval,Interval,interval,156126,PROPN,compound,False
+block,block,block,36348,NOUN,compound,False
+NKP,NKP,np,209239,PROPN,compound,False
+Interval,Interval,interval,156126,PROPN,compound,False
+bloc,bloc,bloc,36346,NOUN,ROOT,False

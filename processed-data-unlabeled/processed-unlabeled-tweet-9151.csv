@@ -1,0 +1,11 @@
+Anri,Anri,ani,13085,PROPN,nmod,False
+Hoshizaki,Hoshizaki,shiai,288159,PROPN,ROOT,False
+Uncen,Uncen,unclean,337005,PROPN,appos,False
+Uncen,Uncen,unclean,337005,PROPN,nmod,False
+WarpsiwaHOT,warpsiwahot,arapaho,18452,NOUN,punct,False
+Full,full,full,119933,ADJ,amod,True
+Movie,movie,movie,194399,NOUN,compound,False
+VIP,vip,vip,360071,NOUN,compound,False
+Members,member,member,183109,NOUN,appos,False
+Only,only,only,212848,ADV,advmod,True
+VIP,vip,vip,360071,NOUN,appos,False

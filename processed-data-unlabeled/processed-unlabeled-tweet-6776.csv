@@ -1,0 +1,16 @@
+Ffs,Ffs,effs,96098,PROPN,nsubj,False
+has,have,have,134390,AUX,ROOT,True
+janey,janey,jane,160300,PROPN,compound,False
+godley,godley,godly,127353,NOUN,dobj,False
+on,on,on,212644,ADP,prt,True
+for,for,for,116301,ADP,prep,True
+some,some,some,297029,DET,det,True
+reason,reason,reason,262021,NOUN,pobj,False
+discussions,discussion,discussion,87797,NOUN,conj,False
+about,about,about,756,ADP,prep,True
+everything,everything,everything,106171,PRON,pobj,True
+and,and,and,12285,CCONJ,cc,True
+everyone,everyone,everyone,106169,PRON,conj,True
+that,that,that,320639,SCONJ,dobj,True
+hate,hate,hate,134216,VERB,relcl,False
+Tru,Tru,thru,322873,PROPN,npadvmod,False

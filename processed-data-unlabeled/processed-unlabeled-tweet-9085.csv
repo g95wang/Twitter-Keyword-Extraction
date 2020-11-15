@@ -1,0 +1,17 @@
+Aight,Aight,adight,3921,PROPN,advmod,False
+give,give,give,125692,VERB,ccomp,True
+more,more,more,193383,ADJ,amod,True
+data,datum,datum,77210,NOUN,dobj,False
+than,than,than,320565,SCONJ,prep,True
+with,with,with,366582,ADP,prep,True
+the,the,the,320691,DET,det,True
+same,same,same,277518,ADJ,amod,True
+price,price,price,250334,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+dst,dst,dist,89678,PROPN,pobj,False
+would,would,would,367745,VERB,aux,True
+give,give,give,125692,VERB,ROOT,True
+GB,GB,gab,120762,PROPN,dobj,False
+unl,unl,unl,345377,ADJ,compound,False
+sms,sms,isms,158743,NOUN,conj,False
+and,and,and,12285,CCONJ,cc,True

@@ -1,0 +1,16 @@
+Treasure,treasure,treasure,328703,NOUN,nsubjpass,False
+is,be,be,29345,AUX,auxpass,True
+expected,expect,expect,107598,VERB,ROOT,False
+not,not,not,208798,PART,preconj,True
+only,only,only,212848,ADV,advmod,True
+to,to,to,324862,PART,aux,True
+perform,perform,perform,230668,VERB,xcomp,False
+in,in,in,149313,ADP,prep,True
+Korea,Korea,korea,166083,PROPN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+around,around,around,20104,ADP,conj,True
+the,the,the,320691,DET,det,True
+World,World,world,367566,PROPN,pobj,False
+TREASURE,treasure,treasure,328703,NOUN,compound,False
+WORLD,WORLD,world,367566,PROPN,compound,False
+DOMINATION,domination,domination,91313,NOUN,ROOT,False

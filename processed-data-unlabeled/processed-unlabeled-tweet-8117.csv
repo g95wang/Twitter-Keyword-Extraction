@@ -1,0 +1,8 @@
+John,John,john,161555,PROPN,compound,False
+Cena,Cena,chena,53788,PROPN,nsubj,False
+wrote,write,write,368047,VERB,ROOT,False
+Time,time,time,323746,NOUN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+Now,now,now,209199,ADV,advmod,True
+in,in,in,149313,ADP,prep,True
+hours,hour,hour,144367,NOUN,pobj,False

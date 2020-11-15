@@ -1,0 +1,10 @@
+Finally,finally,finally,112856,ADV,advmod,False
+LIVE,live,live,173931,ADV,nsubjpass,False
+can,can,can,45964,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+seen,see,see,283054,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+real,real,real,261710,ADJ,amod,False
+time,time,time,323746,NOUN,pobj,False
+'m,be,be,29345,AUX,ROOT,True
+happy,happy,happy,133513,ADJ,acomp,False

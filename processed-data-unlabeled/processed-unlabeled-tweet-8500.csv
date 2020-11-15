@@ -1,0 +1,11 @@
+All,all,all,8522,DET,predet,True
+these,these,these,321594,DET,det,True
+gangs,gang,gang,121842,NOUN,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+not,not,not,208798,PART,neg,True
+beef,beef,beef,30293,VERB,conj,False
+with,with,with,366582,ADP,prep,True
+a,a,a,0,DET,det,True
+white,white,white,365106,ADJ,amod,False
+supremacy,supremacy,supremacy,313281,NOUN,compound,False
+group,group,group,130347,NOUN,pobj,False

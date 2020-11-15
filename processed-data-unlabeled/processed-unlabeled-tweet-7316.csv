@@ -1,0 +1,16 @@
+Absolutely,absolutely,absolutely,985,ADV,ROOT,False
+The,the,the,320691,DET,det,True
+ones,one,one,212715,NOUN,nsubj,False
+making,make,make,178090,VERB,acl,False
+policy,policy,policy,241742,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+dictating,dictate,dictate,84952,VERB,conj,False
+treatment,treatment,treatment,328735,NOUN,compound,False
+options,option,option,213845,NOUN,dobj,False
+are,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+CPPs,cpps,copps,68635,ADJ,attr,False
+Help,help,help,135801,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+raise,raise,raise,260134,VERB,xcomp,False
+awareness,awareness,awareness,24971,NOUN,dobj,False

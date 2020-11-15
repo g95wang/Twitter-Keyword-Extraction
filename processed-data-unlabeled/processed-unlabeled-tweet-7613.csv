@@ -1,0 +1,13 @@
+All,all,all,8522,DET,nsubj,True
+takes,take,take,315491,VERB,relcl,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+proper,proper,proper,252591,ADJ,amod,False
+quick,quick,quick,258487,ADJ,amod,False
+left,leave,leave,169747,VERB,amod,False
+jab,jab,jab,159801,PROPN,attr,False
+to,to,to,324862,PART,aux,True
+take,take,take,315491,VERB,xcomp,True
+down,down,down,92197,ADP,prt,True
+a,a,a,0,DET,det,True
+tree,tree,tree,328769,NOUN,dobj,False

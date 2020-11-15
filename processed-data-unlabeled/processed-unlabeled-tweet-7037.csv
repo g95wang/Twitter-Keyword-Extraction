@@ -1,0 +1,13 @@
+LITERALLY,literally,literally,173575,VERB,ROOT,False
+MUSE,muse,muse,195926,VERB,compound,False
+A,a,a,0,DET,det,True
+CHARACTER,character,character,52709,NOUN,dobj,False
+FROM,from,from,119298,ADP,prep,True
+THE,the,the,320691,DET,det,True
+PHANTOM,phantom,phantom,232998,NOUN,compound,False
+THIEVES,thieves,thieves,321745,NOUN,pobj,False
+NO,no,no,200529,INTJ,intj,True
+THE,the,the,320691,DET,nsubj,True
+LEADER,LEADER,leader,169520,PROPN,appos,False
+SHUT,shut,shut,289397,VERB,ROOT,False
+UP,up,up,354457,ADP,prt,True

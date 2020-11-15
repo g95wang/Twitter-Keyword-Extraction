@@ -1,0 +1,10 @@
+Police,police,police,241679,NOUN,compound,False
+officers,officer,officer,211608,NOUN,nsubjpass,False
+must,must,must,196148,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+held,hold,hold,142390,VERB,ROOT,False
+accountable,accountable,accountable,1721,ADJ,oprd,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+law,law,law,169329,NOUN,pobj,False
+Period,period,period,231096,NOUN,ROOT,False

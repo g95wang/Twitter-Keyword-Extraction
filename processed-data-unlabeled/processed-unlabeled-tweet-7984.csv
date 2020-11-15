@@ -1,0 +1,13 @@
+i,i,i,145455,PRON,nsubj,True
+miss,miss,miss,189987,VERB,ROOT,False
+jokes,joke,joke,161668,NOUN,dobj,False
+was,be,be,29345,AUX,ROOT,True
+nt,not,not,208798,PART,neg,False
+funny,funny,funny,120308,ADJ,acomp,False
+but,but,but,43550,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+effort,effort,effort,96079,NOUN,nsubj,False
+meant,mean,mean,181735,VERB,conj,False
+so,so,so,295959,ADV,advmod,True
+much,much,much,194510,ADJ,advmod,True
+to,to,to,324862,ADP,prep,True

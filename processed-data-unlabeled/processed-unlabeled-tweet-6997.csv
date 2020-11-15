@@ -1,0 +1,12 @@
+all,all,all,8522,DET,nsubj,True
+still,still,still,304511,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+understand,understand,understand,339888,VERB,ROOT,False
+The,the,the,320691,DET,det,True
+Moon,Moon,moon,193019,PROPN,dobj,False
+The,the,the,320691,DET,det,True
+Maath,Maath,maat,176600,PROPN,ROOT,False
+of,of,of,211535,ADP,prep,True
+Lakes,Lakes,lakes,167494,PROPN,compound,False
+tho,tho,tho,322272,NOUN,pobj,False

@@ -1,0 +1,14 @@
+luvities,luvitie,luite,175980,NOUN,compound,False
+lets,let,let,170875,NOUN,nsubj,False
+make,make,make,178090,VERB,ROOT,True
+the,the,the,320691,DET,det,True
+longest,long,long,174883,ADJ,amod,False
+cravity,cravity,cavity,50250,NOUN,dobj,False
+did,do,do,90528,AUX,relcl,True
+well,well,well,364011,ADV,ROOT,True
+chain,chain,chain,51972,VERB,npadvmod,False
+ill,ill,ill,147293,ADJ,amod,False
+start,start,start,302958,NOUN,ROOT,False
+cravity,cravity,cavity,50250,NOUN,npadvmod,False
+did,do,do,90528,AUX,ROOT,True
+well,well,well,364011,ADV,advmod,True

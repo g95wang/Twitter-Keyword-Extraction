@@ -1,0 +1,13 @@
+Diego,Diego,diego,85138,PROPN,compound,False
+Simeone,Simeone,simeon,290814,PROPN,nsubj,False
+takes,take,take,315491,VERB,ROOT,False
+fresh,fresh,fresh,118806,ADJ,amod,False
+dig,dig,dig,85377,NOUN,dobj,False
+at,at,at,22372,ADP,prep,True
+Liverpool,Liverpool,liverpool,173977,PROPN,compound,False
+critics,critic,critic,73476,NOUN,pobj,False
+after,after,after,5615,ADP,prep,True
+Atleticos,Atleticos,athletics,22605,PROPN,compound,False
+Champions,Champions,champions,52371,PROPN,compound,False
+League,League,league,169589,PROPN,compound,False
+win,win,win,365877,NOUN,pobj,False

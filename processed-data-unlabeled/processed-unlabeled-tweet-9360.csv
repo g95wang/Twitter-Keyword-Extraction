@@ -1,0 +1,16 @@
+mfs,mfs,fs,119701,PRON,nsubj,False
+rather,rather,rather,261011,ADV,advmod,True
+get,get,get,124419,VERB,ROOT,True
+a,a,a,0,DET,det,True
+solid,solid,solid,296713,ADJ,amod,False
+and,and,and,12285,CCONJ,cc,True
+duck,duck,duck,93736,NOUN,conj,False
+off,off,off,211539,ADP,prt,True
+other,other,other,215836,ADJ,advmod,True
+than,than,than,320565,SCONJ,mark,True
+get,get,get,124419,AUX,advcl,True
+some,some,some,297029,DET,det,True
+money,money,money,191829,NOUN,dobj,False
+amp,amp,amp,10991,NOUN,conj,False
+duck,duck,duck,93736,NOUN,conj,False
+off,off,off,211539,ADP,prt,True

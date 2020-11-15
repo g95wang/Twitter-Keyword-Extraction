@@ -1,0 +1,10 @@
+Mike,Mike,mike,187073,PROPN,compound,False
+Tyson,Tyson,hyson,141674,PROPN,nsubj,False
+declares,declare,declare,78460,VERB,ROOT,False
+'m,be,be,29345,AUX,ccomp,True
+back,back,back,25705,ADV,advmod,True
+during,during,during,94458,ADP,prep,True
+ferocious,ferocious,ferocious,111438,ADJ,amod,False
+training,training,training,327467,NOUN,compound,False
+session,session,session,286585,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True

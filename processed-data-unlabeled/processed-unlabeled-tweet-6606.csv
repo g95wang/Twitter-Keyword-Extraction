@@ -1,0 +1,11 @@
+i,i,i,145455,PRON,nsubj,True
+was,be,be,29345,AUX,ROOT,True
+talkin,talkin,talking,315658,ADV,npadvmod,False
+wild,wild,wild,365686,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+being,be,be,29345,AUX,conj,True
+a,a,a,0,DET,det,True
+jerk,jerk,jerk,160922,NOUN,attr,False
+i,i,i,145455,PRON,nsubj,True
+take,take,take,315491,VERB,ROOT,True
+back,back,back,25705,ADV,advmod,True

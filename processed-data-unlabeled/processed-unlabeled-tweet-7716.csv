@@ -1,0 +1,17 @@
+list,list,list,173498,VERB,ROOT,False
+top,top,top,325810,ADJ,amod,True
+animes,anime,anime,13217,NOUN,dobj,False
+then,then,then,320906,ADV,advmod,True
+tag,tag,tag,315231,NOUN,compound,False
+ppl,ppl,ppl,245060,NOUN,npadvmod,False
+-attack,-attack,attack,22933,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+titan,titan,titan,324610,ADJ,pobj,False
+-darling,-darling,darling,76983,PROPN,ROOT,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+franxx,franxx,frayn,118267,ADJ,compound,False
+-ouran,-ouran,ourang,216079,ADJ,compound,False
+high,high,high,139224,ADJ,amod,False
+school,school,school,280423,NOUN,compound,False
+ho,ho,ho,142018,NOUN,pobj,False

@@ -1,0 +1,10 @@
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+memorial,memorial,memorial,183185,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+making,make,make,178090,VERB,ROOT,False
+so,so,so,295959,ADV,advmod,True
+emotional,emotional,emotional,98647,ADJ,ccomp,False
+needs,need,need,197910,VERB,ROOT,False
+justice,justice,justice,162510,NOUN,dobj,False

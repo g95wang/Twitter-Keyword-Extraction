@@ -1,0 +1,14 @@
+By,by,by,33133,ADP,prep,True
+these,these,these,321594,DET,det,True
+authoritarian,authoritarian,authoritarian,23825,ADJ,amod,False
+militaristic,militaristic,militaristic,187199,ADJ,amod,False
+responses,response,response,269785,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True
+law,law,law,169329,NOUN,compound,False
+enforcement,enforcement,enforcement,100254,NOUN,pobj,False
+'m,be,be,29345,AUX,aux,True
+getting,get,get,124419,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+feeling,feeling,feeling,110891,NOUN,dobj,False
+that,that,that,320639,DET,mark,True
+noth,noth,north,208605,NOUN,relcl,False

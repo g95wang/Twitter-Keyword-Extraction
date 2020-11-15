@@ -1,0 +1,17 @@
+For,for,for,116301,ADP,prep,True
+immediate,immediate,immediate,147907,ADJ,amod,False
+safety,safety,safety,276575,NOUN,compound,False
+concerns,concern,concern,65181,NOUN,pobj,False
+please,please,please,239622,VERB,ROOT,True
+Text,Text,text,320378,PROPN,compound,False
+Press,Press,press,249564,PROPN,pobj,False
+a,a,a,0,DET,det,True
+Help,Help,help,135801,PROPN,compound,False
+Phone,Phone,phone,234654,PROPN,appos,False
+located,locate,locate,174304,VERB,acl,False
+in,in,in,149313,ADP,prep,True
+stations,station,station,303088,NOUN,pobj,False
+amp,amp,amp,10991,PROPN,conj,False
+on,on,on,212644,ADP,prep,True
+platforms,platform,platform,239346,NOUN,pobj,False
+Cal,cal,cal,44692,VERB,appos,False

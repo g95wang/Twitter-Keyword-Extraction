@@ -1,0 +1,15 @@
+bangtan,bangtan,banga,27413,PROPN,nsubj,False
+wants,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+create,create,create,72418,VERB,xcomp,False
+another,another,another,13899,DET,det,True
+song,song,song,297195,NOUN,dobj,False
+that,that,that,320639,DET,nsubj,True
+gives,give,give,125692,VERB,relcl,False
+a,a,a,0,DET,det,True
+sense,sense,sense,285350,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+comfort,comfort,comfort,63793,NOUN,pobj,False
+like,like,like,172172,SCONJ,prep,False
+spring,spring,spring,301292,NOUN,compound,False
+day,day,day,76257,PROPN,pobj,False

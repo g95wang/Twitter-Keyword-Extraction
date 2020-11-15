@@ -1,0 +1,16 @@
+If,if,if,146980,SCONJ,mark,True
+watch,watch,watch,363049,VERB,advcl,False
+Fake,Fake,fake,109380,PROPN,compound,False
+News,News,news,199421,PROPN,dobj,False
+or,or,or,213904,CCONJ,cc,True
+MSDNC,MSDNC,imsonic,149310,PROPN,conj,False
+would,would,would,367745,VERB,aux,True
+think,think,think,321897,VERB,ROOT,False
+that,that,that,320639,SCONJ,punct,True
+the,the,the,320691,DET,det,True
+killers,killer,killer,164593,NOUN,pobj,False
+terrorists,terrorist,terrorist,319630,NOUN,conj,False
+arsonists,arsonist,arsonist,20436,NOUN,conj,False
+anarchists,anarchist,anarchist,11962,NOUN,conj,False
+thugs,thug,thug,322923,NOUN,conj,False
+hood,hood,hood,143472,NOUN,conj,False

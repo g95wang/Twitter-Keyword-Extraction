@@ -1,0 +1,13 @@
+People,People,people,230162,NOUN,nsubj,False
+stuck,stick,stick,304284,VERB,ccomp,False
+in,in,in,149313,ADP,prep,True
+traffic,traffic,traffic,327319,NOUN,pobj,False
+are,be,be,29345,AUX,aux,True
+witnessing,witness,witness,366708,VERB,ROOT,False
+NYPD,NYPD,nymphid,200132,PROPN,nsubj,False
+beat,beat,beat,29590,VERB,ROOT,False
+up,up,up,354457,ADP,prt,True
+folks,folk,folk,115918,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+way,way,way,361946,NOUN,pobj,False
+home,home,home,142751,ADV,advmod,False

@@ -1,0 +1,10 @@
+No,no,no,200529,DET,det,True
+man,man,man,178862,NOUN,nsubj,False
+was,be,be,29345,AUX,ROOT,True
+safe,safe,safe,276548,ADJ,acomp,False
+during,during,during,94458,ADP,prep,True
+'s,'s,s,275971,PRON,pcomp,True
+Twitter,Twitter,twitter,333475,PROPN,compound,False
+rant,rant,rant,260646,NOUN,pobj,False
+Full,full,full,119933,ADJ,amod,True
+story,story,story,305411,NOUN,ROOT,False

@@ -1,0 +1,12 @@
+could,could,could,70511,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+bad,bad,bad,26158,ADJ,amod,False
+motherfucker,motherfucker,motherfucker,193940,NOUN,attr,False
+but,but,but,43550,CCONJ,cc,True
+that,that,that,320639,DET,nsubj,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+make,make,make,178090,VERB,conj,True
+a,a,a,0,DET,det,True
+man,man,man,178862,NOUN,ccomp,False

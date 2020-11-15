@@ -1,0 +1,17 @@
+OrrinHunter,OrrinHunter,herrnhuter,137331,PROPN,nmod,False
+NewYorkCity,NewYorkCity,intercity,154641,PROPN,appos,False
+actor,actor,actor,3272,NOUN,ROOT,False
+in,in,in,149313,ADP,prep,True
+multiple,multiple,multiple,195250,ADJ,amod,False
+award,award,award,24959,NOUN,npadvmod,False
+winning,win,win,365877,VERB,amod,False
+role,role,role,273937,NOUN,compound,False
+CALEB,CALEB,caleb,44984,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+SADIST,SADIST,sadist,276515,PROPN,poss,False
+'S,'s,s,275971,PART,case,True
+KNOT,KNOT,knot,165674,PROPN,pobj,False
+Directed,direct,direct,86756,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+award,award,award,24959,NOUN,npadvmod,False
+winning,winning,winning,366211,NOUN,pobj,False

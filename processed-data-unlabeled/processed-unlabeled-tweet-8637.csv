@@ -1,0 +1,17 @@
+INFO,INFO,info,152193,PROPN,nmod,False
+ASTRO,ASTRO,astrol,22266,PROPN,nsubj,False
+came,come,come,63721,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+nd,nd,nd,197577,PROPN,pobj,False
+with,with,with,366582,ADP,prep,True
+points,point,point,241315,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+this,this,this,322217,DET,det,True
+week,week,week,363764,NOUN,poss,False
+'s,'s,s,275971,PART,case,True
+The,the,the,320691,DET,det,True
+Show,Show,show,289042,PROPN,compound,True
+Choice,Choice,choice,55305,PROPN,pobj,False
+Congratulations,congratulation,congratulation,66228,NOUN,ROOT,False
+still,still,still,304511,ADV,advmod,True
+Y,y,y,145456,INTJ,ROOT,False

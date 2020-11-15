@@ -1,0 +1,11 @@
+maybe,maybe,maybe,177755,ADV,advmod,False
+but,but,but,43550,CCONJ,cc,True
+do,do,do,90528,AUX,conj,True
+the,the,the,320691,DET,det,True
+maths,math,math,181150,NOUN,dobj,False
+if,if,if,146980,SCONJ,mark,True
+balance,balance,balance,26679,VERB,advcl,False
+the,the,the,320691,DET,det,True
+population,population,population,243322,NOUN,nsubj,False
+figures,figure,figure,112475,VERB,ROOT,False
+Eng,Eng,eng,100293,PROPN,dobj,False

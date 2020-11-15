@@ -1,0 +1,16 @@
+Via,via,via,359224,ADP,ROOT,True
+A,a,a,0,DET,det,True
+woman,woman,woman,366955,NOUN,nsubj,False
+recorded,record,record,263489,VERB,acl,False
+as,as,as,20837,SCONJ,prep,True
+an,an,an,11448,DET,det,True
+Orange,Orange,orange,213944,PROPN,compound,False
+County,County,county,71215,PROPN,compound,False
+deputy,deputy,deputy,81951,NOUN,pobj,False
+smashed,smash,smash,294750,VERB,ROOT,False
+window,window,window,366001,NOUN,dobj,False
+during,during,during,94458,ADP,prep,True
+a,a,a,0,DET,det,True
+traffic,traffic,traffic,327319,NOUN,compound,False
+violation,violation,violation,360014,NOUN,pobj,False
+after,after,after,5615,ADP,prep,True

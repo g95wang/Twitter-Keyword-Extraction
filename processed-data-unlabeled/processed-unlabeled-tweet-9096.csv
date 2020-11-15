@@ -1,0 +1,17 @@
+Just,just,just,162503,ADV,advmod,True
+another,another,another,13899,DET,det,True
+reminder,reminder,reminder,267298,NOUN,ROOT,False
+Locked,lock,lock,174349,VERB,acl,False
+In,in,in,149313,ADP,prep,True
+Character,character,character,52709,NOUN,pobj,False
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,aux,True
+hosting,host,host,144193,VERB,ROOT,False
+an,an,an,11448,DET,det,True
+inaugural,inaugural,inaugural,149554,ADJ,amod,False
+event,event,event,106111,NOUN,dobj,False
+this,this,this,322217,DET,det,True
+Saturday,Saturday,saturday,278848,PROPN,compound,False
+afternoon,afternoon,afternoon,5723,NOUN,npadvmod,False
+starting,start,start,302958,VERB,advcl,False
+a,a,a,0,DET,pobj,True

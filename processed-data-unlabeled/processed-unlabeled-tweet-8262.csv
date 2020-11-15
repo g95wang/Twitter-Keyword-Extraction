@@ -1,0 +1,15 @@
+Bro,Bro,bro,41034,PROPN,advmod,False
+know,know,know,165702,VERB,ROOT,False
+how,how,how,144540,ADV,advmod,True
+feel,feel,feel,110884,VERB,advcl,False
+got,get,get,124419,VERB,ccomp,False
+just,just,just,162503,ADV,advmod,True
+yesterday,yesterday,yesterday,146935,NOUN,npadvmod,False
+And,and,and,12285,CCONJ,cc,True
+believe,believe,believe,31085,VERB,ROOT,False
+are,be,be,29345,AUX,aux,True
+gon,go,go,127161,VERB,ccomp,False
+na,to,to,324862,PART,aux,False
+enjoy,enjoy,enjoy,100598,VERB,xcomp,False
+so,so,so,295959,ADV,advmod,True
+much,much,much,194510,ADV,advmod,True

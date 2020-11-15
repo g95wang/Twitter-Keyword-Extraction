@@ -1,0 +1,13 @@
+Life,life,life,171890,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+tryna,tryna,terna,319432,NOUN,compound,False
+play,play,play,238701,NOUN,attr,False
+bop,bop,bop,38299,VERB,ROOT,False
+with,with,with,366582,ADP,prep,True
+heart,heart,heart,134817,NOUN,pobj,False
+Take,take,take,315491,VERB,ROOT,True
+Shake,shake,shake,287194,VERB,ROOT,False
+Break,break,break,40228,VERB,ROOT,False
+Congrats,congrat,congrats,66221,VERB,ROOT,False
+life,life,life,171890,NOUN,dobj,False
+won,win,win,365877,VERB,relcl,False

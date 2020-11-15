@@ -1,0 +1,11 @@
+mom,mom,mom,191625,NOUN,nsubj,False
+taught,teach,teach,317425,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+and,and,and,12285,CCONJ,cc,True
+never,never,never,199350,ADV,neg,True
+to,to,to,324862,PART,aux,True
+change,change,change,52470,VERB,conj,False
+for,for,for,116301,ADP,prep,True
+anyone,anyone,anyone,13244,PRON,pobj,True
+CityPressMom,citypressmom,cypress,57897,NOUN,ROOT,False

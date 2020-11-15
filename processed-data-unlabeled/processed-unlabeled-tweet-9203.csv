@@ -1,0 +1,16 @@
+How,how,how,144540,ADV,advmod,True
+much,much,much,194510,ADV,advmod,True
+hated,hate,hate,134216,VERB,csubj,False
+the,the,the,320691,DET,det,True
+hospital,hospital,hospital,144164,NOUN,dobj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+first,first,first,113286,ADJ,amod,True
+thing,thing,thing,321869,NOUN,attr,False
+think,think,think,321897,VERB,relcl,False
+about,about,about,756,ADP,prep,True
+when,when,when,364637,ADV,advmod,True
+see,see,see,283054,VERB,advcl,True
+name,name,name,196686,NOUN,dobj,True
+never,never,never,199350,ADV,neg,True
+fail,fail,fail,109249,VERB,ROOT,False

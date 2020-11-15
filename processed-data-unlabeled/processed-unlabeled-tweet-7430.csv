@@ -1,0 +1,13 @@
+know,know,know,165702,VERB,ROOT,False
+sounds,sound,sound,297846,VERB,ccomp,False
+stupid,stupid,stupid,306952,ADJ,acomp,False
+but,but,but,43550,CCONJ,cc,True
+try,try,try,329065,VERB,conj,False
+to,to,to,324862,PART,aux,True
+understand,understand,understand,339888,VERB,xcomp,False
+what,what,what,364447,PRON,dobj,True
+like,like,like,172172,NOUN,ccomp,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+in,in,in,149313,ADP,prep,True
+shoes,shoe,shoe,288678,NOUN,pobj,False

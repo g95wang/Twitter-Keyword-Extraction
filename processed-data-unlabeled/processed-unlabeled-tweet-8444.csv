@@ -1,0 +1,10 @@
+Good,good,good,127869,ADJ,compound,False
+health,health,health,134768,NOUN,nsubj,False
+money,money,money,191829,NOUN,conj,False
+amp,amp,amp,10991,NOUN,conj,False
+connection,connection,connection,66506,NOUN,ROOT,False
+to,to,to,324862,ADP,prep,True
+whoever,whoever,whoever,365284,PRON,nsubj,True
+is,be,be,29345,AUX,aux,True
+reading,read,read,261551,VERB,pcomp,False
+this,this,this,322217,DET,dobj,True

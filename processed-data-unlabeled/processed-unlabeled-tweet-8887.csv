@@ -1,0 +1,14 @@
+Japan,Japan,japan,160364,PROPN,compound,False
+Population,Population,population,243322,PROPN,ROOT,False
+COVID19,COVID19,covid,71525,PROPN,nummod,False
+deaths,death,death,77637,NOUN,dep,False
+UK,UK,auk,23422,PROPN,compound,False
+Population,Population,population,243322,PROPN,ROOT,False
+COVID19,COVID19,covid,71525,PROPN,nummod,False
+deaths,death,death,77637,NOUN,appos,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,aux,True
+staggering,staggering,staggering,302336,ADJ,acl,False
+by,by,by,33133,ADP,prep,True
+any,any,any,13086,DET,det,True
+estima,estima,estimate,104667,PROPN,pobj,False

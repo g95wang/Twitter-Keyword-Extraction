@@ -1,0 +1,8 @@
+Dumbledore,Dumbledore,dumbledore,94050,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+grandfather,grandfather,grandfather,128829,NOUN,attr,False
+never,never,never,199350,ADV,neg,True
+had,have,have,134390,AUX,relcl,True
+no,no,no,200529,ADV,neg,True
+doubt,doubt,doubt,91994,ADV,attr,False

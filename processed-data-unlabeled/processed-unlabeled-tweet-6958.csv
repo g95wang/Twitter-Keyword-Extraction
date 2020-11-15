@@ -1,0 +1,15 @@
+'re,be,be,29345,AUX,ROOT,True
+sorry,sorry,sorry,297653,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+see,see,see,283054,VERB,xcomp,True
+item,item,item,159501,NOUN,nsubj,False
+arrived,arrive,arrive,20276,VERB,ccomp,False
+in,in,in,149313,ADP,prep,True
+this,this,this,322217,DET,det,True
+condition,condition,condition,65613,NOUN,pobj,False
+Please,please,please,239622,INTJ,intj,True
+check,check,check,53311,VERB,ROOT,False
+return,return,return,270970,NOUN,nmod,False
+or,or,or,213904,CCONJ,cc,True
+replacement,replacement,replacement,268235,NOUN,conj,False
+options,option,option,213845,NOUN,dobj,False

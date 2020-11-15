@@ -1,0 +1,17 @@
+combine,combine,combine,63665,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+first,first,first,113286,ADJ,amod,True
+letters,letter,letter,170920,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+name,name,name,196686,NOUN,pobj,True
+with,with,with,366582,ADP,prep,True
+the,the,the,320691,DET,det,True
+last,last,last,168771,ADJ,amod,True
+letters,letter,letter,170920,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+biass,biass,biases,33173,NOUN,compound,False
+name,name,name,196686,NOUN,pobj,True
+and,and,and,12285,CCONJ,cc,True
+see,see,see,283054,VERB,conj,True
+what,what,what,364447,PRON,dobj,True
+got,get,get,124419,VERB,ccomp,False

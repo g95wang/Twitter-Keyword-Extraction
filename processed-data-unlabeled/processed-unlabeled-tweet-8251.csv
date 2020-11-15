@@ -1,0 +1,17 @@
+Lol,Lol,lola,174784,PROPN,nsubj,False
+copy,copy,copy,68492,VERB,parataxis,False
+use,use,use,355958,VERB,ccomp,False
+protection,protection,protection,253379,NOUN,dobj,False
+condom,condom,condom,65652,NOUN,nsubjpass,False
+is,be,be,29345,AUX,auxpass,True
+not,not,not,208798,PART,neg,True
+made,make,make,178090,VERB,ccomp,True
+for,for,for,116301,ADP,prep,True
+sexual,sexual,sexual,286951,ADJ,amod,False
+disease,disease,disease,87833,NOUN,pobj,False
+alone,alone,alone,9255,ADV,advmod,True
+is,be,be,29345,AUX,auxpass,True
+made,make,make,178090,VERB,ROOT,True
+for,for,for,116301,ADP,prep,True
+unwanted,unwanted,unwanted,354022,ADJ,amod,False
+pregnancy,pregnancy,pregnancy,247724,NOUN,pobj,False

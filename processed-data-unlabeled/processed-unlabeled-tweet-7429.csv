@@ -1,0 +1,16 @@
+FEEL,feel,feel,110884,VERB,ROOT,False
+SO,SO,so,295959,PROPN,advmod,True
+FCKING,fcking,fucking,119745,NOUN,advcl,False
+ALIVE,alive,alive,8375,ADV,dobj,False
+FINALLY,FINALLY,finally,112856,VERB,ROOT,False
+A,a,a,0,DET,det,True
+REASON,reason,reason,262021,NOUN,npadvmod,False
+A,a,a,0,DET,det,True
+PURPOSE,purpose,purpose,257044,NOUN,ROOT,False
+TO,to,to,324862,PART,aux,True
+EXIST,EXIST,exist,107244,PROPN,relcl,False
+FOR,for,for,116301,ADP,prep,True
+gosh,gosh,gosh,128185,PROPN,pobj,False
+i,i,i,145455,PRON,nsubj,True
+missed,miss,miss,189987,VERB,ROOT,False
+dancing,dancing,dancing,76687,NOUN,dobj,False

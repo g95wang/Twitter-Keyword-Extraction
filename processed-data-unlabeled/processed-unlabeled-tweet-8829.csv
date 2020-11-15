@@ -1,0 +1,11 @@
+Yes,yes,yes,146918,INTJ,intj,False
+i,i,i,145455,PRON,nsubj,True
+do,do,do,90528,AUX,ROOT,True
+meditation,meditation,meditation,182200,NOUN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+meditation,meditation,meditation,182200,NOUN,conj,False
+gives,give,give,125692,VERB,ROOT,False
+self,self,self,283523,NOUN,compound,False
+confidence,confidence,confidence,65880,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+increases,increase,increase,150431,NOUN,conj,False

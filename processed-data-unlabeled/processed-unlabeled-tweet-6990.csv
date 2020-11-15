@@ -1,0 +1,16 @@
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+authors,author,author,23808,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+controversial,controversial,controversial,67817,ADJ,amod,False
+paper,paper,paper,225148,NOUN,pobj,False
+about,about,about,756,ADP,prep,True
+hydroxychloroquine,hydroxychloroquine,hydrochloride,138569,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+chloroquine,chloroquine,chloroquine,55221,NOUN,conj,False
+that,that,that,320639,DET,nsubjpass,True
+was,be,be,29345,AUX,auxpass,True
+published,publish,publish,255933,VERB,relcl,False
+in,in,in,149313,ADP,prep,True
+The,the,the,320691,DET,pobj,True

@@ -1,0 +1,13 @@
+This,this,this,322217,DET,nsubj,True
+has,have,have,134390,AUX,aux,True
+got,get,get,124419,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+most,most,most,193889,ADV,advmod,True
+demoralizing,demoralizing,demoralizing,80892,ADJ,amod,False
+psyops,psyop,synop,291943,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+military,military,military,187187,ADJ,amod,False
+history,history,history,141866,NOUN,pobj,False

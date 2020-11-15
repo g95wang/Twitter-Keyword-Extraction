@@ -1,0 +1,12 @@
+Llanymynech,Llanymynech,lansknecht,168205,PROPN,compound,False
+Golf,Golf,golf,127575,PROPN,compound,False
+Club,Club,club,60615,PROPN,ROOT,False
+Confusion,confusion,confusion,66095,NOUN,ROOT,False
+for,for,for,116301,ADP,prep,True
+course,course,course,71315,NOUN,pobj,False
+which,which,which,364730,DET,nsubj,True
+straddles,straddle,straddle,305602,VERB,relcl,False
+English,English,english,100389,PROPN,amod,False
+Welsh,Welsh,welsh,364081,PROPN,amod,False
+border,border,border,38368,NOUN,dobj,False
+via,via,via,359224,ADP,prep,True

@@ -1,0 +1,8 @@
+NYPD,NYPD,nymphid,200132,PROPN,nsubj,False
+finds,find,find,112884,VERB,ROOT,False
+stash,stash,stash,303006,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+bricks,brick,brick,40582,NOUN,pobj,False
+rocks,rock,rock,273647,NOUN,npadvmod,False
+across,across,across,3036,ADP,prep,True
+NYC,NYC,ny,199522,PROPN,pobj,False

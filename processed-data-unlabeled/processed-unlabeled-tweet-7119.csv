@@ -1,0 +1,9 @@
+says,say,say,276740,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+creepiest,creepy,creepy,72557,ADJ,amod,False
+white,white,white,365106,ADJ,amod,False
+man,man,man,178862,NOUN,nsubj,False
+to,to,to,324862,PART,aux,True
+walk,walk,walk,362193,VERB,relcl,False
+the,the,the,320691,DET,det,True
+planet,planet,planet,238917,NOUN,dobj,False

@@ -1,0 +1,17 @@
+Abolishing,abolish,abolish,659,VERB,csubj,False
+the,the,the,320691,DET,det,True
+police,police,police,241679,NOUN,dobj,False
+is,be,be,29345,AUX,ccomp,True
+n't,not,not,208798,PART,neg,True
+a,a,a,0,DET,det,True
+far,far,far,109839,ADV,advmod,False
+out,out,out,216108,SCONJ,amod,True
+leftist,leftist,leftist,169991,ADJ,amod,False
+fantasy,fantasy,fantasy,109773,NOUN,attr,False
+there,there,there,321216,PRON,expl,True
+are,be,be,29345,AUX,ROOT,True
+places,place,place,238538,NOUN,attr,False
+that,that,that,320639,DET,nsubj,True
+have,have,have,134390,AUX,aux,True
+already,already,already,9397,ADV,advmod,True
+done,do,do,90528,VERB,relcl,True

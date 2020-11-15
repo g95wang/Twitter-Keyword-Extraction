@@ -1,0 +1,13 @@
+Here,here,here,136991,ADV,advmod,True
+is,be,be,29345,AUX,ccomp,True
+video,video,video,359514,NOUN,attr,False
+did,do,do,90528,AUX,ROOT,True
+for,for,for,116301,ADP,prep,True
+Anna,Anna,anna,13459,PROPN,pobj,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+first,first,first,113286,ADJ,amod,True
+video,video,video,359514,NOUN,attr,False
+on,on,on,212644,ADP,prep,True
+Anna,Anna,anna,13459,PROPN,pobj,False
+KomaramBheemNTR,KomaramBheemNTR,ornamenter,214699,PROPN,appos,False

@@ -1,0 +1,16 @@
+SPREAD,SPREAD,spread,301217,VERB,ccomp,False
+THE,the,the,320691,DET,det,True
+WORD,WORD,word,367408,PROPN,dobj,False
+this,this,this,322217,DET,det,True
+friday,friday,friday,118935,PROPN,npadvmod,False
+june,june,june,162340,PROPN,compound,False
+th,th,th,320421,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+BlackOnFriday,BlackOnFriday,blackfriars,35500,PROPN,attr,False
+will,will,will,365768,VERB,aux,True
+amplify,amplify,amplify,11327,VERB,ROOT,False
+voices,voice,voice,360982,NOUN,dobj,False
+through,through,through,322840,ADP,prep,True
+art,art,art,20445,NOUN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+giv,giv,give,125692,PROPN,acomp,False

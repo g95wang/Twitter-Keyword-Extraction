@@ -1,0 +1,12 @@
+Only,only,only,212848,ADV,advmod,True
+a,a,a,0,DET,det,True
+mother,mother,mother,193933,NOUN,nsubj,False
+can,can,can,45964,VERB,aux,True
+feel,feel,feel,110884,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+real,real,real,261710,ADJ,amod,False
+pain,pain,pain,223135,NOUN,dobj,False
+MothersDay,MothersDay,mothery,193944,PROPN,ROOT,False
+Kashmir,Kashmir,kashmir,163300,PROPN,compound,False
+kashmirbleeds,kashmirbleed,kashmir,163300,VERB,compound,False
+MothersOfKashmir,MothersOfKashmir,mothership,193958,PROPN,ROOT,False

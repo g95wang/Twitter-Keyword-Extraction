@@ -1,0 +1,17 @@
+Happy,happy,happy,133513,ADJ,amod,False
+birthday,birthday,birthday,34904,NOUN,ROOT,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+super,super,super,311253,ADV,advmod,False
+talented,talented,talented,315591,ADJ,pobj,False
+and,and,and,12285,CCONJ,cc,True
+super,super,super,311253,ADJ,advmod,False
+energetic,energetic,energetic,100126,ADJ,conj,False
+May,May,may,177739,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+showered,shower,shower,289061,VERB,ROOT,False
+with,with,with,366582,ADP,prep,True
+the,the,the,320691,DET,det,True
+choicest,choicest,choicest,55313,NOUN,amod,False
+blessings,blessing,blessing,36154,NOUN,pobj,False
+W,w,w,361650,NOUN,ROOT,False

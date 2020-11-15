@@ -1,0 +1,14 @@
+A,a,a,0,DET,det,True
+week,week,week,363764,NOUN,npadvmod,False
+ago,ago,ago,6337,ADV,advmod,False
+store,store,store,305385,NOUN,compound,False
+owners,owner,owner,222075,NOUN,nsubjpass,False
+were,be,be,29345,AUX,aux,True
+getting,get,get,124419,VERB,auxpass,False
+arrested,arrest,arrest,20204,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+opening,open,open,213219,VERB,pcomp,False
+businesses,business,business,43481,NOUN,dobj,False
+Think,think,think,321897,VERB,ROOT,False
+about,about,about,756,ADP,prep,True
+that,that,that,320639,DET,pobj,True

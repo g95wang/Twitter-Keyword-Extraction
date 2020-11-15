@@ -1,0 +1,15 @@
+THIS,this,this,322217,DET,nsubj,True
+IS,be,be,29345,VERB,ROOT,True
+THE,the,the,320691,DET,det,True
+FIRST,first,first,113286,ADJ,compound,True
+LADY,LADY,lady,167178,PROPN,attr,False
+OF,of,of,211535,ADP,prep,True
+POLAND,POLAND,poland,241453,PROPN,compound,False
+YALL,YALL,yalla,145590,PROPN,pobj,False
+MIGHT,may,may,177739,VERB,aux,True
+HATE,hate,hate,134216,VERB,ROOT,False
+HER,her,her,136846,PRON,dobj,True
+BUT,but,but,43550,CCONJ,cc,True
+THIS,this,this,322217,DET,nsubj,True
+SHITS,shits,shits,288550,NOUN,ROOT,False
+SO,so,so,295959,ADV,advmod,True

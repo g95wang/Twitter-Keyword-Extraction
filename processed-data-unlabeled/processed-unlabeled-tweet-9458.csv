@@ -1,0 +1,10 @@
+Need,need,need,197910,VERB,ROOT,False
+someone,someone,someone,297038,PRON,dobj,True
+to,to,to,324862,PART,aux,True
+play,play,play,238701,VERB,relcl,False
+with,with,with,366582,ADP,prep,True
+dick,dick,dick,84880,NOUN,pobj,False
+when,when,when,364637,ADV,advmod,True
+i,i,i,145455,PRON,nsubj,True
+am,be,be,29345,AUX,aux,True
+driving,drive,drive,93179,VERB,advcl,False

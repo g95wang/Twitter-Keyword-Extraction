@@ -1,0 +1,11 @@
+gosh,gosh,gosh,128185,INTJ,ROOT,False
+thought,think,think,321897,VERB,ROOT,False
+Trump,Trump,trump,331570,PROPN,nsubj,False
+went,go,go,127161,VERB,ccomp,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+church,church,church,56664,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+promote,promote,promote,252323,VERB,advcl,False
+worship,worship,worship,367675,NOUN,dobj,False
+there,there,there,321216,ADV,advmod,True

@@ -1,0 +1,16 @@
+Calling,call,call,45246,VERB,ROOT,False
+all,all,all,8522,DET,det,True
+OpFanCam,opfancam,fanam,109650,NOUN,compound,False
+armies,army,army,19923,NOUN,dobj,False
+The,the,the,320691,DET,det,True
+Trump,trump,trump,331570,ADJ,compound,False
+loyalists,loyalist,loyalist,174738,NOUN,nsubj,False
+fascists,fascist,fascist,110135,NOUN,conj,False
+and,and,and,12285,CCONJ,cc,True
+Nazis,Nazis,nazis,197572,PROPN,conj,False
+have,have,have,134390,AUX,aux,True
+created,create,create,72418,VERB,ROOT,False
+a,a,a,0,DET,det,True
+hashtag,hashtag,hasht,134081,NOUN,dobj,False
+called,call,call,45246,VERB,acl,False
+EXPOSEANTIFA,EXPOSEANTIFA,exponential,107923,PROPN,oprd,False

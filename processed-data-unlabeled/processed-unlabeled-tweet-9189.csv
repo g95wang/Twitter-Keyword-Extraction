@@ -1,0 +1,12 @@
+Flash,Flash,flash,114007,PROPN,compound,False
+Streaming,Streaming,streaming,305987,PROPN,compound,False
+Survey,Survey,survey,313646,PROPN,ROOT,False
+Dear,Dear,dear,77603,PROPN,ROOT,False
+fellow,fellow,fellow,111052,NOUN,amod,False
+OneIts,OneIts,conceits,65102,PROPN,dobj,False
+just,just,just,162503,ADV,advmod,True
+opened,open,open,213219,VERB,ROOT,False
+a,a,a,0,DET,det,True
+survey,survey,survey,313646,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+systemize,systemize,systemize,292557,VERB,advcl,False

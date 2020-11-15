@@ -1,0 +1,16 @@
+no,no,no,200529,DET,det,True
+proof,proof,proof,252471,NOUN,nmod,False
+evidence,evidence,evidence,106226,NOUN,nmod,False
+w,w,w,361650,PROPN,compound,False
+video,video,video,359514,PROPN,ROOT,False
+amp,amp,amp,10991,PROPN,conj,False
+picture,picture,picture,236096,NOUN,appos,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+rumor,rumor,rumor,275571,ADJ,amod,False
+evidence,evidence,evidence,106226,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+being,be,be,29345,AUX,conj,True
+true,true,true,331515,ADJ,amod,False
+proof,proof,proof,252471,NOUN,attr,False
+i,i,i,145455,PRON,nsubj,True

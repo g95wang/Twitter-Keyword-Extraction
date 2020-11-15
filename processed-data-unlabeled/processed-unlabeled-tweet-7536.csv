@@ -1,0 +1,17 @@
+DJ,DJ,dj,90488,PROPN,nsubj,False
+INDEX,INDEX,index,150858,PROPN,ROOT,False
+Curious,curious,curious,75326,ADJ,ROOT,False
+About,about,about,756,ADP,prep,True
+Cup,Cup,cup,75053,PROPN,compound,False
+Ramen,Ramen,ragmen,259959,PROPN,pobj,False
+Let,let,let,170875,VERB,ROOT,False
+learn,learn,learn,169659,VERB,ccomp,False
+more,more,more,193383,ADJ,dobj,True
+about,about,about,756,ADP,prep,True
+Rei,Rei,rei,266058,PROPN,compound,False
+Togetsu,Togetsu,getsul,124443,PROPN,pobj,False
+from,from,from,119298,ADP,prep,True
+Happy,Happy,happy,133513,PROPN,pobj,False
+Around,around,around,20104,ADV,prep,True
+D4DJ,d4dj,dd,77402,NOUN,compound,False
+GroovyM,groovym,groovy,130206,NOUN,ROOT,False

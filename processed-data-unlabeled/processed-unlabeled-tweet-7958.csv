@@ -1,0 +1,13 @@
+Girl,girl,girl,125519,NOUN,nsubj,False
+fuck,fuck,fuck,119742,VERB,ROOT,False
+got,get,get,124419,VERB,ROOT,False
+ta,to,to,324862,PART,aux,False
+be,be,be,29345,AUX,xcomp,True
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+funniest,funniest,funniest,120311,NOUN,compound,False
+-word,-word,word,367408,PROPN,compound,False
+sentences,sentence,sentence,285463,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+all,all,all,8522,DET,det,True
+time,time,time,323746,NOUN,pobj,False

@@ -1,0 +1,13 @@
+Lord,Lord,lord,175244,PROPN,npadvmod,False
+this,this,this,322217,DET,det,True
+quarantine,quarantine,quarantine,257971,NOUN,nsubj,False
+had,have,have,134390,AUX,ROOT,True
+looking,look,look,175060,VERB,ccomp,False
+crazy,crazy,crazy,72341,ADJ,amod,False
+man,man,man,178862,NOUN,dobj,False
+thank,thank,thank,320604,VERB,ROOT,False
+god,god,god,127304,PROPN,dobj,False
+barber,barber,barber,27770,PROPN,compound,False
+shop,shop,shop,288793,PROPN,dobj,False
+back,back,back,25705,ADV,advmod,True
+open,open,open,213219,ADJ,oprd,False

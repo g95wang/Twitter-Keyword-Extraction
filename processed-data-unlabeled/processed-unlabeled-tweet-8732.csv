@@ -1,0 +1,13 @@
+are,be,be,29345,AUX,aux,True
+facing,face,face,108932,VERB,ROOT,False
+severe,severe,severe,286759,ADJ,amod,False
+islamophobia,islamophobia,lalophobia,167541,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True
+still,still,still,304511,ADV,advmod,True
+much,much,much,194510,ADV,advmod,True
+less,less,less,170842,ADJ,conj,True
+as,as,as,20837,SCONJ,prep,True
+to,to,to,324862,ADP,prep,True
+what,what,what,364447,PRON,dobj,True
+prophet,prophet,prophet,252624,NOUN,nsubj,False
+pbuh,pbuh,budh,42194,PROPN,pcomp,False

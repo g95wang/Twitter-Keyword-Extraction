@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True
+Breonna,Breonna,brehonia,40421,PROPN,compound,False
+Taylor,Taylor,taylor,315380,PROPN,compound,False
+GoFundMe,GoFundMe,grounded,130303,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+at,at,at,22372,ADP,advmod,True
+almost,almost,almost,9157,ADV,advmod,True
+at,at,at,22372,ADP,prep,True
+Lets,let,let,170875,NOUN,nsubj,False
+get,get,get,124419,VERB,ROOT,True
+to,to,to,324862,ADP,prep,True
+by,by,by,33133,ADP,prep,True
+the,the,the,320691,DET,det,True
+end,end,end,99559,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+day,day,day,76257,NOUN,pobj,False

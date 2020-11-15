@@ -1,0 +1,9 @@
+AllLivesMattter,alllivesmattter,gallivanter,121424,NOUN,nsubj,False
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,advmod,False
+and,and,and,12285,CCONJ,cc,True
+wo,will,will,365768,VERB,aux,False
+nt,not,not,208798,PART,neg,False
+matter,matter,matter,181309,VERB,ROOT,False
+until,until,until,353020,ADP,prep,True
+BlackLivesMattter,blacklivesmattter,blacklister,35541,NOUN,pobj,False

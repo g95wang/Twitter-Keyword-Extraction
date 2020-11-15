@@ -1,0 +1,15 @@
+Writing,write,write,368047,VERB,ROOT,False
+a,a,a,0,DET,det,True
+Narrative-,Narrative-,narrative,197045,PROPN,dep,False
+Pinky,Pinky,pinky,237105,PROPN,dobj,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+story,story,story,305411,NOUN,attr,False
+about,about,about,756,ADP,prep,True
+Pinky,Pinky,pinky,237105,PROPN,pobj,False
+the,the,the,320691,DET,det,True
+Robot,Robot,robot,273593,PROPN,appos,False
+and,and,and,12285,CCONJ,cc,True
+how,how,how,144540,ADV,advmod,True
+likes,like,like,172172,VERB,conj,False
+to,to,to,324862,ADP,prep,True

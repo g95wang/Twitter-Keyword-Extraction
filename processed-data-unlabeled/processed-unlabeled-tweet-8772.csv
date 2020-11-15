@@ -1,0 +1,14 @@
+Ladies,lady,lady,167178,NOUN,nsubj,False
+engage,engage,engage,100294,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+street,street,street,306018,NOUN,compound,False
+fight,fight,fight,112433,NOUN,pobj,False
+over,over,over,218092,ADP,prep,True
+a,a,a,0,DET,det,True
+guy,guy,guy,131001,NOUN,pobj,False
+at,at,at,22372,ADP,prep,True
+Adeshiyan,Adeshiyan,adelphian,3658,PROPN,compound,False
+street,street,street,306018,NOUN,pobj,False
+Ilupeju,Ilupeju,lupe,176282,PROPN,conj,False
+Lagos,Lagos,largos,168524,PROPN,conj,False

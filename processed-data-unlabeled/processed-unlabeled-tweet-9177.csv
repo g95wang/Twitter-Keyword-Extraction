@@ -1,0 +1,8 @@
+person,person,person,231951,NOUN,nsubj,False
+followed,follow,follow,115989,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+people,people,people,230162,NOUN,nsubj,False
+unfollowed,unfollowe,unfollowed,342475,VERB,conj,False
+automatically,automatically,automatically,24193,ADV,advmod,False
+checked,check,check,53311,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True

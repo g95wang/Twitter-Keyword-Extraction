@@ -1,0 +1,8 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+nt,not,not,208798,PART,neg,False
+acceptable,acceptable,acceptable,1470,ADJ,acomp,False
+or,or,or,213904,CCONJ,cc,True
+even,even,even,106079,ADV,advmod,True
+slightly,slightly,slightly,294074,ADV,advmod,False
+funny,funny,funny,120308,ADJ,conj,False

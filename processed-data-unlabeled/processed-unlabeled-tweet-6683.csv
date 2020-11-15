@@ -1,0 +1,17 @@
+Report,report,report,268373,VERB,ROOT,False
+this,this,this,322217,DET,det,True
+tweet,tweet,tweet,333246,NOUN,compound,False
+-&gt,-&gt,gt,130631,NOUN,dobj,False
+click,click,click,59892,VERB,advcl,False
+displays,display,display,89051,VERB,ccomp,False
+a,a,a,0,DET,det,True
+sensitive,sensitive,sensitive,285396,ADJ,amod,False
+photo,photo,photo,234975,NOUN,compound,False
+-&gt,-&gt,gt,130631,NOUN,dobj,False
+an,an,an,11448,DET,det,True
+unauthorized,unauthorized,unauthorized,335459,ADJ,amod,False
+photo,photo,photo,234975,NOUN,compound,False
+-&gt,-&gt,gt,130631,NOUN,dep,False
+includes,include,include,149975,VERB,ROOT,False
+private,private,private,250837,ADJ,amod,False
+information,information,information,152216,NOUN,dobj,False

@@ -1,0 +1,17 @@
+BREAKING,breaking,breaking,40257,NOUN,ROOT,False
+Full,full,full,119933,ADJ,amod,True
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,compound,False
+autopsy,autopsy,autopsy,24319,ADV,nsubj,False
+reveals,reveal,reveal,271110,VERB,ROOT,False
+blood,blood,blood,36415,NOUN,compound,False
+concentration,concentration,concentration,65131,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+powerful,powerful,powerful,245007,ADJ,amod,False
+street,street,street,306018,NOUN,compound,False
+opioid,opioid,ophioid,213369,NOUN,compound,False
+fentanyl,fentanyl,fentanyl,111281,NOUN,pobj,False
+was,be,be,29345,AUX,ccomp,True
+times,time,time,323746,NOUN,attr,False
+the,the,the,320691,DET,advmod,True

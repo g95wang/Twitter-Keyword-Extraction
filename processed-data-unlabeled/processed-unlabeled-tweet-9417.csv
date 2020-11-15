@@ -1,0 +1,16 @@
+when,when,when,364637,ADV,advmod,True
+Cardi,Cardi,cardia,47711,PROPN,compound,False
+B,B,b,25416,PROPN,nsubj,False
+said,say,say,276740,VERB,ROOT,False
+gave,give,give,125692,VERB,ccomp,False
+more,more,more,193383,ADJ,dobj,True
+that,that,that,320639,SCONJ,mark,True
+gave,give,give,125692,VERB,ccomp,False
+so,so,so,295959,ADV,advmod,True
+loyal,loyal,loyal,174733,ADJ,advcl,False
+to,to,to,324862,ADP,prep,True
+that,that,that,320639,SCONJ,mark,True
+betrayed,betray,betray,32791,VERB,ccomp,False
+myselfI,myselfI,myself,189193,PROPN,compound,False
+FELT,FELT,felt,111108,PROPN,dobj,False
+THAT,that,that,320639,ADP,npadvmod,True

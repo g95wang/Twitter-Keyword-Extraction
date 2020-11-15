@@ -1,0 +1,17 @@
+lt;&lt;You,lt;&lt;You,allyou,8749,PROPN,nsubj,False
+received,receive,receive,262684,VERB,ROOT,False
+US$,US$,us,355940,PROPN,dep,False
+gt;&gt;Expires,gt;&gt;expire,expire,107786,NOUN,conj,False
+in,in,in,149313,ADP,prep,True
+minutes,minute,minute,188058,NOUN,pobj,False
+tap,tap,tap,316287,VERB,conj,False
+to,to,to,324862,PART,aux,True
+redeem,redeem,redeem,263983,VERB,advcl,False
+The,the,the,320691,DET,det,True
+sooner,soon,soon,297339,ADV,ROOT,False
+do,do,do,90528,AUX,relcl,True
+the,the,the,320691,DET,det,True
+more,more,more,193383,ADJ,amod,True
+money,money,money,191829,NOUN,conj,False
+'ll,will,will,365768,VERB,aux,True
+grab,grab,grab,128456,VERB,relcl,False

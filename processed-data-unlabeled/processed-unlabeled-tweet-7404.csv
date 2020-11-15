@@ -1,0 +1,17 @@
+OPEN,OPEN,open,213219,PROPN,compound,False
+TOMORROW,TOMORROW,tomorrow,325475,PROPN,compound,False
+for,for,for,116301,ADP,prep,True
+takeaways,takeaway,takeaway,315493,NOUN,pobj,False
+ve,have,have,134390,VERB,aux,False
+made,make,make,178090,VERB,ROOT,True
+room,room,room,274247,NOUN,nsubj,False
+for,for,for,116301,ADP,prep,True
+Ice,Ice,ice,145963,PROPN,compound,False
+cream,cream,cream,72372,NOUN,compound,False
+freezer,freezer,freezer,118684,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+hand,hand,hand,133091,NOUN,conj,False
+made,make,make,178090,VERB,ccomp,True
+chocolate,chocolate,chocolate,55285,NOUN,dobj,False
+too,too,too,325685,ADV,advmod,True
+weareope,weareope,headrope,134697,ADJ,ROOT,False

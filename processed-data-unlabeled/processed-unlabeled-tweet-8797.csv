@@ -1,0 +1,16 @@
+Professor,Professor,professor,251722,PROPN,compound,False
+David,David,david,77311,PROPN,compound,False
+Hunter,Hunter,hunter,145186,PROPN,ROOT,False
+on,on,on,212644,ADP,prep,True
+why,why,why,364728,ADV,advmod,True
+people,people,people,230162,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+die,die,die,85120,VERB,pcomp,False
+as,as,as,20837,SCONJ,prep,True
+a,a,a,0,DET,det,True
+result,result,result,270122,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+PM,PM,pm,240704,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+advice,advice,advice,4683,NOUN,pobj,False

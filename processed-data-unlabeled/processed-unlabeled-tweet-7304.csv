@@ -1,0 +1,14 @@
+Men,Men,men,183224,PROPN,compound,False
+legit,legit,legit,170140,NOUN,nsubj,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+slap,slap,slap,293671,VERB,ROOT,False
+like,like,like,172172,SCONJ,prep,False
+that,that,that,320639,DET,pobj,True
+At,at,at,22372,ADV,advmod,True
+all,all,all,8522,ADV,ROOT,True
+Like,like,like,172172,INTJ,ROOT,False
+even,even,even,106079,ADV,advmod,True
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+slightest,slight,slight,294061,ADJ,pobj,False

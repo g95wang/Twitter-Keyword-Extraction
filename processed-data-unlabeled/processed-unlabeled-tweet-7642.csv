@@ -1,0 +1,17 @@
+fully,fully,fully,119955,ADV,advmod,False
+support,support,support,313022,VERB,ROOT,False
+these,these,these,321594,DET,det,True
+protests,protest,protest,253491,NOUN,dobj,False
+People,People,people,230162,NOUN,nsubj,False
+especially,especially,especially,104403,ADV,advmod,False
+kids,kid,kid,164450,NOUN,appos,False
+have,have,have,134390,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+right,right,right,272806,NOUN,dobj,False
+to,to,to,324862,ADP,aux,True
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,auxpass,True
+killed,kill,kill,164577,VERB,acl,False
+by,by,by,33133,ADP,agent,True
+a,a,a,0,DET,det,True
+non,non,non,200943,NOUN,pobj,False

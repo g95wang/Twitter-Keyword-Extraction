@@ -1,0 +1,7 @@
+things,thing,thing,321869,NOUN,nsubj,False
+IG,IG,big,33680,PROPN,nsubj,False
+sees,see,see,283054,VERB,relcl,False
+but,but,but,43550,CCONJ,cc,True
+twitter,twitter,twitter,333475,NOUN,advmod,False
+does,do,do,90528,AUX,ROOT,True
+nt,not,not,208798,PART,neg,False

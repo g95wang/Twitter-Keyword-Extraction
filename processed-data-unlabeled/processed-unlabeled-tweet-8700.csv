@@ -1,0 +1,7 @@
+TM,TM,tm,324851,PROPN,nsubj,False
+delayed,delay,delay,79921,VERB,ROOT,False
+filed,file,file,112568,VERB,amod,False
+form,form,form,117338,NOUN,compound,False
+-K,-K,k,162637,PROPN,dobj,False
+on,on,on,212644,ADP,prep,True
+May,May,may,177739,PROPN,pobj,True

@@ -1,0 +1,6 @@
+Shouting,shout,shout,289005,VERB,ROOT,False
+Maniac,Maniac,maniac,179228,PROPN,nsubjpass,False
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+Quarantined,quarantine,quarantine,257971,VERB,ccomp,False
+ASAP,asap,asap,20847,ADV,advmod,False

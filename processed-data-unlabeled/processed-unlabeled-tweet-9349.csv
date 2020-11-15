@@ -1,0 +1,12 @@
+'re,be,be,29345,AUX,aux,True
+being,be,be,29345,AUX,ROOT,True
+High,high,high,139224,ADV,advmod,False
+jacked,jack,jack,159867,VERB,acomp,False
+by,by,by,33133,ADP,agent,True
+The,the,the,320691,DET,det,True
+Looters,Looters,looters,175139,PROPN,pobj,False
+amp,amp,amp,10991,NOUN,conj,False
+Scooters,Scooters,scooters,281177,PROPN,npadvmod,False
+what,what,what,364447,DET,dobj,True
+a,a,a,0,DET,det,True
+show,show,show,289042,NOUN,appos,True

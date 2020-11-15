@@ -1,0 +1,13 @@
+Now,now,now,209199,ADV,advmod,True
+'ve,have,have,134390,AUX,aux,True
+selectively,selectively,selectively,283447,ADV,advmod,False
+edited,edit,edit,95772,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+video,video,video,359514,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+cut,cut,cut,75735,VERB,acl,False
+out,out,out,216108,ADP,prt,True
+walking,walk,walk,362193,VERB,ccomp,False
+and,and,and,12285,CCONJ,cc,True
+being,be,be,29345,AUX,conj,True
+pelt,pelt,pelt,229402,NOUN,attr,False

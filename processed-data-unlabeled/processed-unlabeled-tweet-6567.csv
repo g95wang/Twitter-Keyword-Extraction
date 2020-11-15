@@ -1,0 +1,9 @@
+Does,do,do,90528,AUX,aux,True
+red,red,red,263841,NOUN,nsubj,False
+make,make,make,178090,VERB,ROOT,True
+butt,butt,butt,43653,NOUN,nsubj,False
+look,look,look,175060,VERB,ccomp,False
+big,big,big,33680,ADJ,acomp,False
+Happy,happy,happy,133513,ADJ,amod,False
+hump,hump,hump,145076,NOUN,compound,False
+day,day,day,76257,NOUN,ROOT,False

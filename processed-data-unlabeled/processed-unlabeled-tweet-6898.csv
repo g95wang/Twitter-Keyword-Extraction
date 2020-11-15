@@ -1,0 +1,9 @@
+Florida,Florida,florida,115031,PROPN,nsubj,False
+just,just,just,162503,ADV,advmod,True
+reported,report,report,268373,VERB,ROOT,False
+highest,high,high,139224,ADJ,amod,False
+day,day,day,76257,NOUN,compound,False
+total,total,total,326445,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+COVID19,covid19,covid,71525,NOUN,nummod,False
+cases,case,case,48783,NOUN,pobj,False

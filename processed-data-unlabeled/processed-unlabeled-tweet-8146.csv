@@ -1,0 +1,11 @@
+boomer,boomer,boomer,38156,PROPN,ROOT,False
+millenials,millenial,millennial,187301,NOUN,nsubj,False
+are,be,be,29345,AUX,ccomp,True
+spoiled,spoil,spoil,300640,VERB,amod,False
+millenial,millenial,millennial,187301,ADJ,attr,False
+should,should,should,288990,VERB,aux,True
+i,i,i,145455,PRON,nsubj,True
+pay,pay,pay,223065,VERB,appos,False
+rent,rent,rent,267760,NOUN,dobj,False
+or,or,or,213904,CCONJ,cc,True
+eat,eat,eat,94953,VERB,conj,False

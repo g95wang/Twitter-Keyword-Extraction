@@ -1,0 +1,14 @@
+ariana,ariana,ariana,19632,PROPN,compound,False
+grande,grande,grande,128814,PROPN,compound,False
+justin,justin,justin,162552,PROPN,compound,False
+bieber,bieber,bibber,33203,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+best,good,good,127869,ADJ,amod,False
+things,thing,thing,321869,NOUN,pobj,False
+that,that,that,320639,DET,nsubj,True
+happened,happen,happen,133505,VERB,relcl,False
+so,so,so,295959,ADV,advmod,True
+far,far,far,109839,ADV,advmod,False
+in,in,in,149313,ADP,prep,True

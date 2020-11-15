@@ -1,0 +1,15 @@
+Good,good,good,127869,ADJ,amod,False
+thing,thing,thing,321869,NOUN,dep,False
+there,there,there,321216,PRON,expl,True
+are,be,be,29345,AUX,ROOT,True
+n't,not,not,208798,PART,neg,True
+any,any,any,13086,DET,det,True
+examples,example,example,106472,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+current,current,current,75405,ADJ,amod,False
+president,president,president,249451,NOUN,pobj,False
+trashing,trash,trash,328518,VERB,appos,False
+a,a,a,0,DET,det,True
+former,former,former,117417,ADJ,amod,True
+Presiden,Presiden,president,249451,PROPN,appos,False

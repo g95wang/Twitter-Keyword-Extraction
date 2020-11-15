@@ -1,0 +1,10 @@
+This,this,this,322217,DET,nsubj,True
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,aux,True
+happening,happen,happen,133505,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+every,every,every,106158,DET,det,True
+American,american,american,10298,ADJ,amod,False
+town,town,town,326793,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+city,city,city,58633,NOUN,conj,False

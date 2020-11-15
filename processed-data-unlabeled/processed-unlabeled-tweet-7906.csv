@@ -1,0 +1,13 @@
+Widowmaker,widowmaker,windowmaker,366011,NOUN,ROOT,False
+spreading,spread,spread,301217,VERB,acl,False
+at,at,at,22372,ADP,prep,True
+the,the,the,320691,DET,det,True
+pool,pool,pool,243138,PROPN,compound,False
+portrait,portrait,portrait,243720,PROPN,compound,False
+version,version,version,358827,PROPN,nmod,False
+public,public,public,255902,ADJ,amod,False
+release,release,release,266810,NOUN,pobj,False
+Commissioned,commission,commission,64080,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+Model,model,model,191042,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True

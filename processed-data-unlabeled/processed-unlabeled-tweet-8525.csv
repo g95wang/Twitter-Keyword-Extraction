@@ -1,0 +1,15 @@
+A,a,a,0,DET,det,True
+restaurant,restaurant,restaurant,269880,NOUN,nsubj,False
+in,in,in,149313,ADP,prep,True
+Japan,Japan,japan,160364,PROPN,pobj,False
+did,do,do,90528,AUX,ROOT,True
+an,an,an,11448,DET,det,True
+experiment,experiment,experiment,107722,NOUN,dobj,False
+showing,show,show,289042,VERB,acl,False
+how,how,how,144540,ADV,advmod,True
+fast,fast,fast,110179,ADV,advmod,False
+a,a,a,0,DET,det,True
+virus,virus,virus,360286,NOUN,nsubj,False
+spreads,spread,spread,301217,VERB,ccomp,False
+that,that,that,320639,SCONJ,det,True
+setting,setting,setting,286678,NOUN,dobj,False

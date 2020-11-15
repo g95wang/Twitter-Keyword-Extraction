@@ -1,0 +1,13 @@
+Temp,Temp,temp,318501,PROPN,ROOT,False
+C.,C.,c,43829,PROPN,nmod,False
+min,min,min,187647,PROPN,compound,False
+Avg,Avg,avg,24722,PROPN,compound,False
+Temp,Temp,temp,318501,PROPN,compound,False
+C.,C.,c,43829,PROPN,compound,False
+Light,Light,light,172003,PROPN,compound,False
+Level,Level,level,171192,PROPN,compound,False
+Lux,Lux,lux,176542,PROPN,ROOT,False
+Pressure,pressure,pressure,249604,NOUN,compound,False
+hPa,hPa,hupa,145202,NOUN,ROOT,False
+Humidity,Humidity,humidity,144974,PROPN,compound,False
+nan,nan,nan,196709,PROPN,compound,False

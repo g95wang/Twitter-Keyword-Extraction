@@ -1,0 +1,14 @@
+missing,miss,miss,189987,VERB,amod,False
+lisa,lisa,lisa,173413,PROPN,ROOT,False
+spamming,spamme,spammed,298302,VERB,acl,False
+time,time,time,323746,NOUN,dobj,False
+photos,photo,photo,234975,NOUN,ROOT,False
+in,in,in,149313,ADP,prep,True
+april,april,april,18068,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+now,now,now,209199,ADV,advmod,True
+s,s,s,275971,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+week,week,week,363764,NOUN,pobj,False
+photo,photo,photo,234975,NOUN,compound,False
+mood,mood,mood,192988,NOUN,npadvmod,False

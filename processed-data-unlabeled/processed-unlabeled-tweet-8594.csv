@@ -1,0 +1,15 @@
+Sachin,Sachin,aching,2282,PROPN,compound,False
+Tendulkar,Tendulkar,pendular,229572,PROPN,compound,False
+Sourav,Sourav,sora,297486,PROPN,compound,False
+Ganguly,Ganguly,gangly,121866,PROPN,ROOT,False
+in,in,in,149313,ADP,prep,True
+ODIs,odi,modi,191123,NOUN,pobj,False
+Partnerships,partnership,partnership,227117,NOUN,ROOT,False
+Runs,run,run,275612,NOUN,appos,False
+Average,average,average,24667,ADJ,dep,False
+No,no,no,200529,DET,det,True
+other,other,other,215836,ADJ,amod,True
+pair,pair,pair,223212,NOUN,nsubj,False
+has,have,have,134390,AUX,aux,True
+crossed,cross,cross,73757,VERB,ROOT,False
+even,even,even,106079,ADV,advmod,True

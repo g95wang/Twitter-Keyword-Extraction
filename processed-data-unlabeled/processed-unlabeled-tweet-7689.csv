@@ -1,0 +1,12 @@
+GDP,GDP,dp,92422,PROPN,nsubj,False
+has,have,have,134390,AUX,aux,True
+misled,mislead,mislead,189549,VERB,ROOT,False
+Economy,economy,economy,95375,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+scale,scale,scale,279398,NOUN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+hoax,hoax,hoax,142067,NOUN,attr,False
+Scarcity,scarcity,scarcity,279721,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+ma,ma,ma,176592,PROPN,attr,False

@@ -1,0 +1,16 @@
+Yesterday,yesterday,yesterday,146935,NOUN,npadvmod,False
+around,around,around,20104,ADV,advmod,True
+30pm,30pm,pm,240704,NOUN,ROOT,False
+different,different,different,85278,ADJ,amod,False
+groups,group,group,130347,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+protesters,protester,protester,253507,NOUN,pobj,False
+which,which,which,364730,DET,nsubj,True
+looks,look,look,175060,VERB,relcl,False
+like,like,like,172172,SCONJ,mark,False
+unintentionaly,unintentionaly,unintentionally,344714,PROPN,nsubj,False
+meet,meet,meet,182300,PROPN,advcl,False
+at,at,at,22372,ADP,prep,True
+a,a,a,0,DET,det,True
+intersection,intersection,intersection,155886,NOUN,compound,False
+downto,downto,downton,92338,ADP,pobj,False

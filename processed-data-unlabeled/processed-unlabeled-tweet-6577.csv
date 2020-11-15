@@ -1,0 +1,11 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+an,an,an,11448,DET,det,True
+important,important,important,148877,ADJ,amod,False
+story,story,story,305411,NOUN,attr,False
+and,and,and,12285,CCONJ,cc,True
+should,should,should,288990,VERB,aux,True
+get,get,get,124419,AUX,conj,True
+the,the,the,320691,DET,det,True
+appropriate,appropriate,appropriate,17998,ADJ,amod,False
+coverage,coverage,coverage,71478,NOUN,dobj,False

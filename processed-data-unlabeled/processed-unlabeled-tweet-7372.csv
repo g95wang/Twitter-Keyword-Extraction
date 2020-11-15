@@ -1,0 +1,9 @@
+how,how,how,144540,ADV,advmod,True
+long,long,long,174883,ADV,advmod,False
+do,do,do,90528,AUX,aux,True
+i,i,i,145455,PRON,nsubj,True
+have,have,have,134390,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+patient,patient,patient,227804,ADJ,acomp,False
+for,for,for,116301,ADP,prep,True

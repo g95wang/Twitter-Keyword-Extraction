@@ -1,0 +1,15 @@
+ask,ask,ask,21294,VERB,ROOT,False
+a,a,a,0,DET,det,True
+brown,brown,brown,41632,ADJ,amod,False
+girl,girl,girl,125519,NOUN,dobj,False
+type,type,type,324164,NOUN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+shell,shell,shell,287937,NOUN,conj,False
+describe,describe,describe,82433,VERB,conj,False
+of,of,of,211535,ADP,prep,True
+karan,karan,karn,163244,PROPN,compound,False
+aujla,aujla,aula,23430,PROPN,pobj,False
+ammy,ammy,gammy,121762,PROPN,compound,False
+virk,virk,irk,158036,PROPN,amod,False
+diljit,diljit,dialist,84238,PROPN,compound,False
+dosanjh,dosanjh,dosadh,91831,NOUN,pobj,False

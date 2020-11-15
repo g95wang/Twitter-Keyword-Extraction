@@ -1,0 +1,11 @@
+China,China,china,54539,PROPN,nsubj,False
+announces,announce,announce,13604,VERB,ROOT,False
+new,new,new,199367,ADJ,amod,False
+list,list,list,173498,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+US,US,us,355940,PROPN,compound,True
+imports,import,import,148870,NOUN,pobj,False
+eligible,eligible,eligible,97561,ADJ,amod,False
+for,for,for,116301,ADP,prep,True
+tariff,tariff,tariff,316599,NOUN,compound,False
+waivers,waiver,waiver,362096,NOUN,pobj,False

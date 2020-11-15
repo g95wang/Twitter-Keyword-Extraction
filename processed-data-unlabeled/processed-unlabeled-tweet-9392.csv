@@ -1,0 +1,8 @@
+This,this,this,322217,DET,det,True
+doctor,doctor,doctor,90646,NOUN,nsubj,False
+has,have,have,134390,AUX,aux,True
+had,have,have,134390,VERB,ROOT,True
+enough,enough,enough,100831,ADJ,dobj,True
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+bullshit,bullshit,bullshit,42642,NOUN,pobj,False

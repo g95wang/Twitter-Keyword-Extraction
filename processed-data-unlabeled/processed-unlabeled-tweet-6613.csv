@@ -1,0 +1,10 @@
+i,i,i,145455,PRON,nsubj,True
+think,think,think,321897,VERB,ROOT,False
+i,i,i,145455,PRON,nsubj,True
+wanna,wanna,wanna,362445,PROPN,nsubj,False
+keep,keep,keep,163579,VERB,ccomp,True
+for,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+little,little,little,173876,ADJ,npadvmod,False
+longer,long,long,174883,ADV,pcomp,False
+thanks,thank,thank,320604,NOUN,npadvmod,False

@@ -1,0 +1,11 @@
+feel,feel,feel,110884,VERB,ROOT,False
+like,like,like,172172,SCONJ,mark,False
+time,time,time,323746,NOUN,nsubj,False
+been,be,be,29345,AUX,advcl,True
+up,up,up,354457,ADP,advmod,True
+think,think,think,321897,VERB,dep,False
+ve,have,have,134390,VERB,aux,False
+been,be,be,29345,AUX,ccomp,True
+cheatin,cheatin,cheating,53291,PROPN,attr,False
+the,the,the,320691,DET,det,True
+clock,clock,clock,60270,NOUN,attr,False

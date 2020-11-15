@@ -1,0 +1,16 @@
+Today,today,today,325003,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+International,International,international,155462,PROPN,compound,False
+Nurses,Nurses,nurses,209727,PROPN,compound,False
+Day,Day,day,76257,PROPN,attr,False
+is,be,be,29345,AUX,auxpass,True
+commemorated,commemorate,commemorate,63918,VERB,ROOT,False
+annually,annually,annually,13617,ADV,advmod,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+founder,founder,founder,117927,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+modern,modern,modern,191086,ADJ,amod,False
+nursing,nursing,nursing,209730,NOUN,pobj,False
+Florence,Florence,florence,114997,PROPN,compound,False
+Nightingales,Nightingales,nightingales,199944,PROPN,appos,False

@@ -1,0 +1,15 @@
+Nook,Nook,nook,208430,PROPN,compound,False
+Miles,Miles,miles,187145,PROPN,compound,False
+Tickets,Tickets,tickets,323227,PROPN,ROOT,False
+Giveaway,Giveaway,giveaway,125695,PROPN,ROOT,False
+Winners,winner,winner,366208,NOUN,ROOT,False
+Retweet,retweet,etwee,105245,NOUN,ROOT,False
+to,to,to,324862,PART,aux,True
+Join,join,join,161599,VERB,relcl,False
+Tag,Tag,tag,315231,PROPN,dobj,False
+a,a,a,0,DET,det,True
+friend,friend,friend,118947,NOUN,nsubj,False
+Must,Must,must,196148,VERB,aux,True
+be,be,be,29345,AUX,aux,True
+following,follow,follow,115989,VERB,ROOT,False
+Ho,Ho,ho,142018,PROPN,dobj,False

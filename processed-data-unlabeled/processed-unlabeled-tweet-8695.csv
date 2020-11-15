@@ -1,0 +1,10 @@
+Thor,thor,thor,322332,NOUN,nsubj,False
+does,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+really,really,really,261766,ADV,advmod,True
+have,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+match,match,match,181035,NOUN,compound,False
+Pound,Pound,pound,244909,PROPN,dobj,False
+for,for,for,116301,ADP,prep,True
+pound,pound,pound,244909,NOUN,pobj,False

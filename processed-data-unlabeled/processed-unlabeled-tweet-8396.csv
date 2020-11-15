@@ -1,0 +1,13 @@
+Good,good,good,127869,ADJ,amod,False
+morning,morning,morning,193499,NOUN,nmod,False
+beautiful,beautiful,beautiful,29674,ADJ,amod,False
+people,people,people,230162,NOUN,ROOT,False
+Just,just,just,162503,ADV,advmod,True
+here,here,here,136991,ADV,advmod,True
+to,to,to,324862,PART,aux,True
+remind,remind,remind,267295,VERB,advcl,False
+that,that,that,320639,SCONJ,mark,True
+'s,be,be,29345,AUX,aux,True
+cheating,cheat,cheat,53282,VERB,ccomp,False
+on,on,on,212644,ADP,prep,True
+thanks,thank,thank,320604,NOUN,npadvmod,False

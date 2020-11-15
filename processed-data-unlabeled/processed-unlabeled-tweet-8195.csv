@@ -1,0 +1,15 @@
+'s,'s,s,275971,PART,dep,True
+MAP,MAP,map,179725,PROPN,dep,False
+OF,of,of,211535,ADP,prep,True
+THE,the,the,320691,DET,det,True
+SOUL,SOUL,soul,297813,PROPN,pobj,False
+spends,spend,spend,299147,VERB,ROOT,False
+a,a,a,0,DET,det,True
+tenth,tenth,tenth,319052,ADJ,amod,False
+week,week,week,363764,NOUN,dobj,False
+at,at,at,22372,ADP,prep,True
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+World,World,world,367566,PROPN,compound,False
+Albums,Albums,albums,7564,PROPN,compound,False
+chart,chart,chart,52959,NOUN,pobj,False

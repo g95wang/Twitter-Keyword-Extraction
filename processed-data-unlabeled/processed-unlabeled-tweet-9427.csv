@@ -1,0 +1,15 @@
+Happy,happy,happy,133513,ADJ,amod,False
+birthday,birthday,birthday,34904,NOUN,ROOT,False
+ntr,ntr,entr,101618,PROPN,advmod,False
+garu,garu,garau,122053,PROPN,ROOT,False
+From,from,from,119298,ADP,prep,True
+prabhas,prabhas,piranhas,237606,NOUN,compound,False
+fans,fan,fan,109645,NOUN,pobj,False
+ntr,ntr,entr,101618,PROPN,nmod,False
+garu,garu,garau,122053,PROPN,compound,False
+Nelantti,Nelantti,nehantic,198128,PROPN,compound,False
+actor,actor,actor,3272,NOUN,compound,False
+Telugu,Telugu,telugu,318465,PROPN,compound,False
+industry,industry,industry,151411,NOUN,nsubj,False
+kavali,kavali,javali,160617,VERB,ROOT,False
+Happy,happy,happy,133513,ADJ,ROOT,False

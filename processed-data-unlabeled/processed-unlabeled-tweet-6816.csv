@@ -1,0 +1,16 @@
+have,have,have,134390,AUX,aux,True
+all,all,all,8522,DET,appos,True
+ever,ever,ever,106143,ADV,advmod,True
+heard,hear,hear,134794,VERB,ROOT,False
+anyone,anyone,anyone,13244,PRON,nsubj,True
+say,say,say,276740,VERB,ccomp,True
+just,just,just,162503,ADV,amod,True
+bad,bad,bad,26158,ADJ,amod,False
+doctor,doctor,doctor,90646,NOUN,dobj,False
+naw,naw,naw,197536,PROPN,ROOT,False
+lose,lose,lose,175338,VERB,ccomp,False
+licenses,license,license,171621,NOUN,dobj,False
+get,get,get,124419,VERB,auxpass,True
+sued,sue,sue,310062,VERB,ccomp,False
+get,get,get,124419,VERB,ROOT,True
+thro,thro,thro,322728,NOUN,dobj,False

@@ -1,0 +1,11 @@
+m,be,be,29345,VERB,ROOT,False
+a,going to,going,127453,NOUN,nsubj,True
+have,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+spoiled,spoiled,spoiled,300648,ADJ,amod,False
+ass,ass,ass,21558,NOUN,compound,False
+child,child,child,54285,NOUN,dobj,False
+i,i,i,145455,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+already,already,already,9397,ADV,advmod,True
+see,see,see,283054,VERB,relcl,True

@@ -1,0 +1,16 @@
+LIST,LIST,list,173498,PROPN,nsubj,False
+OF,of,of,211535,ADP,prep,True
+KNOWN,KNOWN,known,165730,PROPN,compound,False
+NAMES,NAMES,names,196701,PROPN,pobj,False
+CONNECTED,connect,connect,66493,VERB,acl,False
+TO,to,to,324862,ADP,prep,True
+SATANIC,SATANIC,satanic,278650,PROPN,compound,False
+CULTS/,CULTS/,cults,74838,PROPN,nmod,False
+PEDOPHILIA,pedophilia,pedophilia,228990,NOUN,nmod,False
+CHILD,child,child,54285,NOUN,compound,False
+TRAFFICKING,trafficking,trafficking,327328,NOUN,pobj,False
+IN,in,in,149313,ADP,prep,True
+AMERICA,AMERICA,america,10297,PROPN,pobj,False
+SAVE,save,save,279065,VERB,ROOT,False
+THE,the,the,320691,DET,det,True
+CHILDREN,child,child,54285,NOUN,dobj,False

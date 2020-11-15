@@ -1,0 +1,6 @@
+LOOK,look,look,175060,VERB,ROOT,False
+HOW,how,how,144540,ADV,advmod,True
+THEY,THEY,they,320834,NOUN,nsubj,True
+ATE,ate,ate,22444,VERB,ccomp,False
+THIS,this,this,322217,DET,dobj,True
+UP,up,up,354457,ADP,prt,True

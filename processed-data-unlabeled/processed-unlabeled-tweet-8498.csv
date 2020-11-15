@@ -1,0 +1,13 @@
+'m,be,be,29345,AUX,ROOT,True
+so,so,so,295959,ADV,advmod,True
+lucky,lucky,lucky,175842,ADJ,acomp,False
+because,because,because,29780,SCONJ,mark,True
+i,i,i,145455,PRON,nsubj,True
+have,have,have,134390,AUX,advcl,True
+such,such,such,309936,DET,predet,True
+a,a,a,0,DET,det,True
+great,great,great,129442,ADJ,amod,False
+friend,friend,friend,118947,NOUN,dobj,False
+like,like,like,172172,SCONJ,prep,False
+and,and,and,12285,CCONJ,cc,True
+thanks,thanks,thanks,320619,INTJ,ROOT,False

@@ -1,0 +1,13 @@
+A,a,a,0,DET,det,True
+relationship,relationship,relationship,266756,NOUN,nsubj,False
+ai,be,be,29345,VERB,aux,False
+nt,not,not,208798,PART,neg,False
+gon,go,go,127161,VERB,ROOT,False
+na,to,to,324862,PART,aux,False
+work,work,work,367468,VERB,xcomp,False
+unless,unless,unless,345548,SCONJ,mark,True
+all,all,all,8522,DET,appos,True
+are,be,be,29345,AUX,advcl,True
+in,in,in,149313,ADP,prep,True
+Virgil,Virgil,virgil,360142,PROPN,ROOT,False
+Virgil,Virgil,virgil,360142,PROPN,ROOT,False

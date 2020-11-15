@@ -1,0 +1,10 @@
+The,the,the,320691,DET,det,True
+protests,protest,protest,253491,NOUN,nsubj,False
+are,be,be,29345,AUX,ccomp,True
+about,about,about,756,ADP,prep,True
+racism,racism,racism,259428,NOUN,pobj,False
+so,so,so,295959,ADV,advmod,True
+why,why,why,364728,ADV,advmod,True
+think,think,think,321897,VERB,ROOT,False
+outside,outside,outside,217444,ADP,prep,False
+is,be,be,29345,AUX,ROOT,True

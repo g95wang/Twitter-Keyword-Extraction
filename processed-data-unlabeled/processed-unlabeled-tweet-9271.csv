@@ -1,0 +1,17 @@
+Union,Union,union,344901,PROPN,compound,False
+Health,Health,health,134768,PROPN,compound,False
+Minister,Minister,minister,187927,PROPN,nsubjpass,False
+ji,ji,ji,161145,PROPN,nsubj,False
+set,set,set,286614,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+take,take,take,315491,VERB,xcomp,True
+charge,charge,charge,52797,NOUN,dobj,False
+as,as,as,20837,SCONJ,prep,True
+Executive,Executive,executive,106969,PROPN,compound,False
+Board,Board,board,36931,PROPN,compound,False
+chairman,chairman,chairman,52013,NOUN,compound,False
+Proud,Proud,proud,253981,PROPN,compound,False
+Moment,Moment,moment,191630,PROPN,pobj,False
+for,for,for,116301,ADP,prep,True
+the,the,the,320691,DET,det,True
+countr,countr,counter,70609,NOUN,pobj,False

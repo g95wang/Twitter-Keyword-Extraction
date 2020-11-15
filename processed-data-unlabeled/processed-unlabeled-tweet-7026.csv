@@ -1,0 +1,17 @@
+RT,RT,rt,275072,PROPN,ROOT,False
+if,if,if,146980,SCONJ,mark,True
+want,want,want,362465,VERB,advcl,False
+to,to,to,324862,PART,aux,True
+see,see,see,283054,VERB,xcomp,True
+Congress,Congress,congress,66258,PROPN,nsubj,False
+pass,pass,pass,227250,VERB,ccomp,False
+legislation,legislation,legislation,170120,NOUN,dobj,False
+prohibiting,prohibit,prohibit,251959,VERB,acl,False
+the,the,the,320691,DET,det,True
+use,use,use,355958,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+tear,tear,tear,317512,ADJ,amod,False
+gas,gas,gas,122327,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+U.S.,U.S.,us,355940,PROPN,pobj,False

@@ -1,0 +1,12 @@
+m,be,be,29345,VERB,ROOT,False
+trying,try,try,329065,VERB,xcomp,False
+to,to,to,324862,PART,aux,True
+fix,fix,fix,113590,VERB,xcomp,False
+someones,someone,someone,297038,NOUN,compound,False
+heart,heart,heart,134817,NOUN,dobj,False
+But,but,but,43550,CCONJ,cc,True
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+fix,fix,fix,113590,VERB,ROOT,False
+own,own,own,222072,ADJ,amod,True
+heart,heart,heart,134817,NOUN,dobj,False

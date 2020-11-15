@@ -1,0 +1,13 @@
+Dog,Dog,dog,90839,PROPN,nsubj,False
+ate,eat,eat,94953,VERB,ROOT,False
+rocks,rock,rock,273647,NOUN,dobj,False
+while,while,while,364797,SCONJ,mark,True
+being,be,be,29345,AUX,auxpass,True
+starved,starve,starve,302987,VERB,advcl,False
+to,to,to,324862,ADP,prep,True
+death,death,death,77637,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True
+Lucifer,Lucifer,lucifer,175811,PROPN,npadvmod,False
+like,like,like,172172,ADJ,amod,False
+owner,owner,owner,222075,NOUN,pobj,False
+via,via,via,359224,ADP,prep,True

@@ -1,0 +1,13 @@
+ate,eat,eat,94953,VERB,ROOT,False
+this,this,this,322217,DET,det,True
+morning,morning,morning,193499,NOUN,npadvmod,False
+pm,pm,pm,240704,NOUN,compound,False
+skinny,skinny,skinny,293271,PROPN,dobj,False
+anymore,anymore,anymore,13233,ADV,advmod,False
+so,so,so,295959,ADV,advmod,True
+i,i,i,145455,PRON,nsubj,True
+looked,look,look,175060,VERB,ROOT,False
+over,over,over,218092,ADV,prt,True
+and,and,and,12285,CCONJ,cc,True
+was,be,be,29345,AUX,conj,True
+just,just,just,162503,ADV,advmod,True

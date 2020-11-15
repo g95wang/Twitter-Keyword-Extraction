@@ -1,0 +1,17 @@
+N223LA,N223LA,anlas,13451,PROPN,meta,False
+an,an,an,11448,DET,det,True
+Airbus,Airbus,airbus,6861,PROPN,compound,False
+Helicopters,Helicopters,helicopters,135521,PROPN,compound,False
+Squirrel,Squirrel,squirrel,302055,PROPN,compound,False
+AS,AS,as,20837,PROPN,compound,True
+B3,b3,b,25416,NOUN,appos,False
+is,be,be,29345,AUX,aux,True
+circling,circle,circle,57971,VERB,ROOT,False
+over,over,over,218092,ADP,prep,True
+Broadway,Broadway,broadway,41095,PROPN,compound,False
+Manchester,Manchester,manchester,178929,PROPN,pobj,False
+Los,Los,clos,60431,PROPN,compound,False
+Angeles,Angeles,angeles,12665,PROPN,appos,False
+at,at,at,22372,ADP,prep,True
+feet,foot,foot,116131,NOUN,pobj,False
+sp,sp,sp,298139,PROPN,npadvmod,False

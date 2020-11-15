@@ -1,0 +1,17 @@
+are,be,be,29345,AUX,ROOT,True
+proud,proud,proud,253981,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+announce,announce,announce,13604,VERB,xcomp,False
+An,an,an,11448,DET,det,True
+Evening,evening,evening,106097,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+Michael,Michael,michael,185754,PROPN,compound,False
+Morpurgo,Morpurgo,morro,193657,PROPN,pobj,False
+streaming,stream,stream,305976,VERB,advcl,False
+this,this,this,322217,DET,dobj,True
+Saturday,Saturday,saturday,278848,PROPN,npadvmod,False
+at,at,at,22372,ADP,prep,True
+30pm,30pm,pm,240704,NOUN,pobj,False
+Send,send,send,285228,VERB,ROOT,False
+questions,question,question,258416,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True

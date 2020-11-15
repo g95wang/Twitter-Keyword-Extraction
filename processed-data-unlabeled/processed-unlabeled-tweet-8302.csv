@@ -1,0 +1,17 @@
+Hindus_Under_Threat,hindus_under_threat,undertreat,340035,NOUN,ROOT,False
+'s,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+sister,sister,sister,292572,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+RohitJaiswal,RohitJaiswal,propitial,252705,PROPN,pobj,False
+who,who,who,365278,PRON,nsubjpass,True
+was,be,be,29345,AUX,auxpass,True
+sacrificed,sacrifice,sacrifice,276371,VERB,relcl,False
+to,to,to,324862,PART,aux,True
+make,make,make,178090,VERB,advcl,True
+mosque,mosque,mosque,193842,NOUN,nsubj,False
+powerful,powerful,powerful,245007,ADJ,ccomp,False
+and,and,and,12285,CCONJ,cc,True
+influential,influential,influential,152174,ADJ,conj,False
+in,in,in,149313,ADP,prep,True
+Be,be,be,29345,NOUN,pobj,True

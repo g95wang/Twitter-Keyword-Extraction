@@ -1,0 +1,11 @@
+i,i,i,145455,PRON,nsubj,True
+ai,be,be,29345,VERB,ROOT,False
+nt,not,not,208798,PART,neg,False
+forget,forget,forget,117219,VERB,acomp,False
+how,how,how,144540,ADV,advmod,True
+mama,mama,mama,178719,PROPN,nsubj,False
+banned,ban,ban,27221,VERB,ccomp,False
+light,light,light,172003,ADJ,amod,False
+sticks,stick,stick,304284,NOUN,dobj,False
+after,after,after,5615,ADP,prep,True
+this,this,this,322217,DET,pobj,True

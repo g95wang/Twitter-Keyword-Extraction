@@ -1,0 +1,11 @@
+Make,make,make,178090,VERB,advcl,True
+sure,sure,sure,313361,ADJ,ccomp,False
+say,say,say,276740,VERB,ccomp,True
+La,La,la,166590,PROPN,compound,False
+ilaha,ilaha,ilama,147208,PROPN,nsubj,False
+illallah,illallah,shillalah,288282,PROPN,ccomp,False
+a,a,a,0,DET,det,True
+lot,lot,lot,175365,NOUN,dobj,False
+will,will,will,365768,VERB,aux,True
+help,help,help,135801,VERB,ROOT,False
+DAY,DAY,day,76257,PROPN,npadvmod,False

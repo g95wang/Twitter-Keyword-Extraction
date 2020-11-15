@@ -1,0 +1,10 @@
+Retweets,retweet,etwee,105245,VERB,ROOT,False
+Possible,possible,possible,243886,ADJ,amod,False
+Do,do,do,90528,AUX,ROOT,True
+possible,possible,possible,243886,ADJ,acomp,False
+Cults,cult,cult,74795,NOUN,compound,False
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,ROOT,False
+Last,last,last,168771,ADJ,amod,True
+Hours,hour,hour,144367,NOUN,npadvmod,False
+To,to,to,324862,ADP,ROOT,True
+G,g,g,120759,NOUN,pobj,False

@@ -1,0 +1,17 @@
+When,when,when,364637,ADV,advmod,True
+read,read,read,261551,VERB,advcl,False
+accounts,account,account,1719,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+how,how,how,144540,ADV,advmod,True
+the,the,the,320691,DET,det,True
+military,military,military,187187,NOUN,nsubj,False
+handled,handle,handle,133207,VERB,pcomp,False
+the,the,the,320691,DET,det,True
+Iraq,Iraq,iraq,157878,PROPN,compound,False
+War,War,war,362529,PROPN,dobj,False
+'s,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+impressive,impressive,impressive,149086,ADJ,acomp,False
+Most,Most,most,193889,ADJ,amod,True
+officers,officer,officer,211608,NOUN,ROOT,False
+and,and,and,12285,CCONJ,cc,True

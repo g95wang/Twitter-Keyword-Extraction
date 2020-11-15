@@ -1,0 +1,11 @@
+Wonder,wonder,wonder,367029,VERB,ROOT,False
+how,how,how,144540,ADV,advmod,True
+feels,feel,feel,110884,VERB,ccomp,False
+to,to,to,324862,PART,aux,True
+see,see,see,283054,VERB,xcomp,True
+on,on,on,212644,ADP,prep,True
+a,a,a,0,DET,det,True
+packet,packet,packet,222740,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+crisps,crisp,crisp,73338,NOUN,pobj,False
+MUFC,MUFC,much,194510,PROPN,ROOT,False

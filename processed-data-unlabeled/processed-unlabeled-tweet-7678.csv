@@ -1,0 +1,17 @@
+Spot,spot,spot,301095,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+Sir,Sir,sir,292308,PROPN,pobj,False
+is,be,be,29345,AUX,ccomp,True
+truly,truly,truly,331555,ADV,advmod,False
+an,an,an,11448,DET,det,True
+art,art,art,20445,NOUN,attr,False
+that,that,that,320639,DET,nsubj,True
+needs,need,need,197910,VERB,relcl,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,auxpass,True
+acquired,acquire,acquire,2737,VERB,xcomp,False
+otherwise,otherwise,otherwise,215859,ADV,advmod,True
+will,will,will,365768,VERB,aux,True
+corrode,corrode,corrode,69722,VERB,ROOT,False
+internally,internally,internally,155455,ADV,advmod,False
+Tak,Tak,tack,315068,PROPN,ROOT,False

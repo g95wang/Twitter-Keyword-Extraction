@@ -1,0 +1,13 @@
+Mini,mini,mini,187802,ADJ,compound,False
+bags,bag,bag,26267,NOUN,compound,False
+thread,thread,thread,322554,NOUN,compound,False
+Frame,Frame,frame,118288,PROPN,compound,False
+A,A,a,0,PROPN,ROOT,True
+or,or,or,213904,CCONJ,cc,True
+B,b,b,25416,NOUN,conj,False
+All,all,all,8522,DET,det,True
+colours,colour,colour,63402,NOUN,nsubj,False
+available,available,available,24569,ADJ,amod,False
+only,only,only,212848,ADV,advmod,True
+Kindly,Kindly,kindly,164776,PROPN,compound,False
+retweet,retweet,etwee,105245,NOUN,ROOT,False

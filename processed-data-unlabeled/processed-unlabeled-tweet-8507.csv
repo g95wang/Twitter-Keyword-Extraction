@@ -1,0 +1,17 @@
+Need,need,need,197910,VERB,ROOT,False
+help,help,help,135801,NOUN,dobj,False
+i,i,i,145455,PRON,nsubj,True
+have,have,have,134390,AUX,aux,True
+never,never,never,199350,ADV,neg,True
+used,use,use,355958,VERB,ccomp,True
+last,last,last,168771,ADJ,amod,True
+names,name,name,196686,NOUN,dobj,False
+ever,ever,ever,106143,ADV,advmod,True
+someone,someone,someone,297038,PRON,nsubj,True
+is,be,be,29345,AUX,aux,True
+using,use,use,355958,VERB,advcl,True
+identity,identity,identity,146383,NOUN,dobj,False
+i,i,i,145455,PRON,nsubj,True
+am,be,be,29345,AUX,aux,True
+being,be,be,29345,AUX,ccomp,True
+discrimin,discrimin,discriminal,87732,PROPN,attr,False

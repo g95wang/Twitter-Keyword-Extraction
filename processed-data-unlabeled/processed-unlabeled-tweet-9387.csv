@@ -1,0 +1,15 @@
+Apparently,apparently,apparently,17581,ADV,advmod,False
+believes,believe,believe,31085,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+President,President,president,249451,PROPN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+conglomerates,conglomerate,conglomerate,66194,VERB,conj,False
+more,more,more,193383,ADJ,dobj,True
+than,than,than,320565,SCONJ,prep,True
+doctors,doctor,doctor,90646,NOUN,pobj,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+reliability,reliability,reliability,266873,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+COVID,COVID,covid,71525,PROPN,compound,False
+tests,test,test,319741,NOUN,pobj,False

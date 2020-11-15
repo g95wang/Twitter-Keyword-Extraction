@@ -1,0 +1,10 @@
+the,the,the,320691,DET,det,True
+way,way,way,361946,NOUN,ROOT,False
+deleted,delete,delete,80007,VERB,relcl,False
+this,this,this,322217,DET,dobj,True
+right,right,right,272806,NOUN,advmod,False
+away,away,away,24923,ADV,advmod,False
+but,but,but,43550,CCONJ,cc,True
+i,i,i,145455,PRON,nsubj,True
+caught,catch,catch,49435,VERB,ROOT,False
+SLIPPING,slip,slip,294143,VERB,oprd,False

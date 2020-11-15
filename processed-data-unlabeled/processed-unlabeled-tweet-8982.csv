@@ -1,0 +1,14 @@
+Could,Could,could,70511,VERB,aux,True
+just,just,just,162503,ADV,advmod,True
+stop,stop,stop,305323,VERB,ROOT,False
+calling,call,call,45246,VERB,xcomp,False
+this,this,this,322217,DET,det,True
+farcical,farcical,farcical,109892,ADJ,amod,False
+Muppet,Muppet,moppet,193242,PROPN,compound,False
+caricature,caricature,caricature,48022,NOUN,dobj,False
+President,President,president,249451,PROPN,dobj,False
+please,please,please,239622,INTJ,intj,True
+hurts,hurt,hurt,145284,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+see,see,see,283054,VERB,xcomp,True
+hi,hi,hi,138127,INTJ,intj,False

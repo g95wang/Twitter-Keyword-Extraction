@@ -1,0 +1,11 @@
+Man,man,man,178862,INTJ,nsubj,False
+this,this,this,322217,DET,det,True
+video,video,video,359514,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+what,what,what,364447,PRON,nsubj,True
+'s,be,be,29345,AUX,aux,True
+happening,happen,happen,133505,VERB,pcomp,False
+in,in,in,149313,ADP,prep,True
+China,China,china,54539,PROPN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+brutal,brutal,brutal,41854,ADJ,acomp,False

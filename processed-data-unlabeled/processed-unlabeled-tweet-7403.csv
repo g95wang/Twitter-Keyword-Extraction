@@ -1,0 +1,10 @@
+Jake,Jake,jake,160195,PROPN,compound,False
+Fromm,Fromm,from,119298,PROPN,nsubj,False
+trying,try,try,329065,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,xcomp,True
+into,into,into,156343,ADP,prep,True
+the,the,the,320691,DET,det,True
+Bills,bill,bill,33968,NOUN,poss,False
+facility,facility,facility,109003,NOUN,pobj,False
+tomorrow,tomorrow,tomorrow,325475,NOUN,npadvmod,False

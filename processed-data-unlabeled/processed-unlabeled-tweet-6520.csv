@@ -1,0 +1,16 @@
+Attention,attention,attention,23026,NOUN,nmod,False
+white,white,white,365106,ADJ,amod,False
+supremacists,supremacist,supremacist,313283,NOUN,nsubj,False
+Here,here,here,136991,ADV,advmod,True
+comes,come,come,63721,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+future,future,future,120712,NOUN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+ai,be,be,29345,VERB,ROOT,False
+nt,not,not,208798,PART,neg,False
+takin,takin,takin,315517,PROPN,nsubj,False
+shit,shit,shit,288544,NOUN,ROOT,False
+from,from,from,119298,ADP,prep,True
+nobody,nobody,nobody,200587,PRON,pobj,True
+GeorgeFloyd,GeorgeFloyd,george,124030,PROPN,compound,False
+BlackLivesMa,blacklivesma,blackflies,35498,VERB,ROOT,False

@@ -1,0 +1,7 @@
+A,a,a,0,DET,det,True
+big,big,big,33680,ADJ,amod,False
+thanks,thank,thank,320604,NOUN,ROOT,False
+to,to,to,324862,ADP,prep,True
+parents,parent,parent,226369,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+that,that,that,320639,DET,pobj,True

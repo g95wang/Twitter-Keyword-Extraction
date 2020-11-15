@@ -1,0 +1,15 @@
+was,be,be,29345,AUX,ROOT,True
+so,so,so,295959,ADV,advmod,True
+ugly,ugly,ugly,333654,ADV,advmod,False
+back,back,back,25705,ADV,advmod,True
+in,in,in,149313,ADP,prep,True
+primary,primary,primary,250482,ADJ,amod,False
+made,make,make,178090,VERB,ROOT,True
+a,a,a,0,DET,det,True
+girl,girl,girl,125519,NOUN,nsubj,False
+cry,cry,cry,72853,NOUN,ccomp,False
+because,because,because,29780,SCONJ,mark,True
+said,say,say,276740,VERB,advcl,False
+i,i,i,145455,PRON,nsubj,True
+was,be,be,29345,AUX,ccomp,True
+husband,husband,husband,145307,NOUN,attr,False

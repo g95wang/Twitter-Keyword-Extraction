@@ -1,0 +1,12 @@
+In,in,in,149313,ADP,prep,True
+opinion,opinion,opinion,213551,NOUN,pobj,False
+The,the,the,320691,DET,det,True
+Color,Color,color,63304,PROPN,compound,False
+Purple,Purple,purple,257017,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+good,good,good,127869,ADJ,attr,False
+example(compared,example(compared,precompared,246279,ADJ,acl,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+book,book,book,38039,NOUN,pobj,False

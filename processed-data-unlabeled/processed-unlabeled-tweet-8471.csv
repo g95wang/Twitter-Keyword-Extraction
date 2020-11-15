@@ -1,0 +1,11 @@
+Just,just,just,162503,ADV,advmod,True
+saw,see,see,283054,VERB,ROOT,False
+why,why,why,364728,ADV,advmod,True
+Mary,Mary,mary,180034,PROPN,compound,False
+Mary,Mary,mary,180034,PROPN,nsubj,False
+was,be,be,29345,AUX,aux,True
+trending,trend,trend,328944,VERB,ccomp,False
+immediately,immediately,immediately,147908,ADV,advmod,False
+thought,think,think,321897,VERB,dobj,False
+of,of,of,211535,ADP,prep,True
+this,this,this,322217,DET,pobj,True

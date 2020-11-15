@@ -1,0 +1,12 @@
+are,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+vote,vote,vote,361409,NOUN,attr,False
+when,when,when,364637,ADV,advmod,True
+matters,matter,matter,181309,VERB,advcl,False
+and,and,and,12285,CCONJ,cc,True
+a,a,a,0,DET,det,True
+dollar,dollar,dollar,91139,NOUN,compound,False
+sign,sign,sign,290081,NOUN,conj,False
+when,when,when,364637,ADV,advmod,True
+does,do,do,90528,AUX,advcl,True
+not,not,not,208798,PART,neg,True

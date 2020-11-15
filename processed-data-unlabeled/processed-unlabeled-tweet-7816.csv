@@ -1,0 +1,12 @@
+Close,close,close,60433,ADV,nmod,False
+to,to,to,324862,ADP,prep,True
+M,m,m,176591,NOUN,pobj,False
+views,view,view,359574,NOUN,ROOT,False
+Do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+stop,stop,stop,305323,VERB,ROOT,False
+keep,keep,keep,163579,VERB,dep,True
+streaming,stream,stream,305976,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+song,song,song,297195,NOUN,dobj,False
+LINK,LINK,link,172930,PROPN,ROOT,False

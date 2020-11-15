@@ -1,0 +1,17 @@
+know,know,know,165702,VERB,ROOT,False
+who,who,who,365278,PRON,nsubj,True
+is,be,be,29345,AUX,ccomp,True
+super,super,super,311253,ADV,advmod,False
+underrated,underrated,underrated,339665,ADJ,acomp,False
+sexy,sexy,sexy,286852,ADJ,acomp,False
+Jojo,Jojo,jojoba,161666,PROPN,compound,False
+Siwa,Siwa,siwan,292703,PROPN,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+Maddie,Maddie,addie,3540,PROPN,compound,False
+Ziegler,Ziegler,zieger,369181,PROPN,conj,False
+and,and,and,12285,CCONJ,cc,True
+Millie,Millie,millie,187359,PROPN,compound,False
+Bobby,Bobby,bobby,37050,PROPN,compound,False
+Brown,Brown,brown,41632,PROPN,conj,False
+jOJO,jojo,jojoba,161666,NOUN,dep,False
+SIWA,SIWA,siwan,292703,PROPN,ROOT,False

@@ -1,0 +1,8 @@
+i,i,i,145455,PRON,nsubj,True
+wanna,wanna,wanna,362445,PROPN,nsubj,False
+go,go,go,127161,VERB,ROOT,True
+to,to,to,324862,ADP,prep,True
+college,college,college,62931,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+study,study,study,306798,NOUN,conj,False
+zoology,zoology,zoology,369830,NOUN,dobj,False

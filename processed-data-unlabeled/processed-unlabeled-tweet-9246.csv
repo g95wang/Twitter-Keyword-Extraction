@@ -1,0 +1,7 @@
+What,what,what,364447,PRON,attr,True
+is,be,be,29345,AUX,csubj,True
+Seamless,seamless,seamless,282503,NOUN,nsubj,False
+shall,shall,shall,287261,VERB,aux,False
+never,never,never,199350,ADV,neg,True
+seem,seem,seem,283128,VERB,ROOT,True
+less,less,less,170842,ADJ,oprd,True

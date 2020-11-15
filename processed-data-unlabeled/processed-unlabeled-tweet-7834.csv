@@ -1,0 +1,15 @@
+As,as,as,20837,SCONJ,prep,True
+a,a,a,0,DET,det,True
+follower,follower,follower,115992,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+great,great,great,129442,ADJ,amod,False
+and,and,and,12285,CCONJ,cc,True
+wise,wise,wise,366417,ADJ,conj,False
+Thanos,Thanos,ethanols,104879,PROPN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+solemn,solemn,solemn,296610,ADJ,amod,False
+duty,duty,duty,94585,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+do,do,do,90528,AUX,xcomp,True
+so,so,so,295959,ADV,advmod,True

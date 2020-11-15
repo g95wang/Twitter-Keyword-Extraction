@@ -1,0 +1,15 @@
+ITS,its,its,159590,DET,poss,True
+LIKE,like,like,172172,NOUN,amod,False
+BRIGHT,BRIGHT,bright,40766,PROPN,nsubj,False
+WILL,WILL,will,365768,VERB,aux,True
+LOOK,look,look,175060,VERB,ROOT,False
+AT,at,at,22372,ADP,compound,True
+WIN,WIN,win,365877,PROPN,dobj,False
+FIRST,first,first,113286,ADV,intj,True
+THEN,then,then,320906,ADV,advmod,True
+WIN,WIN,win,365877,PROPN,ROOT,False
+WILL,WILL,will,365768,VERB,aux,True
+IMMEDIATELY,IMMEDIATELY,immediately,147908,PROPN,nsubj,False
+NOTICE,notice,notice,208919,VERB,ROOT,False
+EXCUSE,excuse,excuse,106913,VERB,ROOT,False
+ME,me,me,181664,NOUN,dep,True

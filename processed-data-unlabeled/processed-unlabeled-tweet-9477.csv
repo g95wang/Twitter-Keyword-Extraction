@@ -1,0 +1,13 @@
+'s,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+brain,brain,brain,39724,NOUN,attr,False
+that,that,that,320639,DET,nsubj,True
+matters,matter,matter,181309,VERB,relcl,False
+Obama,Obama,abama,81,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+mind,mind,mind,187702,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+full,full,full,119933,ADJ,acomp,True
+of,of,of,211535,ADP,prep,True
+cheap,cheap,cheap,53258,ADJ,amod,False
+populism,populism,populism,243334,NOUN,pobj,False

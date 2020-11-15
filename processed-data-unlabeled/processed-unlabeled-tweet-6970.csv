@@ -1,0 +1,8 @@
+POTUS,POTUS,potus,244833,PROPN,nsubj,False
+JUST,just,just,162503,ADV,advmod,True
+TOLD,tell,tell,318356,VERB,ROOT,False
+BARR,barr,barr,28264,NOUN,dobj,False
+TO,to,to,324862,PART,aux,True
+RELEASE,release,release,266810,VERB,xcomp,False
+THE,the,the,320691,DET,det,True
+TRANSCRIPTS,transcripts,transcripts,327774,NOUN,dobj,False

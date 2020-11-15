@@ -1,0 +1,15 @@
+The,the,the,320691,DET,det,True
+thing,thing,thing,321869,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+nic0le,nic0le,nickle,199650,NOUN,attr,False
+was,be,be,29345,AUX,auxpass,True
+n't,not,not,208798,PART,neg,True
+even,even,even,106079,ADV,advmod,True
+doxxed,doxxe,doxie,92387,VERB,ROOT,False
+just,just,just,162503,ADV,advmod,True
+shared,share,share,287481,VERB,ROOT,False
+pics,pic,pic,235778,NOUN,dobj,False
+that,that,that,320639,SCONJ,dobj,True
+posted,post,post,243900,VERB,relcl,False
+on,on,on,212644,ADP,prep,True
+twitt,twitt,twitty,333485,NOUN,pobj,False

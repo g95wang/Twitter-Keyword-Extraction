@@ -1,0 +1,13 @@
+Knock,knock,knock,165629,VERB,ROOT,False
+Amie,Amie,amie,10466,PROPN,ROOT,False
+got,get,get,124419,VERB,ROOT,False
+this,this,this,322217,DET,dobj,True
+can,can,can,45964,VERB,aux,True
+bookmark,bookmark,bookmark,38098,VERB,ROOT,False
+this,this,this,322217,DET,det,True
+link,link,link,172930,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+check,check,check,53311,VERB,conj,False
+in,in,in,149313,ADP,prep,True
+future,future,future,120712,NOUN,pobj,False
+when,when,when,364637,ADV,advmod,True

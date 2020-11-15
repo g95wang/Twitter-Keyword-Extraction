@@ -1,0 +1,17 @@
+What,what,what,364447,PRON,dobj,True
+did,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+like,like,like,172172,VERB,csubj,False
+is,be,be,29345,AUX,ROOT,True
+how,how,how,144540,ADV,advmod,True
+reacted,react,react,261513,VERB,ccomp,False
+towards,towards,towards,326737,ADP,prep,True
+Herzog,Herzog,hero,137229,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+post,post,post,243900,NOUN,pobj,False
+corner,corner,corner,69264,NOUN,nsubj,False
+had,have,have,134390,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+understand,understand,understand,339888,VERB,xcomp,False
+there,there,there,321216,PRON,expl,True
+was,be,be,29345,AUX,ccomp,True

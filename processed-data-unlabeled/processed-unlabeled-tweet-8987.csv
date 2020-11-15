@@ -1,0 +1,12 @@
+'ll,will,will,365768,VERB,aux,True
+say,say,say,276740,VERB,ROOT,True
+once,once,once,212661,ADV,advmod,True
+again,again,again,5827,ADV,advmod,True
+Every,every,every,106158,DET,det,True
+tongue,tongue,tongue,325543,NOUN,nsubj,False
+that,that,that,320639,DET,nsubj,True
+rises,rise,rise,273227,VERB,relcl,False
+against,against,against,5830,ADP,prep,True
+BTS,BTS,bats,29070,PROPN,pobj,False
+shall,shall,shall,287261,VERB,aux,False
+fall,fall,fall,109467,VERB,ROOT,False

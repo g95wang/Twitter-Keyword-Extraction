@@ -1,0 +1,13 @@
+In,in,in,149313,ADP,prep,True
+NZ,NZ,gunz,131458,PROPN,pobj,False
+runs,run,run,275612,NOUN,ROOT,False
+HS,HS,hs,144599,PROPN,npadvmod,False
+avg,avg,avg,24722,PROPN,npadvmod,False
+In,in,in,149313,ADP,ROOT,True
+SL,sl,sl,293524,NOUN,pobj,False
+Runs,Runs,runs,275694,PROPN,pobj,False
+HS,HS,hs,144599,PROPN,npadvmod,False
+avg,avg,avg,24722,PROPN,dep,False
+In,in,in,149313,ADP,prep,True
+WI,WI,wi,365431,PROPN,pobj,False
+Runs,Runs,runs,275694,PROPN,ROOT,False

@@ -1,0 +1,17 @@
+feel,feel,feel,110884,VERB,ROOT,False
+very,very,very,358514,ADV,advmod,True
+fortunate,fortunate,fortunate,117720,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,auxpass,True
+acknowledged,acknowledge,acknowledge,2556,VERB,xcomp,False
+by,by,by,33133,ADP,agent,True
+the,the,the,320691,DET,det,True
+Human,Human,human,144841,PROPN,compound,False
+Rights,Rights,rights,272839,PROPN,compound,False
+Press,Press,press,249564,PROPN,compound,False
+Award,Award,award,24959,PROPN,pobj,False
+for,for,for,116301,ADP,prep,True
+work,work,work,367468,NOUN,pobj,False
+which,which,which,364730,DET,nsubj,True
+hope,hope,hope,143674,VERB,relcl,False
+und,und,bund,42806,ADV,oprd,False

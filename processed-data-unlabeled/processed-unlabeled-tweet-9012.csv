@@ -1,0 +1,13 @@
+The,the,the,320691,DET,det,True
+Trump,Trump,trump,331570,PROPN,compound,False
+Administration,Administration,administration,4148,PROPN,nsubj,False
+has,have,have,134390,AUX,aux,True
+marshaled,marshal,marshal,180388,VERB,ROOT,False
+every,every,every,106158,DET,det,True
+resource,resource,resource,269662,NOUN,dobj,False
+at,at,at,22372,ADP,prep,True
+disposal,disposal,disposal,89132,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+fight,fight,fight,112433,VERB,acl,False
+the,the,the,320691,DET,det,True
+Coronavirus,Coronavirus,coronavirus,69453,PROPN,dobj,False

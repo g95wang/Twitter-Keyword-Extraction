@@ -1,0 +1,9 @@
+No,no,no,200529,DET,det,True
+school,school,school,280423,NOUN,nsubj,False
+should,should,should,288990,VERB,aux,True
+go,go,go,127161,VERB,ROOT,True
+back,back,back,25705,ADV,advmod,True
+until,until,until,353020,ADP,mark,True
+Eton,Eton,eton,105215,PROPN,nsubj,False
+goes,go,go,127161,VERB,advcl,False
+back,back,back,25705,ADV,advmod,True

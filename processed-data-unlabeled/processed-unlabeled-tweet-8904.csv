@@ -1,0 +1,16 @@
+is,be,be,29345,AUX,ROOT,True
+IU,IU,imu,149311,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+and,and,and,12285,CCONJ,cc,True
+SUGA,SUGA,sugan,310201,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+first,first,first,113286,ADJ,amod,True
+song,song,song,297195,NOUN,attr,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,relcl,True
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+World,World,world,367566,PROPN,compound,False
+Digital,Digital,digital,85441,PROPN,compound,False
+Song,Song,song,297195,PROPN,compound,False
+Sales,Sales,sales,276984,PROPN,pobj,False

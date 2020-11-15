@@ -1,0 +1,15 @@
+Do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+be,be,be,29345,AUX,ROOT,True
+scared,scare,scare,279724,VERB,acomp,False
+to,to,to,324862,PART,aux,True
+rock,rock,rock,273647,VERB,xcomp,False
+alone,alone,alone,9255,ADV,advmod,True
+the,the,the,320691,DET,det,True
+sun,sun,sun,311023,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+always,always,always,9710,ADV,advmod,True
+alone,alone,alone,9255,ADJ,acomp,True
+and,and,and,12285,CCONJ,cc,True
+still,still,still,304511,ADV,advmod,True
+shinning,shin,shin,288332,VERB,conj,False

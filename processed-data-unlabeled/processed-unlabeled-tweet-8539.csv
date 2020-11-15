@@ -1,0 +1,15 @@
+m,be,be,29345,VERB,ROOT,False
+not,not,not,208798,PART,neg,True
+sorry,sorry,sorry,297653,ADJ,ROOT,False
+lmaooo,lmaooo,laocoon,168252,PROPN,ROOT,False
+all,all,all,8522,DET,det,True
+bitches,bitch,bitch,35166,NOUN,nsubj,False
+had,have,have,134390,AUX,ROOT,True
+all,all,all,8522,DET,det,True
+damn,damn,damn,76569,ADJ,amod,False
+time,time,time,323746,NOUN,npadvmod,False
+with,with,with,366582,ADP,prep,True
+no,no,no,200529,DET,det,True
+result,result,result,270122,NOUN,pobj,False
+so,so,so,295959,ADV,advmod,True
+bye,bye,bye,33554,ADV,ROOT,False

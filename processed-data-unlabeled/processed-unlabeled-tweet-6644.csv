@@ -1,0 +1,12 @@
+Concepts,concept,concept,65148,NOUN,ROOT,False
+That,that,that,320639,DET,nsubj,True
+Will,Will,will,365768,VERB,aux,True
+Help,help,help,135801,VERB,relcl,False
+Team,team,team,317482,NOUN,nsubj,False
+Be,be,be,29345,AUX,ccomp,True
+More,More,more,193383,ADJ,advmod,True
+Data,Data,data,77138,PROPN,npadvmod,False
+Driven,drive,drive,93179,VERB,acomp,False
+Analytics,Analytics,analytics,11763,PROPN,nmod,False
+Data,datum,datum,77210,NOUN,compound,False
+SmallBusiness,smallbusiness,smallness,294694,ADP,pobj,False

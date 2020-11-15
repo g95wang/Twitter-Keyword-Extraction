@@ -1,0 +1,17 @@
+Holy,holy,holy,142432,ADJ,compound,False
+fuck,fuck,fuck,119742,ADJ,ROOT,False
+forgot,forget,forget,117219,VERB,ROOT,False
+how,how,how,144540,ADV,advmod,True
+fucking,fuck,fuck,119742,VERB,amod,False
+badass,badass,badass,26163,ADJ,compound,False
+battle,battle,battle,29132,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+bastards,bastard,bastard,28804,NOUN,pobj,False
+is,be,be,29345,AUX,ccomp,True
+Best,good,good,127869,ADJ,amod,False
+episode,episode,episode,102810,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+all,all,all,8522,DET,det,True
+time,time,time,323746,NOUN,pobj,False
+GameofThrones,GameofThrones,gramophones,128764,PROPN,ROOT,False

@@ -1,0 +1,14 @@
+cousin,cousin,cousin,71384,NOUN,nsubj,False
+just,just,just,162503,ADV,advmod,True
+launched,launch,launch,169150,VERB,ROOT,False
+athletic,athletic,athletic,22601,ADJ,amod,False
+wear,wear,wear,363540,NOUN,compound,False
+brand,brand,brand,39897,NOUN,dobj,False
+am,be,be,29345,AUX,ROOT,True
+pre,pre,pre,245405,ADJ,dep,False
+ordering,ordering,ordering,214224,ADJ,attr,False
+ASAP,ASAP,asap,20847,NOUN,advmod,False
+Check,check,check,53311,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True
+on,on,on,212644,ADP,prep,True
+Instagram,Instagram,ingram,152546,PROPN,pobj,False

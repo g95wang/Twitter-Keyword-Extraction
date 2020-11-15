@@ -1,0 +1,16 @@
+Late,late,late,168810,ADJ,amod,False
+entry,entry,entry,101704,NOUN,ROOT,False
+from,from,from,119298,ADP,prep,True
+Mrs,Mrs,mrs,194479,PROPN,compound,False
+Berry,Berry,berry,32185,PROPN,pobj,False
+to,to,to,324862,PART,aux,True
+close,close,close,60433,VERB,acl,False
+the,the,the,320691,DET,det,True
+reading,reading,reading,261596,NOUN,compound,False
+hour,hour,hour,144367,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+this,this,this,322217,DET,det,True
+week,week,week,363764,NOUN,pobj,False
+Home,home,home,142751,NOUN,compound,False
+Fire,Fire,fire,113100,PROPN,appos,False
+by,by,by,33133,ADP,agent,True

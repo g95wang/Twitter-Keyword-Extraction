@@ -1,0 +1,12 @@
+Joy,Joy,joy,161577,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+about,about,about,756,ADJ,acomp,True
+to,to,to,324862,PART,aux,True
+bless,bless,bless,36144,VERB,xcomp,False
+with,with,with,366582,ADP,prep,True
+beautiful,beautiful,beautiful,29674,ADJ,amod,False
+voice,voice,voice,360982,NOUN,pobj,False
+once,once,once,212661,ADV,advmod,True
+again,again,again,5827,ADV,advmod,True
+CRUSHxJOY,crushxjoy,crush,74268,NOUN,dep,False
+CRUSHxJOY_Mayday,crushxjoy_mayday,customary,75707,NOUN,ROOT,False

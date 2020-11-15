@@ -1,0 +1,14 @@
+Trains,train,train,327443,NOUN,compound,False
+services,service,service,286444,NOUN,nsubj,False
+started,start,start,302958,VERB,ROOT,False
+but,but,but,43550,CCONJ,cc,True
+tickets,ticket,ticket,323221,NOUN,nsubj,False
+are,be,be,29345,AUX,conj,True
+not,not,not,208798,PART,neg,True
+available,available,available,24569,ADJ,acomp,False
+migrants,migrant,migrant,187035,NOUN,nsubj,False
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+have,have,have,134390,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+right,right,right,272806,NOUN,dobj,False

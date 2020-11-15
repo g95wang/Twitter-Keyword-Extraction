@@ -1,0 +1,5 @@
+things,thing,thing,321869,NOUN,ROOT,False
+a,a,a,0,DET,det,True
+coward,coward,coward,71546,NOUN,nsubj,False
+does,do,do,90528,AUX,relcl,True
+for,for,for,116301,ADP,prep,True

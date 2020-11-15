@@ -1,0 +1,12 @@
+YOU,you,you,157723,PRON,nsubj,True
+CAN,CAN,can,45964,VERB,aux,True
+MAKE,make,make,178090,VERB,ROOT,True
+YOUR,your,your,157754,DET,poss,True
+VOICE,voice,voice,360982,NOUN,nsubj,False
+HEARD,HEARD,heard,134796,PROPN,ccomp,False
+USE,use,use,355958,VERB,ROOT,False
+IT,it,it,159424,NOUN,nsubj,True
+HOLD,hold,hold,142390,VERB,ROOT,False
+THEM,them,them,320888,NOUN,nsubj,True
+ACCOUNTABLE,ACCOUNTABLE,accountable,1721,NOUN,ccomp,False
+BLUEFALL,BLUEFALL,blueball,36692,PROPN,ROOT,False

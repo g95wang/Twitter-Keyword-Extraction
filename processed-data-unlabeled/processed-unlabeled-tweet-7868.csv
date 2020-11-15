@@ -1,0 +1,12 @@
+As,as,as,20837,SCONJ,mark,True
+a,a,a,0,DET,det,True
+token,token,token,325206,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+appreciation,appreciation,appreciation,17908,NOUN,pobj,False
+being,be,be,29345,AUX,advcl,True
+a,a,a,0,DET,det,True
+good,good,good,127869,ADJ,amod,False
+friend,friend,friend,118947,NOUN,attr,False
+name,name,name,196686,VERB,ROOT,True
+what,what,what,364447,PRON,dobj,True
+want,want,want,362465,VERB,ccomp,False

@@ -1,0 +1,10 @@
+SC,SC,sc,279274,PROPN,nsubjpass,False
+was,be,be,29345,AUX,auxpass,True
+never,never,never,199350,ADV,neg,True
+really,really,really,261766,ADV,advmod,True
+closed,closed,closed,60436,ADJ,ROOT,False
+if,if,if,146980,SCONJ,mark,True
+keeping,keep,keep,163579,VERB,advcl,False
+a,a,a,0,DET,det,True
+buck,buck,buck,42020,NOUN,compound,False
+lol,lol,lola,174784,NOUN,oprd,False

@@ -1,0 +1,11 @@
+Tell,tell,tell,318356,VERB,ROOT,False
+mom,mom,mom,191625,NOUN,dobj,False
+said,say,say,276740,VERB,ROOT,False
+Happy,Happy,happy,133513,PROPN,compound,False
+Mothers,Mothers,mothers,193957,PROPN,compound,False
+Day,Day,day,76257,PROPN,compound,False
+without,without,without,366665,ADP,prep,True
+telling,tell,tell,318356,VERB,pcomp,False
+mom,mom,mom,191625,NOUN,dobj,False
+said,say,say,276740,VERB,ROOT,False
+thanks,thank,thank,320604,NOUN,npadvmod,False

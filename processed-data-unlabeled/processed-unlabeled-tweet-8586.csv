@@ -1,0 +1,9 @@
+Male,male,male,178348,ADJ,compound,False
+characters,character,character,52709,NOUN,ROOT,False
+that,that,that,320639,DET,nsubj,True
+wear,wear,wear,363540,VERB,relcl,False
+this,this,this,322217,DET,det,True
+type,type,type,324164,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+shirt,shirt,shirt,288512,PROPN,pobj,False
+gt;&gt;&gt;&gt;&gt,gt;&gt;&gt;&gt;&gt,tightfitting,323474,PROPN,conj,False

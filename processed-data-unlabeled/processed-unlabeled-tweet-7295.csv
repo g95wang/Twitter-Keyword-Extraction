@@ -1,0 +1,13 @@
+imagine,imagine,imagine,147602,VERB,ROOT,False
+excusing,excuse,excuse,106913,VERB,xcomp,False
+all,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+innocent,innocent,innocent,153060,ADJ,amod,False
+lives,life,life,171890,NOUN,dobj,False
+Obama,Obama,abama,81,PROPN,nsubj,False
+took,take,take,315491,VERB,relcl,False
+in,in,in,149313,ADP,prt,True
+the,the,the,320691,DET,det,True
+middle,middle,middle,186688,PROPN,compound,False
+east,east,east,94914,PROPN,dobj,False
+because,because,because,29780,SCONJ,mark,True

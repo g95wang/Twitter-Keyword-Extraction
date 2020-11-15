@@ -1,0 +1,15 @@
+Not,not,not,208798,PART,neg,True
+brilliant,brilliant,brilliant,40800,ADJ,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+honest,honest,honest,143389,ADJ,acomp,False
+government,government,government,128391,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+easing,ease,ease,94887,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+lockdown,lockdown,lookdown,175062,NOUN,dobj,False
+this,this,this,322217,DET,det,True
+week,week,week,363764,NOUN,npadvmod,False
+understand,understand,understand,339888,VERB,ROOT,False
+that,that,that,320639,SCONJ,punct,True
+people,people,people,230162,NOUN,pobj,False

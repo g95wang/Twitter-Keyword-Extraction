@@ -1,0 +1,17 @@
+when,when,when,364637,ADV,advmod,True
+i,i,i,145455,PRON,nsubj,True
+say,say,say,276740,VERB,ROOT,True
+gf,gf,gif,124751,NOUN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+favorite,favorite,favorite,110510,ADJ,attr,False
+i,i,i,145455,PRON,nsubj,True
+mean,mean,mean,181735,VERB,parataxis,False
+s,s,s,275971,VERB,ROOT,False
+favorite,favorite,favorite,110510,ADJ,amod,False
+person,person,person,231951,NOUN,attr,False
+favorite,favorite,favorite,110510,ADJ,amod,False
+place,place,place,238538,NOUN,appos,False
+favorite,favorite,favorite,110510,ADJ,amod,False
+thought,thought,thought,322469,NOUN,ROOT,False
+favorite,favorite,favorite,110510,ADJ,amod,False
+sig,sig,sig,289974,PROPN,appos,False

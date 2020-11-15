@@ -1,0 +1,17 @@
+Announcing,announce,announce,13604,VERB,ROOT,False
+FUSIONRL,FUSIONRL,fusional,120610,NOUN,dobj,False
+A,a,a,0,DET,det,True
+Rocket,Rocket,rocket,273675,PROPN,compound,False
+League,League,league,169589,PROPN,compound,False
+tournament,tournament,tournament,326664,NOUN,ROOT,False
+like,like,like,172172,SCONJ,prep,False
+no,no,no,200529,DET,det,True
+other,other,other,215836,ADJ,pobj,True
+NA,NA,na,196397,PROPN,ROOT,False
+amp,amp,amp,10991,NOUN,conj,False
+EU,EU,eu,105248,PROPN,nmod,False
+Tournaments,Tournaments,tournaments,326666,PROPN,ROOT,False
+in,in,in,149313,ADP,prep,True
+Prize,Prize,prize,250878,PROPN,compound,False
+Money,Money,money,191829,PROPN,compound,False
+Co,Co,co,60794,PROPN,pobj,False

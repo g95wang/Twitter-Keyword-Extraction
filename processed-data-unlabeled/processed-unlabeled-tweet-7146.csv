@@ -1,0 +1,15 @@
+even,even,even,106079,ADV,advmod,True
+if,if,if,146980,SCONJ,mark,True
+'re,be,be,29345,AUX,advcl,True
+vers,ver,ver,358312,NOUN,attr,False
+'ll,will,will,365768,VERB,aux,True
+put,put,put,257261,VERB,ccomp,True
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+hearse,hearse,hearse,134810,NOUN,pobj,False
+is,be,be,29345,AUX,pcomp,True
+there,there,there,321216,PRON,expl,True
+something,something,something,297061,PRON,attr,True
+there,there,there,321216,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+that,that,that,320639,DET,nsubj,True

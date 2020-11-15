@@ -1,0 +1,13 @@
+unemployment,unemployment,unemployment,341213,NOUN,nsubj,False
+claims,claim,claim,59065,VERB,ROOT,False
+today--,today--,today,325003,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+statement,statement,statement,303049,NOUN,compound,False
+names,name,name,196686,NOUN,ccomp,False
+not,not,not,208798,PART,neg,True
+relief,relief,relief,266903,NOUN,compound,False
+proposal,proposal,proposal,252788,NOUN,dobj,False
+amid,amid,amid,10405,ADP,prep,False
+an,an,an,11448,DET,det,True
+economic,economic,economic,95376,ADJ,amod,False
+depression,depression,depression,81860,NOUN,pobj,False

@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True
+FitnessGram,FitnessGram,fingram,112983,PROPN,compound,False
+Pacer,Pacer,pacer,222580,PROPN,compound,False
+Test,Test,test,319741,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+multistage,multistage,multistage,195363,NOUN,nmod,False
+aerobic,aerobic,aerobic,4954,ADJ,amod,False
+capacity,capacity,capacity,46772,NOUN,compound,False
+test,test,test,319741,NOUN,attr,False
+that,that,that,320639,DET,nsubj,True
+progressively,progressively,progressively,251947,ADV,advmod,False
+gets,get,get,124419,VERB,relcl,False
+more,more,more,193383,ADV,advmod,True
+difficult,difficult,difficult,85307,ADJ,acomp,False
+as,as,as,20837,SCONJ,mark,True
+co,co,co,60794,VERB,advcl,False

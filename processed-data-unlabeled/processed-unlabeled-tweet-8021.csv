@@ -1,0 +1,17 @@
+ur,ur,ur,355246,ADP,advmod,False
+a,a,a,0,DET,det,True
+pretty,pretty,pretty,250049,ADJ,advmod,False
+ass,ass,ass,21558,NOUN,dep,False
+mf,mf,mf,185602,ADP,compound,False
+u,u,u,333554,PROPN,nsubj,False
+need,need,need,197910,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+stop,stop,stop,305323,VERB,acl,False
+straightening,straighten,straighten,305658,VERB,xcomp,False
+ur,ur,ur,355246,PROPN,amod,False
+hair,hair,hair,132366,NOUN,dobj,False
+makes,make,make,178090,VERB,ROOT,False
+u,u,u,333554,PRON,nsubj,False
+look,look,look,175060,VERB,ccomp,False
+basic,basic,basic,28570,ADJ,amod,False
+jsjsj,jsjsj,jass,160558,NOUN,dobj,False

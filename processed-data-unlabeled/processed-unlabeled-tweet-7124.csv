@@ -1,0 +1,15 @@
+Women,woman,woman,366955,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+like,like,like,172172,SCONJ,prep,False
+dolls,doll,doll,91138,NOUN,pobj,False
+if,if,if,146980,SCONJ,mark,True
+re,be,be,29345,VERB,advcl,True
+lucky,lucky,lucky,175842,ADJ,acomp,False
+get,get,get,124419,VERB,advcl,True
+Barbie,Barbie,barbe,27746,PROPN,compound,False
+doll,doll,doll,91138,NOUN,ccomp,False
+if,if,if,146980,SCONJ,mark,True
+re,be,be,29345,VERB,advcl,True
+unlucky,unlucky,unlucky,345833,ADJ,acomp,False
+get,get,get,124419,VERB,ccomp,True
+Annabelle,Annabelle,annabel,13460,PROPN,dobj,False

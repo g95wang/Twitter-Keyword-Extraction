@@ -1,0 +1,17 @@
+Happy,Happy,happy,133513,PROPN,compound,False
+Nurses,Nurses,nurses,209727,PROPN,compound,False
+Day,Day,day,76257,PROPN,compound,False
+Team,Team,team,317482,PROPN,compound,False
+Leader,Leader,leader,169520,PROPN,nsubj,False
+for,for,for,116301,ADP,prep,True
+Hospice,Hospice,hospice,144157,PROPN,pobj,False
+at,at,at,22372,ADP,prep,True
+Home,Home,home,142751,PROPN,compound,False
+Jonathon,Jonathon,jonathan,161746,PROPN,pobj,False
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,aux,True
+talking,talk,talk,315639,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+Emma,Emma,emma,98589,PROPN,pobj,False
+on,on,on,212644,ADP,prep,True
+jus,jus,jus,162487,PROPN,pobj,False

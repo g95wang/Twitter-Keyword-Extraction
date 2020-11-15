@@ -1,0 +1,13 @@
+Tom,Tom,tom,325373,PROPN,nsubj,False
+forgot,forget,forget,117219,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+switch,switch,switch,314565,VERB,xcomp,False
+accounts,account,account,1719,NOUN,compound,False
+wen,wen,wen,364119,PROPN,dobj,False
+replying,reply,reply,268301,VERB,dobj,False
+to,to,to,324862,ADP,prep,True
+That,that,that,320639,DET,nsubj,True
+s,s,s,275971,VERB,aux,False
+embarrasing,embarrase,embarrased,98000,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+Tom,Tom,tom,325373,PROPN,pobj,False

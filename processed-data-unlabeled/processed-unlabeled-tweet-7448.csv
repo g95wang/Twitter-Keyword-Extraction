@@ -1,0 +1,16 @@
+THOSE,those,those,322465,DET,compound,True
+OUT,out,out,216108,ADP,amod,True
+RIOTING,RIOTING,rioting,273119,NOUN,nsubj,False
+ARE,are,are,19297,VERB,ROOT,True
+THE,the,the,320691,DET,det,True
+VERY,very,very,358514,ADJ,amod,True
+ONES,one,one,212715,NOUN,attr,False
+WHO,who,who,365278,PRON,nsubj,True
+NEED,need,need,197910,VERB,relcl,False
+THE,the,the,320691,DET,det,True
+POLICE,POLICE,police,241679,NOUN,dobj,False
+FOR,for,for,116301,ADP,mark,True
+THERE,there,there,321216,ADV,nsubj,True
+CRIMES,crime,crime,72941,NOUN,ROOT,False
+AGAINST,against,against,5830,ADP,prep,True
+HUMANITY,HUMANITY,humanity,144874,PROPN,pobj,False

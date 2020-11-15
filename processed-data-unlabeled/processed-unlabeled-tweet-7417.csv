@@ -1,0 +1,15 @@
+s,s,s,275971,VERB,aux,False
+doing,do,do,90528,VERB,ccomp,True
+an,an,an,11448,DET,det,True
+amazing,amazing,amazing,9904,ADJ,amod,False
+job,job,job,161424,NOUN,dobj,False
+are,be,be,29345,AUX,aux,True
+all,all,all,8522,ADV,advmod,True
+routing,route,route,274941,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+here,here,here,136991,ADV,advmod,True
+and,and,and,12285,CCONJ,cc,True
+will,will,will,365768,VERB,aux,True
+log,log,log,174549,VERB,ROOT,False
+onto,onto,onto,212933,ADP,prep,True
+sponsor,sponsor,sponsor,300819,NOUN,compound,False

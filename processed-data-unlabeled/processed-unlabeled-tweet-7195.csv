@@ -1,0 +1,13 @@
+shit,shit,shit,288544,PROPN,ROOT,False
+i,i,i,145455,PRON,nsubj,True
+wished,wish,wish,366457,VERB,ROOT,False
+i,i,i,145455,PRON,nsubj,True
+knew,know,know,165702,VERB,ccomp,False
+when,when,when,364637,ADV,advmod,True
+i,i,i,145455,PRON,nsubj,True
+was,be,be,29345,AUX,advcl,True
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+internet,internet,internet,155496,NOUN,pobj,False
+a,a,a,0,DET,det,True
+thread,thread,thread,322554,NOUN,ROOT,False

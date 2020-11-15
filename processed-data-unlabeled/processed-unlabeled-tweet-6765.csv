@@ -1,0 +1,13 @@
+Got,got,got,128258,VERB,ROOT,False
+ta,to,to,324862,PART,aux,False
+say,say,say,276740,VERB,xcomp,True
+was,be,be,29345,AUX,aux,True
+NOT,not,not,208798,ADV,neg,True
+expecting,expect,expect,107598,VERB,ROOT,False
+this,this,this,322217,DET,det,True
+type,type,type,324164,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+statement,statement,statement,303049,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+Tom,Tom,tom,325373,PROPN,compound,False
+Herman,Herman,herman,137132,PROPN,pobj,False

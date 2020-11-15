@@ -1,0 +1,13 @@
+So,so,so,295959,SCONJ,advmod,True
+thousands,thousand,thousand,322489,NOUN,nsubj,False
+can,can,can,45964,VERB,aux,True
+attend,attend,attend,23005,VERB,ROOT,False
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+funeral,funeral,funeral,120200,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True
+ca,can,can,45964,VERB,aux,True
+n't,not,not,208798,PART,neg,True
+attend,attend,attend,23005,VERB,ROOT,False
+relatives,relative,relative,266759,NOUN,dobj,False

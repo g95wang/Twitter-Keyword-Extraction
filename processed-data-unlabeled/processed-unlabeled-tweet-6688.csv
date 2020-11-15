@@ -1,0 +1,12 @@
+Dame,Dame,dame,76541,PROPN,compound,False
+Lillard,Lillard,billard,33973,PROPN,ROOT,False
+when,when,when,364637,ADV,advmod,True
+the,the,the,320691,DET,det,True
+Pels,Pels,peals,228428,PROPN,nsubj,False
+or,or,or,213904,CCONJ,cc,True
+Grizzlies,Grizzlies,grizzlies,130104,PROPN,conj,False
+lose,lose,lose,175338,VERB,relcl,False
+in,in,in,149313,ADP,prt,True
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+Lakers,laker,laker,167492,NOUN,pobj,False

@@ -1,0 +1,15 @@
+China,China,china,54539,PROPN,nsubj,False
+decided,decide,decide,78310,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+suspend,suspend,suspend,313732,VERB,xcomp,False
+accepting,accept,accept,1468,VERB,xcomp,False
+import,import,import,148870,NOUN,compound,False
+declarations,declaration,declaration,78451,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+meat,meat,meat,181814,NOUN,compound,False
+products,product,product,251582,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+Australian,australian,australian,23712,ADJ,amod,False
+firms,firm,firm,113248,NOUN,pobj,False
+effective,effective,effective,95955,ADJ,amod,False
+immediatel,immediatel,immediately,147908,NOUN,punct,False

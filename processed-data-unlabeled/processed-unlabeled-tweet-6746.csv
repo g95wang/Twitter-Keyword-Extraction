@@ -1,0 +1,15 @@
+Memorial,Memorial,memorial,183185,PROPN,nsubj,False
+in,in,in,149313,ADP,prep,True
+Minneapolis,Minneapolis,minneapolis,187970,PROPN,pobj,False
+today,today,today,325003,NOUN,npadvmod,False
+for,for,for,116301,ADP,prep,True
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,pobj,False
+Keep,keep,keep,163579,VERB,ROOT,True
+the,the,the,320691,DET,det,True
+pressure,pressure,pressure,249604,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+for,for,for,116301,ADP,prep,True
+what,what,what,364447,PRON,nsubj,True
+s,s,s,275971,VERB,pcomp,False
+right,right,right,272806,ADJ,acomp,False

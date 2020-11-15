@@ -1,0 +1,10 @@
+When,when,when,364637,ADV,advmod,True
+S25,S25,s,275971,PROPN,nsubj,False
+happens,happen,happen,133505,VERB,advcl,False
+the,the,the,320691,DET,det,True
+writers,writer,writer,368052,NOUN,nsubj,False
+need,need,need,197910,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+use,use,use,355958,VERB,xcomp,False
+this,this,this,322217,DET,det,True
+combo,combo,combo,63683,NOUN,dobj,False

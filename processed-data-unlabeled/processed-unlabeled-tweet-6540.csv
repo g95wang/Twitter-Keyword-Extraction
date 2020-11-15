@@ -1,0 +1,13 @@
+the,the,the,320691,DET,det,True
+goal,goal,goal,127172,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+an,an,an,11448,DET,det,True
+organized,organized,organized,214402,ADJ,amod,False
+left,left,left,169983,NOUN,pobj,False
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,aux,True
+getting,get,get,124419,VERB,ROOT,False
+people,people,people,230162,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+this,this,this,322217,DET,det,True
+point,point,point,241315,NOUN,pobj,False

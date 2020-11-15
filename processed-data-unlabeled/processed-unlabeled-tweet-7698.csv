@@ -1,0 +1,14 @@
+University,University,university,345147,PROPN,compound,False
+presidents,president,president,249451,NOUN,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+communications,communication,communication,64246,NOUN,compound,False
+officers,officer,officer,211608,NOUN,conj,False
+statements,statement,statement,303049,NOUN,nsubj,False
+declaring,declare,declare,78460,VERB,acl,False
+Black,Black,black,35431,PROPN,amod,False
+Lives,life,life,171890,NOUN,compound,False
+Matter,Matter,matter,181309,PROPN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+police,police,police,241679,NOUN,compound,False
+brutality,brutality,brutality,41863,NOUN,conj,False
+must,must,must,196148,VERB,dep,True

@@ -1,0 +1,16 @@
+Little,little,little,173876,ADJ,nsubj,False
+known,know,know,165702,VERB,amod,False
+fact,fact,fact,109031,NOUN,ROOT,False
+According,accord,accord,1684,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+a,a,a,0,DET,det,True
+Senior,Senior,senior,285285,PROPN,compound,False
+VA,VA,va,356322,PROPN,compound,False
+Official,Official,official,211620,PROPN,pobj,False
+every,every,every,106158,DET,det,True
+day,day,day,76257,NOUN,npadvmod,False
+the,the,the,320691,DET,det,True
+prescribes,prescribe,prescribe,249290,NOUN,compound,False
+doses,dose,dose,91835,VERB,pobj,False
+of,of,of,211535,ADP,prep,True
+Hydrox,Hydrox,hydroxy,139027,PROPN,pobj,False

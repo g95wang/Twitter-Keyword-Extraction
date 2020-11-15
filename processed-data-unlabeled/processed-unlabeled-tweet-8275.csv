@@ -1,0 +1,10 @@
+trust,trust,trust,331669,NOUN,nsubj,False
+in,in,in,149313,ADP,prep,True
+by,by,by,33133,ADP,prep,True
+the,the,the,320691,DET,det,True
+clark,clark,clark,59337,PROPN,amod,False
+sisters,sister,sister,292572,NOUN,pobj,False
+makes,make,make,178090,VERB,ROOT,False
+want,want,want,362465,VERB,ccomp,False
+to,to,to,324862,PART,aux,True
+cry,cry,cry,72853,VERB,xcomp,False

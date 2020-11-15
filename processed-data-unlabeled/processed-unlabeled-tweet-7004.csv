@@ -1,0 +1,13 @@
+ways,way,way,361946,NOUN,ROOT,False
+can,can,can,45964,VERB,aux,True
+give,give,give,125692,VERB,relcl,True
+the,the,the,320691,DET,det,True
+cops,cop,cop,68392,NOUN,dative,False
+more,more,more,193383,ADJ,amod,True
+money,money,money,191829,NOUN,dobj,False
+as,as,as,20837,SCONJ,mark,True
+ask,ask,ask,21294,VERB,advcl,False
+nicely,nicely,nicely,199581,ADV,advmod,False
+to,to,to,324862,PART,aux,True
+stop,stop,stop,305323,VERB,xcomp,False
+murdering,murder,murder,195668,VERB,xcomp,False

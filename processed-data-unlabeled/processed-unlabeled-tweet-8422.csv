@@ -1,0 +1,5 @@
+FOR,for,for,116301,ADP,ROOT,True
+A,a,a,0,DET,det,True
+WHOLE,whole,whole,365285,ADJ,amod,True
+YEAR,year,year,146706,NOUN,compound,False
+DAMN,damn,damn,76569,ADP,pobj,False

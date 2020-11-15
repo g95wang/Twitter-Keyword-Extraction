@@ -1,0 +1,9 @@
+Maybe,maybe,maybe,177755,ADV,advmod,False
+THATS,THATS,thats,320655,PROPN,ROOT,False
+why,why,why,364728,ADV,advmod,True
+Barr,Barr,barr,28264,PROPN,nsubj,False
+wo,will,will,365768,VERB,aux,False
+nt,not,not,208798,PART,neg,False
+release,release,release,266810,VERB,ccomp,False
+the,the,the,320691,DET,det,True
+documents,document,document,90695,NOUN,dobj,False

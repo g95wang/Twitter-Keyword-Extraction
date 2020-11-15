@@ -1,0 +1,13 @@
+being,be,be,29345,AUX,auxpass,True
+annoyed,annoy,annoy,13566,VERB,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+BLM,BLM,balm,27067,PROPN,nsubj,False
+has,have,have,134390,AUX,aux,True
+taken,take,take,315491,VERB,ccomp,False
+over,over,over,218092,ADP,prt,True
+social,social,social,296098,ADJ,amod,False
+media,medium,medium,182217,NOUN,compound,False
+SAYS,say,say,276740,VERB,conj,False
+SOMETHING,something,something,297061,NOUN,dobj,True
+ABOUT,about,about,756,ADP,prep,True
+YOU,you,you,157723,PRON,pobj,True

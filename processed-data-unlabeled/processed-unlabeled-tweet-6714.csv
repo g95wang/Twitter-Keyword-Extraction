@@ -1,0 +1,16 @@
+Retweet,Retweet,etwee,105245,PROPN,ROOT,False
+if,if,if,146980,SCONJ,mark,True
+'re,be,be,29345,AUX,advcl,True
+a,a,a,0,DET,det,True
+soldier,soldier,soldier,296558,NOUN,attr,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+Army,Army,army,19923,PROPN,pobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+Decent,Decent,decent,78220,PROPN,pobj,False
+Let,let,let,170875,VERB,ROOT,False
+show,show,show,289042,VERB,ccomp,True
+how,how,how,144540,ADV,advmod,True
+strong,strong,strong,306510,ADJ,acomp,False
+are,be,be,29345,AUX,ccomp,True

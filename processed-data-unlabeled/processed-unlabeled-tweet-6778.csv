@@ -1,0 +1,17 @@
+JUST,just,just,162503,ADV,advmod,True
+IN,in,in,149313,ADP,ROOT,True
+Another,another,another,13899,DET,quantmod,True
+people,people,people,230162,NOUN,nsubj,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+U.S.,U.S.,us,355940,PROPN,pobj,False
+filed,file,file,112568,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+unemployment,unemployment,unemployment,341213,NOUN,pobj,False
+last,last,last,168771,ADJ,amod,True
+week,week,week,363764,NOUN,npadvmod,False
+Over,over,over,218092,ADP,quantmod,True
+jobs,job,job,161424,NOUN,ROOT,False
+lost,lose,lose,175338,VERB,acl,False
+since,since,since,291358,SCONJ,prep,True
+March,March,march,179889,PROPN,pobj,False

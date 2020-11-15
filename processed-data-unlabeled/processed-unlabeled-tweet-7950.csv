@@ -1,0 +1,14 @@
+What,what,what,364447,PRON,ROOT,True
+really,really,really,261766,ADV,advmod,True
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ccomp,True
+not,not,not,208798,PART,neg,True
+some,some,some,297029,DET,det,True
+coronavirus,coronavirus,coronavirus,69453,NOUN,compound,False
+hairstyle,hairstyle,hairstyle,132449,NOUN,compound,False
+trend,trend,trend,328944,NOUN,attr,False
+'s,be,be,29345,AUX,ROOT,True
+centuries,century,century,51064,NOUN,npadvmod,False
+old,old,old,212002,ADJ,acomp,False
+Smh,smh,samh,277535,INTJ,ROOT,False
+afrohair,afrohair,arhar,19617,NOUN,ROOT,False

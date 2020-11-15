@@ -1,0 +1,12 @@
+people,people,people,230162,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+faithless,faithless,faithless,109368,NOUN,acomp,False
+will,will,will,365768,VERB,aux,True
+discriminate,discriminate,discriminate,87735,VERB,ccomp,False
+and,and,and,12285,CCONJ,cc,True
+avoid,avoid,avoid,24847,VERB,conj,False
+people,people,people,230162,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+peaceful,peaceful,peaceful,228330,ADJ,amod,False
+faith,faith,faith,109359,NOUN,pobj,False
+Amen,amen,amen,10238,INTJ,intj,False

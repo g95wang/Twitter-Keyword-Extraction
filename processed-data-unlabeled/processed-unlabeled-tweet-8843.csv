@@ -1,0 +1,6 @@
+Psycho,Psycho,psycho,255292,PROPN,compound,False
+Joe,Joe,joe,161519,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+having,have,have,134390,VERB,ROOT,False
+another,another,another,13899,DET,det,True
+meltdown,meltdown,meltdown,183088,NOUN,dobj,False

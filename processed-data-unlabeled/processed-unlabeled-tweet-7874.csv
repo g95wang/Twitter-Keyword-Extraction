@@ -1,0 +1,17 @@
+BREAKING,breaking,breaking,40257,NOUN,ROOT,False
+Trump,Trump,trump,331570,PROPN,nsubjpass,False
+was,be,be,29345,AUX,auxpass,True
+confronted,confront,confront,66064,VERB,ccomp,False
+by,by,by,33133,ADP,agent,True
+a,a,a,0,DET,det,True
+reporter,reporter,reporter,268379,NOUN,pobj,False
+about,about,about,756,ADP,prep,True
+a,a,a,0,DET,det,True
+racist,racist,racist,259430,ADJ,amod,False
+comment,comment,comment,63980,NOUN,pobj,False
+made,make,make,178090,VERB,relcl,True
+during,during,during,94458,ADP,prep,True
+propaganda,propaganda,propaganda,252500,NOUN,compound,False
+press,press,press,249564,NOUN,compound,False
+conference,conference,conference,65817,NOUN,pobj,False
+ended,end,end,99559,VERB,ROOT,False

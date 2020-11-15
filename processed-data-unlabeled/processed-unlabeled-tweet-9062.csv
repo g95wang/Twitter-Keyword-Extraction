@@ -1,0 +1,13 @@
+i,i,i,145455,PRON,nsubj,True
+try,try,try,329065,VERB,ROOT,False
+best,good,good,127869,ADJ,dobj,False
+to,to,to,324862,PART,aux,True
+treat,treat,treat,328716,VERB,xcomp,False
+people,people,people,230162,NOUN,dobj,False
+nicely,nicely,nicely,199581,ADV,advmod,False
+but,but,but,43550,CCONJ,cc,True
+still,still,still,304511,ADV,advmod,True
+people,people,people,230162,NOUN,nsubj,False
+treat,treat,treat,328716,VERB,conj,False
+like,like,like,172172,SCONJ,prep,False
+shit,shit,shit,288544,NOUN,pobj,False

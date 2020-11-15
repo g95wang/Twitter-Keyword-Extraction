@@ -1,0 +1,13 @@
+Something,something,something,297061,PRON,ROOT,True
+to,to,to,324862,PART,aux,True
+do,do,do,90528,AUX,relcl,True
+with,with,with,366582,ADP,prep,True
+father,father,father,110264,NOUN,pobj,False
+or,or,or,213904,CCONJ,cc,True
+uncle,uncle,uncle,337003,NOUN,conj,False
+or,or,or,213904,CCONJ,cc,True
+ex,ex,ex,106366,NOUN,conj,False
+boyfriends,boyfriend,boyfriend,37410,NOUN,appos,False
+occasionally,occasionally,occasionally,210649,ADV,advmod,False
+husband,husband,husband,145307,NOUN,dep,False
+man,man,man,178862,NOUN,appos,False

@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True
+fake,fake,fake,109380,ADJ,amod,False
+ventilator,ventilator,ventilator,358173,NOUN,compound,False
+scam,scam,scam,279496,NOUN,ROOT,False
+No,no,no,200529,DET,det,True
+DGCI,DGCI,duci,93735,PROPN,amod,False
+licence,licence,licence,171611,NOUN,ROOT,False
+for,for,for,116301,ADP,prep,True
+fake,fake,fake,109380,ADJ,amod,False
+ventilators,ventilator,ventilator,358173,NOUN,pobj,False
+performance,performance,performance,230671,NOUN,compound,False
+trial,trial,trial,329108,NOUN,nsubj,False
+held,hold,hold,142390,VERB,acl,False
+only,only,only,212848,ADV,advmod,True
+on,on,on,212644,ADP,prep,True
+patient,patient,patient,227804,ADJ,compound,False
+https,https,hts,144605,NOUN,pobj,False

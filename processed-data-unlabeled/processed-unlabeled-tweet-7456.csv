@@ -1,0 +1,15 @@
+hello,hello,hello,135727,INTJ,ROOT,False
+there,there,there,321216,ADV,advmod,True
+was,be,be,29345,AUX,aux,True
+thinking,think,think,321897,VERB,ROOT,False
+should,should,should,288990,VERB,aux,True
+give,give,give,125692,VERB,ccomp,True
+the,the,the,320691,DET,det,True
+art,art,art,20445,NOUN,compound,False
+credit,credit,credit,72496,NOUN,dobj,False
+for,for,for,116301,ADP,dative,True
+pfp,pfp,fp,118119,NOUN,pobj,False
+to,to,to,324862,ADP,aux,True
+since,since,since,291358,SCONJ,mark,True
+is,be,be,29345,AUX,advcl,True
+work,work,work,367468,NOUN,attr,False

@@ -1,0 +1,17 @@
+Each,each,each,94673,DET,det,True
+year,year,year,146706,NOUN,npadvmod,False
+participate,participate,participate,227015,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+UNITY,UNITY,unity,345076,PROPN,compound,False
+service,service,service,286444,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+which,which,which,364730,DET,pobj,True
+dozens,dozen,dozen,92402,NOUN,pcomp,False
+of,of,of,211535,ADP,prep,True
+churches,church,church,56664,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+area,area,area,19298,NOUN,pobj,False
+some,some,some,297029,DET,nsubj,True
+predominately,predominately,predominately,247130,ADV,advmod,False
+white,white,white,365106,ADJ,relcl,False

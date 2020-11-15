@@ -1,0 +1,11 @@
+OMG,omg,mg,185606,VERB,compound,False
+WAIT,wait,wait,362072,NOUN,nsubj,False
+THATS,thats,thats,320655,VERB,ROOT,False
+THE,the,the,320691,DET,det,True
+NAME,NAME,name,196686,PROPN,dobj,True
+COMPLETELY,completely,completely,64638,VERB,ROOT,False
+FORGOT,FORGOT,forgot,117262,PROPN,dobj,False
+AND,and,and,12285,CCONJ,cc,True
+COULDNT,couldnt,couldnt,70515,ADV,appos,False
+FIND,find,find,112884,VERB,ROOT,False
+IT,it,it,159424,PRON,dobj,True

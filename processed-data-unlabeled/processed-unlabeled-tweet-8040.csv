@@ -1,0 +1,7 @@
+Drop,drop,drop,93338,VERB,ROOT,False
+twitter,twitter,twitter,333475,NOUN,dobj,False
+handles,handle,handle,133207,NOUN,dobj,False
+let,let,let,170875,VERB,ROOT,False
+follow,follow,follow,115989,VERB,ccomp,False
+all,all,all,8522,DET,appos,True
+now,now,now,209199,ADV,advmod,True

@@ -1,0 +1,10 @@
+Actually,actually,actually,3298,ADV,advmod,False
+was,be,be,29345,AUX,auxpass,True
+born,bear,bear,29506,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+am,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+most,most,most,193889,ADV,amod,True
+boomer,boomer,boomer,38156,NOUN,attr,False
+here,here,here,136991,ADV,advmod,True
+brother,brother,brother,41578,NOUN,npadvmod,False

@@ -1,0 +1,11 @@
+Grudges,grudge,grudge,130479,NOUN,nsubj,False
+become,become,become,29882,VERB,ROOT,True
+toxic,toxic,toxic,326873,ADJ,acomp,False
+burdens,burden,burden,42993,NOUN,nsubj,False
+become,become,become,29882,VERB,conj,True
+heavy,heavy,heavy,135015,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+some,some,some,297029,DET,det,True
+people,people,people,230162,NOUN,nsubj,False
+become,become,become,29882,VERB,conj,True
+overwhelming,overwhelming,overwhelming,221836,ADJ,acomp,False

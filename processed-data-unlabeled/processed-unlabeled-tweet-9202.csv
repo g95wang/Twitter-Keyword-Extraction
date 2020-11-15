@@ -1,0 +1,10 @@
+Covid-19,Covid-19,covid,71525,PROPN,nsubj,False
+has,have,have,134390,AUX,aux,True
+left,leave,leave,169747,VERB,ROOT,False
+health,health,health,134768,NOUN,compound,False
+care,care,care,47901,NOUN,compound,False
+workers,worker,worker,367494,NOUN,dobj,False
+more,more,more,193383,ADV,advmod,True
+visibleand,visibleand,visible,360396,PROPN,compound,False
+vulnerablethan,vulnerablethan,vulnerable,361591,PROPN,dobj,False
+ever,ever,ever,106143,ADV,advmod,True

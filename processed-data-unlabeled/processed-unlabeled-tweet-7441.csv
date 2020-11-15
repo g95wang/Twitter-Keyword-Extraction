@@ -1,0 +1,10 @@
+Of,of,of,211535,ADV,advmod,True
+course,course,course,71315,ADV,advmod,False
+ve,have,have,134390,VERB,aux,False
+been,be,be,29345,AUX,aux,True
+grinding,grind,grind,129926,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+and,and,and,12285,CCONJ,cc,True
+a,a,a,0,DET,quantmod,True
+half,half,half,132585,NOUN,conj,False
+months,month,month,192909,NOUN,pobj,False

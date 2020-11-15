@@ -1,0 +1,15 @@
+Coronavirus,Coronavirus,coronavirus,69453,PROPN,compound,False
+press,press,press,249564,NOUN,compound,False
+conference,conference,conference,65817,NOUN,ROOT,False
+May,May,may,177739,PROPN,ROOT,True
+via,via,via,359224,ADP,ROOT,True
+SO,so,so,295959,ADV,advmod,True
+YOU,you,you,157723,PRON,nsubj,True
+TELL,tell,tell,318356,VERB,ROOT,False
+ME,me,me,181664,NOUN,dobj,True
+WHY,why,why,364728,ADV,advmod,True
+WE,we,we,363451,PRON,nsubj,True
+ARE,are,are,19297,VERB,ccomp,True
+STILL,still,still,304511,ADV,advmod,True
+IN,in,in,149313,ADP,prep,True
+LOCKD,LOCKD,locked,174356,PROPN,pobj,False

@@ -1,0 +1,15 @@
+Petroling,petroling,petrolling,232532,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+line,line,line,172722,NOUN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+underway,underway,underway,340085,ADJ,acomp,False
+Lots,lot,lot,175365,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+trees,tree,tree,328769,NOUN,pobj,False
+has,have,have,134390,AUX,aux,True
+fallen,fall,fall,109467,VERB,ROOT,False
+due,due,due,93835,ADJ,prep,True
+to,to,to,324862,ADP,prep,True
+last,last,last,168771,ADJ,amod,True
+night,night,night,199909,NOUN,compound,False
+storm,storm,storm,305450,NOUN,pobj,False

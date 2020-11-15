@@ -1,0 +1,17 @@
+Counterpoint,counterpoint,counterpoint,70975,NOUN,nsubj,False
+Making,make,make,178090,VERB,acl,False
+use,use,use,355958,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+existing,existing,existing,107265,ADJ,pcomp,False
+and,and,and,12285,CCONJ,cc,True
+well,well,well,364011,ADV,conj,True
+understood,understand,understand,339888,VERB,ccomp,False
+systems,system,system,292520,NOUN,nsubj,False
+helps,help,help,135801,VERB,ROOT,False
+new,new,new,199367,ADJ,amod,False
+users,user,user,355977,NOUN,nsubjpass,False
+get,get,get,124419,AUX,auxpass,True
+oriented,orient,orient,214541,VERB,ccomp,False
+and,and,and,12285,CCONJ,cc,True
+makes,make,make,178090,VERB,conj,False
+building,building,building,42369,NOUN,compound,False

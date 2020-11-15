@@ -1,0 +1,14 @@
+The,the,the,320691,DET,det,True
+sun,sun,sun,311023,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+shining,shine,shine,288344,VERB,ROOT,False
+today,today,today,325003,NOUN,npadvmod,False
+Currently,currently,currently,75406,ADV,advmod,False
+C,C,c,43829,PROPN,npadvmod,False
+get,get,get,124419,AUX,ROOT,True
+out,out,out,216108,ADV,advmod,True
+there,there,there,321216,ADV,advmod,True
+and,and,and,12285,CCONJ,cc,True
+enjoy,enjoy,enjoy,100598,VERB,conj,False
+yeg,yeg,yegg,146773,INTJ,dep,False
+YegBotWeather,yegbotweather,eggbeater,96172,NOUN,ROOT,False

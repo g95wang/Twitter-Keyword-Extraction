@@ -1,0 +1,15 @@
+did,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+even,even,even,106079,ADV,advmod,True
+have,have,have,134390,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+click,click,click,59892,VERB,xcomp,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+video,video,video,359514,NOUN,pobj,False
+already,already,already,9397,ADV,advmod,True
+knew,know,know,165702,VERB,ROOT,False
+what,what,what,364447,PRON,det,True
+song,song,song,297195,NOUN,nsubj,False
+was,be,be,29345,AUX,aux,True
+playing,play,play,238701,VERB,ccomp,False

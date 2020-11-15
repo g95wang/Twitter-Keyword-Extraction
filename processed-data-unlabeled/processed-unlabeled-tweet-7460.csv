@@ -1,0 +1,15 @@
+Daddy,daddy,daddy,76097,NOUN,nsubj,False
+Changed,change,change,52470,VERB,ROOT,False
+The,the,the,320691,DET,det,True
+World,World,world,367566,PROPN,dobj,False
+A,a,a,0,DET,det,True
+beautiful,beautiful,beautiful,29674,ADJ,amod,False
+message,message,message,184460,NOUN,ROOT,False
+from,from,from,119298,ADP,prep,True
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+daughter,daughter,daughter,77246,NOUN,pobj,False
+via,via,via,359224,ADP,prep,True
+skrptz,skrptz,skart,292828,PROPN,pobj,False
+IG,IG,big,33680,PROPN,appos,False

@@ -1,0 +1,12 @@
+Nearly,nearly,nearly,197611,ADV,advmod,False
+worth,worth,worth,367704,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+cocaine,cocaine,cocaine,61273,NOUN,pobj,False
+seized,seize,seize,283363,VERB,acl,False
+in,in,in,149313,ADP,prep,True
+TPS,tps,tps,326991,NOUN,compound,False
+drug,drug,drug,93497,NOUN,compound,False
+trafficking,trafficking,trafficking,327328,NOUN,compound,False
+investigation,investigation,investigation,157177,NOUN,compound,False
+CBC,CBC,cb,50283,PROPN,compound,False
+News,News,news,199421,PROPN,pobj,False

@@ -1,0 +1,9 @@
+A,a,a,0,DET,det,True
+look,look,look,175060,NOUN,ROOT,False
+at,at,at,22372,ADP,prep,True
+Gleyber,Gleyber,glebe,126100,PROPN,compound,False
+Torres,Torres,torrens,326246,PROPN,pobj,False
+before,before,before,30510,ADP,prep,True
+rise,rise,rise,273227,NOUN,pobj,False
+to,to,to,324862,ADP,prep,True
+stardom,stardom,stardom,302878,NOUN,pobj,False

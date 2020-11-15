@@ -1,0 +1,15 @@
+mental,mental,mental,183495,ADJ,amod,False
+health,health,health,134768,NOUN,nsubj,False
+does,do,do,90528,AUX,aux,True
+not,not,not,208798,PART,neg,True
+matter,matter,matter,181309,VERB,ROOT,False
+what,what,what,364447,PRON,nsubj,True
+really,really,really,261766,ADV,advmod,True
+matters,matter,matter,181309,VERB,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+how,how,how,144540,ADV,advmod,True
+cool,cool,cool,68254,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+sexy,sexy,sexy,286852,ADJ,conj,False
+i,i,i,145455,PRON,nsubj,True
+am,be,be,29345,AUX,ccomp,True

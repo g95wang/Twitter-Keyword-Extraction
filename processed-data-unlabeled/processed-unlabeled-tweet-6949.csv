@@ -1,0 +1,8 @@
+These,these,these,321594,DET,det,True
+officers,officer,officer,211608,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+never,never,never,199350,ADV,neg,True
+stop,stop,stop,305323,VERB,ROOT,False
+abusing,abuse,abuse,1170,VERB,xcomp,False
+power,power,power,245001,NOUN,compound,False
+smh,smh,samh,277535,NOUN,dobj,False

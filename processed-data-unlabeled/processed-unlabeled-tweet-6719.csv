@@ -1,0 +1,13 @@
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+go,go,go,127161,VERB,xcomp,True
+back,back,back,25705,ADV,advmod,True
+in,in,in,149313,ADP,prep,True
+time,time,time,323746,NOUN,pobj,False
+an,an,an,11448,DET,det,True
+relieve,relieve,relieve,266911,NOUN,dobj,False
+all,all,all,8522,DET,predet,True
+those,those,those,322465,DET,det,True
+golden,golden,golden,127499,ADJ,amod,False
+moments,moment,moment,191630,NOUN,npadvmod,False
+again,again,again,5827,ADV,advmod,True

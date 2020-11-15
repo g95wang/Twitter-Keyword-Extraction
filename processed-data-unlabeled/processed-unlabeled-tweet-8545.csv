@@ -1,0 +1,17 @@
+Split,split,split,300565,NOUN,amod,False
+screen,screen,screen,281701,NOUN,nsubj,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+Icons,Icons,icons,146239,PROPN,nmod,False
+of,of,of,211535,ADP,prep,True
+Darts,Darts,darts,77042,PROPN,pobj,False
+live,live,live,173931,VERB,amod,False
+league,league,league,169589,NOUN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+great,great,great,129442,ADJ,amod,False
+addition,addition,addition,3552,NOUN,attr,False
+Check,check,check,53311,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True
+for,for,for,116301,ADP,prep,True
+on,on,on,212644,ADP,prep,True

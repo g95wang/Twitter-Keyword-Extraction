@@ -1,0 +1,12 @@
+If,if,if,146980,SCONJ,mark,True
+the,the,the,320691,DET,det,True
+marriage,marriage,marriage,180340,NOUN,nsubj,False
+becomes,become,become,29882,VERB,advcl,True
+toxic,toxic,toxic,326873,ADJ,acomp,False
+walk,walk,walk,362193,VERB,ROOT,False
+away,away,away,24923,ADV,advmod,False
+Divorce,divorce,divorce,90402,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+a,a,a,0,DET,det,True
+sin,sin,sin,291205,NOUN,attr,False

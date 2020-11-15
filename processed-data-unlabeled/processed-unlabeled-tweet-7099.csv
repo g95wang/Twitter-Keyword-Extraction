@@ -1,0 +1,17 @@
+been,be,be,29345,AUX,nummod,True
+days,day,day,76257,NOUN,npadvmod,False
+since,since,since,291358,SCONJ,mark,True
+louisville,louisville,louisville,175454,PROPN,advcl,False
+police,police,police,241679,PROPN,nsubj,False
+murdered,murder,murder,195668,VERB,ROOT,False
+breonna,breonna,brehonia,40421,PROPN,compound,False
+taylor,taylor,taylor,315380,PROPN,dobj,False
+while,while,while,364797,SCONJ,mark,True
+was,be,be,29345,AUX,advcl,True
+asleep,asleep,asleep,21327,ADJ,acomp,False
+in,in,in,149313,ADP,prep,True
+bed,bed,bed,29953,NOUN,pobj,False
+the,the,the,320691,DET,det,True
+officers,officer,officer,211608,NOUN,ROOT,False
+who,who,who,365278,PRON,nsubj,True
+ki,ki,ki,164344,VERB,relcl,False

@@ -1,0 +1,11 @@
+a,a,a,0,DET,det,True
+mf,mf,mf,185602,PROPN,ROOT,False
+that,that,that,320639,DET,nsubj,True
+does,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+care,care,care,47901,VERB,relcl,False
+about,about,about,756,ADP,prep,True
+the,the,the,320691,DET,det,True
+situation,situation,situation,292666,NOUN,nsubj,False
+going,go,go,127161,VERB,pcomp,False
+on,on,on,212644,ADP,prt,True

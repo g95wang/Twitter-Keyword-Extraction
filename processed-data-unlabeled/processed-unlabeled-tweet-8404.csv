@@ -1,0 +1,9 @@
+DOR,DOR,dor,91634,PROPN,ROOT,False
+RT,RT,rt,275072,PROPN,ROOT,False
+FOR,for,for,116301,ADP,prep,True
+FOLOW,FOLOW,follow,115989,PROPN,pobj,False
+GA,GA,ga,120760,PROPN,compound,False
+FB,FB,fb,110567,PROPN,compound,False
+GAUSA,GAUSA,gaus,122877,PROPN,appos,False
+RT,rt,rt,275072,NOUN,compound,False
+YES,yes,yes,146918,NOUN,ROOT,False

@@ -1,0 +1,12 @@
+India,India,india,150872,PROPN,nsubj,False
+deserves,deserve,deserve,82519,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+know,know,know,165702,VERB,xcomp,False
+what,what,what,364447,PRON,nsubj,True
+is,be,be,29345,AUX,aux,True
+happening,happen,happen,133505,VERB,ccomp,False
+with,with,with,366582,ADP,prep,True
+the,the,the,320691,DET,det,True
+PM,PM,pm,240704,PROPN,compound,False
+Cares,Cares,cares,47939,PROPN,compound,False
+Fund,Fund,fund,120158,PROPN,pobj,False

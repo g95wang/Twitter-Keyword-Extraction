@@ -1,0 +1,10 @@
+thing,thing,thing,321869,NOUN,nsubj,False
+about,about,about,756,ADP,prep,True
+is,be,be,29345,AUX,ROOT,True
+'m,be,be,29345,AUX,aux,True
+always,always,always,9710,ADV,advmod,True
+gon,go,go,127161,VERB,ccomp,False
+na,to,to,324862,PART,aux,False
+shake,shake,shake,287194,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+table,table,table,314826,NOUN,dobj,False

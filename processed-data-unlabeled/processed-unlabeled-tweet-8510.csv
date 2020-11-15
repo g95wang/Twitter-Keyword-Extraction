@@ -1,0 +1,10 @@
+Facts,fact,fact,109031,NOUN,ROOT,False
+thought,think,think,321897,VERB,relcl,False
+were,be,be,29345,AUX,ccomp,True
+true,true,true,331515,ADJ,acomp,False
+but,but,but,43550,CCONJ,cc,True
+turned,turn,turn,332792,VERB,conj,False
+out,out,out,216108,ADP,prt,True
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+false,false,false,109519,ADJ,acomp,False

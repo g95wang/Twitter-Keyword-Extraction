@@ -1,0 +1,17 @@
+TRUE,TRUE,true,331515,PROPN,compound,False
+Worship,Worship,worship,367675,PROPN,nsubj,False
+can,can,can,45964,VERB,aux,True
+make,make,make,178090,VERB,ROOT,True
+reach,reach,reach,261480,VERB,ccomp,False
+the,the,the,320691,DET,det,True
+eternal,eternal,eternal,104830,ADJ,amod,False
+place,place,place,238538,NOUN,dobj,False
+Satlok,Satlok,satyaloka,278702,PROPN,appos,False
+There,there,there,321216,PRON,expl,True
+is,be,be,29345,AUX,ROOT,True
+no,no,no,200529,DET,det,True
+birth,birth,birth,34902,NOUN,attr,False
+and,and,and,12285,CCONJ,cc,True
+death,death,death,77637,NOUN,conj,False
+in,in,in,149313,ADP,prep,True
+SATLOK,SATLOK,satyaloka,278702,PROPN,pobj,False

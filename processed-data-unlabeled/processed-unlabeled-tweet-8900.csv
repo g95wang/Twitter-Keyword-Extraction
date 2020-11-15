@@ -1,0 +1,15 @@
+Thank,thank,thank,320604,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+all,all,all,8522,DET,pobj,True
+are,be,be,29345,AUX,aux,True
+doing,do,do,90528,VERB,relcl,True
+and,and,and,12285,CCONJ,cc,True
+keeping,keep,keep,163579,VERB,conj,False
+safe,safe,safe,276548,ADJ,oprd,False
+will,will,will,365768,VERB,aux,True
+try,try,try,329065,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+keep,keep,keep,163579,VERB,conj,True
+NHS,NHS,hs,144599,PROPN,dobj,False
+safe,safe,safe,276548,ADJ,amod,False
+f,f,f,108866,NOUN,oprd,False

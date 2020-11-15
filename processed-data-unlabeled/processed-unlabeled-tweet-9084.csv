@@ -1,0 +1,14 @@
+think,think,think,321897,VERB,ROOT,False
+restaurants,restaurant,restaurant,269880,NOUN,nsubj,False
+should,should,should,288990,VERB,aux,True
+provide,provide,provide,254058,VERB,ccomp,False
+a,a,a,0,DET,det,True
+private,private,private,250837,ADJ,amod,False
+room,room,room,274247,NOUN,dobj,False
+where,where,where,364654,ADV,advmod,True
+one,one,one,212715,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+deal,deal,deal,77534,VERB,relcl,False
+with,with,with,366582,ADP,prep,True
+bones,bone,bone,37836,NOUN,pobj,False
+personally,personally,personally,231973,ADV,advmod,False

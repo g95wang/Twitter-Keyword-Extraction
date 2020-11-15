@@ -1,0 +1,16 @@
+look,look,look,175060,VERB,ROOT,False
+forward,forward,forward,117747,ADV,advmod,False
+to,to,to,324862,ADP,prep,True
+seeing/,seeing/,seeing,283110,NOUN,pobj,False
+hearing,hear,hear,134794,VERB,advcl,False
+the,the,the,320691,DET,det,True
+media,medium,medium,182217,NOUN,compound,False
+scrutiny,scrutiny,scrutiny,282103,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+s,s,s,275971,PROPN,pobj,False
+guidance,guidance,guidance,131014,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+schools,school,school,280423,NOUN,pobj,False
+that,that,that,320639,DET,nsubj,True
+acknowledges,acknowledge,acknowledge,2556,VERB,relcl,False
+c,c,c,43829,NOUN,dobj,False

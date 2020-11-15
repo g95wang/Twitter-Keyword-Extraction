@@ -1,0 +1,16 @@
+i,i,i,145455,PRON,nsubj,True
+came,come,come,63721,VERB,ROOT,False
+across,across,across,3036,ADP,prep,True
+this,this,this,322217,DET,det,True
+tweet,tweet,tweet,333246,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+scanning,scan,scan,279532,VERB,pcomp,False
+ahpi,ahpi,ahi,6636,NOUN,advmod,False
+love,love,love,175534,VERB,nsubj,False
+that,that,that,320639,DET,nsubj,True
+llit,llit,lit,173539,PROPN,relcl,False
+chart,chart,chart,52959,NOUN,dobj,False
+took,take,take,315491,VERB,conj,False
+some,some,some,297029,DET,dobj,True
+as,as,as,20837,ADV,advmod,True
+well,well,well,364011,ADV,advmod,True

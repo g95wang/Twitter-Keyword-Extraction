@@ -1,0 +1,7 @@
+eye,eye,eye,96351,NOUN,compound,False
+doctor,doctor,doctor,90646,NOUN,nsubj,False
+read,read,read,261551,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+last,last,last,168771,ADJ,amod,True
+line,line,line,172722,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True

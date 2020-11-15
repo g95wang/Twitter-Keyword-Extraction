@@ -1,0 +1,11 @@
+That,that,that,320639,DET,nsubj,True
+does,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+have,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+drivers,driver,driver,93202,NOUN,compound,False
+license,license,license,171621,NOUN,dobj,False
+SHE,she,she,287675,PRON,nsubj,True
+CANNOT,CANNOT,cannot,46456,PROPN,aux,True
+BE,be,be,29345,VERB,acl,True
+SERIOUS,SERIOUS,serious,286134,PROPN,acomp,True

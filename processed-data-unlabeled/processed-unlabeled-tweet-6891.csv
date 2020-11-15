@@ -1,0 +1,12 @@
+And,and,and,12285,CCONJ,cc,True
+who,who,who,365278,PRON,attr,True
+does,do,do,90528,AUX,aux,True
+think,think,think,321897,VERB,ROOT,False
+is,be,be,29345,AUX,ccomp,True
+ll,will,will,365768,VERB,aux,False
+throw,throw,throw,322857,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+recommendation,recommendation,recommendation,263155,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+trash,trash,trash,328518,NOUN,pobj,False

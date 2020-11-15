@@ -1,0 +1,9 @@
+m,be,be,29345,VERB,ROOT,False
+a,going to,going,127453,NOUN,advmod,True
+get,get,get,124419,VERB,ROOT,True
+milk,milk,milk,187221,NOUN,compound,False
+tea,tea,tea,317411,NOUN,compound,False
+boba,boba,boba,37035,NOUN,dobj,False
+been,been,been,30353,VERB,ROOT,True
+waitin,waitin,waiting,362084,PROPN,acomp,False
+long,long,long,174883,ADV,advmod,False

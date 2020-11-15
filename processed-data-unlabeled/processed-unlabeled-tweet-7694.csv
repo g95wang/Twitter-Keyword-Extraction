@@ -1,0 +1,13 @@
+So,so,so,295959,ADV,advmod,True
+excited,excited,excited,106704,ADJ,acl,False
+to,to,to,324862,PART,aux,True
+potentially,potentially,potentially,244671,ADV,advmod,False
+move,move,move,194383,VERB,xcomp,True
+out,out,out,216108,ADP,prt,True
+and,and,and,12285,CCONJ,cc,True
+learn,learn,learn,169659,VERB,conj,False
+to,to,to,324862,PART,aux,True
+drive,drive,drive,93179,VERB,xcomp,False
+Not,not,not,208798,PART,neg,True
+so,so,so,295959,ADV,advmod,True
+fast,fast,fast,110179,ADV,ROOT,False

@@ -1,0 +1,11 @@
+k,k,k,162637,NOUN,compound,False
+followers,follower,follower,115992,NOUN,ROOT,False
+Follow,follow,follow,115989,VERB,ROOT,False
+turn,turn,turn,332792,VERB,ccomp,False
+NOTIFICATION,notification,notification,208938,NOUN,dobj,False
+ON,on,on,212644,ADP,oprd,True
+and,and,and,12285,CCONJ,cc,True
+gain,gain,gain,121008,VERB,conj,False
+more,more,more,193383,ADJ,amod,True
+followers,follower,follower,115992,NOUN,dobj,False
+everyday,everyday,everyday,106161,ADV,advmod,False

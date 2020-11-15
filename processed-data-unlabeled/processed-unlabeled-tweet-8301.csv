@@ -1,0 +1,13 @@
+impression,impression,impression,149068,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+Alex,Alex,alex,7950,PROPN,compound,False
+Jones,Jones,jones,161749,PROPN,pobj,False
+from,from,from,119298,ADP,prep,True
+Waking,Waking,waking,362154,PROPN,compound,False
+Life,Life,life,171890,PROPN,pobj,False
+Start,start,start,302958,VERB,ROOT,False
+challenging,challenge,challenge,52186,VERB,xcomp,False
+this,this,this,322217,DET,det,True
+corporate,corporate,corporate,69522,ADJ,amod,False
+slave,slave,slave,293768,NOUN,compound,False
+state,state,state,303029,NOUN,dobj,False

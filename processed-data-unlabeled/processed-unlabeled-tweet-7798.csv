@@ -1,0 +1,17 @@
+BREAKING,breaking,breaking,40257,NOUN,ROOT,False
+Obama,obama,abama,81,NOUN,compound,False
+officials,official,official,211620,NOUN,nsubjpass,False
+involved,involve,involve,157342,VERB,acl,False
+in,in,in,149313,ADP,prep,True
+Flynn,Flynn,lynn,172963,PROPN,poss,False
+unmasking,unmasking,unmasking,346064,NOUN,pobj,False
+have,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,auxpass,True
+declassified,declassify,declassify,78474,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+Director,Director,director,86783,PROPN,pobj,False
+of,of,of,211535,ADP,prep,True
+National,National,national,197259,PROPN,compound,False
+Intelligence,Intelligence,intelligence,154289,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+ha,ha,ha,131713,INTJ,intj,False

@@ -1,0 +1,9 @@
+Why,why,why,364728,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+men,man,man,178862,NOUN,nsubj,False
+keep,keep,keep,163579,VERB,ROOT,True
+murdering,murder,murder,195668,VERB,xcomp,False
+women,woman,woman,366955,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+real,real,real,261710,ADJ,amod,False
+life,life,life,171890,NOUN,pobj,False

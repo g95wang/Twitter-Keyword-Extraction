@@ -1,0 +1,11 @@
+'ve,have,have,134390,AUX,aux,True
+learned,learn,learn,169659,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+fight,fight,fight,112433,VERB,xcomp,False
+battles,battle,battle,29132,NOUN,dobj,False
+silently,silently,silently,290284,ADV,advmod,False
+not,not,not,208798,PART,neg,True
+in,in,in,149313,ADP,prep,True
+screams,scream,scream,281670,NOUN,pobj,False
+or,or,or,213904,CCONJ,cc,True
+swordsprayers,swordsprayer,swordplayer,314695,NOUN,conj,False

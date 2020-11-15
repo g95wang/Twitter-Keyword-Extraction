@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True
+conquest,conquest,conquest,66637,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+India,India,india,150872,PROPN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+conquest,conquest,conquest,66637,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+culture,culture,culture,74845,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True
+those,those,those,322465,DET,pobj,True
+who,who,who,365278,PRON,nsubj,True
+lacked,lack,lack,166940,VERB,relcl,False
+A,a,a,0,DET,nsubj,True
+must,must,must,196148,VERB,aux,True
+read,read,read,261551,VERB,ROOT,False
+by,by,by,33133,ADP,prt,True

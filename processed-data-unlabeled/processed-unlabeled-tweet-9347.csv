@@ -1,0 +1,16 @@
+The,the,the,320691,DET,det,True
+thought,thought,thought,322469,NOUN,nsubj,False
+had,have,have,134390,AUX,aux,True
+crossed,cross,cross,73757,VERB,ROOT,False
+mind,mind,mind,187702,NOUN,dobj,False
+which,which,which,364730,DET,nsubj,True
+is,be,be,29345,AUX,relcl,True
+why,why,why,364728,ADV,advmod,True
+was,be,be,29345,AUX,ccomp,True
+careful,careful,careful,47924,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+say,say,say,276740,VERB,xcomp,True
+conventional,conventional,conventional,67969,ADJ,amod,False
+Private,Private,private,250837,PROPN,compound,False
+Hire,Hire,hire,141602,PROPN,dobj,False
+However,however,however,144555,ADV,advmod,True

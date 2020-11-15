@@ -1,0 +1,16 @@
+COMPETITION,COMPETITION,competition,64547,PROPN,ROOT,False
+Win,Win,win,365877,PROPN,ROOT,False
+a,a,a,0,DET,det,True
+Voucher,voucher,voucher,361433,NOUN,nsubj,False
+Were,be,be,29345,AUX,aux,True
+offering,offer,offer,211581,VERB,ROOT,False
+lucky,lucky,lucky,175842,ADJ,amod,False
+customer,customer,customer,75712,NOUN,dobj,False
+a,a,a,0,DET,det,True
+Norman,Norman,norman,208557,PROPN,compound,False
+Records,Records,records,263507,PROPN,compound,False
+voucher,voucher,voucher,361433,NOUN,appos,False
+to,to,to,324862,PART,aux,True
+celebrate,celebrate,celebrate,50448,VERB,xcomp,False
+being,be,be,29345,AUX,auxpass,True
+chosen,choose,choose,55661,VERB,xcomp,False

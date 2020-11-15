@@ -1,0 +1,9 @@
+STOP,STOP,stop,305323,VERB,ROOT,False
+BEING,be,be,29345,VERB,xcomp,True
+BACK,back,back,25705,ADV,advmod,True
+COOL,cool,cool,68254,NOUN,dep,False
+WITH,with,with,366582,ADP,prep,True
+PPL,PPL,ppl,245060,PROPN,pobj,False
+WHO,who,who,365278,PRON,nsubj,True
+CROSSED,cross,cross,73757,VERB,compound,False
+YOUUUUU,YOUUUUU,okupukupu,211990,PROPN,ROOT,False

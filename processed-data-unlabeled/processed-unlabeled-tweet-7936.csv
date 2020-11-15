@@ -1,0 +1,15 @@
+After,after,after,5615,ADP,mark,True
+Covid-19,Covid-19,covid,71525,PROPN,nmod,False
+Impact,Impact,impact,148207,PROPN,compound,False
+Global,Global,global,126455,PROPN,compound,False
+Electrical,Electrical,electrical,96912,PROPN,compound,False
+Stimulation,Stimulation,stimulation,304642,PROPN,compound,False
+Therapy,therapy,therapy,321206,NOUN,compound,False
+Market,Market,market,180157,PROPN,nsubj,False
+Expected,expect,expect,107598,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+Witness,witness,witness,366708,VERB,xcomp,False
+a,a,a,0,DET,det,True
+Sustainable,sustainable,sustainable,313793,ADJ,amod,False
+Growth,growth,growth,130440,NOUN,dobj,False
+over,over,over,218092,ADP,prep,True

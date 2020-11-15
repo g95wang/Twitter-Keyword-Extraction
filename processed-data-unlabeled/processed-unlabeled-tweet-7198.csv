@@ -1,0 +1,17 @@
+BANANA,banana,banana,27234,NOUN,compound,False
+FISH,FISH,fish,113316,NOUN,compound,False
+STANS,stans,stains,302431,NOUN,nsubj,False
+SEND,SEND,send,285228,VERB,ROOT,False
+ME,me,me,181664,NOUN,dobj,True
+YOUR,your,your,157754,DET,poss,True
+BEST,best,best,32549,NOUN,ROOT,False
+OKUMURA,okumura,kimura,164732,VERB,compound,False
+EIJI,eiji,meiji,182596,NOUN,compound,False
+THIRST,thirst,thirst,322181,NOUN,compound,False
+TWEETS,tweets,tweets,333251,NOUN,appos,False
+If,if,if,146980,SCONJ,mark,True
+like,like,like,172172,VERB,advcl,False
+'ll,will,will,365768,VERB,aux,True
+use,use,use,355958,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+fanfic,fanfic,fanatic,109651,NOUN,pobj,False

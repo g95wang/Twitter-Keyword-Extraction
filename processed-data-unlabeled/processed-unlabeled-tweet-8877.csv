@@ -1,0 +1,8 @@
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+wait,wait,wait,362072,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+walk,walk,walk,362193,VERB,xcomp,False
+down,down,down,92197,ADP,prep,True
+the,the,the,320691,DET,det,True
+aisle,aisle,aisle,7035,NOUN,pobj,False

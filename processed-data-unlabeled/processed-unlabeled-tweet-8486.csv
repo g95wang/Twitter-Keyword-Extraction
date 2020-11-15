@@ -1,0 +1,17 @@
+What,what,what,364447,PRON,nsubj,True
+happened,happen,happen,133505,VERB,advcl,False
+to,to,to,324862,ADP,prep,True
+Americans,Americans,americans,10314,PROPN,pobj,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+even,even,even,106079,ADV,advmod,True
+have,have,have,134390,AUX,ROOT,True
+courage,courage,courage,71281,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+call,call,call,45246,VERB,acl,True
+corona,corona,corona,69428,NOUN,compound,False
+virus,virus,virus,360286,NOUN,oprd,False
+what,what,what,364447,PRON,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+more,more,more,193383,ADV,amod,True
+tro,tro,taro,316655,NOUN,attr,False

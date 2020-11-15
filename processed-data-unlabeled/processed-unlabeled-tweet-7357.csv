@@ -1,0 +1,13 @@
+Time,time,time,323746,NOUN,ROOT,False
+to,to,to,324862,PART,aux,True
+lock,lock,lock,174349,VERB,relcl,False
+up,up,up,354457,ADP,prt,True
+for,for,for,116301,ADP,prep,True
+Princess,Princess,princess,250633,PROPN,pobj,False
+pleasure,pleasure,pleasure,239639,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+so,so,so,295959,ADV,advmod,True
+irrelevant,irrelevant,irrelevant,158277,ADJ,acomp,False
+compared,compare,compare,64409,VERB,prep,False
+to,to,to,324862,ADP,prep,True
+M,m,m,176591,NOUN,pobj,False

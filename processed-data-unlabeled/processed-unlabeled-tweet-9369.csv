@@ -1,0 +1,17 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+perfect,perfect,perfect,230579,ADJ,amod,False
+example,example,example,106472,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+actions,action,action,3227,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+cultures,culture,culture,74845,NOUN,pobj,False
+that,that,that,320639,DET,nsubj,True
+respect,respect,respect,269692,VERB,relcl,False
+elders,elder,elder,96823,NOUN,dobj,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+also,also,also,9416,ADV,advmod,True
+w,w,w,361650,PROPN,attr,False

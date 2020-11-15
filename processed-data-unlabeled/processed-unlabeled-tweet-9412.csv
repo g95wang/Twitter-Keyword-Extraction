@@ -1,0 +1,11 @@
+People,People,people,230162,NOUN,nsubj,False
+just,just,just,162503,ADV,advmod,True
+love,love,love,175534,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+hate,hate,hate,134216,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+WWE,WWE,we,363451,PROPN,dobj,False
+for,for,for,116301,ADP,prep,True
+anything,anything,anything,13370,PRON,pobj,True
+and,and,and,12285,CCONJ,cc,True
+everything,everything,everything,106171,PRON,conj,True

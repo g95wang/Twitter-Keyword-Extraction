@@ -1,0 +1,17 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+what,what,what,364447,PRON,pobj,True
+what,what,what,364447,PRON,nsubj,True
+IS,be,be,29345,VERB,ccomp,True
+OK,ok,ok,211942,ADJ,acomp,False
+WITH,with,with,366582,ADP,prep,True
+BASHING,bash,bash,28532,VERB,pcomp,False
+COPS,cops,cops,68702,NOUN,dobj,False
+IN,in,in,149313,ADP,prep,True
+THE,the,the,320691,DET,det,True
+HEAD,HEAD,head,134575,PROPN,pobj,False
+FOR,for,for,116301,ADP,prep,True
+TEYING,teying,eying,96513,NOUN,pobj,False
+TO,to,to,324862,PART,aux,True
+RESTORE,restore,restore,269985,VERB,advcl,False
+ORDER,order,order,214218,NOUN,dobj,False

@@ -1,0 +1,7 @@
+Nuclear,nuclear,nuclear,209309,ADJ,amod,False
+fire,fire,fire,113100,NOUN,nsubj,False
+stretchy,stretchy,stretchy,306147,NOUN,ROOT,False
+cheese,cheese,cheese,53473,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+chicken,chicken,chicken,54145,NOUN,compound,False
+wings,wing,wing,366126,NOUN,pobj,False

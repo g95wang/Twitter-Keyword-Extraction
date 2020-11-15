@@ -1,0 +1,17 @@
+HELP,HELP,help,135801,PROPN,ROOT,False
+EVERYONE,EVERYONE,everyone,106169,PROPN,nsubj,True
+'S,be,be,29345,AUX,intj,True
+GETTING,get,get,124419,VERB,poss,False
+PATH,path,path,227679,NOUN,ROOT,False
+AFTER,after,after,5615,ADP,prep,True
+THE,the,the,320691,DET,det,True
+SONG,SONG,song,297195,PROPN,pobj,False
+WHY,why,why,364728,ADV,advmod,True
+ARE,are,are,19297,VERB,ROOT,True
+THEY,they,they,320834,PRON,nsubj,True
+OUT,out,out,216108,ADV,prep,True
+TO,to,to,324862,PART,aux,True
+GET,get,get,124419,VERB,xcomp,True
+US,us,us,355940,PRON,nsubj,True
+LIKE,like,like,172172,ADP,ROOT,False
+THIS,this,this,322217,DET,dobj,True

@@ -1,0 +1,14 @@
+are,be,be,29345,AUX,aux,True
+forgetting,forget,forget,117219,VERB,ccomp,False
+a,a,a,0,DET,det,True
+small,small,small,294676,ADJ,amod,False
+point,point,point,241315,NOUN,dobj,False
+here,here,here,136991,ADV,advmod,True
+every,every,every,106158,DET,det,True
+country,country,country,71230,NOUN,nsubj,False
+has,have,have,134390,AUX,ROOT,True
+own,own,own,222072,ADJ,amod,True
+issues,issue,issue,159379,NOUN,dobj,False
+which,which,which,364730,DET,dobj,True
+do,do,do,90528,AUX,relcl,True
+n't,not,not,208798,PART,neg,True

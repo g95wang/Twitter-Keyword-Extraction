@@ -1,0 +1,10 @@
+Wishing,wish,wish,366457,VERB,ROOT,False
+A,a,a,0,DET,det,True
+Very,very,very,358514,ADV,advmod,True
+Happy,happy,happy,133513,ADJ,amod,False
+Birthday,birthday,birthday,34904,NOUN,nmod,False
+Nanna,Nanna,anna,13459,PROPN,dobj,False
+Waiting,wait,wait,362072,VERB,ROOT,False
+For,for,for,116301,ADP,prep,True
+RRRMovie,rrrmovie,movie,194399,NOUN,compound,False
+HappyBirthdayNTR,happybirthdayntr,birthday,34904,NOUN,ROOT,False

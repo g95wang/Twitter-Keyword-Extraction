@@ -1,0 +1,12 @@
+A,a,a,0,DET,compound,True
+Man,Man,man,178862,PROPN,nsubj,False
+Rose,Rose,rose,274457,PROPN,ROOT,False
+from,from,from,119298,ADP,prep,True
+the,the,the,320691,DET,det,True
+Dead,Dead,dead,77440,PROPN,compound,False
+Shot,shoot,shoot,288779,VERB,pobj,False
+by,by,by,33133,ADV,prep,True
+Dylan,Dylan,dylan,85669,PROPN,compound,False
+Scott,Scott,scott,281400,PROPN,nsubj,False
+Edited,edit,edit,95772,VERB,ROOT,False
+by,by,by,33133,ADP,prep,True

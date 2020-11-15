@@ -1,0 +1,6 @@
+Doctors,doctor,doctor,90646,NOUN,nsubj,False
+nurses,nurse,nurse,209705,NOUN,conj,False
+and,and,and,12285,CCONJ,cc,True
+healthcare,healthcare,healthcare,134769,NOUN,compound,False
+professionals,professional,professional,251701,NOUN,conj,False
+know,know,know,165702,VERB,ROOT,False

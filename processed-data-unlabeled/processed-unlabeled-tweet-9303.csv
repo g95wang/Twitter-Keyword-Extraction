@@ -1,0 +1,13 @@
+all,all,all,8522,DET,appos,True
+wear,wear,wear,363540,VERB,ROOT,False
+a,a,a,0,DET,det,True
+mask,mask,mask,180688,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+some,some,some,297029,DET,det,True
+kind,kind,kind,164752,ADJ,amod,False
+Batwoman,Batwoman,batwoman,29187,PROPN,pobj,False
+by,by,by,33133,ADP,prep,True
+AlexPascenko,AlexPascenko,albescent,7434,PROPN,pobj,False
+Batwoman,Batwoman,batwoman,29187,PROPN,compound,False
+DCComics,DCComics,comics,63831,PROPN,compound,False
+DigitalArt,DigitalArt,digital,85441,VERB,ROOT,False

@@ -1,0 +1,14 @@
+Imagine,Imagine,imagine,147602,PROPN,nsubj,False
+amp,amp,amp,10991,NOUN,conj,False
+fans,fan,fan,109645,NOUN,conj,False
+seeing,see,see,283054,VERB,acl,False
+Jennie,Jennie,jennie,160865,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+fans,fan,fan,109645,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+lying,lie,lie,171801,VERB,ROOT,False
+with,with,with,366582,ADP,prep,True
+a,a,a,0,DET,det,True
+FAKE,fake,fake,109380,ADJ,amod,False
+receipt,receipt,receipt,262669,NOUN,pobj,False
+that,that,that,320639,SCONJ,punct,True

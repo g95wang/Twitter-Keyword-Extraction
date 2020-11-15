@@ -1,0 +1,12 @@
+How,how,how,144540,ADV,advmod,True
+the,the,the,320691,DET,det,True
+Supreme,Supreme,supreme,313287,PROPN,compound,False
+Court,Court,court,71324,PROPN,nsubj,False
+allowed,allow,allow,9006,VERB,ROOT,False
+police,police,police,241679,NOUN,compound,False
+brutality,brutality,brutality,41863,NOUN,nsubj,False
+to,to,to,324862,PART,aux,True
+persist,persist,persist,231933,VERB,ccomp,False
+The,the,the,320691,DET,det,True
+Berkeley,Berkeley,berkeley,32119,PROPN,compound,False
+Blog,Blog,blo,36329,PROPN,dobj,False

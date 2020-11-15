@@ -1,0 +1,15 @@
+Images,image,image,147569,NOUN,ROOT,False
+that,that,that,320639,DET,nsubj,True
+will,will,will,365768,VERB,aux,True
+define,define,define,79311,VERB,relcl,False
+the,the,the,320691,DET,det,True
+Trump,trump,trump,331570,ADJ,compound,False
+presidency,presidency,presidency,249448,NOUN,dobj,False
+for,for,for,116301,ADP,dative,True
+Walling,wall,wall,362225,VERB,ROOT,False
+off,off,off,211539,ADP,prt,True
+from,from,from,119298,ADP,prep,True
+the,the,the,320691,DET,det,True
+people,people,people,230162,NOUN,pobj,False
+works,work,work,367468,VERB,relcl,False
+for,for,for,116301,ADP,prep,True

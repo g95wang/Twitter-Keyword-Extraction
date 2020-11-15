@@ -1,0 +1,17 @@
+Coronavirus,Coronavirus,coronavirus,69453,PROPN,compound,False
+pandemic,pandemic,pandemic,224465,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+give,give,give,125692,VERB,ROOT,True
+birth,birth,birth,34902,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+a,a,a,0,DET,det,True
+new,new,new,199367,ADJ,amod,False
+world,world,world,367566,NOUN,compound,False
+order,order,order,214218,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+non,non,non,200943,ADJ,dep,False
+left,left,left,169983,ADJ,nsubj,False
+should,should,should,288990,VERB,aux,True
+grab,grab,grab,128456,VERB,conj,False
+via,via,via,359224,ADP,prep,True

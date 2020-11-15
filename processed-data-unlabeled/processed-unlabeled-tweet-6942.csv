@@ -1,0 +1,13 @@
+JUST,just,just,162503,ADV,advmod,True
+IN,in,in,149313,ADP,ROOT,True
+Pelosi,Pelosi,peliosis,229296,PROPN,nsubj,False
+demands,demand,demand,80349,VERB,ROOT,False
+Trump,trump,trump,331570,ADJ,compound,False
+clarify,clarify,clarify,59298,NOUN,amod,False
+deployment,deployment,deployment,81671,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+unidentified,unidentified,unidentified,344068,ADJ,amod,False
+law,law,law,169329,NOUN,compound,False
+enforcement,enforcement,enforcement,100254,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+DC,DC,dc,77394,PROPN,pobj,False

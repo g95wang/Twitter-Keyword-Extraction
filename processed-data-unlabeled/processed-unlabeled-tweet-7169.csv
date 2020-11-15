@@ -1,0 +1,15 @@
+WATCH,watch,watch,363049,NOUN,ROOT,False
+Piers,pier,pier,236241,NOUN,compound,False
+Morgan,Morgan,morgan,193416,PROPN,nsubj,False
+Rudy,Rudy,rudy,275312,PROPN,compound,False
+Giuliani,Giuliani,gillian,124935,PROPN,appos,False
+get,get,get,124419,VERB,ROOT,True
+in,in,in,149313,ADP,prep,True
+heated,heated,heated,134924,ADJ,amod,False
+exchange,exchange,exchange,106647,NOUN,pobj,False
+over,over,over,218092,ADP,prep,True
+Trump,Trump,trump,331570,PROPN,pobj,False
+are,be,be,29345,AUX,aux,True
+completely,completely,completely,64638,ADV,advmod,False
+barking,bark,bark,28042,VERB,ccomp,False
+mad,mad,mad,177147,ADJ,dobj,False

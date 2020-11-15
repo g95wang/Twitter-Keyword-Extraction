@@ -1,0 +1,12 @@
+War,War,war,362529,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+Peace,Peace,peace,228323,PROPN,compound,False
+Freedom,Freedom,freedom,118591,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+Slavery,Slavery,slavery,293788,PROPN,compound,False
+Ignorance,Ignorance,ignorance,147078,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+Strength,strength,strength,306052,NOUN,compound,False
+Rioting,Rioting,rioting,273119,PROPN,nsubjpass,False
+is,be,be,29345,AUX,aux,True
+Protesting,protest,protest,253491,VERB,ROOT,False

@@ -1,0 +1,10 @@
+Marijuana,Marijuana,marijuana,180064,PROPN,nsubj,False
+may,may,may,177739,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+miracle,miracle,miracle,188313,NOUN,compound,False
+treatment,treatment,treatment,328735,NOUN,attr,False
+for,for,for,116301,ADP,prep,True
+children,child,child,54285,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+autism,autism,autism,23849,NOUN,pobj,False

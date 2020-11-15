@@ -1,0 +1,9 @@
+m,be,be,29345,VERB,dep,False
+a,going to,going,127453,DET,det,True
+deadbeat,deadbeat,deadbeat,77441,ADJ,compound,False
+family,family,family,109591,NOUN,compound,False
+member,member,member,183109,NOUN,compound,False
+ion,ion,ion,157621,NOUN,nsubj,False
+be,be,be,29345,AUX,aux,True
+calling,call,call,45246,VERB,ROOT,False
+nobody,nobody,nobody,200587,PRON,dobj,True

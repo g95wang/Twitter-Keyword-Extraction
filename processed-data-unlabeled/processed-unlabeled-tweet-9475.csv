@@ -1,0 +1,15 @@
+best,good,good,127869,ADJ,amod,False
+Guard,Guard,guard,130774,PROPN,compound,False
+Dogs,Dogs,dogs,90983,PROPN,ROOT,False
+for,for,for,116301,ADP,prep,True
+protection,protection,protection,253379,NOUN,pobj,False
+An,an,an,11448,DET,det,True
+intruder,intruder,intruder,156857,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+no,no,no,200529,DET,det,True
+match,match,match,181035,NOUN,attr,False
+for,for,for,116301,ADP,prep,True
+these,these,these,321594,DET,det,True
+dogs,dog,dog,90839,NOUN,pobj,False
+A,a,a,0,DET,det,True
+thread,thread,thread,322554,NOUN,ROOT,False

@@ -1,0 +1,16 @@
+Today,today,today,325003,NOUN,npadvmod,False
+many,many,many,179225,ADJ,amod,True
+countries,country,country,71230,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+celebrating,celebrate,celebrate,50448,VERB,ROOT,False
+MothersDay,MothersDay,mothery,193944,PROPN,dobj,False
+wish,wish,wish,366457,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+remember,remember,remember,267232,VERB,xcomp,False
+all,all,all,8522,DET,det,True
+mothers,mother,mother,193933,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+gratitude,gratitude,gratitude,129267,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+affection,affection,affection,5311,NOUN,conj,False
+entrusting,entrust,entrust,101720,VERB,advcl,False

@@ -1,0 +1,10 @@
+a,a,a,0,DET,det,True
+high,high,high,139224,ADJ,amod,False
+quality,quality,quality,257878,NOUN,compound,False
+gif,gif,gif,124751,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+a,a,a,0,DET,det,True
+very,very,very,358514,ADV,advmod,True
+high,high,high,139224,ADJ,amod,False
+quality,quality,quality,257878,NOUN,compound,False
+man,man,man,178862,NOUN,pobj,False

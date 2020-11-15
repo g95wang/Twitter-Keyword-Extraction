@@ -1,0 +1,10 @@
+The,the,the,320691,DET,det,True
+strongest,strong,strong,306510,ADJ,amod,False
+hearts,heart,heart,134817,NOUN,nsubj,False
+have,have,have,134390,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+most,most,most,193889,ADV,advmod,True
+scars-,scars-,scars,279817,NOUN,amod,False
+black,black,black,35431,NOUN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+beautiful,beautiful,beautiful,29674,ADJ,acomp,False
