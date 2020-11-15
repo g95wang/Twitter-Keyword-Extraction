@@ -1,7 +1,8 @@
 import csv
 import json
 import os, glob
-from english_words import english_words_set
+import math
+# from english_words import english_words_set
 # from nltk.corpus import words
 import nltk
 def readfile(filename):
@@ -20,30 +21,50 @@ def readfile(filename):
 
 def main():
     # unlabelled
-    alldata = []
+    # alldata = []
     os.chdir("./unlabeled_data")
-    for eachfile in glob.glob("*.json"):
-        alldata.extend(readfile(eachfile))
+    # for eachfile in glob.glob("*.json"):
+    #     alldata.extend(readfile(eachfile))
     
-    for eachtweet in alldata:
-        with open(r'saved_tweets.csv', 'a') as file:
-            writer = csv.writer(file)
-            writer.writerow([eachtweet])
+    # for eachtweet in alldata:
+    #     with open(r'saved_tweets.csv', 'a') as file:
+    #         writer = csv.writer(file)
+    #         writer.writerow([eachtweet])
 
     # labeled
     os.chdir("../labeled_data")
     tweets_texts = []
     tweets_keys = []
     tweet_name = []
+    j = 1
     for eachfile in glob.glob("*/*.txt"):
         keyfile = os.path.splitext(eachfile)[0] + ".key"
         tweets_texts.append(open(eachfile).read().splitlines()[0])
         keys = open(keyfile).read().splitlines()
-        # if (len(keys) > 1):
-        #     keys = keys[:2]
-            # print(len(keys))
+        filename = "../../processed-data-labeled/processed-labeled-tweet-{}.csv".format(j)
         tweets_keys.append(keys)
         tweet_name.append(eachfile)
+        # process labelled csv file
+        tmpFile = "tmp.csv"
+        with open(filename, "r") as file, open(tmpFile, "w") as outFile:
+            reader = csv.reader(file, delimiter=',')
+            writer = csv.writer(outFile, delimiter=',')
+            # header = next(reader)
+            # writer.writerow(header)
+            total_words = []
+            for row in reader:
+                total_words.append(row[0])
+                # colValues = []
+                # for col in row:
+                #     colValues.append(col.lower())
+                # writer.writerow(colValues)
+            upper_bound_keyword = math.ceil(len(total_words) / 10)
+            # print(upper_bound_keyword) 
+        # os.rename(tmpFile, filename)
+        
+        j += 1
+        if (j > 1):
+            break
     open('labeled_tweets.csv', 'w').close()
     for i in range(0, len(tweets_texts)):
         with open(r'labeled_tweets.csv', 'a') as file:
