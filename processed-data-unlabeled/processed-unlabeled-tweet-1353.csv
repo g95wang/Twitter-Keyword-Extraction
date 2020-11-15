@@ -1,0 +1,12 @@
+Facts,fact,fact,109031,NOUN,ROOT,False
+best,good,good,127869,ADJ,amod,False
+friend,friend,friend,118947,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+yrs,yrs,yrs,158516,NOUN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+Gemini,Gemini,gemini,123313,PROPN,compound,False
+n,n,n,196396,PROPN,attr,False
+m,be,be,29345,VERB,ROOT,False
+an,an,an,11448,DET,det,True
+Aries,Aries,aries,19675,PROPN,dobj,False

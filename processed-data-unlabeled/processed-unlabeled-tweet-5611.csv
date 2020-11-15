@@ -1,0 +1,14 @@
+The,the,the,320691,DET,det,True
+mineral,mineral,mineral,187734,NOUN,amod,False
+rich,rich,rich,272520,ADJ,amod,False
+ingenierous,ingenierous,ingenious,152469,ADJ,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+giftedlands,giftedland,giftedly,124758,NOUN,conj,False
+of,of,of,211535,ADP,prep,True
+Balochistan,Balochistan,baluchistan,27167,PROPN,pobj,False
+has,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+side,side,side,289721,NOUN,dobj,True
+that,that,that,320639,DET,nsubj,True
+trumps,trump,trump,331570,VERB,relcl,False
+r,r,r,259188,NOUN,dobj,False

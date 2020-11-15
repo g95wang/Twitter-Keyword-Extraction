@@ -1,0 +1,11 @@
+maybe,maybe,maybe,177755,ADV,advmod,False
+but,but,but,43550,CCONJ,cc,True
+always,always,always,9710,ADV,advmod,True
+brooklyn,brooklyn,brooklyn,41521,PROPN,dep,False
+do,do,do,90528,AUX,ccomp,True
+that,that,that,320639,DET,det,True
+shit,shit,shit,288544,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+bronx,bronx,bronx,41463,PROPN,pobj,False
+do,do,do,90528,AUX,ROOT,True
+t,t,t,314735,PROPN,dobj,False

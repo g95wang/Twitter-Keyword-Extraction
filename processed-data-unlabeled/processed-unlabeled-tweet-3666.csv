@@ -1,0 +1,12 @@
+are,be,be,29345,AUX,ROOT,True
+super,super,super,311253,ADV,advmod,False
+excited,excited,excited,106704,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+have,have,have,134390,AUX,xcomp,True
+joining,join,join,161599,VERB,xcomp,False
+for,for,for,116301,ADP,prep,True
+FastingFriday,FastingFriday,fastigia,110204,PROPN,pobj,False
+To,to,to,324862,PART,aux,True
+take,take,take,315491,VERB,advcl,True
+part,part,part,226929,NOUN,dobj,True
+T,t,t,314735,NOUN,appos,False

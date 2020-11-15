@@ -1,0 +1,12 @@
+UPDATE,update,update,354620,NOUN,ROOT,False
+Germany,Germany,germany,124186,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+Bundesliga,Bundesliga,bundeli,42809,PROPN,nsubj,False
+can,can,can,45964,VERB,aux,True
+restart,restart,restart,269867,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+second,second,second,282753,ADJ,amod,False
+half,half,half,132585,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+May,May,may,177739,PROPN,pobj,True
+Merkel,Merkel,merel,183744,PROPN,npadvmod,False

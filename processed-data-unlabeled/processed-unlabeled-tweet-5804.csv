@@ -1,0 +1,15 @@
+Last,last,last,168771,ADJ,amod,True
+month,month,month,192909,NOUN,npadvmod,False
+racially,racially,racially,259417,ADV,advmod,False
+profiled,profile,profile,251754,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+tasered,tasere,tsere,331778,VERB,conj,False
+a,a,a,0,DET,det,True
+Black,black,black,35431,ADJ,amod,False
+man,man,man,178862,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+front,front,front,119330,NOUN,pobj,True
+of,of,of,211535,ADP,prep,True
+child,child,child,54285,NOUN,pobj,False
+leaving,leave,leave,169747,VERB,advcl,False
+paralysed,paralyse,paralyse,225698,VERB,oprd,False

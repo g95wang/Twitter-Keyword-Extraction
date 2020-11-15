@@ -1,0 +1,12 @@
+LETS,LETS,lets,170915,PROPN,nsubj,False
+ALSO,also,also,9416,ADV,advmod,True
+CHARGE,charge,charge,52797,VERB,ROOT,False
+THE,the,the,320691,DET,det,True
+FIRST,FIRST,first,113286,PROPN,compound,True
+MEDICAL,MEDICAL,medical,182067,PROPN,compound,False
+EXAMINER,examiner,examiner,106465,NOUN,dobj,False
+FOR,for,for,116301,ADP,prep,True
+LYING,lie,lie,171801,VERB,pcomp,False
+ON,on,on,212644,ADP,prep,True
+AN,an,an,11448,DET,pobj,True
+AUTOPSY,AUTOPSY,autopsy,24319,PROPN,ROOT,False

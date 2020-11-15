@@ -1,0 +1,15 @@
+took,take,take,315491,VERB,ROOT,False
+boring,boring,boring,38442,ADJ,amod,False
+days,day,day,76257,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+quarantine,quarantine,quarantine,257971,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+make,make,make,178090,VERB,advcl,True
+this,this,this,322217,DET,det,True
+van,van,van,356915,PROPN,compound,False
+gogh,gogh,gog,127421,PROPN,nsubj,False
+inspired,inspire,inspire,153796,VERB,ccomp,False
+"painting,,i","painting,,i",painting,223189,PROPN,meta,False
+hope,hope,hope,143674,VERB,ROOT,False
+u,u,u,333554,PROPN,dep,False
+like,like,like,172172,INTJ,amod,False

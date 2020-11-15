@@ -1,0 +1,16 @@
+Physics,Physics,physics,234111,PROPN,compound,False
+World,World,world,367566,PROPN,compound,False
+Cotton,Cotton,cotton,70433,PROPN,compound,False
+yarn,yarn,yarn,145772,NOUN,nsubj,False
+flexes,flex,flex,114486,VERB,ccomp,False
+muscles,muscle,muscle,195862,NOUN,nmod,False
+Materials,Materials,materials,181121,PROPN,appos,False
+Physics,Physics,physics,234111,PROPN,compound,False
+World,World,world,367566,PROPN,dobj,False
+Researchers,researcher,researcher,269103,NOUN,nsubj,False
+make,make,make,178090,VERB,ROOT,True
+smart,smart,smart,294729,ADJ,amod,False
+materials,material,material,181095,NOUN,dobj,False
+from,from,from,119298,ADP,prep,True
+ordinary,ordinary,ordinary,214244,ADJ,amod,False
+cott,cott,cott,70401,NOUN,pobj,False

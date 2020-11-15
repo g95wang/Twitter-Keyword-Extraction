@@ -1,0 +1,17 @@
+was,be,be,29345,AUX,csubjpass,True
+worried,worry,worry,367636,VERB,acomp,False
+Happy,Happy,happy,133513,PROPN,oprd,False
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+kicked,kick,kick,164415,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True
+from,from,from,119298,ADP,prep,True
+the,the,the,320691,DET,det,True
+top,top,top,325810,NOUN,pobj,True
+but,but,but,43550,CCONJ,cc,True
+'m,be,be,29345,AUX,ROOT,True
+happy,happy,happy,133513,ADJ,amod,False
+happy,happy,happy,133513,ADJ,acomp,False
+is,be,be,29345,AUX,ROOT,True
+still,still,still,304511,ADV,advmod,True
+there,there,there,321216,ADV,advmod,True

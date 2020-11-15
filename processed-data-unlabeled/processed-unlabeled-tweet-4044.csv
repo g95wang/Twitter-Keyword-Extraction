@@ -1,0 +1,13 @@
+Lewisham,lewisham,lewisia,171316,ADJ,nsubj,False
+pigeon,pigeon,pigeon,236334,NOUN,ROOT,False
+rescue,rescue,rescue,269086,NOUN,dobj,False
+by,by,by,33133,ADP,prep,True
+ACOs,aco,acop,2663,NOUN,compound,False
+Matt,Matt,matt,181299,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+Joe,Joe,joe,161519,PROPN,conj,False
+Pigeon,Pigeon,pigeon,236334,PROPN,ROOT,False
+recovering,recover,recover,263550,VERB,acl,False
+at,at,at,22372,ADP,prep,True
+Putney,Putney,pungey,256640,PROPN,compound,False
+hospital,hospital,hospital,144164,NOUN,pobj,False

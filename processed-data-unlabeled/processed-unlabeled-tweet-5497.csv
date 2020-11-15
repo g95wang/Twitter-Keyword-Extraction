@@ -1,0 +1,13 @@
+Imagine,imagine,imagine,147602,VERB,ROOT,False
+using,use,use,355958,VERB,xcomp,True
+a,a,a,0,DET,det,True
+little,little,little,173876,ADJ,amod,False
+girls,girl,girl,125519,NOUN,compound,False
+murder,murder,murder,195668,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+try,try,try,329065,VERB,xcomp,False
+and,and,and,12285,CCONJ,cc,True
+get,get,get,124419,AUX,conj,True
+up,up,up,354457,ADP,prt,True
+on,on,on,212644,ADP,prep,True
+t,t,t,314735,NOUN,pobj,False

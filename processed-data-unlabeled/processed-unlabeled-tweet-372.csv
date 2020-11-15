@@ -1,0 +1,17 @@
+Just,just,just,162503,ADV,advmod,True
+ensure,ensure,ensure,101131,VERB,ROOT,False
+pay,pay,pay,223065,VERB,ccomp,False
+for,for,for,116301,ADP,prep,True
+world,world,world,367566,NOUN,compound,False
+class,class,class,59378,NOUN,compound,False
+tutelage,tutelage,tutelage,333062,NOUN,pobj,False
+Visit,visit,visit,360423,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+learn,learn,learn,169659,VERB,advcl,False
+more,more,more,193383,ADV,dobj,True
+or,or,or,213904,CCONJ,cc,True
+send,send,send,285228,VERB,conj,False
+a,a,a,0,DET,det,True
+message,message,message,184460,NOUN,dobj,False
+to,to,to,324862,ADP,aux,True
+info.com.ng,info.com.ng,incoming,150049,PROPN,relcl,False

@@ -1,0 +1,14 @@
+railwayjoiningJE,railwayjoiningJE,adjoining,4010,PROPN,compound,False
+Situation,Situation,situation,292666,PROPN,nsubj,False
+give,give,give,125692,VERB,ROOT,True
+time,time,time,323746,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+change,change,change,52470,VERB,relcl,False
+and,and,and,12285,CCONJ,cc,True
+system,system,system,292520,NOUN,conj,False
+to,to,to,324862,ADP,prep,True
+digital,digital,digital,85441,ADJ,amod,False
+world,world,world,367566,NOUN,pobj,False
+Online,online,online,212850,ADJ,compound,False
+joining,join,join,161599,VERB,compound,False
+formalitie,formalitie,formalities,117368,NOUN,ROOT,False

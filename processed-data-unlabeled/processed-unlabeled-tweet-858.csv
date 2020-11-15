@@ -1,0 +1,16 @@
+Wake,wake,wake,362124,VERB,ROOT,False
+up,up,up,354457,ADP,prt,True
+protein,protein,protein,253423,NOUN,compound,False
+Shake,shake,shake,287194,NOUN,appos,False
+and,and,and,12285,CCONJ,cc,True
+an,an,an,11448,DET,det,True
+mile,mile,mile,187136,NOUN,compound,False
+run,run,run,275612,NOUN,conj,False
+That,that,that,320639,DET,nsubj,True
+s,s,s,275971,VERB,ROOT,False
+how,how,how,144540,ADV,advmod,True
+am,be,be,29345,AUX,aux,True
+starting,start,start,302958,VERB,ccomp,False
+this,this,this,322217,DET,det,True
+hump,hump,hump,145076,ADJ,compound,False
+day,day,day,76257,NOUN,npadvmod,False

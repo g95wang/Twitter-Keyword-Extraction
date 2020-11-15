@@ -1,0 +1,14 @@
+This,this,this,322217,DET,nsubj,True
+happened,happen,happen,133505,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+huge,huge,huge,144731,ADJ,amod,False
+reason,reason,reason,262021,NOUN,appos,False
+of,of,of,211535,ADP,prep,True
+why,why,why,364728,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+play,play,play,238701,VERB,pcomp,False
+the,the,the,320691,DET,det,True
+game,game,game,121666,NOUN,dobj,False
+no,no,no,200529,ADV,neg,True
+more,more,more,193383,ADJ,advmod,True

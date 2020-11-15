@@ -1,0 +1,10 @@
+Every,every,every,106158,DET,det,True
+time,time,time,323746,NOUN,npadvmod,False
+meet,meet,meet,182300,VERB,relcl,False
+the,the,the,320691,DET,det,True
+girl,girl,girl,125519,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+dreams,dream,dream,92852,NOUN,pobj,False
+someone,someone,someone,297038,PRON,nsubj,True
+wakes,wake,wake,362124,VERB,ROOT,False
+up,up,up,354457,ADP,prt,True

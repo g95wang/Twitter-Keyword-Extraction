@@ -1,0 +1,16 @@
+Ayushman,Ayushman,ashman,21172,PROPN,compound,False
+Bharat,Bharat,bharata,33089,PROPN,nsubj,False
+was,be,be,29345,AUX,ROOT,True
+parts,part,part,226929,NOUN,attr,False
+insurance,insurance,insurance,154112,NOUN,compound,False
+scheme,scheme,scheme,280104,NOUN,conj,False
+amp,amp,amp,10991,PROPN,conj,False
+built,build,build,42364,VERB,conj,False
+health,health,health,134768,PROPN,dobj,False
+amp,amp,amp,10991,PROPN,conj,False
+wellness,wellness,wellness,364060,NOUN,compound,False
+centres,centre,centre,50952,VERB,conj,False
+to,to,to,324862,PART,aux,True
+strengthen,strengthen,strengthen,306054,VERB,advcl,False
+primary,primary,primary,250482,ADJ,dobj,False
+amp,amp,amp,10991,NOUN,conj,False

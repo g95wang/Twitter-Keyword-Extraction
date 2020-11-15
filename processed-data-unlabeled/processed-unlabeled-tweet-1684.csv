@@ -1,0 +1,15 @@
+Thursday,Thursday,thursday,323090,PROPN,npadvmod,False
+May,May,may,177739,PROPN,compound,True
+and,and,and,12285,CCONJ,cc,True
+Barack,Barack,barrack,28271,PROPN,compound,False
+Obama,Obama,abama,81,PROPN,nsubj,False
+was,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+most,most,most,193889,ADV,advmod,True
+corrupt,corrupt,corrupt,69764,ADJ,amod,False
+President,President,president,249451,PROPN,attr,False
+in,in,in,149313,ADP,prep,True
+US,US,us,355940,PROPN,compound,True
+history,history,history,141866,NOUN,pobj,False
+spied,spy,spy,299623,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True

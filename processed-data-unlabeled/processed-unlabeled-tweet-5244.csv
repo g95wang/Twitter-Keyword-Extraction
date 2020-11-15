@@ -1,0 +1,10 @@
+All,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+Times,Times,times,323785,PROPN,npadvmod,False
+John,John,john,161555,PROPN,compound,False
+Bolton,Bolton,boltonia,37655,PROPN,nsubj,False
+Called,call,call,45246,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+War,war,war,362529,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+Iran,Iran,iran,157870,PROPN,pobj,False

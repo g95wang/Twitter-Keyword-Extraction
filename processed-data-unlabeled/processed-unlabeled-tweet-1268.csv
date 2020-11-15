@@ -1,0 +1,12 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+awesome,awesome,awesome,25000,ADJ,acomp,False
+St.,St.,st,302135,PROPN,compound,False
+Marys,Marys,marys,180117,PROPN,ROOT,False
+to,to,to,324862,PART,aux,True
+hold,hold,hold,142390,VERB,relcl,False
+graduation,graduation,graduation,128575,NOUN,dobj,False
+at,at,at,22372,ADP,prep,True
+Transit,Transit,transit,327987,PROPN,compound,False
+Drive,Drive,drive,93179,PROPN,pobj,False
+In,in,in,149313,NOUN,ROOT,True

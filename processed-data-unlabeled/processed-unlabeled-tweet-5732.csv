@@ -1,0 +1,17 @@
+BRITISH,BRITISH,british,40996,PROPN,compound,False
+AIRWAYS,AIRWAYS,airways,7018,PROPN,nsubj,False
+will,will,will,365768,VERB,aux,True
+set,set,set,286614,VERB,ROOT,False
+a,a,a,0,DET,det,True
+precedent,precedent,precedent,245974,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+other,other,other,215836,ADJ,amod,True
+companies,company,company,64367,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+follow,follow,follow,115989,VERB,conj,False
+STOP,stop,stop,305323,VERB,ROOT,False
+BritishAirways,BritishAirways,britishers,40998,PROPN,compound,False
+BULLYING,BULLYING,bullying,42587,PROPN,pobj,False
+AND,and,and,12285,CCONJ,cc,True
+CORRUPT,CORRUPT,corrupt,69764,PROPN,compound,False
+CO,CO,co,60794,PROPN,conj,False

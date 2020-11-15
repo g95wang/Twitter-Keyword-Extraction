@@ -1,0 +1,17 @@
+So,so,so,295959,ADV,advmod,True
+Obama,Obama,abama,81,PROPN,compound,False
+Runtz,Runtz,runt,275696,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+trending,trend,trend,328944,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+politics,politic,politic,242537,NOUN,pobj,False
+The,the,the,320691,DET,det,True
+things,thing,thing,321869,NOUN,ROOT,False
+see,see,see,283054,VERB,relcl,True
+when,when,when,364637,ADV,advmod,True
+'re,be,be,29345,AUX,auxpass,True
+punched,punch,punch,256551,VERB,advcl,False
+into,into,into,156343,ADP,prep,True
+waking,wake,wake,362124,VERB,pcomp,False
+up,up,up,354457,ADP,prt,True
+early,early,early,94742,ADV,advmod,False

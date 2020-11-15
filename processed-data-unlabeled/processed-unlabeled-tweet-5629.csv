@@ -1,0 +1,17 @@
+Can,Can,can,45964,VERB,aux,True
+tell,tell,tell,318356,VERB,ROOT,False
+a,a,a,0,DET,det,True
+better,well,well,364011,ADJ,amod,False
+way,way,way,361946,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+start,start,start,302958,VERB,relcl,False
+off,off,off,211539,ADP,prt,True
+Wet,Wet,wet,364296,PROPN,pobj,False
+Wednesday,Wednesday,wednesday,363732,PROPN,npadvmod,False
+than,than,than,320565,SCONJ,prep,True
+a,a,a,0,DET,det,True
+hot,hot,hot,144238,ADJ,amod,False
+bath,bath,bath,28914,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+room,room,room,274247,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True

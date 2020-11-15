@@ -1,0 +1,17 @@
+was,be,be,29345,AUX,auxpass,True
+dragged,drag,drag,92519,VERB,ROOT,False
+from,from,from,119298,ADP,prep,True
+car,car,car,47250,NOUN,pobj,False
+pinned,pin,pin,236866,VERB,advcl,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+ground,ground,ground,130296,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+choked,choke,choke,55337,VERB,conj,False
+even,even,even,106079,ADV,advmod,True
+as,as,as,20837,SCONJ,mark,True
+begged,beg,beg,30566,VERB,advcl,False
+for,for,for,116301,ADP,prep,True
+air,air,air,6838,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True
+of,of,of,211535,ADP,prep,True

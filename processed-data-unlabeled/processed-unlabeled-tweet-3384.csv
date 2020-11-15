@@ -1,0 +1,16 @@
+think,think,think,321897,VERB,ROOT,False
+stage,stage,stage,302294,NOUN,compound,False
+outfits,outfit,outfit,216618,NOUN,nsubj,False
+are,be,be,29345,AUX,ccomp,True
+already,already,already,9397,ADV,advmod,True
+very,very,very,358514,ADV,advmod,True
+pretty,pretty,pretty,250049,ADJ,acomp,False
+but,but,but,43550,CCONJ,cc,True
+then,then,then,320906,ADV,advmod,True
+THEY,they,they,320834,PRON,nsubj,True
+HAVE,have,have,134390,VERB,ROOT,True
+ANOTHER,another,another,13899,ADJ,det,True
+LAYER,layer,layer,167401,NOUN,dobj,False
+OF,of,of,211535,ADP,prep,True
+ROBE,robe,robe,273560,NOUN,pobj,False
+WTF,WTF,wf,364331,PROPN,ROOT,False

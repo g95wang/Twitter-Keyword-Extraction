@@ -1,0 +1,7 @@
+CNN,CNN,cann,46366,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+VERY,very,very,358514,ADV,advmod,True
+concerned,concerned,concerned,65183,ADJ,acomp,False
+about,about,about,756,ADP,prep,True
+upsetting,upset,upset,355000,VERB,pcomp,False
+China,China,china,54539,PROPN,dobj,False

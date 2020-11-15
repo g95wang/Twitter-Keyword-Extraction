@@ -1,0 +1,14 @@
+Week,Week,week,363764,PROPN,npadvmod,False
+of,of,of,211535,ADP,prep,True
+self,self,self,283523,NOUN,compound,False
+isolation,isolation,isolation,159044,NOUN,pobj,False
+made,make,make,178090,VERB,ROOT,True
+friends,friend,friend,118947,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+the,the,the,320691,DET,det,True
+neighbours,neighbour,neighbour,198152,NOUN,pobj,False
+have,have,have,134390,AUX,aux,True
+never,never,never,199350,ADV,neg,True
+spoken,speak,speak,298684,VERB,relcl,False
+to,to,to,324862,ADP,prep,True
+before,before,before,30510,ADV,advmod,True

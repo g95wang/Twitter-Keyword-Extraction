@@ -1,0 +1,13 @@
+pag,pag,paga,222956,PROPN,compound,False
+kinausap,kinausap,knapscap,165447,PROPN,compound,False
+nyoko,nyoko,ngoko,199515,PROPN,nsubj,False
+remove,remove,remove,267487,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+word,word,word,367408,NOUN,dobj,False
+sorry,sorry,sorry,297653,INTJ,amod,False
+feeling,feel,feel,110884,VERB,advcl,False
+close,close,close,60433,ADJ,advmod,False
+anyone,anyone,anyone,13244,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+friend,friend,friend,118947,NOUN,attr,False

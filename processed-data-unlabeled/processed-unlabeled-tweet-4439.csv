@@ -1,0 +1,14 @@
+End,end,end,99559,NOUN,ROOT,False
+to,to,to,324862,ADP,aux,True
+End,end,end,99559,NOUN,xcomp,False
+credit,credit,credit,72496,NOUN,compound,False
+control,control,control,67797,NOUN,compound,False
+services,service,service,286444,NOUN,dobj,False
+Never,never,never,199350,ADV,neg,True
+chase,chase,chase,53012,VERB,ROOT,False
+an,an,an,11448,DET,det,True
+invoice,invoice,invoice,157302,NOUN,dobj,False
+again,again,again,5827,ADV,advmod,True
+creditcontrol,creditcontrol,recontrol,263443,VERB,ROOT,False
+admin2day,admin2day,zamindary,368814,NOUN,npadvmod,False
+virtualassistant,virtualassistant,virtualist,360244,ADJ,ROOT,False

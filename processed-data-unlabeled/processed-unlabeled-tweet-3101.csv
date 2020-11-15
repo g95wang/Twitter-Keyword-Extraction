@@ -1,0 +1,14 @@
+Buhari,buhari,bharti,33090,ADJ,amod,False
+media,media,media,181993,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+FAKE,FAKE,fake,109380,PROPN,amod,False
+NEWS,NEWS,news,199421,PROPN,attr,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+what,what,what,364447,PRON,dobj,True
+Nigeria,Nigeria,nigeria,199852,PROPN,nsubj,False
+really,really,really,261766,ADV,advmod,True
+thinks,think,think,321897,VERB,ccomp,False
+about,about,about,756,ADP,prep,True
+PresidentCovik,PresidentCovik,presidencia,249449,PROPN,compound,False
+BuhariResign,BuhariResign,upharsin,354725,PROPN,pobj,False

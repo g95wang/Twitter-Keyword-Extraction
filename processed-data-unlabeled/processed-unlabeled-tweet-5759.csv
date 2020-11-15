@@ -1,0 +1,9 @@
+bro,bro,bro,41034,PROPN,npadvmod,False
+who,who,who,365278,PRON,nsubj,True
+'s,be,be,29345,AUX,relcl,True
+the,the,the,320691,DET,det,True
+stylist,stylist,stylist,304494,NOUN,attr,False
+i,i,i,145455,PRON,nsubj,True
+need,need,need,197910,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+talk,talk,talk,315639,VERB,xcomp,False

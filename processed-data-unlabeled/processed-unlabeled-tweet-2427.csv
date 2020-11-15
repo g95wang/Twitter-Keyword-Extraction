@@ -1,0 +1,16 @@
+how,how,how,144540,ADV,advmod,True
+come,come,come,63721,VERB,aux,False
+'re,be,be,29345,AUX,ROOT,True
+concerned,concerned,concerned,65183,ADJ,acomp,False
+about,about,about,756,ADP,prep,True
+the,the,the,320691,DET,det,True
+age,age,age,5968,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+cartoon,cartoon,cartoon,48661,NOUN,compound,False
+raccoons,raccoon,raccoon,259305,NOUN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+not,not,not,208798,PART,neg,True
+the,the,the,320691,DET,det,True
+fact,fact,fact,109031,NOUN,conj,False
+'re,be,be,29345,AUX,acl,True
+animals,animal,animal,13153,NOUN,attr,False

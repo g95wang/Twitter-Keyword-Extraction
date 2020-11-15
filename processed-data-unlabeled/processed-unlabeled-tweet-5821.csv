@@ -1,0 +1,15 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+new,new,new,199367,ADJ,amod,False
+favorite,favorite,favorite,110510,ADJ,amod,False
+version,version,version,358827,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+x,x,x,368209,SYM,punct,False
+loops,loop,loop,175093,NOUN,pobj,False
+Requires,require,require,268870,VERB,ROOT,False
+some,some,some,297029,DET,det,True
+attention,attention,attention,23026,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+prevent,prevent,prevent,250153,VERB,advcl,False
+jumping,jumping,jumping,162296,NOUN,dobj,False
+https://,https://,chotts,55912,PROPN,ROOT,False

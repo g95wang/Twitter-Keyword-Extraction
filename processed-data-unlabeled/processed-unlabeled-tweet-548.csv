@@ -1,0 +1,16 @@
+BREAKING,breaking,breaking,40257,NOUN,ROOT,False
+Kenya,Kenya,kenya,163802,PROPN,nsubj,False
+records,record,record,263489,VERB,ROOT,False
+new,new,new,199367,ADJ,amod,False
+Covid-19,Covid-19,covid,71525,PROPN,dep,False
+from,from,from,119298,ADP,prep,True
+Mombasa,Mombasa,omasa,212369,PROPN,pobj,False
+from,from,from,119298,ADP,prep,True
+Nairobi,Nairobi,nairobi,196613,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+Busia,Busia,bustian,43530,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+Kiambu,Kiambu,iambus,145617,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+Kwale,Kwale,kale,162868,PROPN,compound,False
+Movement,Movement,movement,194393,PROPN,pobj,False

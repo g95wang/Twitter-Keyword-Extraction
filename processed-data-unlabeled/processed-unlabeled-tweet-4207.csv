@@ -1,0 +1,13 @@
+who,who,who,365278,PRON,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+hottest,hot,hot,144238,ADJ,amod,False
+person,person,person,231951,NOUN,attr,False
+on,on,on,212644,ADP,prep,True
+earth,earth,earth,94806,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+WHY,why,why,364728,ADV,advmod,True
+IS,be,be,29345,VERB,conj,True
+IT,it,it,159424,NOUN,nsubj,True
+JEON,jeon,jeon,160873,ADJ,compound,False
+WONWOO,WONWOO,bonewood,37874,PROPN,attr,False

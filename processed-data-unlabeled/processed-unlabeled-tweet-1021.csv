@@ -1,0 +1,16 @@
+Because,because,because,29780,SCONJ,ROOT,True
+of,of,of,211535,ADP,pcomp,True
+a,a,a,0,DET,det,True
+massive,massive,massive,180810,ADJ,amod,False
+corporate,corporate,corporate,69522,ADJ,amod,False
+bailout,bailout,bailout,26491,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+unprecedented,unprecedented,unprecedented,348275,ADJ,amod,False
+action,action,action,3227,NOUN,conj,False
+by,by,by,33133,ADP,prep,True
+the,the,the,320691,DET,det,True
+Federal,Federal,federal,110797,PROPN,compound,False
+Reserve,Reserve,reserve,269234,PROPN,pobj,False
+to,to,to,324862,PART,aux,True
+preserve,preserve,preserve,249402,VERB,acl,False
+t,t,t,314735,NOUN,dobj,False

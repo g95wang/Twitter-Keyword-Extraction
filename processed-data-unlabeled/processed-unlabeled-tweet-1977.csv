@@ -1,0 +1,11 @@
+This,this,this,322217,DET,det,True
+surveillance,surveillance,surveillance,313656,NOUN,compound,False
+camera,camera,camera,45675,NOUN,nsubj,False
+captured,capture,capture,47224,VERB,ROOT,False
+additional,additional,additional,3553,ADJ,amod,False
+footage,footage,footage,116132,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+George,George,george,124030,PROPN,compound,False
+Floyds,Floyds,floyd,114889,PROPN,pobj,False
+fatal,fatal,fatal,110229,ADJ,amod,False
+arrest,arrest,arrest,20204,NOUN,appos,False

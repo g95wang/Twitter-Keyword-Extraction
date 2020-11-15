@@ -1,0 +1,6 @@
+i,i,i,145455,PRON,nsubj,True
+want,want,want,362465,VERB,ROOT,False
+more,more,more,193383,ADJ,amod,True
+DCMK,dcmk,deck,78411,NOUN,amod,False
+plushies,plushie,plushier,240626,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True

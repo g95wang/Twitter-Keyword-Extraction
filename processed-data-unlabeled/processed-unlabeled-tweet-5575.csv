@@ -1,0 +1,17 @@
+ur,ur,ur,355246,PROPN,compound,False
+acct,acct,acct,1794,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+private,private,private,250837,ADJ,acomp,False
+so,so,so,295959,ADV,advmod,True
+ppl,ppl,ppl,245060,PROPN,nsubj,False
+ca,can,can,45964,VERB,ROOT,True
+n't,not,not,208798,PART,neg,True
+RT,RT,rt,275072,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+ur,ur,ur,355246,PROPN,advmod,False
+less,less,less,170842,ADV,advmod,True
+likely,likely,likely,172179,ADJ,ROOT,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,xcomp,True
+a,a,a,0,DET,det,True
+jawaab,jawaab,jawab,160636,NOUN,dobj,False

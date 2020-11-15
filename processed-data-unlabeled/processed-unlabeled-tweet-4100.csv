@@ -1,0 +1,17 @@
+On,on,on,212644,ADP,prep,True
+occasion,occasion,occasion,210642,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+'s,'s,s,275971,PART,pcomp,True
+birthday,birthday,birthday,34904,NOUN,compound,False
+Guntakal,Guntakal,untakable,352646,PROPN,compound,False
+team,team,team,317482,NOUN,nsubj,False
+did,do,do,90528,AUX,ROOT,True
+great,great,great,129442,ADJ,amod,False
+job,job,job,161424,NOUN,dobj,False
+today,today,today,325003,NOUN,npadvmod,False
+Serving,serve,serve,286430,VERB,amod,False
+needy,needy,needy,197921,NOUN,nsubj,False
+is,be,be,29345,AUX,acl,True
+main,main,main,177882,ADJ,amod,False
+motto,motto,motto,194117,NOUN,attr,False
+HappyBirthd,HappyBirthd,haybird,132287,PROPN,ROOT,False

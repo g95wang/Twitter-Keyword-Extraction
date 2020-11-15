@@ -1,0 +1,17 @@
+a,a,a,0,DET,det,True
+little,little,little,173876,ADJ,amod,False
+flash,flash,flash,114007,NOUN,nsubj,False
+since,since,since,291358,SCONJ,prep,True
+last,last,last,168771,ADJ,amod,True
+day,day,day,76257,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+office,office,office,211603,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+while,while,while,364797,NOUN,pobj,True
+stay,stay,stay,302393,VERB,ROOT,False
+safe,safe,safe,276548,ADJ,acomp,False
+amp,amp,amp,10991,PROPN,conj,False
+wash,wash,wash,362870,VERB,conj,False
+hands,hand,hand,133091,NOUN,dobj,False

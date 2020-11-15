@@ -1,0 +1,15 @@
+urm,urm,turm,332777,PROPN,compound,False
+i,i,i,145455,PRON,nsubj,True
+have,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+vitamin,vitamin,vitamin,360534,NOUN,compound,False
+d,d,d,75936,NOUN,compound,False
+deficiency,deficiency,deficiency,79278,NOUN,dobj,False
+lol,lol,lola,174784,INTJ,intj,False
+i,i,i,145455,PRON,nsubj,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+take,take,take,315491,VERB,ROOT,True
+meds,med,med,181951,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+tho,tho,tho,322272,INTJ,pobj,False

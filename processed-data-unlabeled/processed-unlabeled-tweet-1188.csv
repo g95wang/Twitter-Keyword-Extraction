@@ -1,0 +1,14 @@
+On,on,on,212644,ADP,ROOT,True
+the,the,the,320691,DET,det,True
+behalf,behalf,behalf,30762,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+Pharmacists,Pharmacists,pharmacists,233114,PROPN,compound,False
+community,community,community,64281,NOUN,pobj,False
+appreciate,appreciate,appreciate,17903,VERB,relcl,False
+words,word,word,367408,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+for,for,for,116301,ADP,prep,True
+considering,consider,consider,66795,VERB,pcomp,False
+job,job,job,161424,NOUN,compound,False
+responsibilities,responsibility,responsibility,269789,NOUN,dobj,False
+an,an,an,11448,DET,advmod,True

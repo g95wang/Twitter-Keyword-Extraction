@@ -1,0 +1,15 @@
+Happy,happy,happy,133513,ADJ,amod,False
+birthday,birthday,birthday,34904,NOUN,ROOT,False
+dear,dear,dear,77603,NOUN,intj,False
+'ve,have,have,134390,AUX,aux,True
+heard,hear,hear,134794,VERB,ROOT,False
+a,a,a,0,DET,det,True
+great,great,great,129442,ADJ,amod,False
+deal,deal,deal,77534,NOUN,dobj,False
+about,about,about,756,ADP,prep,True
+from,from,from,119298,ADP,prep,True
+and,and,and,12285,CCONJ,cc,True
+look,look,look,175060,VERB,conj,False
+absolutely,absolutely,absolutely,985,ADV,advmod,False
+dazzling,dazzle,dazzle,77380,VERB,acomp,False
+Hop,hop,hop,143667,INTJ,ROOT,False

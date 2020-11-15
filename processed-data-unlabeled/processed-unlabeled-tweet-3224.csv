@@ -1,0 +1,13 @@
+i,i,i,145455,PRON,nsubj,True
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+ever,ever,ever,106143,ADV,advmod,True
+want,want,want,362465,VERB,ROOT,False
+girl,girl,girl,125519,NOUN,nsubj,False
+to,to,to,324862,PART,aux,True
+think,think,think,321897,VERB,ccomp,False
+other,other,other,215836,ADJ,amod,True
+girls,girl,girl,125519,NOUN,nsubj,False
+have,have,have,134390,AUX,ccomp,True
+a,a,a,0,DET,det,True
+chance,chance,chance,52384,NOUN,dobj,False

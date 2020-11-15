@@ -1,0 +1,15 @@
+Million,Million,million,187421,PROPN,nummod,False
+Fewer,Fewer,fewer,111901,PROPN,compound,False
+Cellphone,Cellphone,cellophane,50590,PROPN,compound,False
+Users,Users,users,355978,PROPN,nsubj,False
+in,in,in,149313,ADP,prep,True
+China,China,china,54539,PROPN,pobj,False
+May,May,may,177739,VERB,aux,True
+Suggest,suggest,suggest,310240,VERB,ROOT,False
+a,a,a,0,DET,det,True
+High,high,high,139224,ADJ,amod,False
+CCP,CCP,cc,50284,PROPN,compound,False
+Virus,Virus,virus,360286,PROPN,compound,False
+Death,Death,death,77637,PROPN,compound,False
+Toll,Toll,toll,325290,PROPN,dobj,False
+via,via,via,359224,ADP,prep,True

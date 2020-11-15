@@ -1,0 +1,11 @@
+Kuanlin,Kuanlin,anilin,13120,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+trending,trend,trend,328944,VERB,ROOT,False
+worldwide,worldwide,worldwide,367593,ADV,advmod,False
+'m,be,be,29345,AUX,ROOT,True
+so,so,so,295959,ADV,advmod,True
+happy,happy,happy,133513,ADJ,acomp,False
+for,for,for,116301,ADP,prep,True
+this,this,this,322217,DET,pobj,True
+KuanlinFighting,KuanlinFighting,infighting,151993,PROPN,preconj,False
+KuanlinJiayou,KuanlinJiayou,uninjurious,344601,PROPN,compound,False

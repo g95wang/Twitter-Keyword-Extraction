@@ -1,0 +1,15 @@
+PM,pm,pm,240704,NOUN,nsubj,False
+could,could,could,70511,VERB,aux,True
+have,have,have,134390,AUX,aux,True
+given,give,give,125692,VERB,ROOT,False
+atleast,atleast,atlas,22667,NOUN,compound,False
+hours,hour,hour,144367,NOUN,dobj,False
+for,for,for,116301,ADP,mark,True
+people,people,people,230162,NOUN,nsubj,False
+to,to,to,324862,PART,aux,True
+reach,reach,reach,261480,VERB,advcl,False
+places,place,place,238538,NOUN,dobj,False
+before,before,before,30510,ADP,prep,True
+putting,put,put,257261,VERB,pcomp,False
+a,a,a,0,DET,det,True
+lockdow,lockdow,lookdown,175062,NOUN,dobj,False

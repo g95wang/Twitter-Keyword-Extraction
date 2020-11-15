@@ -1,0 +1,13 @@
+live,live,live,173931,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+Arkansas,Arkansas,arkansas,19841,PROPN,pobj,False
+where,where,where,364654,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+carry,carry,carry,48501,VERB,advcl,False
+but,but,but,43550,CCONJ,cc,True
+any,any,any,13086,DET,det,True
+direct,direct,direct,86756,ADJ,amod,False
+threat,threat,threat,322589,NOUN,nsubjpass,False
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+reported,report,report,268373,VERB,conj,False

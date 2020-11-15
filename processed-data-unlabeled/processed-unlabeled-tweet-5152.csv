@@ -1,0 +1,11 @@
+is,be,be,29345,AUX,ccomp,True
+ready,ready,ready,261587,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+help,help,help,135801,VERB,xcomp,False
+anyone,anyone,anyone,13244,PRON,dobj,True
+any,any,any,13086,DET,det,True
+time,time,time,323746,NOUN,npadvmod,False
+has,have,have,134390,AUX,ROOT,True
+heart,heart,heart,134817,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+gold,gold,gold,127479,NOUN,pobj,False

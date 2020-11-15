@@ -1,0 +1,15 @@
+Choose,choose,choose,55661,VERB,compound,False
+day,day,day,76257,NOUN,ROOT,False
+On,on,on,212644,ADP,prep,True
+this,this,this,322217,DET,det,True
+day,day,day,76257,NOUN,pobj,False
+Ricardo,Ricardo,ricardo,272497,PROPN,compound,False
+Nascimento,Nascimento,asiento,21219,PROPN,nsubjpass,False
+was,be,be,29345,AUX,auxpass,True
+named,name,name,196686,VERB,ROOT,False
+Defender,Defender,defender,79192,PROPN,oprd,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+season,season,season,282586,NOUN,pobj,False
+AbsaPrem,absaprem,absampere,891,NOUN,det,False
+StayHome,stayhome,sahme,276732,NOUN,pobj,False

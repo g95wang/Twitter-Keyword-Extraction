@@ -1,0 +1,15 @@
+'re,be,be,29345,AUX,ROOT,True
+so,so,so,295959,ADV,advmod,True
+smug,smug,smug,295130,ADJ,acomp,False
+in,in,in,149313,ADP,prep,True
+ignorance,ignorance,ignorance,147078,NOUN,pobj,False
+If,if,if,146980,SCONJ,mark,True
+bothered,bother,bother,38715,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+note,note,note,208861,VERB,xcomp,False
+that,that,that,320639,SCONJ,mark,True
+'m,be,be,29345,AUX,ccomp,True
+not,not,not,208798,PART,neg,True
+in,in,in,149313,ADP,prep,True
+USA,USA,usa,355941,PROPN,pobj,False
+Y,Y,y,145456,PROPN,ROOT,False

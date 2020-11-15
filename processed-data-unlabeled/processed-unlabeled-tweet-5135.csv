@@ -1,0 +1,15 @@
+Rashami,Rashami,ascham,20960,PROPN,compound,False
+Desai,Desai,desi,82541,PROPN,nsubj,False
+deserveds,deserved,deserved,82520,NOUN,ROOT,False
+go,go,go,127161,VERB,xcomp,True
+be,be,be,29345,AUX,ROOT,True
+winner,winner,winner,366208,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+BiggBoss,BiggBoss,beboss,29745,PROPN,pobj,False
+Retweet,retweet,etwee,105245,NOUN,ROOT,False
+to,to,to,324862,PART,aux,True
+agree,agree,agree,6445,VERB,relcl,False
+Start,start,start,302958,VERB,dobj,False
+using,use,use,355958,VERB,advcl,True
+MyLifelineRashami,mylifelinerashami,lifelines,171916,NOUN,dobj,False

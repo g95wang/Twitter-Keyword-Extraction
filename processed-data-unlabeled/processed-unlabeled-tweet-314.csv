@@ -1,0 +1,16 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+CriminalNegligence,CriminalNegligence,negligence,198059,PROPN,attr,False
+no,no,no,200529,DET,det,True
+ways,way,way,361946,NOUN,npadvmod,False
+about,about,about,756,ADP,prep,True
+feels,feel,feel,110884,VERB,ROOT,False
+like,like,like,172172,SCONJ,prep,False
+were,be,be,29345,AUX,xcomp,True
+about,about,about,756,ADJ,acomp,True
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,auxpass,True
+divided,divide,divide,90320,VERB,xcomp,False
+into,into,into,156343,ADP,prep,True
+separate,separate,separate,285547,ADJ,amod,False
+countries,country,country,71230,NOUN,pobj,False

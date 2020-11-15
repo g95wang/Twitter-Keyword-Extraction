@@ -1,0 +1,15 @@
+txt,txt,txt,333516,PROPN,nsubj,False
+went,go,go,127161,VERB,ccomp,False
+from,from,from,119298,ADP,prep,True
+can,can,can,45964,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+pet,pet,pet,232312,NOUN,attr,False
+to,to,to,324862,ADP,prep,True
+LOL,LOL,lola,174784,PROPN,compound,False
+JK,JK,jak,160193,PROPN,compound,False
+IM,IM,im,147566,PROPN,pobj,False
+A,a,a,0,DET,det,True
+FERAL,feral,feral,111312,ADJ,nsubj,False
+PUMA,puma,puma,256486,NOUN,ROOT,False
+SUPRISE,SUPRISE,supprise,313096,NOUN,compound,False
+BlTCH,BlTCH,blatch,35869,PROPN,dobj,False

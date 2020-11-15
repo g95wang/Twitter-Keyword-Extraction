@@ -1,0 +1,10 @@
+Boston,Boston,boston,38634,PROPN,compound,False
+Hotels,Hotels,hotels,144276,PROPN,nsubj,False
+need,need,need,197910,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+step,step,step,303739,VERB,xcomp,False
+up,up,up,354457,ADP,prt,True
+and,and,and,12285,CCONJ,cc,True
+do,do,do,90528,AUX,conj,True
+part,part,part,226929,NOUN,dobj,True
+too,too,too,325685,ADV,advmod,True

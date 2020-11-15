@@ -1,0 +1,15 @@
+SONY,SONY,soncy,297179,PROPN,compound,False
+PHA-2,PHA-2,epha,102096,PROPN,compound,False
+Headphone,Headphone,headphone,134673,PROPN,compound,False
+Amplifier,Amplifier,amplifier,11336,PROPN,ROOT,False
+Sony,Sony,soncy,297179,PROPN,compound,False
+Reply,Reply,reply,268301,PROPN,appos,False
+w/,w/,w,361650,PROPN,ROOT,False
+AmazonCart,AmazonCart,amazona,9907,PROPN,nsubj,False
+to,to,to,324862,PART,aux,True
+add,add,add,3502,VERB,relcl,False
+this,this,this,322217,DET,det,True
+followme,followme,followed,115991,VERB,ROOT,False
+otaku,otaku,taku,315529,NOUN,dobj,False
+Japan,Japan,japan,160364,PROPN,compound,False
+import,import,import,148870,NOUN,ROOT,False

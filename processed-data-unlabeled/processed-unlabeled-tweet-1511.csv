@@ -1,0 +1,13 @@
+a,a,a,0,DET,det,True
+thread,thread,thread,322554,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+petitions,petition,petition,232417,NOUN,pobj,False
+that,that,that,320639,DET,dobj,True
+can,can,can,45964,VERB,aux,True
+sign,sign,sign,290081,VERB,relcl,False
+and,and,and,12285,CCONJ,cc,True
+donate,donate,donate,91380,VERB,conj,False
+to,to,to,324862,ADP,prep,True
+for,for,for,116301,ADP,prep,True
+george,george,george,124030,PROPN,compound,False
+floyd,floyd,floyd,114889,PROPN,compound,False

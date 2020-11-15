@@ -1,0 +1,13 @@
+Discover,discover,discover,87665,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+wisdom,wisdom,wisdom,366411,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+Lord,Lord,lord,175244,PROPN,compound,False
+Jesus,Jesus,jesus,161034,PROPN,compound,False
+Christ,Christ,christ,56111,PROPN,pobj,False
+straight,straight,straight,305649,ADV,advmod,False
+from,from,from,119298,ADP,prep,True
+the,the,the,320691,DET,det,True
+Bible,Bible,bible,33229,PROPN,pobj,False
+TheBiblicalLogic,thebiblicallogic,biblically,33235,NOUN,dep,False
+Read,Read,read,261551,VERB,advcl,False

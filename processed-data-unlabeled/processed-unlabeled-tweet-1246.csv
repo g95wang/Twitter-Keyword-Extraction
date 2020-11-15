@@ -1,0 +1,13 @@
+Unlocking,unlock,unlock,345749,VERB,advcl,False
+but,but,but,43550,CCONJ,cc,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+act,act,act,3071,VERB,conj,False
+shocked,shock,shock,288642,VERB,xcomp,False
+by,by,by,33133,ADP,agent,True
+the,the,the,320691,DET,det,True
+gay,gay,gay,120981,PROPN,compound,False
+shit,shit,shit,288544,NOUN,pobj,False
+said,say,say,276740,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+gcs,gcs,cs,74339,NOUN,pobj,False

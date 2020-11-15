@@ -1,0 +1,9 @@
+A,a,a,0,DET,det,True
+THREAD,thread,thread,322554,NOUN,ROOT,False
+OF,of,of,211535,ADP,prep,True
+WHAT,what,what,364447,PRON,dobj,True
+YOU,you,you,157723,PRON,nsubj,True
+CAN,CAN,can,45964,VERB,aux,True
+DO,do,do,90528,VERB,pcomp,True
+TO,to,to,324862,PART,aux,True
+HELP,help,help,135801,VERB,relcl,False

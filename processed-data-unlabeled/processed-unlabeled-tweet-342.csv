@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True
+Uyghur,Uyghur,uighur,333686,PROPN,compound,False
+Forced,Forced,forced,116406,PROPN,compound,False
+Labor,Labor,labor,166724,PROPN,compound,False
+Prevention,Prevention,prevention,250164,PROPN,compound,False
+Act,Act,act,3071,PROPN,nsubj,False
+creates,create,create,72418,VERB,ROOT,False
+a,a,a,0,DET,det,True
+rebuttable,rebuttable,rebuttable,262503,ADJ,amod,False
+presumption,presumption,presumption,249752,NOUN,dobj,False
+about,about,about,756,ADP,prep,True
+forced,force,force,116404,VERB,amod,False
+labor,labor,labor,166724,NOUN,pobj,False
+requiring,require,require,268870,VERB,acl,False
+Chinese,chinese,chinese,54595,ADJ,amod,False
+companies,company,company,64367,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True

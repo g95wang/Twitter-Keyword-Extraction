@@ -1,0 +1,11 @@
+all,all,all,8522,DET,appos,True
+like,like,like,172172,INTJ,prep,False
+when,when,when,364637,ADV,advmod,True
+fat,fat,fat,110227,ADJ,amod,False
+people,people,people,230162,NOUN,nsubj,False
+get,get,get,124419,VERB,advcl,True
+skinny,skinny,skinny,293271,ADJ,acomp,False
+a,a,a,0,DET,det,True
+little,little,little,173876,ADJ,npadvmod,False
+too,too,too,325685,ADV,advmod,True
+much,much,much,194510,ADJ,advmod,True

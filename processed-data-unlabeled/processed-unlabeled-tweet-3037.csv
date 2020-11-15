@@ -1,0 +1,10 @@
+A,a,a,0,DET,det,True
+lot,lot,lot,175365,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+all,all,all,8522,DET,appos,True
+getting,get,get,124419,VERB,ROOT,False
+older,old,old,212002,ADJ,acomp,False
+but,but,but,43550,CCONJ,cc,True
+not,not,not,208798,PART,neg,True
+growing,grow,grow,130412,VERB,conj,False
+up,up,up,354457,ADP,prt,True

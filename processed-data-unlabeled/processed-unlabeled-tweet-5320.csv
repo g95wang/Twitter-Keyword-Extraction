@@ -1,0 +1,17 @@
+'s,be,be,29345,AUX,ROOT,True
+like,like,like,172172,INTJ,mark,False
+no,no,no,200529,DET,det,True
+other,other,other,215836,ADJ,amod,True
+kids,kid,kid,164450,NOUN,nsubj,False
+have,have,have,134390,AUX,aux,True
+ever,ever,ever,106143,ADV,advmod,True
+gone,go,go,127161,VERB,advcl,False
+missing,missing,missing,190061,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+still,still,still,304511,ADV,advmod,True
+say,say,say,276740,VERB,ROOT,True
+'s,be,be,29345,AUX,ccomp,True
+down,down,down,92197,ADV,advmod,True
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+parents,parent,parent,226369,NOUN,pobj,False

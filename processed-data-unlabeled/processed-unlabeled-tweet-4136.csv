@@ -1,0 +1,14 @@
+a,a,a,0,DET,det,True
+corrupt,corrupt,corrupt,69764,ADJ,amod,False
+media,medium,medium,182217,NOUN,nsubj,False
+who,who,who,365278,PRON,nsubj,True
+keep,keep,keep,163579,VERB,relcl,True
+saying,say,say,276740,VERB,xcomp,False
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+cope,cope,cope,68444,VERB,ccomp,False
+without,without,without,366665,ADP,prep,True
+migrants,migrant,migrant,187035,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+fools,fool,fool,116092,NOUN,conj,False
+believe,believe,believe,31085,VERB,ROOT,False

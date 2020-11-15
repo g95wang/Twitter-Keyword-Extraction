@@ -1,0 +1,12 @@
+A,a,a,0,DET,det,True
+sky,sky,sky,293055,NOUN,ROOT,False
+full,full,full,119933,ADJ,amod,True
+of,of,of,211535,ADP,prep,True
+blue,blue,blue,36690,ADJ,pobj,False
+and,and,and,12285,CCONJ,cc,True
+a,a,a,0,DET,det,True
+head,head,head,134575,NOUN,conj,False
+full,full,full,119933,ADJ,amod,True
+of,of,of,211535,ADP,prep,True
+sad,sad,sad,276441,ADJ,amod,False
+songs,song,song,297195,NOUN,pobj,False

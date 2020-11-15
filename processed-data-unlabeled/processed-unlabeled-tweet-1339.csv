@@ -1,0 +1,16 @@
+Linda,Linda,linda,172702,PROPN,compound,False
+Sarsour,Sarsour,arbour,18591,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+hoping,hope,hope,143674,VERB,ROOT,False
+everyone,everyone,everyone,106169,PRON,nsubj,True
+forgot,forget,forget,117219,VERB,ccomp,False
+about,about,about,756,ADP,prep,True
+the,the,the,320691,DET,det,True
+time,time,time,323746,NOUN,pobj,False
+Amy,Amy,amy,10366,PROPN,appos,False
+Coopered,cooper,cooper,68318,VERB,relcl,False
+a,a,a,0,DET,det,True
+mentally,mentally,mentally,183506,ADV,advmod,False
+ill,ill,ill,147293,ADJ,amod,False
+homeless,homeless,homeless,142788,ADJ,amod,False
+man,man,man,178862,NOUN,dobj,False

@@ -1,0 +1,17 @@
+Prophet,Prophet,prophet,252624,PROPN,compound,False
+Muhammad,Muhammad,muhammad,194828,PROPN,nsubj,False
+said,say,say,276740,VERB,ROOT,False
+When,when,when,364637,ADV,advmod,True
+of,of,of,211535,ADP,prep,True
+is,be,be,29345,AUX,aux,True
+fasting,fast,fast,110179,VERB,advcl,False
+should,should,should,288990,VERB,aux,True
+abstain,abstain,abstain,1049,VERB,ccomp,False
+from,from,from,119298,ADP,prep,True
+indecent,indecent,indecent,150671,ADJ,amod,False
+acts,act,act,3071,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+unnecessary,unnecessary,unnecessary,346814,ADJ,amod,False
+talk,talk,talk,315639,NOUN,conj,False
+and,and,and,12285,CCONJ,cc,True
+if,if,if,146980,SCONJ,conj,True

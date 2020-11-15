@@ -1,0 +1,5 @@
+RT,RT,rt,275072,PROPN,ROOT,False
+AND,and,and,12285,CCONJ,cc,True
+REPLY,REPLY,reply,268301,PROPN,conj,False
+WITH,with,with,366582,ADP,prep,True
+ROS,ros,ros,274418,NOUN,compound,False

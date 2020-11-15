@@ -1,0 +1,14 @@
+guys,guy,guy,131001,NOUN,nsubj,False
+the,the,the,320691,DET,det,True
+app,app,app,17530,NOUN,appos,False
+Black,Black,black,35431,PROPN,compound,False
+Nation,Nation,nation,197258,PROPN,appos,False
+gives,give,give,125692,VERB,ROOT,False
+tons,ton,ton,325491,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+black,black,black,35431,NOUN,npadvmod,False
+owned,own,own,222072,VERB,amod,False
+businesses,business,business,43481,NOUN,pobj,False
+that,that,that,320639,DET,dobj,True
+can,can,can,45964,VERB,aux,True
+support,support,support,313022,VERB,relcl,False

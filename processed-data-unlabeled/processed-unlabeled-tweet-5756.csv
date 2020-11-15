@@ -1,0 +1,15 @@
+Pointing,point,point,241315,VERB,csubj,False
+out,out,out,216108,ADP,prt,True
+that,that,that,320639,SCONJ,mark,True
+YOU,you,you,157723,PRON,nsubj,True
+think,think,think,321897,VERB,ccomp,False
+what,what,what,364447,PRON,dobj,True
+meant,mean,mean,181735,VERB,csubj,False
+is,be,be,29345,AUX,ccomp,True
+wrong,wrong,wrong,368091,ADJ,acomp,False
+is,be,be,29345,AUX,ROOT,True
+much,much,much,194510,ADV,advmod,True
+different,different,different,85278,ADJ,acomp,False
+than,than,than,320565,SCONJ,prep,True
+the,the,the,320691,DET,det,True
+sha,sha,sha,286990,PROPN,pobj,False

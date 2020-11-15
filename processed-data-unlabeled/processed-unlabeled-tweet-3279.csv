@@ -1,0 +1,13 @@
+Again,again,again,5827,ADV,advmod,True
+someone,someone,someone,297038,PRON,nsubj,True
+disagreeing,disagree,disagree,86961,VERB,acl,False
+with,with,with,366582,ADP,prep,True
+is,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+a,a,a,0,DET,det,True
+troll,troll,troll,331032,NOUN,attr,False
+And,and,and,12285,CCONJ,cc,True
+what,what,what,364447,PRON,dobj,True
+do,do,do,90528,AUX,aux,True
+think,think,think,321897,VERB,ROOT,False
+perso,perso,persio,231930,NOUN,dobj,False

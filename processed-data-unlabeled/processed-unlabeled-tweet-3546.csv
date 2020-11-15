@@ -1,0 +1,12 @@
+i,i,i,145455,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+go,go,go,127161,VERB,ROOT,True
+on,on,on,212644,ADP,prt,True
+twitter,twitter,twitter,333475,NOUN,advmod,False
+and,and,and,12285,CCONJ,cc,True
+not,not,not,208798,PART,neg,True
+text,text,text,320378,VERB,conj,False
+back,back,back,25705,ADV,advmod,True
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+phone,phone,phone,234654,NOUN,attr,False

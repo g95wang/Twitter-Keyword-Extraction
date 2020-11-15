@@ -1,0 +1,5 @@
+m,be,be,29345,VERB,ROOT,False
+a,a,a,0,DET,det,True
+fake,fake,fake,109380,ADJ,amod,False
+stan,stan,stan,302634,NOUN,nsubj,False
+confirmed,confirm,confirm,65928,VERB,ccomp,False

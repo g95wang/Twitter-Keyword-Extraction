@@ -1,0 +1,16 @@
+Indeed,indeed,indeed,150699,ADV,advmod,True
+was,be,be,29345,AUX,auxpass,True
+reported,report,report,268373,VERB,ROOT,False
+a,a,a,0,DET,det,True
+few,few,few,111900,ADJ,amod,True
+weeks,week,week,363764,NOUN,npadvmod,False
+ago,ago,ago,6337,ADV,advmod,False
+after,after,after,5615,ADP,mark,True
+the,the,the,320691,DET,det,True
+FDA,FDA,da,75937,PROPN,nsubj,False
+allowed,allow,allow,9006,VERB,advcl,False
+doctors,doctor,doctor,90646,NOUN,nsubj,False
+to,to,to,324862,PART,aux,True
+prescribe,prescribe,prescribe,249290,VERB,ccomp,False
+for,for,for,116301,ADP,prep,True
+lupu,lupu,lupus,176317,PROPN,npadvmod,False

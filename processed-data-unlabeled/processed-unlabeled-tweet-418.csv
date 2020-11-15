@@ -1,0 +1,9 @@
+i,i,i,145455,PRON,nsubj,True
+think,think,think,321897,VERB,ROOT,False
+i,i,i,145455,PRON,nsubj,True
+will,will,will,365768,VERB,aux,True
+never,never,never,199350,ADV,neg,True
+ever,ever,ever,106143,ADV,advmod,True
+heal,heal,heal,134754,VERB,ccomp,False
+from,from,from,119298,ADP,prep,True
+this,this,this,322217,DET,pobj,True

@@ -1,0 +1,11 @@
+If,if,if,146980,SCONJ,mark,True
+fred,fred,fred,118561,PROPN,nsubj,False
+needs,need,need,197910,VERB,advcl,False
+a,a,a,0,DET,det,True
+therapist,therapist,therapist,321209,NOUN,dobj,False
+should,should,should,288990,VERB,aux,True
+DM,dm,dm,90523,VERB,ROOT,False
+charge,charge,charge,52797,VERB,ROOT,False
+by,by,by,33133,ADP,prep,True
+the,the,the,320691,DET,det,True
+hour,hour,hour,144367,NOUN,pobj,False

@@ -1,0 +1,17 @@
+British,British,british,40996,PROPN,amod,False
+High,High,high,139224,PROPN,compound,False
+Comm,Comm,comm,63862,PROPN,nsubj,False
+says,say,say,276740,VERB,ROOT,False
+There,there,there,321216,PRON,expl,True
+is,be,be,29345,AUX,ccomp,True
+a,a,a,0,DET,det,True
+legal,legal,legal,170007,ADJ,amod,False
+issue,issue,issue,159379,NOUN,attr,False
+that,that,that,320639,DET,nsubj,True
+needs,need,need,197910,VERB,relcl,False
+resolving,resolve,resolve,269603,VERB,dobj,False
+before,before,before,30510,ADP,mark,True
+extradition,extradition,extradition,108490,NOUN,nsubj,False
+can,can,can,45964,VERB,aux,True
+be,be,be,29345,AUX,advcl,True
+a,a,a,0,DET,attr,True

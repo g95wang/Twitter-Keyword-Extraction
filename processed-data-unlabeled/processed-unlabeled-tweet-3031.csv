@@ -1,0 +1,16 @@
+love,love,love,175534,VERB,ROOT,False
+women,woman,woman,366955,NOUN,dobj,False
+need,need,need,197910,VERB,ccomp,False
+influence,influence,influence,152164,NOUN,dobj,False
+The,the,the,320691,DET,det,True
+investigation,investigation,investigation,157177,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+currently,currently,currently,75406,ADV,advmod,False
+underway,underway,underway,340085,ADJ,acomp,False
+into,into,into,156343,ADP,prep,True
+Nthroom,Nthroom,thoom,322331,PROPN,pobj,False
+a,a,a,0,DET,det,True
+case,case,case,48783,NOUN,appos,False
+in,in,in,149313,ADP,prep,True
+which,which,which,364730,DET,pobj,True
+Korean,korean,korean,166084,ADJ,relcl,False

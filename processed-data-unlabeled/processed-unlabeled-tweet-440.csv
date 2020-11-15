@@ -1,0 +1,17 @@
+This,this,this,322217,DET,nsubj,True
+was,be,be,29345,AUX,ccomp,True
+SOMA,SOMA,soma,296947,PROPN,attr,False
+a,a,a,0,DET,det,True
+year,year,year,146706,NOUN,npadvmod,False
+before,before,before,30510,ADP,prep,True
+guess,guess,guess,130940,VERB,ROOT,False
+Rubu,Rubu,brubu,41685,PROPN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+the,the,the,320691,DET,det,True
+one,one,one,212715,NOUN,attr,True
+that,that,that,320639,DET,nsubj,True
+influenced,influence,influence,152164,VERB,relcl,False
+Yerr,Yerr,err,103961,PROPN,dep,False
+How,how,how,144540,ADV,advmod,True
+did,do,do,90528,AUX,aux,True
+selec,selec,select,283432,VERB,ROOT,False

@@ -1,0 +1,15 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+absolutely,absolutely,absolutely,985,ADV,advmod,False
+true,true,true,331515,ADJ,acomp,False
+But,but,but,43550,CCONJ,cc,True
+really,really,really,261766,ADV,advmod,True
+admire,admire,admire,4177,VERB,ccomp,False
+the,the,the,320691,DET,det,True
+shamelessness,shamelessness,shamelessness,287334,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+Congress,Congress,congress,66258,PROPN,compound,False
+people,people,people,230162,NOUN,pobj,False
+admire,admire,admire,4177,VERB,ROOT,False
+thei,thei,thein,320840,NOUN,dobj,False

@@ -1,0 +1,16 @@
+What,what,what,364447,PRON,dative,True
+do,do,do,90528,AUX,aux,True
+tell,tell,tell,318356,VERB,ROOT,False
+children,child,child,54285,NOUN,dobj,False
+about,about,about,756,ADP,prep,True
+the,the,the,320691,DET,det,True
+lies,lie,lie,171801,NOUN,pobj,False
+spread,spread,spread,301217,VERB,relcl,False
+every,every,every,106158,DET,det,True
+day,day,day,76257,NOUN,npadvmod,False
+on,on,on,212644,ADP,prep,True
+television,television,television,318311,NOUN,pobj,False
+What,what,what,364447,PRON,nsubj,True
+happens,happen,happen,133505,VERB,ROOT,False
+when,when,when,364637,ADV,advmod,True
+the,the,the,320691,DET,advcl,True

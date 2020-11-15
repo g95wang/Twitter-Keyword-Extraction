@@ -1,0 +1,15 @@
+Feed,feed,feed,110855,VERB,ROOT,False
+body,body,body,37181,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+dogs,dog,dog,90839,NOUN,pobj,False
+Or,or,or,213904,CCONJ,cc,True
+follow,follow,follow,115989,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+US,US,us,355940,PROPN,compound,True
+example,example,example,106472,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+bury,bury,bury,43135,VERB,conj,False
+at,at,at,22372,ADP,prep,True
+sea,sea,sea,282385,NOUN,pobj,False
+or,or,or,213904,CCONJ,cc,True

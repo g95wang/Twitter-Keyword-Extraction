@@ -1,0 +1,14 @@
+YALL,YALL,yalla,145590,PROPN,nsubj,False
+NOTICED,noticed,noticed,208925,VERB,ROOT,False
+THEM,them,them,320888,PRON,dobj,True
+SCAM,SCAM,scam,279496,VERB,ROOT,False
+LIKELY,likely,likely,172179,NOUN,compound,False
+CALLS,call,call,45246,NOUN,compound,False
+STOPPED,STOPPED,stopped,305354,PROPN,ROOT,False
+YEA,YEA,yea,146695,NOUN,compound,False
+THEM,them,them,320888,VERB,compound,True
+MFS,mfs,fs,119701,ADP,nsubj,False
+LOST,lose,lose,175338,VERB,ROOT,False
+THEY,they,they,320834,PRON,compound,True
+JOB,job,job,161424,NOUN,dobj,False
+TOO,too,too,325685,ADV,ROOT,True

@@ -1,0 +1,9 @@
+Unicorns,Unicorns,unicorns,344036,PROPN,ROOT,False
+KD,KD,ked,163508,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+only,only,only,212848,ADJ,amod,True
+unicorn,unicorn,unicorn,344031,ADJ,attr,False
+ve,have,have,134390,VERB,aux,False
+seen,see,see,283054,VERB,ROOT,False
+p,p,p,222535,NOUN,dobj,False

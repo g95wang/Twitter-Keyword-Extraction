@@ -1,0 +1,10 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,aux,True
+going,go,go,127161,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+a,a,a,0,DET,det,True
+fantastic,fantastic,fantastic,109795,ADJ,amod,False
+year,year,year,146706,NOUN,attr,False
+for,for,for,116301,ADP,prep,True
+Britain,Britain,britain,40980,PROPN,pobj,False

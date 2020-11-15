@@ -1,0 +1,11 @@
+The,the,the,320691,DET,det,True
+Full,full,full,119933,ADJ,amod,True
+video,video,video,359514,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+Queen,Queen,queen,258246,PROPN,compound,False
+Meghan,Meghan,meehan,182281,PROPN,compound,False
+Markle,Markle,markable,180145,PROPN,pobj,False
+speaking,speak,speak,298684,VERB,acl,False
+in,in,in,149313,ADP,prep,True
+support,support,support,313022,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True

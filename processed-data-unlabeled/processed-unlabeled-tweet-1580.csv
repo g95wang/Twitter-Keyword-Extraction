@@ -1,0 +1,14 @@
+ARMY,ARMY,army,19923,PROPN,nsubj,False
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+use,use,use,355958,VERB,ROOT,False
+hastag,hastag,hasta,134122,ADJ,dobj,False
+And,and,and,12285,CCONJ,cc,True
+please,please,please,239622,INTJ,intj,True
+censor,censor,censor,50759,VERB,ROOT,False
+name,name,name,196686,NOUN,dobj,True
+Let,let,let,170875,VERB,ROOT,False
+respect,respect,respect,269692,VERB,ccomp,False
+for,for,for,116301,ADP,prep,True
+situation,situation,situation,292666,NOUN,pobj,False
+now,now,now,209199,ADV,advmod,True

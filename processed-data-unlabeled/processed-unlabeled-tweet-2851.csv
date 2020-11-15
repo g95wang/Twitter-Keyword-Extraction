@@ -1,0 +1,10 @@
+Name,name,name,196686,VERB,ROOT,True
+a,a,a,0,DET,det,True
+song,song,song,297195,NOUN,compound,False
+title,title,title,324727,NOUN,dobj,False
+that,that,that,320639,DET,nsubj,True
+represents,represent,represent,268488,VERB,relcl,False
+the,the,the,320691,DET,det,True
+year,year,year,146706,NOUN,dobj,False
+so,so,so,295959,ADV,advmod,True
+far,far,far,109839,ADV,advmod,False

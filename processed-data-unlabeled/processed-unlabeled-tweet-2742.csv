@@ -1,0 +1,8 @@
+everyone,everyone,everyone,106169,PRON,nsubj,True
+take,take,take,315491,VERB,ROOT,True
+dog,dog,dog,90839,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+chemist,chemist,chemist,53700,NOUN,compound,False
+day,day,day,76257,NOUN,pobj,False
+apparently,apparently,apparently,17581,ADV,advmod,False

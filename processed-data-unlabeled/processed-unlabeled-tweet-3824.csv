@@ -1,0 +1,17 @@
+Friends,friend,friend,118947,NOUN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+family,family,family,109591,NOUN,compound,False
+Team,Team,team,317482,PROPN,conj,False
+has,have,have,134390,AUX,aux,True
+sent,send,send,285228,VERB,ROOT,False
+legal,legal,legal,170007,ADJ,amod,False
+notice,notice,notice,208919,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+demanding,demand,demand,80349,VERB,pcomp,False
+to,to,to,324862,PART,aux,True
+delete,delete,delete,80007,VERB,xcomp,False
+all,all,all,8522,DET,det,True
+videos,video,video,359514,NOUN,compound,False
+n,n,n,196396,CCONJ,dobj,False
+suspending,suspend,suspend,313732,VERB,advcl,False
+all,all,all,8522,DET,det,True

@@ -1,0 +1,14 @@
+X,X,x,368209,PROPN,dep,False
+mom,mom,mom,191625,NOUN,npadvmod,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+feel,feel,feel,110884,VERB,ccomp,False
+good,good,good,127869,ADJ,amod,False
+Grimes,Grimes,grimes,129896,PROPN,dobj,False
+have,have,have,134390,AUX,aux,True
+tried,try,try,329065,VERB,ROOT,False
+turning,turn,turn,332792,VERB,xcomp,False
+on,on,on,212644,ADV,prep,True
+and,and,and,12285,CCONJ,cc,True
+off,off,off,211539,ADV,conj,True
+again,again,again,5827,ADV,advmod,True

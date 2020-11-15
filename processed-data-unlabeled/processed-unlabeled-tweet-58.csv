@@ -1,0 +1,17 @@
+Memories,Memories,memories,183202,PROPN,ROOT,False
+The,the,the,320691,DET,det,True
+super,super,super,311253,ADJ,dep,False
+success,success,success,309812,NOUN,nsubj,False
+of,of,of,211535,ADP,dep,True
+Baaghi,Baaghi,bagh,26311,PROPN,pobj,False
+signalled,signal,signal,290085,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+birth,birth,birth,34902,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+Baaghi,Baaghi,bagh,26311,PROPN,compound,False
+franchise,franchise,franchise,118312,NOUN,pobj,False
+Baaghi,Baaghi,bagh,26311,PROPN,nsubj,False
+emerged,emerge,emerge,98447,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+third,third,third,322055,ADJ,amod,True
+highes,highe,higher,139246,NOUN,dobj,False

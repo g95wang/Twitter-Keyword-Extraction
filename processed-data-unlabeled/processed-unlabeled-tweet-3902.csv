@@ -1,0 +1,8 @@
+That,that,that,320639,DET,nsubj,True
+'s,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+weirdest,weird,weird,363928,ADJ,amod,False
+expression,expression,expression,108007,NOUN,attr,False
+that,that,that,320639,SCONJ,dobj,True
+ever,ever,ever,106143,ADV,advmod,True
+seen,see,see,283054,VERB,relcl,False

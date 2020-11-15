@@ -1,0 +1,16 @@
+Does,do,do,90528,AUX,aux,True
+somebody,somebody,somebody,297030,PRON,nsubj,False
+have,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+reliable,reliable,reliable,266875,ADJ,amod,False
+source,source,source,297914,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+daily,daily,daily,76310,ADJ,amod,False
+deaths,death,death,77637,NOUN,pobj,False
+global,global,global,126455,ADJ,amod,False
+overall,overall,overall,218184,ADJ,appos,False
+Corona,Corona,corona,69428,PROPN,pobj,False
+Non,Non,non,200943,PROPN,dep,False
+Corona,corona,corona,69428,ADJ,conj,False
+with,with,with,366582,ADP,prep,True
+s,s,s,275971,NOUN,pobj,False

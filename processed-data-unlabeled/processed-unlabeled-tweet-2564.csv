@@ -1,0 +1,13 @@
+hate,hate,hate,134216,VERB,ROOT,False
+people,people,people,230162,NOUN,dobj,False
+who,who,who,365278,PRON,nsubj,True
+act,act,act,3071,VERB,relcl,False
+so,so,so,295959,ADV,advmod,True
+big,big,big,33680,ADJ,acomp,False
+on,on,on,212644,ADP,prep,True
+loyalty,loyalty,loyalty,174743,NOUN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+do,do,do,90528,AUX,conj,True
+snake,snake,snake,295232,NOUN,compound,False
+ass,ass,ass,21558,NOUN,compound,False
+shit,shit,shit,288544,VERB,dobj,False

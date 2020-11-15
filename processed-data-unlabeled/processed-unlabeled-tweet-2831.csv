@@ -1,0 +1,10 @@
+think,think,think,321897,VERB,ROOT,False
+so,so,so,295959,ADV,advmod,True
+Pretty,pretty,pretty,250049,ADV,advmod,False
+menacing,menacing,menacing,183235,ADJ,ROOT,False
+to,to,to,324862,PART,aux,True
+play,play,play,238701,VERB,xcomp,False
+a,a,a,0,DET,det,True
+solo,solo,solo,296839,NOUN,amod,False
+ball,ball,ball,26890,NOUN,compound,False
+game,game,game,121666,NOUN,dobj,False

@@ -1,0 +1,15 @@
+arrive,arrive,arrive,20276,VERB,ROOT,False
+at,at,at,22372,ADP,prep,True
+a,a,a,0,DET,det,True
+gate,gate,gate,122716,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+guards,guard,guard,130774,NOUN,pobj,False
+Guard,guard,guard,130774,NOUN,ROOT,False
+Halt,halt,halt,132858,VERB,appos,False
+traveler,traveler,traveler,328590,NOUN,appos,False
+must,must,must,196148,VERB,aux,True
+solve,solve,solve,296925,VERB,ROOT,False
+riddle,riddle,riddle,272633,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+continue,continue,continue,67485,VERB,acl,False
+Guard,guard,guard,130774,NOUN,ROOT,False

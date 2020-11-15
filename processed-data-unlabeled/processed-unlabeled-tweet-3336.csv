@@ -1,0 +1,13 @@
+Coronavirus,Coronavirus,coronavirus,69453,PROPN,nsubj,False
+update,update,update,354620,NOUN,ROOT,False
+Europe,Europe,europe,105823,PROPN,npadvmod,False
+Austria,Austria,austria,23726,PROPN,appos,False
+new,new,new,199367,ADJ,amod,False
+cases,case,case,48783,NOUN,dep,False
+Portugal,Portugal,portugal,243738,PROPN,ROOT,False
+new,new,new,199367,ADJ,amod,False
+cases,case,case,48783,NOUN,appos,False
+Sweden,Sweden,sweden,314236,PROPN,appos,False
+new,new,new,199367,ADJ,amod,False
+cases,case,case,48783,NOUN,appos,False
+Czechia,czechia,chechia,53310,NOUN,appos,False

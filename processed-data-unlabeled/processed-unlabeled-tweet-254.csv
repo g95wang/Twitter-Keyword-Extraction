@@ -1,0 +1,16 @@
+Each,each,each,94673,DET,det,True
+Fetus,Fetus,fetus,111816,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+so,so,so,295959,ADV,advmod,True
+far,far,far,109839,ADV,advmod,False
+today,today,today,325003,NOUN,ROOT,False
+since,since,since,291358,SCONJ,mark,True
+the,the,the,320691,DET,det,True
+country,country,country,71230,NOUN,nsubjpass,False
+has,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,auxpass,True
+shut,shut,shut,289397,VERB,advcl,False
+down,down,down,92197,ADP,prt,True
+During,during,during,94458,ADP,ROOT,True
+this,this,this,322217,DET,det,True
+tim,tim,tim,323674,NOUN,pobj,False

@@ -1,0 +1,15 @@
+i,i,i,145455,PRON,nsubj,True
+swear,swear,swear,314205,VERB,ccomp,False
+for,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+hot,hot,hot,144238,ADJ,amod,False
+minute,minute,minute,188058,NOUN,pobj,False
+i,i,i,145455,PRON,nsubj,True
+thought,think,think,321897,VERB,ROOT,False
+ur,ur,ur,355246,ADP,amod,False
+place,place,place,238538,NOUN,nsubj,False
+had,have,have,134390,AUX,ccomp,True
+raw,raw,raw,261314,ADJ,amod,False
+meat,meat,meat,181814,NOUN,dobj,False
+as,as,as,20837,SCONJ,prep,True
+furniture,furniture,furniture,120473,NOUN,pobj,False

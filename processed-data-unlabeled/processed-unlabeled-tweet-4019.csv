@@ -1,0 +1,12 @@
+s,s,s,275971,VERB,ROOT,False
+obviously,obviously,obviously,210623,ADV,advmod,False
+the,the,the,320691,DET,det,True
+type,type,type,324164,NOUN,attr,False
+that,that,that,320639,DET,nsubj,True
+loves,love,love,175534,VERB,relcl,False
+Black,black,black,35431,ADJ,amod,False
+guys,guy,guy,131001,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True
+hates,hate,hate,134216,VERB,conj,False
+black,black,black,35431,ADJ,amod,False
+girls,girl,girl,125519,NOUN,dobj,False

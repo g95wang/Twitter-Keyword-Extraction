@@ -1,0 +1,12 @@
+Actually,actually,actually,3298,ADV,advmod,False
+anyone,anyone,anyone,13244,PRON,nsubj,True
+who,who,who,365278,PRON,nsubj,True
+coughs,cough,cough,70498,VERB,relcl,False
+or,or,or,213904,CCONJ,cc,True
+spits,spit,spit,300235,VERB,conj,False
+at,at,at,22372,ADP,prep,True
+ANYONE,ANYONE,anyone,13244,PROPN,pobj,True
+should,should,should,288990,VERB,aux,True
+go,go,go,127161,VERB,ROOT,True
+to,to,to,324862,ADP,prep,True
+prison,prison,prison,250784,NOUN,pobj,False

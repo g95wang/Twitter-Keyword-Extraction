@@ -1,0 +1,11 @@
+deserves,deserve,deserve,82519,VERB,ROOT,False
+all,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+happiness,happiness,happiness,133519,NOUN,dobj,False
+success,success,success,309812,NOUN,conj,False
+and,and,and,12285,CCONJ,cc,True
+fame,fame,fame,109579,NOUN,conj,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+world,world,world,367566,NOUN,pobj,False
+HappyBirthdayNTR,happybirthdayntr,birthday,34904,NOUN,ROOT,False

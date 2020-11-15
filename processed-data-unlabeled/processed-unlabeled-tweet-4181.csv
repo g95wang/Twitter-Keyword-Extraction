@@ -1,0 +1,15 @@
+THIS,this,this,322217,DET,nsubj,True
+IS,be,be,29345,VERB,ROOT,True
+NOT,not,not,208798,ADV,neg,True
+TRUE:1)No,true:1)no,threnos,322643,NOUN,amod,False
+government,government,government,128391,NOUN,compound,False
+official,official,official,211620,NOUN,nsubj,False
+uses,use,use,355958,VERB,ROOT,False
+Windows,Windows,windows,366017,PROPN,dobj,False
+for,for,for,116301,ADP,prep,True
+videoconferencing,videoconferencing,conferencing,65819,NOUN,pobj,False
+Entire,entire,entire,101450,ADJ,amod,False
+capital,capital,capital,46888,NOUN,ROOT,False
+released,release,release,266810,VERB,acl,False
+of,of,of,211535,ADP,prep,True
+amp,amp,amp,10991,PROPN,pobj,False

@@ -1,0 +1,8 @@
+X,X,x,368209,PROPN,dep,False
+is,be,be,29345,AUX,aux,True
+gon,go,go,127161,VERB,ROOT,False
+na,to,to,324862,PART,aux,False
+be,be,be,29345,AUX,xcomp,True
+an,an,an,11448,DET,det,True
+esports,esport,sport,301034,NOUN,attr,False
+pro,pro,pro,250901,NOUN,amod,False

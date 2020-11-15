@@ -1,0 +1,14 @@
+Hoshi,Hoshi,hitoshi,141987,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+Corona,Corona,corona,69428,PROPN,compound,False
+quarantine,quarantine,quarantine,257971,NOUN,compound,False
+album,album,album,7508,NOUN,ROOT,False
+track,track,track,327165,NOUN,appos,False
+Horanghae,Horanghae,orange,213944,PROPN,appos,False
+original,original,original,214598,ADJ,amod,False
+song,song,song,297195,NOUN,appos,False
+written,written,written,368081,PROPN,conj,False
+amp,amp,amp,10991,PROPN,conj,False
+produced,produce,produce,251568,VERB,acl,False
+by,by,by,33133,ADP,agent,True
+cover,cover,cover,71476,NOUN,ROOT,False

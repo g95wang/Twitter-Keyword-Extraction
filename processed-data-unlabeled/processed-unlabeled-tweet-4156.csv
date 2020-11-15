@@ -1,0 +1,13 @@
+have,have,have,134390,AUX,ccomp,True
+to,to,to,324862,PART,aux,True
+go,go,go,127161,VERB,xcomp,True
+to,to,to,324862,ADP,prep,True
+does,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+come,come,come,63721,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+Unless,unless,unless,345548,SCONJ,mark,True
+actually,actually,actually,3298,ADV,advmod,False
+use,use,use,355958,VERB,ROOT,False
+justeat,justeat,justest,162509,NOUN,xcomp,False
+something,something,something,297061,PRON,npadvmod,True

@@ -1,0 +1,14 @@
+a,a,a,0,DET,det,True
+game,game,game,121666,NOUN,ROOT,False
+centered,center,center,50830,VERB,acl,False
+around,around,around,20104,ADP,prep,True
+sheik,sheik,sheik,287892,NOUN,pobj,False
+too,too,too,325685,ADV,advmod,True
+both,both,both,38714,DET,ROOT,True
+made,make,make,178090,VERB,acl,True
+by,by,by,33133,ADP,agent,True
+retro,retro,retro,270763,PROPN,pobj,False
+what,what,what,364447,PRON,nsubj,True
+could,could,could,70511,VERB,aux,True
+have,have,have,134390,AUX,aux,True
+happened,happen,happen,133505,VERB,ROOT,False

@@ -1,0 +1,8 @@
+Nobody,nobody,nobody,200587,PRON,ROOT,True
+ok,ok,ok,211942,INTJ,ROOT,False
+m,be,be,29345,VERB,nsubj,False
+gon,go,go,127161,VERB,ROOT,False
+na,to,to,324862,PART,aux,False
+take,take,take,315491,VERB,xcomp,True
+a,a,a,0,DET,det,True
+shower,shower,shower,289061,NOUN,dobj,False

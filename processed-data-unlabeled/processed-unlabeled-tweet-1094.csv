@@ -1,0 +1,9 @@
+THESE,these,these,321594,DET,nsubj,True
+ARE,are,are,19297,VERB,ROOT,True
+YOUR,your,your,157754,DET,poss,True
+SLIDES,slides,slides,294048,NOUN,nsubj,False
+IS,be,be,29345,VERB,ROOT,True
+AN,an,an,11448,DET,det,True
+ABSOLUTE,ABSOLUTE,absolute,984,PROPN,compound,False
+MOOD,mood,mood,192988,NOUN,attr,False
+PMQs,pmq,pm,240704,NOUN,ROOT,False

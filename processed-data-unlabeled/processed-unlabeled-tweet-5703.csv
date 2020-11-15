@@ -1,0 +1,13 @@
+Department,Department,department,81504,PROPN,ROOT,False
+of,of,of,211535,ADP,prep,True
+Justice,Justice,justice,162510,PROPN,pobj,False
+Mandatory,mandatory,mandatory,179006,ADJ,compound,False
+Life,life,life,171890,NOUN,compound,False
+Sentence,sentence,sentence,285463,NOUN,appos,False
+for,for,for,116301,ADP,prep,True
+Police,Police,police,241679,PROPN,compound,False
+Brutality,Brutality,brutality,41863,PROPN,compound,False
+Sign,Sign,sign,290081,PROPN,pobj,False
+the,the,the,320691,DET,det,True
+Petition,Petition,petition,232417,PROPN,appos,False
+via,via,via,359224,ADP,ROOT,True

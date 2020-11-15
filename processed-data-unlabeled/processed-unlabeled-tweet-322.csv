@@ -1,0 +1,14 @@
+Let,let,let,170875,VERB,ROOT,False
+hold,hold,hold,142390,VERB,ccomp,False
+hostage,hostage,hostage,144195,NOUN,ccomp,False
+Maybe,maybe,maybe,177755,ADV,advmod,False
+eventually,eventually,eventually,106133,ADV,advmod,False
+will,will,will,365768,VERB,aux,True
+have,have,have,134390,AUX,aux,True
+had,have,have,134390,VERB,ROOT,True
+enough,enough,enough,100831,ADJ,dobj,True
+and,and,and,12285,CCONJ,cc,True
+take,take,take,315491,VERB,conj,True
+measures,measure,measure,181799,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+change,change,change,52470,VERB,relcl,False

@@ -1,0 +1,17 @@
+Europe,Europe,europe,105823,PROPN,nsubj,False
+must,must,must,196148,VERB,aux,True
+exit,exit,exit,107269,VERB,ROOT,False
+coal,coal,coal,60950,NOUN,dobj,False
+by,by,by,33133,ADV,prep,True
+but,but,but,43550,CCONJ,cc,True
+plans,plan,plan,238877,VERB,conj,False
+to,to,to,324862,PART,aux,True
+increase,increase,increase,150431,VERB,xcomp,False
+lignite,lignite,lignite,172111,ADJ,amod,False
+extraction,extraction,extraction,108465,NOUN,dobj,False
+at,at,at,22372,ADP,prep,True
+Turw,Turw,tur,332538,PROPN,compound,False
+mine,mine,mine,187723,NOUN,pobj,True
+accross,accross,across,3036,ADP,conj,False
+Poland,Poland,poland,241453,PROPN,dobj,False
+amp,amp,amp,10991,PROPN,conj,False

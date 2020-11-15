@@ -1,0 +1,6 @@
+Maybe,maybe,maybe,177755,ADV,advmod,False
+time,time,time,323746,NOUN,npadvmod,False
+taxpayers,taxpayer,taxpayer,317367,NOUN,nsubj,False
+refused,refuse,refuse,265465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+pay,pay,pay,223065,VERB,xcomp,False

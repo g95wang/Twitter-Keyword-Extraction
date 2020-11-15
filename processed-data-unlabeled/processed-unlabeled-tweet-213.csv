@@ -1,0 +1,13 @@
+HumanCapital,HumanCapital,anticapital,14825,PROPN,compound,False
+Supersedes,Supersedes,supersedes,312600,PROPN,ROOT,False
+All,all,all,8522,DET,det,True
+Capital,Capital,capital,46888,PROPN,appos,False
+Enterprises,enterprise,enterprise,101347,NOUN,nsubj,False
+that,that,that,320639,DET,nsubj,True
+engages,engage,engage,100294,VERB,relcl,False
+empowers,empowers,empowers,98876,PROPN,conj,False
+amp,amp,amp,10991,PROPN,conj,False
+has,have,have,134390,AUX,aux,True
+emphathy,emphathy,empathy,98707,NOUN,nsubj,False
+drooled,drool,drool,93318,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True

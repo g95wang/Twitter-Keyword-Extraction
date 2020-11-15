@@ -1,0 +1,14 @@
+Round,round,round,274842,ADJ,compound,False
+distribution,distribution,distribution,89920,NOUN,compound,False
+form,form,form,117338,NOUN,nsubj,False
+opened,open,open,213219,VERB,ROOT,False
+Submit,submit,submit,308567,VERB,advcl,False
+details,detail,detail,83068,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+form,form,form,117338,VERB,xcomp,False
+Form,form,form,117338,NOUN,nsubjpass,False
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+closed,close,close,60433,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+March,March,march,179889,PROPN,pobj,False

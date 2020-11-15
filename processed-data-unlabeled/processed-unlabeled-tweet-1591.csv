@@ -1,0 +1,16 @@
+Minneapolis,Minneapolis,minneapolis,187970,PROPN,ROOT,False
+Minnesota,Minnesota,minnesota,187975,PROPN,appos,False
+CITIZENS,citizen,citizen,58672,NOUN,compound,False
+ARM,ARM,arm,19862,VERB,compound,False
+THEMSELVES,themselves,themselves,320905,ADJ,nsubj,True
+GUARDING,guard,guard,130774,VERB,ROOT,False
+SHOPS,shop,shop,288793,NOUN,dobj,False
+amp,amp,amp,10991,NOUN,conj,False
+STORE,STORE,store,305385,PROPN,conj,False
+TO,to,to,324862,PART,aux,True
+STOP,stop,stop,305323,VERB,advcl,False
+LOOTERS,looter,looter,175138,NOUN,dobj,False
+IN,in,in,149313,ADP,prep,True
+MINNEAPOLIS,minneapoli,minneapolis,187970,NOUN,pobj,False
+Before,before,before,30510,ADP,ROOT,True
+there,there,there,321216,PRON,pcomp,True

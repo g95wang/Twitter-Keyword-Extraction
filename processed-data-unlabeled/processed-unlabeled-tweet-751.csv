@@ -1,0 +1,10 @@
+ca,can,can,45964,VERB,aux,True
+n't,not,not,208798,PART,neg,True
+tell,tell,tell,318356,VERB,ROOT,False
+how,how,how,144540,ADV,advmod,True
+many,many,many,179225,ADJ,amod,True
+times,time,time,323746,NOUN,npadvmod,False
+have,have,have,134390,AUX,aux,True
+played,play,play,238701,VERB,ccomp,False
+that,that,that,320639,DET,det,True
+song,song,song,297195,NOUN,dobj,False

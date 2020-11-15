@@ -1,0 +1,15 @@
+May,May,may,177739,PROPN,ROOT,True
+at,at,at,22372,ADP,pcomp,True
+Hourly,hourly,hourly,144374,ADJ,advmod,False
+photo,photo,photo,234975,NOUN,ROOT,False
+always,always,always,9710,ADV,advmod,True
+at,at,at,22372,ADP,prep,True
+the,the,the,320691,DET,det,True
+hour,hour,hour,144367,NOUN,pobj,False
+On,on,on,212644,NOUN,advmod,True
+there,there,there,321216,PRON,expl,True
+are,be,be,29345,AUX,ROOT,True
+more,more,more,193383,ADJ,amod,True
+photos,photo,photo,234975,NOUN,attr,False
+per,per,per,230311,ADP,prep,True
+hour,hour,hour,144367,NOUN,pobj,False

@@ -1,0 +1,11 @@
+Need,need,need,197910,VERB,ROOT,False
+Disinfection,disinfection,disinfection,88412,NOUN,compound,False
+Tunnel,Tunnel,tunnel,332471,PROPN,dobj,False
+For,for,for,116301,ADP,ROOT,True
+Covid-19,Covid-19,covid,71525,PROPN,nmod,False
+Near,Near,near,197596,PROPN,compound,False
+Ranchhodnagar,Ranchhodnagar,anconagra,12266,PROPN,compound,False
+Society,Society,society,296137,PROPN,compound,False
+Rajkot,Rajkot,berakot,31965,PROPN,compound,False
+Fusiontech,Fusiontech,fusinite,120608,PROPN,compound,False
+International,International,international,155462,PROPN,pobj,False

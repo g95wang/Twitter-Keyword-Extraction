@@ -1,0 +1,16 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+from,from,from,119298,ADP,prep,True
+a,a,a,0,DET,det,True
+little,little,little,173876,ADJ,amod,False
+bit,bit,bit,35156,NOUN,npadvmod,False
+earlier,early,early,94742,ADV,pcomp,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+protests,protest,protest,253491,NOUN,pobj,False
+before,before,before,30510,ADP,mark,True
+the,the,the,320691,DET,det,True
+riot,riot,riot,273114,NOUN,compound,False
+police,police,police,241679,NOUN,nsubj,False
+showed,show,show,289042,VERB,advcl,False
+up,up,up,354457,ADP,prt,True

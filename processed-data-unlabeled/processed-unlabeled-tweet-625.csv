@@ -1,0 +1,12 @@
+The,the,the,320691,DET,det,True
+most,most,most,193889,ADV,advmod,True
+awaited,await,await,24927,VERB,amod,False
+CDP,CDP,cd,50294,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+here,here,here,136991,ADV,advmod,True
+rowdies,rowdy,rowdy,275001,NOUN,ROOT,False
+Retweet,Retweet,etwee,105245,PROPN,appos,False
+this,this,this,322217,DET,det,True
+tweet,tweet,tweet,333246,NOUN,ROOT,False
+if,if,if,146980,SCONJ,mark,True
+like,like,like,172172,VERB,ROOT,False

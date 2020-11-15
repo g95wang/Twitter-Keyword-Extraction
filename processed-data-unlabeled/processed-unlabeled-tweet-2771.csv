@@ -1,0 +1,9 @@
+Question,question,question,258416,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+all,all,all,8522,DET,dep,True
+pay,pay,pay,223065,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+honey,honey,honey,143326,NOUN,compound,False
+buns,bun,bun,42782,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+drinks,drink,drink,93119,NOUN,conj,False

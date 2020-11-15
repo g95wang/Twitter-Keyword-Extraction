@@ -1,0 +1,8 @@
+Make,make,make,178090,VERB,ROOT,True
+a,a,a,0,DET,det,True
+special,special,special,298743,ADJ,amod,False
+tier,tier,tier,323391,NOUN,compound,False
+cue,cue,cue,74617,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+gram,gram,gram,128698,PROPN,compound,False
+gram,gram,gram,128698,PROPN,pobj,False

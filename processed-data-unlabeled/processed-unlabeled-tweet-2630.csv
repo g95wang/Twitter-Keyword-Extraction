@@ -1,0 +1,17 @@
+Here,here,here,136991,ADV,advmod,True
+'s,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+regimen,regimen,regimen,265630,NOUN,nsubj,False
+that,that,that,320639,DET,nsubj,True
+worked,work,work,367468,VERB,relcl,False
+for,for,for,116301,ADP,dative,True
+Tylenol,Tylenol,xylenol,368533,PROPN,nsubj,False
+extra,extra,extra,108417,ADJ,amod,False
+strength,strength,strength,306052,NOUN,ROOT,False
+every,every,every,106158,DET,det,True
+hours,hour,hour,144367,NOUN,npadvmod,False
+prescription,prescription,prescription,249298,NOUN,compound,False
+anti,anti,anti,14685,ADJ,dep,False
+nausea,nausea,nausea,197419,ADJ,conj,False
+cough,cough,cough,70498,NOUN,compound,False
+medic,medic,medic,182060,NOUN,ROOT,False

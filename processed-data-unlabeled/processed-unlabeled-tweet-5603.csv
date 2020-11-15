@@ -1,0 +1,16 @@
+Gear,gear,gear,123028,NOUN,nsubj,False
+donated,donate,donate,91380,VERB,ROOT,False
+by,by,by,33133,ADP,prep,True
+Eoghan,Eoghan,moghan,191228,PROPN,pobj,False
+amp,amp,amp,10991,NOUN,conj,False
+Bevan,Bevan,bean,29472,PROPN,compound,False
+Duffy,Duffy,duffy,93888,PROPN,compound,False
+Louth,Louth,loth,175375,PROPN,compound,False
+Cathal,Cathal,canthal,46599,PROPN,compound,False
+Compton,Compton,coemption,61932,PROPN,compound,False
+Roscommon,Roscommon,common,64154,PROPN,compound,False
+Diarmuid,Diarmuid,diamide,84333,PROPN,compound,False
+Byrnes,Byrnes,byrnies,34863,PROPN,compound,False
+Limerick,Limerick,limerick,172354,PROPN,appos,False
+To,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True

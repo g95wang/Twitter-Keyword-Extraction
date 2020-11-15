@@ -1,0 +1,15 @@
+Many,many,many,179225,ADJ,amod,True
+people,people,people,230162,NOUN,nsubj,False
+still,still,still,304511,ADV,advmod,True
+do,do,do,90528,AUX,ROOT,True
+nt,not,not,208798,PART,advmod,False
+Young,young,young,157730,ADJ,amod,False
+person,person,person,231951,NOUN,nsubj,False
+yesterday,yesterday,yesterday,146935,NOUN,npadvmod,False
+forced,force,force,116404,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+backtrack,backtrack,backtrack,25984,VERB,xcomp,False
+yds,yds,yds,146691,PROPN,dobj,False
+on,on,on,212644,ADP,prep,True
+a,a,a,0,DET,det,True
+footpat,footpat,footpath,116226,PROPN,pobj,False

@@ -1,0 +1,12 @@
+heres,here,here,136991,VERB,ROOT,False
+a,a,a,0,DET,det,True
+great,great,great,129442,ADJ,amod,False
+article,article,article,20674,NOUN,dobj,False
+that,that,that,320639,DET,nsubj,True
+goes,go,go,127161,VERB,relcl,False
+deeper,deeply,deeply,79003,ADV,advmod,False
+into,into,into,156343,ADP,prep,True
+this,this,this,322217,DET,det,True
+type,type,type,324164,NOUN,pobj,False
+pf,pf,pf,232676,NOUN,compound,False
+topics,topic,topic,325888,NOUN,pobj,False

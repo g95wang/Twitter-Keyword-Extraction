@@ -1,0 +1,15 @@
+Callous,callous,callous,45348,ADJ,amod,False
+liars,liar,liar,171399,NOUN,ROOT,False
+Pennsylvania,Pennsylvania,pennsylvania,229785,PROPN,compound,False
+Democrats,Democrats,democrats,80734,PROPN,nsubj,False
+say,say,say,276740,VERB,ROOT,True
+GOP,GOP,glop,126598,PROPN,nsubj,False
+put,put,put,257261,VERB,ccomp,True
+at,at,at,22372,ADP,prep,True
+risk,risk,risk,273244,NOUN,pobj,False
+by,by,by,33133,ADP,prep,True
+hiding,hide,hide,138351,VERB,pcomp,False
+members,member,member,183109,NOUN,dobj,False
+positive,positive,positive,243805,ADJ,amod,False
+covid-19,covid-19,covid,71525,NOUN,nummod,False
+test,test,test,319741,NOUN,dobj,False

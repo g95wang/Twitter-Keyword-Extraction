@@ -1,0 +1,16 @@
+just,just,just,162503,ADV,advmod,True
+got,get,get,124419,VERB,ROOT,False
+an,an,an,11448,DET,det,True
+acceptance,acceptance,acceptance,1473,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+an,an,an,11448,DET,det,True
+essay,essay,essay,104478,NOUN,pobj,False
+was,be,be,29345,AUX,ROOT,True
+sure,sure,sure,313361,ADJ,acomp,False
+was,be,be,29345,AUX,aux,True
+never,never,never,199350,ADV,neg,True
+going,go,go,127161,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,auxpass,True
+accepted,accept,accept,1468,VERB,xcomp,False
+anywhere,anywhere,anywhere,13382,ADV,advmod,True

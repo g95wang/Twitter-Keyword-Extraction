@@ -1,0 +1,16 @@
+Send,send,send,285228,VERB,ROOT,False
+proof,proof,proof,252471,NOUN,dobj,False
+like,like,like,172172,SCONJ,prep,False
+this,this,this,322217,DET,det,True
+terrorist,terrorist,terrorist,319630,ADJ,amod,False
+pm,pm,pm,240704,NOUN,compound,False
+modi,modi,modi,191123,PROPN,pobj,False
+who,who,who,365278,PRON,nsubj,True
+killed,kill,kill,164577,VERB,relcl,False
+own,own,own,222072,ADJ,amod,True
+military,military,military,187187,ADJ,amod,False
+personnel,personnel,personnel,232004,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+votes,vote,vote,361409,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+pulwama,pulwama,ulama,333722,NOUN,pobj,False

@@ -1,0 +1,9 @@
+This,this,this,322217,DET,nsubj,True
+took,take,take,315491,VERB,ROOT,False
+a,a,a,0,DET,det,True
+while,while,while,364797,NOUN,npadvmod,True
+zoom,zoom,zoom,369842,VERB,advcl,False
+in,in,in,149313,ADP,prt,True
+for,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+surprise,surprise,surprise,313555,NOUN,pobj,False

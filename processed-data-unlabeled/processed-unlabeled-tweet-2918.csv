@@ -1,0 +1,17 @@
+Happy,happy,happy,133513,ADJ,ROOT,False
+to,to,to,324862,PART,aux,True
+announce,announce,announce,13604,VERB,xcomp,False
+that,that,that,320639,DET,nsubj,True
+will,will,will,365768,VERB,aux,True
+relay,relay,relay,266706,VERB,ccomp,False
+from,from,from,119298,ADP,prep,True
+tomorrow,tomorrow,tomorrow,325475,NOUN,pobj,False
+Saturday,Saturday,saturday,278848,PROPN,npadvmod,False
+th,th,th,320421,PROPN,prep,False
+March,March,march,179889,PROPN,nmod,False
+popular,popular,popular,243299,ADJ,amod,False
+serial,serial,serial,286037,ADJ,amod,False
+Mahabharat,Mahabharat,mahalamat,177656,PROPN,pobj,False
+at,at,at,22372,ADP,prep,True
+noon,noon,noon,208447,NOUN,pobj,False
+a,a,a,0,DET,advmod,True

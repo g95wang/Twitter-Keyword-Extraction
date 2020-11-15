@@ -1,0 +1,17 @@
+Globalisation,globalisation,globalization,126460,NOUN,nsubj,False
+has,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+dominant,dominant,dominant,91305,ADJ,amod,False
+economic,economic,economic,95376,ADJ,amod,False
+story,story,story,305411,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+past,past,past,227394,ADJ,amod,False
+decades,decade,decade,77901,NOUN,pobj,False
+But,but,but,43550,CCONJ,cc,True
+with,with,with,366582,ADP,ROOT,True
+the,the,the,320691,DET,det,True
+pressures,pressure,pressure,249604,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+Covid-19,Covid-19,covid,71525,NOUN,pobj,False

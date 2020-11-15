@@ -1,0 +1,12 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+only,only,only,212848,ADJ,amod,True
+cop,cop,cop,68392,NOUN,attr,False
+ve,have,have,134390,VERB,aux,False
+seen,see,see,283054,VERB,relcl,False
+address,address,address,3590,NOUN,dobj,False
+the,the,the,320691,DET,det,True
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,compound,False
+murder,murder,murder,195668,NOUN,ROOT,False

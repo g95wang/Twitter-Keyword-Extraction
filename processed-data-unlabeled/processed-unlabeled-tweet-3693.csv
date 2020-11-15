@@ -1,0 +1,10 @@
+Use,Use,use,355958,PROPN,ROOT,False
+a,a,a,0,NOUN,det,True
+b,b,b,25416,NOUN,pobj,False
+c,c,c,43829,NOUN,nmod,False
+d,d,d,75936,NOUN,compound,False
+letters,letter,letter,170920,NOUN,nmod,False
+compulsory,compulsory,compulsory,64951,ADJ,amod,False
+Correct,correct,correct,69597,ADJ,compound,False
+tag,tag,tag,315231,NOUN,dobj,False
+HappyBirthdayNTR,happybirthdayntr,birthday,34904,NOUN,ROOT,False

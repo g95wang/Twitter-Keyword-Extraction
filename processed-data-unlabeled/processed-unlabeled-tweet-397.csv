@@ -1,0 +1,16 @@
+Snares=#Poaching,Snares=#Poaching,unreproaching,349631,PROPN,nsubj,False
+are,be,be,29345,AUX,aux,True
+doing,do,do,90528,VERB,ROOT,True
+regular,regular,regular,265867,ADJ,amod,False
+snare,snare,snare,295330,NOUN,compound,False
+sweeping,sweeping,sweeping,314261,NOUN,dobj,False
+which,which,which,364730,DET,nsubj,True
+is,be,be,29345,AUX,relcl,True
+not,not,not,208798,PART,neg,True
+an,an,an,11448,DET,det,True
+easy,easy,easy,94901,ADJ,amod,False
+job,job,job,161424,NOUN,attr,False
+The,the,the,320691,DET,det,True
+ladies,lady,lady,167178,NOUN,nsubj,False
+should,should,should,288990,VERB,aux,True
+stay,stay,stay,302393,VERB,ROOT,False

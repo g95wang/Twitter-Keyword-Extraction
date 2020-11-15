@@ -1,0 +1,11 @@
+periods,period,period,231096,NOUN,ROOT,False
+pregnancy,pregnancy,pregnancy,247724,NOUN,appos,False
+menopause,menopause,menopause,183415,NOUN,appos,False
+while,while,while,364797,SCONJ,mark,True
+men,man,man,178862,NOUN,nsubj,False
+just,just,just,162503,ADV,advmod,True
+live,live,live,173931,VERB,ROOT,False
+lives,life,life,171890,NOUN,dobj,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+get,get,get,124419,AUX,ROOT,True

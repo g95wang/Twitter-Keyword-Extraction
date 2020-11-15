@@ -1,0 +1,12 @@
+why,why,why,364728,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+philosophers,philosopher,philosopher,233930,NOUN,nsubj,False
+still,still,still,304511,ADV,advmod,True
+exist,exist,exist,107244,VERB,ROOT,False
+what,what,what,364447,PRON,nsubj,True
+else,else,else,97787,ADV,advmod,True
+is,be,be,29345,AUX,ccomp,True
+there,there,there,321216,ADV,advmod,True
+to,to,to,324862,PART,aux,True
+think,think,think,321897,VERB,advcl,False
+about,about,about,756,ADP,prep,True

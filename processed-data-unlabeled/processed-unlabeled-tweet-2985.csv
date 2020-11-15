@@ -1,0 +1,15 @@
+Timestamp,timestamp,timestamp,323797,NOUN,nmod,False
+and,and,and,12285,CCONJ,cc,True
+gap,gap,gap,122010,NOUN,conj,False
+code,code,code,61687,NOUN,compound,False
+Time,time,time,323746,NOUN,compound,False
+difference,difference,difference,85272,NOUN,nsubj,False
+between,between,between,32866,ADP,prep,True
+this,this,this,322217,DET,det,True
+tweet,tweet,tweet,333246,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+last,last,last,168771,ADJ,amod,True
+tweet,tweet,tweet,333246,NOUN,conj,False
+is,be,be,29345,AUX,ROOT,True
+Qdrop,qdrop,drop,93338,NOUN,appos,False

@@ -1,0 +1,16 @@
+ai,be,be,29345,VERB,aux,False
+nt,not,not,208798,PART,neg,False
+gon,gon,gon,127662,PROPN,ROOT,False
+lie,lie,lie,171801,VERB,ccomp,False
+i,i,i,145455,PRON,nsubj,True
+never,never,never,199350,ADV,neg,True
+seen,see,see,283054,VERB,ROOT,False
+a,a,a,0,DET,det,True
+fire,fire,fire,113100,NOUN,compound,False
+shirt,shirt,shirt,288512,NOUN,dobj,False
+that,that,that,320639,DET,nsubj,True
+had,have,have,134390,AUX,relcl,True
+of,of,of,211535,ADP,prep,True
+memed,meme,mneme,190869,VERB,amod,False
+quotes,quote,quote,259156,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True

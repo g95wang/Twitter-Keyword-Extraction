@@ -1,0 +1,16 @@
+what,what,what,364447,PRON,attr,True
+'s,be,be,29345,AUX,ROOT,True
+favorite,favorite,favorite,110510,ADJ,amod,False
+song,song,song,297195,NOUN,nsubj,False
+or,or,or,213904,CCONJ,cc,True
+cover,cover,cover,71476,NOUN,conj,False
+of,of,of,211535,ADP,prep,True
+yedam,yedam,edam,95645,PROPN,pobj,False
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+forget,forget,forget,117219,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+reply,reply,reply,268301,VERB,xcomp,False
+with,with,with,366582,ADP,prep,True
+tags,tag,tag,315231,NOUN,compound,False
+TREASUREAceYedamDay,treasureaceyedamday,treasured,328704,VERB,compound,False

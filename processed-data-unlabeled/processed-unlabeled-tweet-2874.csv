@@ -1,0 +1,13 @@
+German,german,german,124179,ADJ,amod,False
+medical,medical,medical,182067,ADJ,amod,False
+engineering,engineering,engineering,100344,NOUN,compound,False
+company,company,company,64367,NOUN,nsubj,False
+just,just,just,162503,ADV,advmod,True
+finished,finish,finish,113014,VERB,ccomp,False
+producing,produce,produce,251568,VERB,xcomp,False
+first,first,first,113286,ADV,advmod,True
+of,of,of,211535,ADP,prep,True
+ventilators,ventilator,ventilator,358173,NOUN,compound,False
+government,government,government,128391,NOUN,pobj,False
+ordered,order,order,214218,VERB,ROOT,False
+l,l,l,166589,PROPN,punct,False

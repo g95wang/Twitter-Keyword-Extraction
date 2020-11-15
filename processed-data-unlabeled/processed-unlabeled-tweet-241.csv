@@ -1,0 +1,8 @@
+i,i,i,145455,PRON,nsubj,True
+think,think,think,321897,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+rice,rice,rice,272503,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+get,get,get,124419,AUX,ccomp,True
+burn,burn,burn,43205,VERB,xcomp,False
+kak,kak,kaik,162763,PROPN,npadvmod,False

@@ -1,0 +1,9 @@
+can,can,can,45964,VERB,aux,True
+talk,talk,talk,315639,VERB,ROOT,False
+about,about,about,756,ADP,prep,True
+how,how,how,144540,ADV,advmod,True
+pretty,pretty,pretty,250049,ADJ,acomp,False
+ros,ros,ros,274418,NOUN,poss,False
+'s,'s,s,275971,PART,case,True
+back,back,back,25705,NOUN,nsubj,True
+is,be,be,29345,AUX,pcomp,True

@@ -1,0 +1,8 @@
+OFFICIAL,OFFICIAL,official,211620,PROPN,ROOT,False
+Gianna,Gianna,fianna,111940,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,compound,False
+Fund,Fund,fund,120158,PROPN,appos,False
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+child,child,child,54285,NOUN,appos,False

@@ -1,0 +1,15 @@
+guess,guess,guess,130940,VERB,ROOT,False
+bald,bald,bald,26766,ADJ,compound,False
+head,head,head,134575,NOUN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+the,the,the,320691,DET,det,True
+reason,reason,reason,262021,NOUN,attr,False
+kids,kid,kid,164450,NOUN,nsubj,False
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+choose,choose,choose,55661,VERB,relcl,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,auxpass,True
+dressed,dress,dress,92977,VERB,xcomp,False
+as,as,as,20837,SCONJ,prep,True
+Gandhiji,Gandhiji,gandhi,121828,PROPN,pobj,False

@@ -1,0 +1,13 @@
+multiple,multiple,multiple,195250,ADJ,amod,False
+choices,choice,choice,55305,NOUN,compound,False
+questions,question,question,258416,NOUN,nsubj,False
+when,when,when,364637,ADV,advmod,True
+submitting,submit,submit,308567,VERB,advcl,False
+multiple,multiple,multiple,195250,ADJ,amod,False
+choices,choice,choice,55305,NOUN,compound,False
+questions,question,question,258416,NOUN,dobj,False
+please,please,please,239622,INTJ,intj,True
+submit,submit,submit,308567,VERB,ROOT,False
+choices,choice,choice,55305,NOUN,dobj,False
+answers,answer,answer,13962,NOUN,appos,False
+when,when,when,364637,ADV,advmod,True

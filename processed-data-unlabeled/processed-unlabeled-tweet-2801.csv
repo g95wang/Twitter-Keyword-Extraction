@@ -1,0 +1,14 @@
+Information,information,information,152216,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+key,key,key,163636,ADJ,acomp,False
+Nah,nah,nach,196451,ADJ,compound,False
+Understanding,Understanding,understanding,339895,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+Never,never,never,199350,ADV,neg,True
+said,say,say,276740,VERB,ROOT,False
+should,should,should,288990,VERB,aux,True
+feed,feed,feed,110855,VERB,ccomp,False
+Read,read,read,261551,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+tweet,tweet,tweet,333246,NOUN,dobj,False
+again,again,again,5827,ADV,advmod,True

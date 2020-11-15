@@ -1,0 +1,15 @@
+Remember,remember,remember,267232,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+riots,riot,riot,273114,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+Miami,Miami,miami,185632,PROPN,compound,False
+Beach,Beach,beach,29347,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+s,s,s,275971,NOUN,pobj,False
+History,history,history,141866,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,aux,True
+repeating,repeat,repeat,268081,VERB,ROOT,False
+just,just,just,162503,ADV,advmod,True
+watch,watch,watch,363049,VERB,advcl,False

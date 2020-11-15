@@ -1,0 +1,14 @@
+Ajaz,Ajaz,agaz,5962,PROPN,compound,False
+khan,khan,khan,164240,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+supporting,support,support,313022,VERB,ROOT,False
+snake,snake,snake,295232,NOUN,compound,False
+team,team,team,317482,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+has,have,have,134390,AUX,aux,True
+being,be,be,29345,AUX,aux,True
+pretending,pretend,pretend,249869,VERB,conj,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+neutral,neutral,neutral,199300,ADJ,amod,False
+PowerOfSid,powerofsid,poneroid,243018,NOUN,attr,False

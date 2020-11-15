@@ -1,0 +1,16 @@
+HUGE,HUGE,huge,144731,PROPN,nsubj,False
+STEAL,STEAL,steal,303257,PROPN,ROOT,False
+each,each,each,94673,DET,npadvmod,True
+free,free,free,118571,ADJ,amod,False
+shipping,shipping,shipping,288453,NOUN,dep,False
+w,w,w,361650,NOUN,nmod,False
+code,code,code,61687,NOUN,ROOT,False
+SAVE25,save25,save,279065,NOUN,ROOT,False
+Nike,Nike,nike,200044,PROPN,compound,False
+Air,Air,air,6838,PROPN,compound,False
+Force,Force,force,116404,PROPN,compound,False
+LV8,LV8,lv,176580,PROPN,compound,False
+Gradient,Gradient,gradient,128543,PROPN,compound,False
+Pack,Pack,pack,222721,PROPN,ROOT,False
+Vast,Vast,vast,357470,PROPN,compound,False
+Grey,Grey,grey,129670,PROPN,dobj,False

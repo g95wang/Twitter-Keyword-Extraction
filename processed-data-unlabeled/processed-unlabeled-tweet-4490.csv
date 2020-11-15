@@ -1,0 +1,16 @@
+introverted,introverted,introverted,156847,ADJ,ROOT,False
+romantics,romantic,romantic,274060,NOUN,nsubj,False
+be,be,be,29345,AUX,ccomp,True
+like,like,like,172172,SCONJ,prep,False
+m,be,be,29345,VERB,nsubj,False
+gon,go,go,127161,VERB,ROOT,False
+na,to,to,324862,PART,aux,False
+find,find,find,112884,VERB,xcomp,False
+soulmate,soulmate,solate,296527,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True
+m,be,be,29345,VERB,aux,False
+not,not,not,208798,PART,neg,True
+leaving,leave,leave,169747,VERB,ROOT,False
+bedroom,bedroom,bedroom,30197,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+do,do,do,90528,AUX,xcomp,True

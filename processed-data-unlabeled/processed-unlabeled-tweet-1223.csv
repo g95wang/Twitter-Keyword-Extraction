@@ -1,0 +1,13 @@
+Why,why,why,364728,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+that,that,that,320639,SCONJ,nsubj,True
+when,when,when,364637,ADV,advmod,True
+talking,talk,talk,315639,VERB,advcl,False
+to,to,to,324862,ADP,prep,True
+crush,crush,crush,74268,NOUN,pobj,False
+the,the,the,320691,DET,det,True
+Queen,Queen,queen,258246,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+language,language,language,168115,NOUN,nsubj,False
+fades,fade,fade,109133,VERB,advcl,False
+away,away,away,24923,ADV,advmod,False

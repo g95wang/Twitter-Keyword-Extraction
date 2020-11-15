@@ -1,0 +1,17 @@
+Complete,complete,complete,64635,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+last,last,last,168771,ADJ,amod,True
+statement,statement,statement,303049,NOUN,dobj,False
+any,any,any,13086,DET,det,True
+child,child,child,54285,NOUN,nsubj,False
+would,would,would,367745,VERB,aux,True
+say,say,say,276740,VERB,relcl,True
+Tag,tag,tag,315231,NOUN,compound,False
+family,family,family,109591,NOUN,compound,False
+members,member,member,183109,NOUN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+friends,friend,friend,118947,NOUN,conj,False
+Lasisielenu,Lasisielenu,lassie,168753,PROPN,compound,False
+lasisified,lasisifie,classified,59420,VERB,ccomp,False
+ainzumoney,ainzumoney,alimony,8300,NOUN,compound,False
+spen,spen,aspen,21379,NOUN,ROOT,False

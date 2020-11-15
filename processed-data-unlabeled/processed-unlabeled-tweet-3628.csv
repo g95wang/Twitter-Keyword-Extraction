@@ -1,0 +1,10 @@
+USDT,USDT,ust,356033,PROPN,nsubj,False
+USD,USD,used,355962,PROPN,appos,False
+move,move,move,194383,VERB,ROOT,True
+from,from,from,119298,ADP,prep,True
+huobi,huobi,dhobi,83917,NOUN,pobj,False
+to,to,to,324862,ADP,prep,True
+huobi,huobi,dhobi,83917,NOUN,compound,False
+Date,date,date,77165,NOUN,pobj,False
+GMT,GMT,gm,127003,PROPN,nmod,False
+Blockchain,Blockchain,backchain,25750,PROPN,ROOT,False

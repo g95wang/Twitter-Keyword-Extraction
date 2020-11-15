@@ -1,0 +1,16 @@
+A,a,a,0,DET,det,True
+big,big,big,33680,ADJ,amod,False
+achievement,achievement,achievement,2253,NOUN,ROOT,False
+for,for,for,116301,ADP,prep,True
+Security,Security,security,282950,PROPN,compound,False
+Forces,Forces,forces,116424,PROPN,pobj,False
+for,for,for,116301,ADP,prep,True
+neutralising,neutralise,neutralise,199301,VERB,pcomp,False
+Hizbul,Hizbul,hibla,138242,PROPN,compound,False
+Mujahideen,Mujahideen,mujtahid,194849,PROPN,compound,False
+Commander,Commander,commander,63877,PROPN,dobj,False
+amp,amp,amp,10991,NOUN,conj,False
+Militant,Militant,militant,187182,PROPN,compound,False
+Riyaz,Riyaz,oriya,214624,PROPN,compound,False
+Naikoo,Naikoo,nakoo,196660,PROPN,appos,False
+today,today,today,325003,NOUN,npadvmod,False

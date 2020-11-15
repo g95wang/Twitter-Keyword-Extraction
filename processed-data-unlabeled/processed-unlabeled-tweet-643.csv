@@ -1,0 +1,15 @@
+m,be,be,29345,VERB,aux,False
+not,not,not,208798,PART,neg,True
+drinking,drink,drink,93119,VERB,ROOT,False
+nomore,nomore,inmore,153003,ADV,dobj,False
+body,body,body,37181,NOUN,nsubj,False
+needs,need,need,197910,VERB,advcl,False
+a,a,a,0,DET,det,True
+detox,detox,desto,82954,NOUN,dobj,False
+that,that,that,320639,DET,mark,True
+Hennessy,Hennessy,hendness,136562,PROPN,nsubj,False
+had,have,have,134390,AUX,relcl,True
+chest,chest,chest,53933,NOUN,dobj,False
+amp,amp,amp,10991,NOUN,conj,False
+stomach,stomach,stomach,305084,NOUN,nsubj,False
+hurting,hurt,hurt,145284,VERB,conj,False

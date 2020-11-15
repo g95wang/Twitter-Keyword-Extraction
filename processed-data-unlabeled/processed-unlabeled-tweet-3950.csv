@@ -1,0 +1,13 @@
+is,be,be,29345,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+rebuild,rebuild,rebuild,262456,VERB,xcomp,False
+culture,culture,culture,74845,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+refill,refill,refill,265042,VERB,conj,False
+Dignity,dignity,dignity,85517,NOUN,dobj,False
+that,that,that,320639,SCONJ,punct,True
+much,much,much,194510,ADJ,pobj,True
+of,of,of,211535,ADP,prep,True
+a,a,a,0,DET,det,True
+threat,threat,threat,322589,NOUN,compound,False
+sheesh,sheesh,hasheesh,134068,ADJ,pobj,False

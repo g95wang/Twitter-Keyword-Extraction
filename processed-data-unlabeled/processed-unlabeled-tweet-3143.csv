@@ -1,0 +1,17 @@
+Pro,pro,pro,250901,ADJ,dep,False
+life,life,life,171890,ADJ,amod,False
+leaders,leader,leader,169520,NOUN,nsubj,False
+to,to,to,324862,ADP,prep,True
+public,public,public,255902,ADJ,amod,False
+health,health,health,134768,NOUN,compound,False
+officials,official,official,211620,NOUN,pobj,False
+Response,response,response,269785,NOUN,nsubj,False
+to,to,to,324862,ADP,prep,True
+COVID-19,covid-19,covid,71525,NOUN,pobj,False
+should,should,should,288990,VERB,aux,True
+NOT,not,not,208798,ADV,neg,True
+promote,promote,promote,252323,VERB,ROOT,False
+Abortion,abortion,abortion,730,NOUN,dobj,False
+However,however,however,144555,ADV,advmod,True
+Abortion,Abortion,abortion,730,PROPN,compound,False
+Center,Center,center,50830,PROPN,ROOT,False

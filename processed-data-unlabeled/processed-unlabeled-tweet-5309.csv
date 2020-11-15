@@ -1,0 +1,10 @@
+I'M,I'M,im,147566,VERB,nsubj,False
+SORRY,sorry,sorry,297653,VERB,ROOT,False
+HIS,his,his,141668,DET,poss,True
+NAME,NAME,name,196686,PROPN,nsubj,True
+IN,in,in,149313,ADP,prep,True
+JAPANESE,JAPANESE,japanese,160366,NOUN,pobj,False
+IS,be,be,29345,VERB,ROOT,True
+JUSTIN,JUSTIN,justin,162552,PROPN,attr,False
+JUSTIN,JUSTIN,justin,162552,PROPN,compound,False
+BEAVER,BEAVER,beaver,29683,PROPN,ROOT,False

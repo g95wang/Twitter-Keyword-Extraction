@@ -1,0 +1,17 @@
+ve,have,have,134390,VERB,aux,False
+been,be,be,29345,AUX,aux,True
+getting,get,get,124419,VERB,ccomp,False
+sores,sore,sore,297562,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+ears,ear,ear,94707,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+continually,continually,continually,67468,ADV,advmod,False
+wearing,wear,wear,363540,VERB,pcomp,False
+a,a,a,0,DET,det,True
+mask,mask,mask,180688,NOUN,dobj,False
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+such,such,such,309936,DET,predet,True
+a,a,a,0,DET,det,True
+useful,useful,useful,355967,ADJ,amod,False
+tip,tip,tip,324153,NOUN,attr,False

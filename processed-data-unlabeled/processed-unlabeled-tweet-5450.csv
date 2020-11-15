@@ -1,0 +1,11 @@
+Japanese,japanese,japanese,160366,ADJ,amod,False
+stocks,stock,stock,304901,NOUN,nsubj,False
+have,have,have,134390,AUX,aux,True
+never,never,never,199350,ADV,neg,True
+been,be,be,29345,AUX,ROOT,True
+this,this,this,322217,DET,det,True
+cheap,cheap,cheap,53258,ADJ,amod,False
+relative,relative,relative,266759,NOUN,acomp,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+S&amp,S&amp,samp,277579,PROPN,pobj,False

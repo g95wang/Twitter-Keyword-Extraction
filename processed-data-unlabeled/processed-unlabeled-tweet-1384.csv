@@ -1,0 +1,9 @@
+idc,idc,idic,146438,PROPN,nsubj,False
+what,what,what,364447,PRON,dobj,True
+say,say,say,276740,VERB,relcl,True
+is,be,be,29345,AUX,ROOT,True
+passive,passive,passive,227362,ADJ,amod,False
+aggressive,aggressive,aggressive,6140,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+is,be,be,29345,AUX,ROOT,True
+okay,okay,okay,211944,ADJ,acomp,False

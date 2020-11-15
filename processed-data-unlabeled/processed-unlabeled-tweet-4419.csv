@@ -1,0 +1,15 @@
+oomf,oomf,oof,212987,PROPN,nsubj,False
+said,say,say,276740,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+not,not,not,208798,PART,neg,True
+put,put,put,257261,VERB,xcomp,True
+this,this,this,322217,DET,dobj,True
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+tl,tl,btl,41901,NOUN,pobj,False
+so,so,so,295959,ADV,ROOT,True
+m,be,be,29345,VERB,aux,False
+putting,put,put,257261,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+tl,tl,btl,41901,NOUN,pobj,False

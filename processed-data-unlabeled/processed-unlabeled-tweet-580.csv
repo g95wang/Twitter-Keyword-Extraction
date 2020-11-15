@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True
+essential,essential,essential,104520,ADJ,amod,False
+services,service,service,286444,NOUN,compound,False
+people,people,people,230162,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+club,club,club,60615,NOUN,compound,False
+staff,staff,staff,302276,NOUN,attr,False
+that,that,that,320639,DET,nsubjpass,True
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+tested,test,test,319741,VERB,relcl,False
+The,the,the,320691,DET,det,True
+players,player,player,238740,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+stay,stay,stay,302393,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+hotels,hotel,hotel,144265,NOUN,pobj,False

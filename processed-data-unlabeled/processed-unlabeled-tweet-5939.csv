@@ -1,0 +1,14 @@
+BREAKING,breaking,breaking,40257,NOUN,ROOT,False
+ABSA,ABSA,aba,30,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+PSL,PSL,pl,238512,PROPN,conj,False
+announce,announce,announce,13604,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+bank,bank,bank,27482,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+no,no,no,200529,ADV,neg,True
+longer,longer,longer,174907,ADV,advmod,False
+sponsor,sponsor,sponsor,300819,VERB,ccomp,False
+the,the,the,320691,DET,det,True
+premier,premier,premier,248383,PROPN,compound,False
+league,league,league,169589,PROPN,dobj,False

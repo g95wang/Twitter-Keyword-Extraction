@@ -1,0 +1,11 @@
+A,a,a,0,DET,det,True
+great,great,great,129442,ADJ,amod,False
+way,way,way,361946,NOUN,ROOT,False
+to,to,to,324862,PART,aux,True
+explain,explain,explain,107802,VERB,relcl,False
+the,the,the,320691,DET,det,True
+difference,difference,difference,85272,NOUN,dobj,False
+between,between,between,32866,ADP,prep,True
+plural,plural,plural,240541,ADJ,pobj,False
+and,and,and,12285,CCONJ,cc,True
+singular,singular,singular,291745,ADJ,conj,False

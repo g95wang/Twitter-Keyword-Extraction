@@ -1,0 +1,9 @@
+TROYE,TROYE,troy,331008,PROPN,compound,False
+WE,we,we,363451,PRON,nsubj,True
+WANT,want,want,362465,VERB,ROOT,False
+A,a,a,0,DET,det,True
+COLLAB,COLLAB,collab,62801,NOUN,dobj,False
+WITH,with,with,366582,ADP,prep,True
+JIMIN,JIMIN,jiminy,161252,PROPN,pobj,False
+AND,and,and,12285,CCONJ,cc,True
+JUNGKOOK,JUNGKOOK,jingko,161289,PROPN,conj,False

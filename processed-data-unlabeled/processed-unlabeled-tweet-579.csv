@@ -1,0 +1,14 @@
+Hey,hey,hey,135346,INTJ,intj,False
+all,all,all,8522,DET,det,True
+Arsenal,Arsenal,arsenal,20351,PROPN,compound,False
+fans,fan,fan,109645,NOUN,npadvmod,False
+who,who,who,365278,PRON,nsubj,True
+wanted,want,want,362465,VERB,relcl,False
+Wenger,Wenger,engler,100383,PROPN,dobj,False
+out,out,out,216108,ADP,prt,True
+how,how,how,144540,ADV,advmod,True
+is,be,be,29345,AUX,aux,True
+that,that,that,320639,SCONJ,nsubj,True
+working,work,work,367468,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True
+for,for,for,116301,ADP,prep,True

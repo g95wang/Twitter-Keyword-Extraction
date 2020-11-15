@@ -1,0 +1,8 @@
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+home,home,home,142751,ADV,advmod,False
+in,in,in,149313,ADP,prep,True
+bed,bed,bed,29953,NOUN,pobj,False
+yet,yet,yet,146952,CCONJ,cc,True
+here,here,here,136991,ADV,advmod,True
+are,be,be,29345,AUX,conj,True

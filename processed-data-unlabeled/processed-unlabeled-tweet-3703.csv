@@ -1,0 +1,14 @@
+i,i,i,145455,PRON,nsubj,True
+need,need,need,197910,VERB,ROOT,False
+bio,bio,bio,34269,PROPN,compound,False
+ideas,idea,idea,146298,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+un,un,un,334310,PROPN,compound,False
+ideas,idea,idea,146298,NOUN,conj,False
+pls,pls,pals,224182,INTJ,conj,False
+drop,drop,drop,93338,VERB,dobj,False
+some,some,some,297029,DET,det,True
+n,n,n,196396,NOUN,punct,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+flop,flop,flop,114962,VERB,ROOT,False

@@ -1,0 +1,11 @@
+Hardest,hard,hard,133614,ADV,advmod,False
+hit,hit,hit,141950,VERB,ROOT,False
+countries,country,country,71230,NOUN,dobj,False
+from,from,from,119298,ADP,prep,True
+COVID-19,covid-19,covid,71525,ADJ,pobj,False
+deaths,death,death,77637,NOUN,nmod,False
+Italy,Italy,italy,159438,PROPN,ROOT,False
+Spain,Spain,spain,298272,PROPN,nmod,False
+Netherlands,Netherlands,netherlands,198857,PROPN,ROOT,False
+France,France,france,118309,PROPN,ROOT,False
+Belg,Belg,belga,31050,PROPN,ROOT,False

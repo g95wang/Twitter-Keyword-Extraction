@@ -1,0 +1,13 @@
+Video,video,video,359514,NOUN,nsubj,False
+does,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+appear,appear,appear,17609,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+show,show,show,289042,VERB,xcomp,True
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,nsubj,False
+resisting,resist,resist,269491,VERB,ccomp,False
+arrest,arrest,arrest,20204,NOUN,dobj,False
+as,as,as,20837,SCONJ,mark,True
+cops,cop,cop,68392,NOUN,nsubj,False
+claimed,claim,claim,59065,VERB,advcl,False

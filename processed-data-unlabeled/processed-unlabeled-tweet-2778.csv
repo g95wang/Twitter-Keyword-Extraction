@@ -1,0 +1,11 @@
+label,label,label,166618,PROPN,appos,False
+TRUE,TRUE,true,331515,PROPN,ROOT,False
+Fri,Fri,frib,118890,PROPN,nmod,False
+Tweet,Tweet,tweet,333246,PROPN,ROOT,False
+rstats,rstat,stat,303022,VERB,compound,False
+blogs,blog,blo,36329,NOUN,dobj,False
+packages,package,package,222724,NOUN,conj,False
+with,with,with,366582,ADP,prep,True
+RFeedbackFriday,rfeedbackfriday,feedback,110857,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+w,w,w,361650,PROPN,conj,False

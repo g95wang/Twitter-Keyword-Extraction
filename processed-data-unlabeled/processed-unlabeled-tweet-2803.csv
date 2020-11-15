@@ -1,0 +1,16 @@
+Fellow,Fellow,fellow,111052,PROPN,compound,False
+Australians,Australians,australians,23715,PROPN,nsubj,False
+Doctors,doctor,doctor,90646,NOUN,conj,False
+and,and,and,12285,CCONJ,cc,True
+healthcare,healthcare,healthcare,134769,NOUN,compound,False
+experts,expert,expert,107746,NOUN,conj,False
+are,be,be,29345,AUX,aux,True
+calling,call,call,45246,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+governments,government,government,128391,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+lock,lock,lock,174349,VERB,xcomp,False
+down,down,down,92197,ADP,prt,True
+immediately,immediately,immediately,147908,ADV,advmod,False
+but,but,but,43550,CCONJ,cc,True
+w,w,w,361650,PROPN,punct,False

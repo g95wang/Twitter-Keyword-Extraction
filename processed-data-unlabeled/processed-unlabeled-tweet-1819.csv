@@ -1,0 +1,17 @@
+how,how,how,144540,ADV,advmod,True
+m,be,be,29345,VERB,ROOT,False
+a,going to,going,127453,NOUN,det,True
+eat,eat,eat,94953,NOUN,amod,False
+lunch,lunch,lunch,176181,NOUN,attr,False
+if,if,if,146980,SCONJ,mark,True
+only,only,only,212848,ADV,advmod,True
+the,the,the,320691,DET,det,True
+drive,drive,drive,93179,NOUN,compound,False
+thrus,thrus,thrums,322883,PROPN,nsubj,False
+open,open,open,213219,ADJ,advcl,False
+omfg,omfg,mfg,185604,PROPN,ROOT,False
+i,i,i,145455,PRON,nsubj,True
+done,do,do,90528,VERB,ROOT,True
+let,let,let,170875,VERB,ROOT,False
+mama,mama,mama,178719,NOUN,nsubj,False
+trick,trick,trick,329536,VERB,ccomp,False

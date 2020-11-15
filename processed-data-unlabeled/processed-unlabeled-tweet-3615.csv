@@ -1,0 +1,9 @@
+Wizkid,Wizkid,whiskied,365049,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+probably,probably,probably,251013,ADV,advmod,False
+sitting,sit,sit,292603,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+half,half,half,132585,DET,quantmod,False
+a,a,a,0,DET,quantmod,True
+unreleased,unreleased,unreleased,349423,ADJ,amod,False
+songs,song,song,297195,NOUN,pobj,False

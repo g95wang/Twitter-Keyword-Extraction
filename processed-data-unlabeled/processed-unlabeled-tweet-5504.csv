@@ -1,0 +1,17 @@
+HOLY,HOLY,holy,142432,PROPN,compound,False
+SHIT,SHIT,shit,288544,PROPN,compound,False
+LEGO,LEGO,legoa,170183,PROPN,compound,False
+DONATED,donate,donate,91380,VERB,compound,False
+TO,to,to,324862,ADP,prep,True
+BLACK,black,black,35431,NOUN,compound,False
+CHARITIES,charity,charity,52851,NOUN,pobj,False
+AND,and,and,12285,CCONJ,cc,True
+THEY,THEY,they,320834,NOUN,nsubj,True
+PULLED,pull,pull,256246,VERB,ROOT,False
+ALL,all,all,8522,DET,det,True
+LEGO,lego,legoa,170183,NOUN,compound,False
+POLICE,POLICE,police,241679,NOUN,compound,False
+SETS,set,set,286614,NOUN,dobj,False
+FROM,from,from,119298,ADP,prep,True
+THE,the,the,320691,DET,det,True
+SHELVES,shelf,shelf,287924,NOUN,pobj,False

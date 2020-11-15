@@ -1,0 +1,16 @@
+confirmed,confirm,confirm,65928,VERB,ROOT,False
+cases,case,case,48783,NOUN,dobj,False
+There,there,there,321216,PRON,expl,True
+were,be,be,29345,AUX,ROOT,True
+on,on,on,212644,ADP,prep,True
+d,d,d,75936,PROPN,pobj,False
+s,s,s,275971,PROPN,nsubj,False
+of,of,of,211535,ADP,prep,True
+spring,spring,spring,301292,NOUN,compound,False
+breakers,breaker,breaker,40244,NOUN,pobj,False
+travel,travel,travel,328585,VERB,ROOT,False
+thru,thru,thru,322873,ADP,prep,True
+just,just,just,162503,ADV,advmod,True
+a,a,a,0,DET,det,True
+week,week,week,363764,NOUN,pobj,False
+ag,ag,ag,5814,NOUN,punct,False

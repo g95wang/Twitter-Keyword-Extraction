@@ -1,0 +1,16 @@
+so,so,so,295959,ADV,ROOT,True
+who,who,who,365278,PRON,nsubj,True
+'s,be,be,29345,AUX,aux,True
+gon,go,go,127161,VERB,ROOT,False
+na,to,to,324862,PART,aux,False
+sing,sing,sing,291662,VERB,xcomp,False
+in,in,in,149313,ADP,prep,True
+CHEN,CHEN,chen,53787,PROPN,pobj,False
+'s,'s,s,275971,PART,case,True
+aka,aka,aka,7108,CCONJ,prep,False
+The,the,the,320691,DET,det,True
+Nation,Nation,nation,197258,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+Wedding,wedding,wedding,363704,NOUN,compound,False
+Singer,Singer,singer,291687,PROPN,pobj,False
+wedding,wedding,wedding,363704,NOUN,dep,False

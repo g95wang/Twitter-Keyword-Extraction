@@ -1,0 +1,16 @@
+BTSs,bts,bats,29070,NOUN,nsubj,False
+V,v,v,356321,NOUN,appos,False
+Has,have,have,134390,AUX,ROOT,True
+The,the,the,320691,DET,det,True
+Largest,large,large,168493,ADJ,compound,False
+Solo,Solo,solo,296839,PROPN,compound,False
+Fanclub,Fanclub,sandclub,277746,PROPN,dobj,False
+In,in,in,149313,ADP,ROOT,True
+Russia,Russia,russia,275823,PROPN,pobj,False
+And,and,and,12285,CCONJ,cc,True
+Is,be,be,29345,AUX,auxpass,True
+Featured,feature,feature,110707,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+New,New,new,199367,PROPN,compound,False
+Russian,Russian,russian,275824,PROPN,compound,False
+Song,Song,song,297195,PROPN,pobj,False

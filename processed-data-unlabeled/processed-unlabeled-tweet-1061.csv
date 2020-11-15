@@ -1,0 +1,10 @@
+If,if,if,146980,SCONJ,mark,True
+all,all,all,8522,DET,det,True
+else,else,else,97787,ADV,nsubj,True
+fails,fail,fail,109249,VERB,advcl,False
+i,i,i,145455,PRON,nsubj,True
+hear,hear,hear,134794,VERB,ROOT,False
+screaming,scream,scream,281670,VERB,xcomp,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+woods,wood,wood,367096,NOUN,pobj,False

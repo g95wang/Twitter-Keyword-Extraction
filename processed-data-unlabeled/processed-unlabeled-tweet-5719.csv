@@ -1,0 +1,16 @@
+Did,do,do,90528,AUX,aux,True
+read,read,read,261551,VERB,ROOT,False
+If,if,if,146980,SCONJ,mark,True
+follow,follow,follow,115989,VERB,advcl,False
+Meghan,Meghan,meehan,182281,PROPN,dobj,False
+at,at,at,22372,ADV,advmod,True
+all,all,all,8522,ADV,advmod,True
+'s,be,be,29345,AUX,auxpass,True
+been,be,be,29345,AUX,ROOT,True
+clear,clear,clear,59644,ADJ,acomp,False
+that,that,that,320639,SCONJ,mark,True
+is,be,be,29345,AUX,ccomp,True
+in,in,in,149313,ADP,prep,True
+quaruntine,quaruntine,quarantine,257971,NOUN,pobj,False
+with,with,with,366582,ADP,prep,True
+husb,husb,hub,144626,NOUN,pobj,False

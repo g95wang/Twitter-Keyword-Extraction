@@ -1,0 +1,10 @@
+Of,of,of,211535,ADV,advmod,True
+course,course,course,71315,ADV,advmod,False
+'ll,will,will,365768,VERB,aux,True
+have,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+logo,logo,logo,174655,NOUN,dobj,False
+The,the,the,320691,DET,det,True
+school,school,school,280423,NOUN,poss,False
+'s,'s,s,275971,PART,case,True
+logo,logo,logo,174655,NOUN,ROOT,False

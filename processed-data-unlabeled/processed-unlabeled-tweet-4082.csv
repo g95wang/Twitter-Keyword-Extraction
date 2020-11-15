@@ -1,0 +1,21 @@
+i,i,i,145455,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+only,only,only,212848,ADV,advmod,True
+argue,argue,argue,19578,VERB,ROOT,False
+over,over,over,218092,ADP,prep,True
+text,text,text,320378,NOUN,pobj,False
+if,if,if,146980,SCONJ,mark,True
+argue,argue,argue,19578,VERB,advcl,False
+in,in,in,149313,ADP,prep,True
+person,person,person,231951,NOUN,pobj,False
+m,be,be,29345,VERB,ccomp,False
+a,going to,going,127453,NOUN,det,True
+cry,cry,cry,72853,NOUN,attr,False
+m,be,be,29345,VERB,ROOT,False
+a,a,a,0,NOUN,det,True
+whole,whole,whole,365285,ADJ,amod,True
+G,g,g,120759,NOUN,attr,False
+over,over,over,218092,ADP,prep,True
+text,text,text,320378,NOUN,compound,False
+messages,message,message,184460,NOUN,compound,False
+tho,tho,tho,322272,ADV,pobj,False

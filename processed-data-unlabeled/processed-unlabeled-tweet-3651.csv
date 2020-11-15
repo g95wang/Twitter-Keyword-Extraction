@@ -1,0 +1,13 @@
+Pakistan,Pakistan,pakistan,223263,PROPN,nsubj,False
+plans,plan,plan,238877,VERB,ccomp,False
+to,to,to,324862,PART,aux,True
+seek,seek,seek,283114,VERB,xcomp,False
+in,in,in,149313,ADP,prep,True
+new,new,new,199367,ADJ,amod,False
+loans,loan,loan,174113,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+World,World,world,367566,PROPN,compound,False
+Bank,Bank,bank,27482,PROPN,pobj,False
+ADB,ADB,adib,3909,PROPN,appos,False
+say,say,say,276740,VERB,ROOT,True
+reports,report,report,268373,NOUN,nsubj,False

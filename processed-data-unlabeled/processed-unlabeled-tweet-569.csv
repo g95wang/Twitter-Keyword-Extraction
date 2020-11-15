@@ -1,0 +1,12 @@
+Why,why,why,364728,ADV,advmod,True
+do,do,do,90528,AUX,aux,True
+always,always,always,9710,ADV,advmod,True
+lose,lose,lose,175338,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+username,username,undername,339510,ADJ,amod,False
+battles,battle,battle,29132,NOUN,dobj,False
+username,username,undername,339510,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+A,a,a,0,DET,det,True
+R,r,r,259188,NOUN,compound,False
+T,t,t,314735,NOUN,attr,False

@@ -1,0 +1,15 @@
+JUSTICE,JUSTICE,justice,162510,PROPN,nsubjpass,False
+WILL,WILL,will,365768,VERB,aux,True
+NOT,not,not,208798,ADV,neg,True
+BE,be,be,29345,VERB,auxpass,True
+SERVED,serve,serve,286430,VERB,ROOT,False
+UNTIL,UNTIL,until,353020,NOUN,nmod,True
+THOSE,those,those,322465,DET,dobj,True
+UNAFFECTED,unaffected,unaffected,334711,ADV,nsubj,False
+ARE,are,are,19297,VERB,ROOT,True
+AS,as,as,20837,ADV,compound,True
+OUTRAGED,outraged,outraged,217205,ADJ,ROOT,False
+AS,as,as,20837,ADP,ROOT,True
+THOSE,those,those,322465,DET,pobj,True
+WHO,who,who,365278,PRON,nsubj,True
+ARE,are,are,19297,VERB,relcl,True

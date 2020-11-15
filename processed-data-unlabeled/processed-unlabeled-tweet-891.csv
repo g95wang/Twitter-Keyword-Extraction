@@ -1,0 +1,11 @@
+THE,the,the,320691,DET,det,True
+BOYZ,BOYZ,boy,37378,PROPN,compound,False
+Road,Road,road,273470,PROPN,nmod,False
+to,to,to,324862,ADP,prep,True
+Kingdom,Kingdom,kingdom,164879,PROPN,pobj,False
+Sword,Sword,sword,314671,PROPN,appos,False
+of,of,of,211535,ADP,prep,True
+Victory,Victory,victory,359460,PROPN,pobj,False
+PRACTICE,practice,practice,245090,NOUN,nmod,False
+VIDEO,video,video,359514,NOUN,compound,False
+THEBOYZ,THEBOYZ,teaboy,317416,VERB,ROOT,False

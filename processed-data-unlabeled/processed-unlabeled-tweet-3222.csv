@@ -1,0 +1,17 @@
+have,have,have,134390,AUX,aux,True
+launched,launch,launch,169150,VERB,ccomp,False
+ePOS,epos,epos,103109,NOUN,dep,False
+one,one,one,212715,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+download,download,download,92274,VERB,ROOT,False
+this,this,this,322217,DET,dobj,True
+on,on,on,212644,ADP,prep,True
+Anndroid,Anndroid,android,12415,PROPN,compound,False
+phone,phone,phone,234654,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+start,start,start,302958,VERB,conj,False
+accepting,accept,accept,1468,VERB,xcomp,False
+any,any,any,13086,DET,det,True
+form,form,form,117338,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+payment,payment,payment,223132,NOUN,pobj,False

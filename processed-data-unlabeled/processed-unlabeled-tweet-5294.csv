@@ -1,0 +1,17 @@
+Not,not,not,208798,PART,neg,True
+surprised,surprised,surprised,313556,ADJ,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+American,american,american,10298,ADJ,amod,False
+purity,purity,purity,256981,NOUN,compound,False
+culture,culture,culture,74845,NOUN,compound,False
+targets,target,target,316574,NOUN,nsubj,False
+consistently,consistently,consistently,66858,ADV,advmod,False
+fiction,fiction,fiction,112177,VERB,ccomp,False
+with,with,with,366582,ADP,prep,True
+enemies,enemy,enemy,100116,NOUN,pobj,False
+to,to,to,324862,ADP,prep,True
+lovers,lover,lover,175572,NOUN,pobj,False
+monster,monster,monster,192834,NOUN,compound,False
+husband,husband,husband,145307,NOUN,conj,False
+and,and,and,12285,CCONJ,cc,True
+conflict,conflict,conflict,65987,NOUN,conj,False

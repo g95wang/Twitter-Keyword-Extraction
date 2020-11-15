@@ -1,0 +1,15 @@
+Tzuyu,Tzuyu,tuy,332189,PROPN,npadvmod,False
+Jeongyeon,Jeongyeon,congeon,66160,PROPN,npadvmod,False
+Mina,Mina,mina,187648,PROPN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+ending,end,end,99559,VERB,amod,False
+fairies,fairy,fairy,109315,NOUN,attr,False
+for,for,for,116301,ADP,prep,True
+TWICE,TWICE,twice,333299,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+first,first,first,113286,ADJ,amod,True
+comeback,comeback,comeback,63723,NOUN,compound,False
+stage,stage,stage,302294,NOUN,pobj,False
+today,today,today,325003,NOUN,npadvmod,False
+TWICE,twice,twice,333299,ADV,dep,False

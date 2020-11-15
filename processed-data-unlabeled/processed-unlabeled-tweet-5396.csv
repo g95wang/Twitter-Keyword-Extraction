@@ -1,0 +1,14 @@
+Learnt,Learnt,learnt,169670,PROPN,ROOT,False
+m,be,be,29345,VERB,ccomp,False
+a,a,a,0,DET,det,True
+good,good,good,127869,ADJ,amod,False
+handy,handy,handy,133165,ADJ,amod,False
+woman,woman,woman,366955,NOUN,dobj,False
+can,can,can,45964,VERB,aux,True
+actually,actually,actually,3298,ADV,advmod,False
+fix,fix,fix,113590,VERB,ROOT,False
+more,more,more,193383,ADJ,dobj,True
+than,than,than,320565,SCONJ,mark,True
+can,can,can,45964,VERB,aux,True
+break,break,break,40228,VERB,advcl,False
+Whoooop,Whoooop,whoop,365327,PROPN,ROOT,False

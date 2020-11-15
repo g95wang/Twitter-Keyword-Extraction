@@ -1,0 +1,11 @@
+i,i,i,145455,PRON,nsubj,True
+feel,feel,feel,110884,VERB,ROOT,False
+like,like,like,172172,SCONJ,mark,False
+this,this,this,322217,DET,nsubj,True
+was,be,be,29345,AUX,advcl,True
+too,too,too,325685,ADV,advmod,True
+powerful,powerful,powerful,245007,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+not,not,not,208798,PART,neg,True
+share,share,share,287481,VERB,xcomp,False
+minneapolisriots,minneapolisriot,minneapolis,187970,NOUN,dobj,False

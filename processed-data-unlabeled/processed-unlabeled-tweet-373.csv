@@ -1,0 +1,12 @@
+TOMORROW,tomorrow,tomorrow,325475,NOUN,compound,False
+X,X,x,368209,NOUN,nsubj,False
+TOGETHER,together,together,325095,ADV,ROOT,True
+The,the,the,320691,DET,det,True
+Dream,dream,dream,92852,NOUN,compound,False
+Chapter,chapter,chapter,52680,NOUN,ROOT,False
+ETERNITY,ETERNITY,eternity,104851,PROPN,compound,False
+Concept,Concept,concept,65148,PROPN,compound,False
+Photo,Photo,photo,234975,PROPN,appos,False
+Sketch,sketch,sketch,293006,VERB,compound,False
+TOMORROW_X_TOGETHER,tomorrow_x_together,tomorrower,325476,NOUN,compound,False
+TXT,txt,txt,333516,NOUN,compound,False

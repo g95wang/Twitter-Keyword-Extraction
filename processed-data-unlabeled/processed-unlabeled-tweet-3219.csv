@@ -1,0 +1,15 @@
+super,super,super,311253,ADV,advmod,False
+proud,proud,proud,253981,ADJ,ROOT,False
+of,of,of,211535,ADP,prep,True
+i,i,i,145455,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+never,never,never,199350,ADV,neg,True
+stop,stop,stop,305323,VERB,ROOT,False
+thanking,thank,thank,320604,VERB,xcomp,False
+for,for,for,116301,ADP,prep,True
+pulling,pull,pull,256246,VERB,pcomp,False
+choonks,choonk,chonk,55644,NOUN,dobj,False
+into,into,into,156343,ADP,prep,True
+taking,take,take,315491,VERB,pcomp,False
+voice,voice,voice,360982,NOUN,dobj,False
+serious,serious,serious,286134,ADJ,oprd,True

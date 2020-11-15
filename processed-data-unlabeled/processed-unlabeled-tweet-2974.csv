@@ -1,0 +1,10 @@
+How,how,how,144540,ADV,advmod,True
+To,to,to,324862,PART,aux,True
+Optimize,optimize,optimize,213836,VERB,ROOT,False
+For,for,for,116301,ADP,prep,True
+VoiceSearch,VoiceSearch,oversearch,221005,PROPN,pobj,False
+In,In,in,149313,PROPN,ROOT,True
+mobilefirst,mobilefirst,mobiles,190943,ADV,compound,False
+searchmarketing,searchmarkete,searchment,282554,VERB,ROOT,False
+searchengines,searchengine,archengineer,18831,VERB,dobj,False
+growthmarketing,growthmarkete,gomarite,127623,VERB,acl,False

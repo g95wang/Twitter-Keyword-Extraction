@@ -1,0 +1,13 @@
+'s,be,be,29345,AUX,ROOT,True
+possible,possible,possible,243886,ADJ,acomp,False
+'ll,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+given,give,give,125692,VERB,ccomp,False
+a,a,a,0,DET,det,True
+leadership,leadership,leadership,169525,NOUN,compound,False
+position,position,position,243797,NOUN,dobj,False
+but,but,but,43550,CCONJ,cc,True
+you'l,you'l,youl,157729,NOUN,conj,False
+More,More,more,193383,ADJ,ROOT,True
+for,for,for,116301,ADP,prep,True
+Cancer,Cancer,cancer,46095,PROPN,pobj,False

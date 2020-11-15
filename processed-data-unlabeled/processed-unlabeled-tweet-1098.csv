@@ -1,0 +1,16 @@
+Installing,instal,instal,153826,VERB,csubj,False
+a,a,a,0,DET,det,True
+partisan,partisan,partisan,227080,ADJ,amod,False
+political,political,political,242538,ADJ,amod,False
+loyalist,loyalist,loyalist,174738,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+oversee,oversee,oversee,221020,VERB,relcl,False
+the,the,the,320691,DET,det,True
+intelligence,intelligence,intelligence,154289,NOUN,compound,False
+apparatus,apparatus,apparatus,17564,NOUN,dobj,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+hallmark,hallmark,hallmark,132723,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+authoritarian,authoritarian,authoritarian,23825,ADJ,amod,False
+regimes,regime,regime,265629,NOUN,pobj,False

@@ -1,0 +1,10 @@
+Nissan,Nissan,nisan,200289,PROPN,nsubj,False
+warns,warn,warn,362714,VERB,ROOT,False
+no,no,no,200529,DET,det,True
+deal,deal,deal,77534,NOUN,compound,False
+Brexit,Brexit,brevit,40514,PROPN,nsubj,False
+will,will,will,365768,VERB,aux,True
+make,make,make,178090,VERB,ccomp,True
+Sunderland,Sunderland,underland,339394,PROPN,nsubj,False
+plant,plant,plant,239068,NOUN,nsubj,False
+unsustainable,unsustainable,unsustainable,352548,ADJ,ccomp,False

@@ -1,0 +1,12 @@
+Ciutat,Ciutat,cicuta,57298,PROPN,compound,False
+Esportiva,Esportiva,ensporia,101104,PROPN,compound,False
+Joan,Joan,joan,161418,PROPN,compound,False
+Gamper,Gamper,gramper,128771,PROPN,ROOT,False
+Today,Today,today,325003,PROPN,npadvmod,False
+the,the,the,320691,DET,det,True
+players,player,player,238740,NOUN,nsubj,False
+returned,return,return,270970,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+Clubs,Clubs,clubs,60661,PROPN,compound,False
+facilities,facility,facility,109003,NOUN,pobj,False

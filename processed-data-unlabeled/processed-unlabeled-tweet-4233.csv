@@ -1,0 +1,11 @@
+found,find,find,112884,VERB,ROOT,False
+this,this,this,322217,DET,det,True
+falcon,falcon,falcon,109423,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+nesting,nest,nest,198813,VERB,ccomp,False
+in,in,in,149313,ADP,prep,True
+plant,plant,plant,239068,NOUN,compound,False
+box,box,box,39266,NOUN,pobj,False
+so,so,so,295959,ADV,advmod,True
+started,start,start,302958,VERB,ROOT,False
+feeding,feed,feed,110855,VERB,xcomp,False

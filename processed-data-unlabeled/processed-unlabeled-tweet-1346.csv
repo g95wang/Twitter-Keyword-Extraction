@@ -1,0 +1,14 @@
+JUST,just,just,162503,ADV,advmod,True
+HOURS,hour,hour,144367,NOUN,ROOT,False
+TO,to,to,324862,ADP,prep,True
+GO,GO,go,127161,PROPN,pobj,True
+live,live,live,173931,ADJ,amod,False
+event,event,event,106111,NOUN,nsubj,False
+launches,launch,launch,169150,NOUN,ROOT,False
+at,at,at,22372,ADP,prep,True
+pm,pm,pm,240704,NOUN,pobj,False
+BST,BST,bast,28800,PROPN,appos,False
+on,on,on,212644,ADP,prep,True
+Facebook,Facebook,facebow,108935,PROPN,compound,False
+page,page,page,222990,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True

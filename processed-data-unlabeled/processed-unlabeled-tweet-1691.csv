@@ -1,0 +1,14 @@
+i,i,i,145455,PRON,nsubj,True
+hate,hate,hate,134216,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+news,news,news,199421,NOUN,dobj,False
+if,if,if,146980,SCONJ,mark,True
+not,not,not,208798,PART,neg,True
+corona,corona,corona,69428,NOUN,compound,False
+virus,virus,virus,360286,NOUN,ROOT,False
+other,other,other,215836,ADJ,amod,True
+diseases,disease,disease,87833,NOUN,dobj,False
+like,like,like,172172,SCONJ,prep,False
+blatant,blatant,blatant,35867,ADJ,amod,False
+fucking,fucking,fucking,119745,ADJ,amod,False
+racism,racism,racism,259428,NOUN,pobj,False

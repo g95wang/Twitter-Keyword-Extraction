@@ -1,0 +1,11 @@
+Elephant,elephant,elephant,97443,NOUN,compound,False
+grass,grass,grass,129170,NOUN,ROOT,False
+by,by,by,33133,ADP,prep,True
+a,a,a,0,DET,det,True
+pond,pond,pond,242960,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+dendrarium,dendrarium,dendrium,81031,NOUN,compound,False
+park,park,park,226556,NOUN,pobj,False
+chisinau,chisinau,christina,56156,NOUN,appos,False
+moldova,moldova,emoloa,98628,PROPN,appos,False

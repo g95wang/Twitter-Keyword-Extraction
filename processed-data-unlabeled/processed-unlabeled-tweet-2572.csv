@@ -1,0 +1,13 @@
+tomorrow,tomorrow,tomorrow,325475,NOUN,npadvmod,False
+i,i,i,145455,PRON,nsubj,True
+take,take,take,315491,VERB,ROOT,True
+the,the,the,320691,DET,det,True
+trash,trash,trash,328518,NOUN,dobj,False
+out,out,out,216108,ADP,prt,True
+i,i,i,145455,PRON,nsubj,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+know,know,know,165702,VERB,ROOT,False
+what,what,what,364447,PRON,dobj,True
+to,to,to,324862,PART,aux,True
+wear,wear,wear,363540,VERB,xcomp,False

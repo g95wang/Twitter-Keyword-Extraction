@@ -1,0 +1,17 @@
+If,if,if,146980,SCONJ,mark,True
+follow,follow,follow,115989,VERB,ROOT,False
+enough,enough,enough,100831,ADJ,amod,True
+good,good,good,127869,ADJ,amod,False
+people,people,people,230162,NOUN,dobj,False
+can,can,can,45964,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+done,do,do,90528,VERB,relcl,True
+Personally,personally,personally,231973,ADV,advmod,False
+ve,have,have,134390,VERB,aux,False
+been,be,be,29345,AUX,ROOT,True
+on,on,on,212644,ADP,prep,True
+a,a,a,0,DET,det,True
+unit,unit,unit,345047,NOUN,pobj,False
+this,this,this,322217,DET,det,True
+month,month,month,192909,NOUN,npadvmod,False
+a,a,a,0,DET,advmod,True

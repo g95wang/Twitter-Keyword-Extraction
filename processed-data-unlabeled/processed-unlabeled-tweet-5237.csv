@@ -1,0 +1,17 @@
+so,so,so,295959,ADV,advmod,True
+sad,sad,sad,276441,ADJ,ROOT,False
+when,when,when,364637,ADV,advmod,True
+pick,pick,pick,235851,VERB,advcl,False
+phone,phone,phone,234654,NOUN,dobj,False
+up,up,up,354457,ADP,prt,True
+amp,amp,amp,10991,NOUN,conj,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+have,have,have,134390,AUX,ROOT,True
+no,no,no,200529,DET,det,True
+text,text,text,320378,NOUN,compound,False
+messages,message,message,184460,NOUN,dobj,False
+Not,not,not,208798,PART,neg,True
+even,even,even,106079,ADV,advmod,True
+a,a,a,0,DET,det,True
+notification,notification,notification,208938,NOUN,ROOT,False

@@ -1,0 +1,17 @@
+if,if,if,146980,SCONJ,mark,True
+purposely,purposely,purposely,257053,ADV,advmod,False
+not,not,not,208798,PART,neg,True
+trying,try,try,329065,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+spread,spread,spread,301217,VERB,xcomp,False
+awareness,awareness,awareness,24971,NOUN,dobj,False
+because,because,because,29780,SCONJ,prep,True
+not,not,not,208798,PART,neg,True
+problem,problem,problem,251071,NOUN,pobj,False
+or,or,or,213904,CCONJ,cc,True
+because,because,because,29780,SCONJ,mark,True
+does,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+match,match,match,181035,VERB,advcl,False
+twitter,twitter,twitter,333475,NOUN,dobj,False
+a,a,a,0,NOUN,dobj,True

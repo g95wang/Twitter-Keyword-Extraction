@@ -1,0 +1,15 @@
+Exactly,exactly,exactly,106394,ADV,ROOT,False
+That,that,that,320639,DET,nsubj,True
+'s,be,be,29345,AUX,ROOT,True
+what,what,what,364447,PRON,nsubjpass,True
+'s,be,be,29345,AUX,auxpass,True
+happened,happen,happen,133505,VERB,ccomp,False
+in,in,in,149313,ADP,prep,True
+Santa,Santa,santa,278036,PROPN,compound,False
+Fe,Fe,fe,110582,PROPN,pobj,False
+NM,NM,nm,200527,PROPN,npadvmod,False
+as,as,as,20837,ADV,advmod,True
+well,well,well,364011,ADV,advmod,True
+but,but,but,43550,CCONJ,cc,True
+with,with,with,366582,ADP,prep,True
+homes,home,home,142751,NOUN,pobj,False

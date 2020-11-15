@@ -1,0 +1,15 @@
+residents,resident,resident,269358,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+nursing,nursing,nursing,209730,NOUN,compound,False
+home,home,home,142751,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+Bobcaygeon,Bobcaygeon,bocage,37114,PROPN,pobj,False
+Ont,Ont,ont,212926,PROPN,dep,False
+die,die,die,85120,NOUN,appos,False
+of,of,of,211535,ADP,prep,True
+while,while,while,364797,SCONJ,mark,True
+staff,staff,staff,302276,NOUN,compound,False
+members,member,member,183109,NOUN,nsubj,False
+test,test,test,319741,VERB,advcl,False
+positive,positive,positive,243805,ADJ,amod,False
+h,h,h,131712,NOUN,oprd,False

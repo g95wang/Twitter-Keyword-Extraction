@@ -1,0 +1,12 @@
+got,get,get,124419,VERB,ROOT,False
+The,the,the,320691,DET,det,True
+color,color,color,63304,NOUN,nsubj,False
+fit,fit,fit,113517,VERB,relcl,False
+most,most,most,193889,ADV,advmod,True
+is,be,be,29345,AUX,ccomp,True
+Green,Green,green,129512,PROPN,acomp,False
+on,on,on,212644,ADP,ROOT,True
+What,what,what,364447,PRON,attr,True
+Color,Color,color,63304,PROPN,nsubj,False
+Is,be,be,29345,AUX,pcomp,True
+Soulmark,soulmark,soumak,297843,NOUN,attr,False

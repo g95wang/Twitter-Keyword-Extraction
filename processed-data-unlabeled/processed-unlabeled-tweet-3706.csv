@@ -1,0 +1,12 @@
+Do,do,do,90528,AUX,aux,True
+demand,demand,demand,80349,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+GunBan,GunBan,gunman,131381,PROPN,compound,False
+OIC,OIC,odic,211230,PROPN,nsubjpass,False
+be,be,be,29345,AUX,auxpass,True
+reversed,reverse,reverse,271255,VERB,ccomp,False
+and,and,and,12285,CCONJ,cc,True
+democracy,democracy,democracy,80714,NOUN,nsubjpass,False
+be,be,be,29345,AUX,auxpass,True
+respected,respect,respect,269692,VERB,conj,False
+SIGN,sign,sign,290081,NOUN,ROOT,False

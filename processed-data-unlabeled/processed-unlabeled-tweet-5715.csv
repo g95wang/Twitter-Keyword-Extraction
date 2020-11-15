@@ -1,0 +1,17 @@
+DONT,dont,dont,91473,VERB,ROOT,False
+CARE,care,care,47901,NOUN,dobj,False
+Professional,Professional,professional,251701,PROPN,compound,False
+Athletes,Athletes,athletes,22600,PROPN,nsubjpass,False
+are,be,be,29345,AUX,aux,True
+Men,Men,men,183224,PROPN,nsubjpass,False
+being,be,be,29345,AUX,auxpass,True
+paid,pay,pay,223065,VERB,conj,False
+millions,million,million,187421,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+play,play,play,238701,VERB,advcl,False
+a,a,a,0,DET,det,True
+boys,boy,boy,37378,NOUN,compound,False
+game,game,game,121666,NOUN,dobj,False
+who,who,who,365278,PRON,nsubjpass,True
+are,be,be,29345,AUX,auxpass,True
+treated,treat,treat,328716,VERB,relcl,False

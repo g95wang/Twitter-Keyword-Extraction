@@ -1,0 +1,17 @@
+Check,check,check,53311,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True
+how,how,how,144540,ADV,advmod,True
+AI,AI,ai,6683,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+supporting,support,support,313022,VERB,ccomp,False
+the,the,the,320691,DET,det,True
+work,work,work,367468,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+protein,protein,protein,253423,NOUN,pobj,False
+folding,fold,fold,115846,VERB,acl,False
+right,right,right,272806,ADV,advmod,False
+now,now,now,209199,ADV,advmod,True
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+fight,fight,fight,112433,NOUN,pobj,False
+against,against,against,5830,ADP,prep,True

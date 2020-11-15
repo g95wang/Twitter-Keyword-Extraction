@@ -1,0 +1,15 @@
+Here,here,here,136991,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+an,an,an,11448,DET,det,True
+image,image,image,147569,NOUN,nsubj,False
+from,from,from,119298,ADP,prep,True
+a,a,a,0,DET,det,True
+shoot,shoot,shoot,288779,NOUN,pobj,False
+at,at,at,22372,ADP,prep,True
+Oliver,Oliver,oliver,212293,PROPN,compound,False
+Royal,Royal,royal,273863,PROPN,pobj,False
+a,a,a,0,DET,det,True
+year,year,year,146706,NOUN,npadvmod,False
+or,or,or,213904,CCONJ,cc,True
+so,so,so,295959,ADV,nummod,True
+ago,ago,ago,6337,ADV,advmod,False

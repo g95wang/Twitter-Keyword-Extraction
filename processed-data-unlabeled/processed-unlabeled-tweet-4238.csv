@@ -1,0 +1,17 @@
+have,have,have,134390,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+bought,buy,buy,42353,VERB,ROOT,False
+a,a,a,0,DET,det,True
+player,player,player,238740,NOUN,dobj,False
+since,since,since,291358,SCONJ,advmod,True
+Bar,bar,bar,27658,VERB,compound,False
+minamino,minamino,misnaming,189655,NOUN,ROOT,False
+for,for,for,116301,ADP,prep,True
+buttons,button,button,43737,NOUN,pobj,False
+The,the,the,320691,DET,det,True
+money,money,money,191829,NOUN,ROOT,False
+earned,earn,earn,94765,VERB,acl,False
+from,from,from,119298,ADP,prep,True
+TV,tv,tv,333139,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+t,t,t,314735,NOUN,conj,False

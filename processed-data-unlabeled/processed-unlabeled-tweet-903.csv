@@ -1,0 +1,12 @@
+For,for,for,116301,ADP,ROOT,True
+China,China,china,54539,PROPN,nmod,False
+Historical,Historical,historical,141872,PROPN,nmod,False
+Sparrow,sparrow,sparrow,298489,VERB,pobj,False
+Arsenal,Arsenal,arsenal,20351,PROPN,compound,False
+Military,Military,military,187187,PROPN,compound,False
+Academy,Academy,academy,1220,PROPN,conj,False
+For,for,for,116301,ADP,prep,True
+China,China,china,54539,PROPN,pobj,False
+Ancient,Ancient,ancient,12221,PROPN,dep,False
+Eternal,Eternal,eternal,104830,PROPN,amod,False
+Lov,Lov,love,175534,PROPN,ROOT,False

@@ -1,0 +1,16 @@
+TheMatinee,TheMatinee,hematine,135916,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+full,full,full,119933,ADJ,amod,True
+house,house,house,144380,NOUN,attr,False
+featuring,feature,feature,110707,VERB,advcl,False
+new,new,new,199367,ADJ,amod,False
+songs,song,song,297195,NOUN,dobj,False
+from,from,from,119298,ADP,prep,True
+indie,indie,cindie,57634,NOUN,poss,False
+'s,'s,s,275971,PART,case,True
+heavy,heavy,heavy,135015,ADJ,amod,False
+hitters,hitter,hitter,141990,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+emerging,emerge,emerge,98447,VERB,amod,False
+artists,artist,artist,20750,NOUN,conj,False

@@ -1,0 +1,9 @@
+do,do,do,90528,AUX,aux,True
+NOT,not,not,208798,ADV,neg,True
+support,support,support,313022,VERB,ROOT,False
+urban,urban,urban,355378,ADJ,amod,False
+outfitters,outfitter,outfitter,216621,NOUN,dobj,False
+dollskill,dollskill,deskill,82669,PROPN,conj,False
+or,or,or,213904,CCONJ,cc,True
+brandy,brandy,brandy,39908,NOUN,compound,False
+melville,melville,melvie,183107,PROPN,conj,False

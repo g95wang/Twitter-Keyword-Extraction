@@ -1,0 +1,9 @@
+new,new,new,199367,ADJ,amod,False
+cases,case,case,48783,NOUN,ROOT,False
+in,in,in,149313,ADP,prep,True
+Ethiopia,Ethiopia,ethiopia,105024,PROPN,pobj,False
+GMT,GMT,gm,127003,PROPN,appos,False
+coronavirus,coronaviru,coronavirus,69453,VERB,dep,False
+CoronaVirusUpdate,coronavirusupdate,coronavirus,69453,VERB,punct,False
+COVID19,covid19,covid,71525,NOUN,ROOT,False
+CoronavirusPandemic,CoronavirusPandemic,coronavirus,69453,PROPN,ROOT,False

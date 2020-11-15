@@ -1,0 +1,14 @@
+thought,think,think,321897,VERB,ROOT,False
+needed,need,need,197910,VERB,ccomp,False
+EKS,EKS,ekes,96630,PROPN,dobj,False
+to,to,to,324862,PART,aux,True
+implement,implement,implement,148758,VERB,advcl,False
+South,south,south,297980,ADJ,amod,False
+African,african,african,5584,ADJ,amod,False
+servers,server,server,286434,NOUN,dobj,False
+Is,be,be,29345,AUX,ROOT,True
+there,there,there,321216,PRON,expl,True
+any,any,any,13086,DET,det,True
+news,news,news,199421,NOUN,attr,False
+or,or,or,213904,CCONJ,cc,True
+up,up,up,354457,ADV,conj,True

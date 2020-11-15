@@ -1,0 +1,16 @@
+Do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+say,say,say,276740,VERB,ROOT,True
+out,out,out,216108,ADV,advmod,True
+loud,loud,loud,175416,ADV,advmod,False
+panics,panic,panic,224652,VERB,ccomp,False
+never,never,never,199350,ADV,neg,True
+ever,ever,ever,106143,ADV,advmod,True
+say,say,say,276740,VERB,ROOT,True
+can,can,can,45964,VERB,aux,True
+cut,cut,cut,75735,VERB,ccomp,False
+a,a,a,0,DET,det,True
+side,side,side,289721,ADJ,compound,True
+fringe,fringe,fringe,119062,NOUN,dobj,False
+when,when,when,364637,ADV,advmod,True
+don,don,don,91365,VERB,advcl,False

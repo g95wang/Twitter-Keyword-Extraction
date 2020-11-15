@@ -1,0 +1,17 @@
+Here,here,here,136991,ADV,advmod,True
+are,be,be,29345,AUX,ROOT,True
+jobs,job,job,161424,NOUN,nsubj,False
+to,to,to,324862,PART,aux,True
+have,have,have,134390,AUX,relcl,True
+during,during,during,94458,ADP,prep,True
+a,a,a,0,DET,det,True
+major,major,major,178050,ADJ,amod,False
+economic,economic,economic,95376,ADJ,amod,False
+depression,depression,depression,81860,NOUN,pobj,False
+Paramedic,Paramedic,paramedic,225801,PROPN,amod,False
+Doctor,doctor,doctor,90646,NOUN,npadvmod,False
+Truck,Truck,truck,331468,PROPN,compound,False
+Driver,Driver,driver,93202,PROPN,appos,False
+Police,Police,police,241679,PROPN,compound,False
+Officer,officer,officer,211608,NOUN,ROOT,False
+Fa,fa,fa,108867,INTJ,ROOT,False

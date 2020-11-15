@@ -1,0 +1,13 @@
+a,a,a,0,DET,det,True
+thread,thread,thread,322554,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+kim,kim,kim,164704,PROPN,compound,False
+namjoon,namjoon,majoon,178049,PROPN,pobj,False
+smiling,smile,smile,294874,VERB,acl,False
+but,but,but,43550,CCONJ,cc,True
+smile,smile,smile,294874,NOUN,nsubj,False
+gets,get,get,124419,VERB,conj,False
+bigger,big,big,33680,ADJ,acomp,False
+as,as,as,20837,SCONJ,mark,True
+keep,keep,keep,163579,VERB,advcl,True
+scrolling,scroll,scroll,281971,VERB,xcomp,False

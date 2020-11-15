@@ -1,0 +1,14 @@
+17VictoriousYrsOfAlluArjun,17VictoriousYrsOfAlluArjun,victoriously,359474,PROPN,ROOT,False
+Only,Only,only,212848,PROPN,advmod,True
+Actor,actor,actor,3272,NOUN,ROOT,False
+Who,who,who,365278,PRON,nsubj,True
+'S,be,be,29345,AUX,auxpass,True
+Birthday,birthday,birthday,34904,NOUN,compound,False
+Celebrated,celebrate,celebrate,50448,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+Countries,Countries,countries,71233,PROPN,compound,False
+States,States,states,303058,PROPN,pobj,False
+Cities,city,city,58633,NOUN,conj,False
+Many,many,many,179225,ADJ,amod,True
+More,More,more,193383,ADJ,amod,True
+Plac,Plac,place,238538,NOUN,ROOT,False

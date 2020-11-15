@@ -1,0 +1,17 @@
+AndrewScott,AndrewScott,andrewsite,12359,PROPN,nsubj,False
+earns,earn,earn,94765,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+criticschoice,criticschoice,criticship,73504,NOUN,compound,False
+Award,Award,award,24959,PROPN,dobj,False
+or,or,or,213904,CCONJ,cc,True
+Best,good,good,127869,ADJ,compound,False
+Supporting,supporting,supporting,313034,ADJ,compound,False
+Actor,actor,actor,3272,NOUN,conj,False
+In,in,in,149313,ADP,ROOT,True
+A,a,a,0,DET,det,True
+Comedy,Comedy,comedy,63728,PROPN,compound,False
+Series,Series,series,286094,PROPN,pobj,False
+for,for,for,116301,ADP,prep,True
+work,work,work,367468,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+fleab,fleab,flab,113655,NOUN,ROOT,False

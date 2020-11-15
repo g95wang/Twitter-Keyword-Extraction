@@ -1,0 +1,17 @@
+A4,a4,a,0,NOUN,ROOT,False
+Thanks,thank,thank,320604,NOUN,ROOT,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+entire,entire,entire,101450,ADJ,amod,False
+staff,staff,staff,302276,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+collaborating,collaborate,collaborate,62803,VERB,pcomp,False
+and,and,and,12285,CCONJ,cc,True
+supporting,support,support,313022,VERB,conj,False
+each,each,each,94673,DET,det,True
+other,other,other,215836,ADJ,dobj,True
+Shout,shout,shout,289005,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+coaches,coach,coach,60803,NOUN,pobj,False

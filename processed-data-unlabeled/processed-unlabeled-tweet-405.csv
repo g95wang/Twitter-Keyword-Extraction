@@ -1,0 +1,16 @@
+Thread,Thread,thread,322554,PROPN,ROOT,False
+A,a,a,0,DET,det,True
+Firehose,Firehose,firehouse,113169,PROPN,nmod,False
+of,of,of,211535,ADP,prep,True
+Corruption,Corruption,corruption,69778,PROPN,pobj,False
+Spoiler,Spoiler,spoiler,300649,PROPN,ROOT,False
+The,The,the,320691,PROPN,det,True
+Trump,Trump,trump,331570,PROPN,compound,False
+Administration,Administration,administration,4148,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+people,people,people,230162,NOUN,conj,False
+with,with,with,366582,ADP,prep,True
+political,political,political,242538,ADJ,amod,False
+connections,connection,connection,66506,NOUN,pobj,False
+wanted,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,xcomp,True

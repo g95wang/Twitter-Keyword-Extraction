@@ -1,0 +1,15 @@
+A,a,a,0,DET,det,True
+few,few,few,111900,ADJ,amod,True
+people,people,people,230162,NOUN,nsubj,False
+have,have,have,134390,AUX,aux,True
+had,have,have,134390,VERB,ROOT,True
+consultation,consultation,consultation,67168,NOUN,dobj,False
+from,from,from,119298,ADP,prep,True
+an,an,an,11448,DET,det,True
+esthetician,esthetician,esthetician,104657,ADJ,pobj,False
+via,via,via,359224,ADP,prep,True
+online,online,online,212850,NOUN,pobj,False
+How,how,how,144540,ADV,advmod,True
+does,do,do,90528,AUX,aux,True
+that,that,that,320639,DET,nsubj,True
+work,work,work,367468,VERB,ROOT,False

@@ -1,0 +1,12 @@
+PTG,PTG,ptg,255811,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+ONF,ONF,conf,65759,PROPN,conj,False
+collaborate,collaborate,collaborate,62803,NOUN,ROOT,False
+for,for,for,116301,ADP,prep,True
+the,the,the,320691,DET,det,True
+rd,rd,rd,261390,PROPN,compound,False
+round,round,round,274842,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+are,be,be,29345,AUX,conj,True
+very,very,very,358514,ADV,advmod,True
+excited,excited,excited,106704,ADJ,acomp,False

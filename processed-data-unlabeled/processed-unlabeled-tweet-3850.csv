@@ -1,0 +1,9 @@
+When,when,when,364637,ADV,advmod,True
+say,say,say,276740,VERB,advcl,True
+Africa,Africa,africa,5583,PROPN,nsubj,False
+must,must,must,196148,VERB,aux,True
+Unite,Unite,unite,345062,PROPN,ccomp,False
+are,be,be,29345,AUX,aux,True
+talking,talk,talk,315639,VERB,ROOT,False
+about,about,about,756,ADP,prep,True
+this,this,this,322217,DET,pobj,True

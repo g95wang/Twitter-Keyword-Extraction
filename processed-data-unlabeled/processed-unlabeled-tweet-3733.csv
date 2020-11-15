@@ -1,0 +1,11 @@
+Good,good,good,127869,ADJ,amod,False
+morning,morning,morning,193499,NOUN,ROOT,False
+Here,here,here,136991,ADV,advmod,True
+'s,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+look,look,look,175060,NOUN,nsubj,False
+at,at,at,22372,ADP,prep,True
+the,the,the,320691,DET,det,True
+temperatures,temperature,temperature,318525,NOUN,pobj,False
+right,right,right,272806,ADV,advmod,False
+now,now,now,209199,ADV,advmod,True

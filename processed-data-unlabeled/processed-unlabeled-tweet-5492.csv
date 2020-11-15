@@ -1,0 +1,12 @@
+BTC,BTC,bt,41899,PROPN,compound,False
+giveaway,giveaway,giveaway,125695,NOUN,ROOT,False
+Join,join,join,161599,VERB,compound,False
+Like,like,like,172172,INTJ,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+Retweet,Retweet,etwee,105245,PROPN,compound,False
+Tag,Tag,tag,315231,PROPN,conj,False
+a,a,a,0,DET,det,True
+friend,friend,friend,118947,NOUN,appos,False
+Ends,end,end,99559,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+hours,hour,hour,144367,NOUN,pobj,False

@@ -1,0 +1,17 @@
+When,when,when,364637,ADV,advmod,True
+whites,white,white,365106,NOUN,advcl,False
+to,to,to,324862,ADP,aux,True
+jog,jog,jog,161527,PROPN,xcomp,False
+Blacks,Blacks,blacks,35564,PROPN,dobj,False
+re,be,be,29345,VERB,ccomp,True
+privileged,privileged,privileged,250868,ADJ,acomp,False
+why,why,why,364728,ADV,advmod,True
+are,be,be,29345,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+the,the,the,320691,DET,det,True
+police,police,police,241679,NOUN,nsubj,False
+beating,beat,beat,29590,VERB,ROOT,False
+like,like,like,172172,SCONJ,mark,False
+beat,beat,beat,29590,VERB,advcl,False
+mothers,mother,mother,193933,NOUN,dobj,False
+buy,buy,buy,42353,VERB,ccomp,False

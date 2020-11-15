@@ -1,0 +1,17 @@
+grandmothers,grandmother,grandmother,128863,NOUN,nsubj,False
+favorite,favorite,favorite,110510,ADJ,amod,False
+song,song,song,297195,NOUN,ROOT,False
+now,now,now,209199,ADV,advmod,True
+di,di,di,83957,PROPN,compound,False
+bhunu,bhunu,bundu,42833,PROPN,compound,False
+tsa,tsa,tsar,331755,PROPN,compound,False
+mpopi,mpopi,popie,243226,PROPN,appos,False
+started,start,start,302958,VERB,ccomp,False
+a,a,a,0,DET,det,True
+fire,fire,fire,113100,NOUN,dobj,False
+by,by,by,33133,ADP,prep,True
+playing,play,play,238701,VERB,pcomp,False
+this,this,this,322217,DET,det,True
+much,much,much,194510,ADJ,npadvmod,True
+already,already,already,9397,ADV,advmod,True
+knows,know,know,165702,VERB,ROOT,False

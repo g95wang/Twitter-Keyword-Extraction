@@ -1,0 +1,15 @@
+the,the,the,320691,DET,det,True
+day,day,day,76257,NOUN,nsubj,False
+i,i,i,145455,PRON,nsubj,True
+lose,lose,lose,175338,VERB,relcl,False
+old,old,old,212002,ADJ,amod,False
+man,man,man,178862,NOUN,dobj,False
+ill,ill,ill,147293,ADV,nsubj,False
+never,never,never,199350,ADV,neg,True
+be,be,be,29345,AUX,ccomp,True
+the,the,the,320691,DET,det,True
+same,same,same,277518,ADJ,attr,True
+that,that,that,320639,DET,nsubj,True
+s,s,s,275971,VERB,ROOT,False
+best,good,good,127869,ADJ,amod,False
+friend,friend,friend,118947,NOUN,attr,False

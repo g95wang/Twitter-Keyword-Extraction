@@ -1,0 +1,16 @@
+Here,here,here,136991,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+Hashtag,Hashtag,hasht,134081,PROPN,nsubj,False
+to,to,to,324862,PART,aux,True
+celebrate,celebrate,celebrate,50448,VERB,xcomp,False
+GLORIOUS,GLORIOUS,glorious,126632,PROPN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+INSPIRING,INSPIRING,inspiring,153802,PROPN,amod,False
+Years,Years,years,146735,PROPN,conj,False
+of,of,of,211535,ADP,prep,True
+Beloved,Beloved,beloved,31283,PROPN,compound,False
+Stylish,stylish,stylish,304490,ADJ,compound,False
+Star,star,star,302844,NOUN,pobj,False
+In,in,in,149313,ADP,prep,True
+Tollywood,Tollywood,hollywood,142499,PROPN,pobj,False

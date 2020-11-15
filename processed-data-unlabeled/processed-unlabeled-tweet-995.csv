@@ -1,0 +1,14 @@
+girl,girl,girl,125519,NOUN,nsubj,False
+said,say,say,276740,VERB,ROOT,False
+no,no,no,200529,DET,det,True
+more,more,more,193383,ADJ,amod,True
+sex,sex,sex,286812,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+bed,bed,bed,29953,NOUN,pobj,False
+until,until,until,353020,ADP,mark,True
+put,put,put,257261,VERB,advcl,True
+a,a,a,0,DET,det,True
+ring,ring,ring,273011,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+hope,hope,hope,143674,VERB,ccomp,False
+likes,like,like,172172,VERB,ccomp,False

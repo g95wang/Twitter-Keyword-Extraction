@@ -1,0 +1,17 @@
+Hey,Hey,hey,135346,PROPN,compound,False
+James,James,james,160268,PROPN,poss,False
+this,this,this,322217,DET,det,True
+black,black,black,35431,ADJ,amod,False
+woman,woman,woman,366955,NOUN,nsubj,False
+on,on,on,212644,ADV,prep,True
+has,have,have,134390,AUX,ccomp,True
+a,a,a,0,DET,det,True
+name,name,name,196686,NOUN,dobj,True
+say,say,say,276740,VERB,ROOT,True
+name,name,name,196686,NOUN,dobj,True
+tweet,tweet,tweet,333246,NOUN,nsubj,False
+proves,prove,prove,254009,VERB,ROOT,False
+point,point,point,241315,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+WhitePrivilege,WhitePrivilege,reprivilege,268580,PROPN,compound,False
+den,den,den,80960,NOUN,pobj,False

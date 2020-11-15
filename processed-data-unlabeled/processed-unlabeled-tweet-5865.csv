@@ -1,0 +1,13 @@
+ANTIFA,ANTIFA,anatifa,12062,PROPN,nsubj,False
+has,have,have,134390,AUX,aux,True
+crossed,cross,cross,73757,VERB,ROOT,False
+a,a,a,0,DET,det,True
+very,very,very,358514,ADV,advmod,True
+dangerous,dangerous,dangerous,76759,ADJ,amod,False
+line,line,line,172722,NOUN,dobj,False
+Please,please,please,239622,INTJ,intj,True
+share,share,share,287481,VERB,ROOT,False
+this,this,this,322217,DET,dobj,True
+with,with,with,366582,ADP,prep,True
+everyone,everyone,everyone,106169,PRON,pobj,True
+know,know,know,165702,VERB,relcl,False

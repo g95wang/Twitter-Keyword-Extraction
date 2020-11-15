@@ -1,0 +1,15 @@
+Fauci,Fauci,fuci,119738,PROPN,dep,False
+Have,have,have,134390,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+Private,private,private,250837,ADJ,compound,False
+Sector,sector,sector,282878,NOUN,dobj,False
+To,to,to,324862,PART,aux,True
+Thank,thank,thank,320604,VERB,xcomp,False
+For,for,for,116301,ADP,prep,True
+Wuhan,Wuhan,whan,364391,PROPN,compound,False
+Coronavirus,Coronavirus,coronavirus,69453,PROPN,compound,False
+Tests,Tests,tests,319843,PROPN,pobj,False
+Not,not,not,208798,PART,neg,True
+the,the,the,320691,DET,det,True
+Gov't,Gov't,govt,128405,NOUN,poss,False
+System,system,system,292520,NOUN,dobj,False

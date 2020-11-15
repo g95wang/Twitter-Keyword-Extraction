@@ -1,0 +1,13 @@
+Coronavirus,Coronavirus,coronavirus,69453,PROPN,ROOT,False
+Councils,Councils,councils,70572,PROPN,nsubj,False
+in,in,in,149313,ADP,prep,True
+England,England,england,100377,PROPN,pobj,False
+asked,ask,ask,21294,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+house,house,house,144380,VERB,xcomp,False
+all,all,all,8522,DET,det,True
+rough,rough,rough,274752,ADJ,amod,False
+sleepers,sleeper,sleeper,293887,NOUN,dobj,False
+by,by,by,33133,ADP,prep,True
+the,the,the,320691,DET,det,True
+weekend,weekend,weekend,363767,NOUN,pobj,False

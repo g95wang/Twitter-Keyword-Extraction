@@ -1,0 +1,16 @@
+WHO,who,who,365278,PRON,nsubj,True
+ARE,are,are,19297,VERB,ROOT,True
+THE,the,the,320691,DET,det,True
+BOYS,boy,boy,37378,NOUN,attr,False
+THAT,that,that,320639,DET,nsubj,True
+WILL,WILL,will,365768,VERB,aux,True
+DOMINATE,dominate,dominate,91308,VERB,relcl,False
+THE,the,the,320691,DET,det,True
+WORLD,world,world,367566,NOUN,dobj,False
+REPLY,REPLY,reply,268301,PROPN,ROOT,False
+TREASURE,TREASURE,treasure,328703,PROPN,compound,False
+WORLD,WORLD,world,367566,PROPN,nsubj,False
+DOMINATION,domination,domination,91313,VERB,compound,False
+TREASURE,treasure,treasure,328703,NOUN,compound,False
+IF,if,if,146980,ADP,ROOT,True
+U,u,u,333554,NOUN,pobj,False

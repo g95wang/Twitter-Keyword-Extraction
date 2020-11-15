@@ -1,0 +1,12 @@
+Sid,Sid,sid,289707,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+amazing,amazing,amazing,9904,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+awesome,awesome,awesome,25000,ADJ,conj,False
+PowerOfSid,powerofsid,poneroid,243018,NOUN,ROOT,False
+Sid,Sid,sid,289707,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+amazing,amazing,amazing,9904,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+awesome,awesome,awesome,25000,ADJ,conj,False
+PowerOfSid,powerofsid,poneroid,243018,NOUN,ROOT,False

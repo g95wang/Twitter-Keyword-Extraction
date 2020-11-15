@@ -1,0 +1,14 @@
+A,a,a,0,DET,det,True
+double,double,double,91951,ADJ,amod,False
+dose,dose,dose,91835,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+opportunity,opportunity,opportunity,213669,NOUN,pobj,False
+arrives,arrive,arrive,20276,VERB,ROOT,False
+as,as,as,20837,SCONJ,mark,True
+the,the,the,320691,DET,det,True
+Sun,Sun,sun,311023,PROPN,nsubj,False
+enters,enter,enter,101211,VERB,advcl,False
+dualist,dualist,dualist,93648,VERB,dobj,False
+More,More,more,193383,ADJ,ROOT,True
+for,for,for,116301,ADP,prep,True
+Taurus,Taurus,taurus,317119,PROPN,pobj,False

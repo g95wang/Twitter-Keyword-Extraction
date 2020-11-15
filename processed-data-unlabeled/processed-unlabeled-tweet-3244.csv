@@ -1,0 +1,9 @@
+Fake,fake,fake,109380,ADJ,amod,False
+audio,audio,audio,23288,ADJ,amod,False
+clip,clip,clip,60112,NOUN,compound,False
+source,source,source,297914,NOUN,nsubj,False
+found,find,find,112884,VERB,ROOT,False
+people,people,people,230162,NOUN,nsubjpass,False
+have,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,auxpass,True
+arrested,arrest,arrest,20204,VERB,ROOT,False

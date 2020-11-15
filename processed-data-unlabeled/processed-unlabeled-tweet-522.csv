@@ -1,0 +1,10 @@
+Goat,Goat,goat,127199,PROPN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+pawpaw,pawpaw,pawpaw,228283,PROPN,conj,False
+test,test,test,319741,NOUN,nmod,False
+positive,positive,positive,243805,ADJ,amod,False
+for,for,for,116301,ADP,prep,True
+COVID-19,COVID-19,covid,71525,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+Tanzania,Tanzania,tanzania,316269,PROPN,compound,False
+coromuh,coromuh,cormus,69213,PROPN,ROOT,False

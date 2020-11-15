@@ -1,0 +1,15 @@
+No,no,no,200529,INTJ,ROOT,True
+overall,overall,overall,218184,ADV,ROOT,False
+vs.,vs.,vs,361509,ADP,prep,False
+No,no,no,200529,INTJ,intj,True
+overall,overall,overall,218184,ADV,ROOT,False
+rookie,rookie,rookie,274236,NOUN,ROOT,False
+vs.,vs.,vs,361509,ADP,prep,False
+rookie,rookie,rookie,274236,NOUN,compound,False
+matchups,matchup,catchup,49472,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+look,look,look,175060,VERB,relcl,False
+out,out,out,216108,ADP,prt,True
+for,for,for,116301,ADP,prep,True
+in,in,in,149313,ADP,pcomp,True
+via,via,via,359224,ADP,ROOT,True

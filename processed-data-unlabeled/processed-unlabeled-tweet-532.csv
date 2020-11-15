@@ -1,0 +1,15 @@
+Follow,follow,follow,115989,VERB,ROOT,False
+follow,follow,follow,115989,VERB,ccomp,False
+back,back,back,25705,ADV,advmod,True
+Follow,Follow,follow,115989,PROPN,ROOT,False
+everyone,everyone,everyone,106169,PRON,dobj,True
+who,who,who,365278,PRON,nsubj,True
+Rt,Rt,rt,275072,PROPN,relcl,False
+this,this,this,322217,DET,det,True
+tweet,tweet,tweet,333246,NOUN,amod,False
+Comments,comment,comment,63980,NOUN,dobj,False
+d,d,d,75936,VERB,appos,False
+with,with,with,366582,ADP,prep,True
+Valimai,Valimai,alima,8280,PROPN,compound,False
+tag,tag,tag,315231,NOUN,compound,False
+Follow,follow,follow,115989,NOUN,pobj,False

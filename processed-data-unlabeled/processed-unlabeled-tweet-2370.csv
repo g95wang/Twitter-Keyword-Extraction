@@ -1,0 +1,13 @@
+Were,be,be,29345,AUX,aux,True
+seeing,see,see,283054,VERB,ROOT,False
+maya,maya,maya,177741,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+were,be,be,29345,AUX,aux,True
+going,go,go,127161,VERB,conj,False
+to,to,to,324862,ADP,prep,True
+varsity,varsity,varsity,357334,NOUN,pobj,False
+followed,follow,follow,115989,VERB,acl,False
+by,by,by,33133,ADP,agent,True
+Taco,Taco,taco,315109,PROPN,compound,False
+Bell,Bell,bell,31124,PROPN,compound,False
+cantina,cantina,cantina,46650,PROPN,pobj,False

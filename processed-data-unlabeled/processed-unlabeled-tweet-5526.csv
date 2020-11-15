@@ -1,0 +1,14 @@
+A,a,a,0,DET,det,True
+government,government,government,128391,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+like,like,like,172172,SCONJ,prep,False
+fire,fire,fire,113100,NOUN,pobj,False
+a,a,a,0,DET,det,True
+handy,handy,handy,133165,ADJ,amod,False
+servant,servant,servant,286420,NOUN,appos,False
+but,but,but,43550,CCONJ,cc,True
+a,a,a,0,DET,det,True
+dangerous,dangerous,dangerous,76759,ADJ,amod,False
+master,master,master,180840,NOUN,conj,False
+George,George,george,124030,PROPN,compound,False
+Washington,Washington,washington,362914,PROPN,ROOT,False

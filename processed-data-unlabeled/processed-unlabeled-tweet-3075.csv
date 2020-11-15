@@ -1,0 +1,10 @@
+If,if,if,146980,SCONJ,mark,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+act,act,act,3071,VERB,advcl,False
+toxic,toxic,toxic,326873,ADJ,advmod,False
+with,with,with,366582,ADP,prep,True
+definitely,definitely,definitely,79325,ADV,advmod,False
+have,have,have,134390,AUX,ROOT,True
+interest,interest,interest,154892,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True

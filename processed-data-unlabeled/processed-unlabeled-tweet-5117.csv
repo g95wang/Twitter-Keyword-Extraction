@@ -1,0 +1,12 @@
+There,there,there,321216,PRON,expl,True
+s,s,s,275971,VERB,ROOT,False
+ONLY,only,only,212848,ADJ,amod,True
+priority,priority,priority,250741,NOUN,attr,False
+in,in,in,149313,ADP,prep,True
+that,that,that,320639,DET,det,True
+room,room,room,274247,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+not,not,not,208798,PART,neg,True
+Meghan,Meghan,meehan,182281,PROPN,conj,False
+and,and,and,12285,CCONJ,cc,True
+Archie,Archie,archie,18936,PROPN,conj,False

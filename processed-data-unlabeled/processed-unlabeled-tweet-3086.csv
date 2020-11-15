@@ -1,0 +1,11 @@
+'s,be,be,29345,AUX,ROOT,True
+normal,normal,normal,208534,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+have,have,have,134390,AUX,xcomp,True
+an,an,an,11448,DET,det,True
+urge,urge,urge,355613,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+jump,jump,jump,162285,VERB,acl,False
+off,off,off,211539,ADP,prt,True
+a,a,a,0,DET,det,True
+cliff,cliff,cliff,59922,NOUN,dobj,False

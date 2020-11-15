@@ -1,0 +1,11 @@
+Hope,hope,hope,143674,VERB,ROOT,False
+liked,like,like,172172,VERB,ccomp,False
+thanks,thank,thank,320604,NOUN,npadvmod,False
+for,for,for,116301,ADP,prep,True
+watching,watch,watch,363049,VERB,pcomp,False
+Unicorn,Unicorn,unicorn,344031,PROPN,nsubj,False
+onesie,onesie,donsie,91471,ADP,ROOT,False
+with,with,with,366582,ADP,prep,True
+BBC,BBC,bb,29314,PROPN,pobj,False
+on,on,on,212644,ADP,prep,True
+AdultWork.com,AdultWork.com,adulator,4493,NOUN,pobj,False

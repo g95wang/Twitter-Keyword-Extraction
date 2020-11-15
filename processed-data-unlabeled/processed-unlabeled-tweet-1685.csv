@@ -1,0 +1,16 @@
+re,be,be,29345,VERB,ROOT,True
+aware,aware,aware,24969,ADJ,acomp,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+power,power,power,245001,NOUN,pobj,False
+have,have,have,134390,AUX,relcl,True
+Black,black,black,35431,ADJ,amod,False
+people,people,people,230162,NOUN,nsubj,False
+are,be,be,29345,AUX,ccomp,True
+the,the,the,320691,DET,det,True
+original,original,original,214598,ADJ,amod,False
+people,people,people,230162,NOUN,attr,False
+hold,hold,hold,142390,VERB,ROOT,False
+a,a,a,0,DET,det,True
+power,power,power,245001,NOUN,dobj,False
+tha,tha,tha,320422,NOUN,npadvmod,False

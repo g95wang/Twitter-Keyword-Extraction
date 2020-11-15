@@ -1,0 +1,12 @@
+Be,be,be,29345,AUX,ROOT,True
+careful,careful,careful,47924,ADJ,acomp,False
+not,not,not,208798,PART,neg,True
+to,to,to,324862,PART,aux,True
+tie,tie,tie,323366,VERB,xcomp,False
+so,so,so,295959,ADV,advmod,True
+tightly,tightly,tightly,323477,ADV,advmod,False
+that,that,that,320639,SCONJ,mark,True
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+undo,undo,undo,340718,VERB,ccomp,False
+later,later,later,168843,ADV,advmod,False

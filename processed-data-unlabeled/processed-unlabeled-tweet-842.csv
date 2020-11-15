@@ -1,0 +1,13 @@
+Masked,masked,masked,180694,ADJ,amod,False
+and,and,and,12285,CCONJ,cc,True
+unmasked,unmasked,unmasked,346061,ADJ,conj,False
+souls,soul,soul,297813,NOUN,compound,False
+Stride,stride,stride,306231,VERB,ROOT,False
+with,with,with,366582,ADP,prep,True
+defiance,defiance,defiance,79260,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+fear,fear,fear,110591,NOUN,conj,False
+Along,along,along,9258,ADP,prep,True
+the,the,the,320691,DET,det,True
+river,river,river,273379,NOUN,pobj,False
+QuarantineHaiku,QuarantineHaiku,quarantine,257971,PROPN,ROOT,False

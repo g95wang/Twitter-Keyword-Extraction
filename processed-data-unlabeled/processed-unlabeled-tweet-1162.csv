@@ -1,0 +1,14 @@
+i,i,i,145455,PRON,nsubj,True
+think,think,think,321897,VERB,ROOT,False
+can,can,can,45964,VERB,aux,True
+all,all,all,8522,ADV,advmod,True
+agree,agree,agree,6445,VERB,ccomp,False
+that,that,that,320639,SCONJ,det,True
+evan,evan,evan,105967,PROPN,compound,False
+rachel,rachel,rachel,259362,PROPN,compound,False
+wood,wood,wood,367096,PROPN,dobj,False
+thandie,thandie,handier,133186,PROPN,compound,False
+newton,newton,newton,199495,PROPN,conj,False
+and,and,and,12285,CCONJ,cc,True
+tessa,tessa,tess,319702,PROPN,compound,False
+thompson,thompson,thompson,322312,PROPN,conj,False

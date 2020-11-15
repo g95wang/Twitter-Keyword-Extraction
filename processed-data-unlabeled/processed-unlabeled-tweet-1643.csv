@@ -1,0 +1,12 @@
+Matt,Matt,matt,181299,PROPN,compound,False
+Gurney,Gurney,gurney,131504,PROPN,ROOT,False
+Doug,Doug,doug,92032,PROPN,compound,False
+Ford,Ford,ford,116452,PROPN,nsubj,False
+must,must,must,196148,VERB,aux,True
+call,call,call,45246,VERB,ROOT,True
+inquiry,inquiry,inquiry,153321,NOUN,dobj,False
+into,into,into,156343,ADP,prep,True
+long,long,long,174883,ADJ,amod,False
+term,term,term,319345,NOUN,compound,False
+care,care,care,47901,NOUN,pobj,False
+now,now,now,209199,ADV,advmod,True

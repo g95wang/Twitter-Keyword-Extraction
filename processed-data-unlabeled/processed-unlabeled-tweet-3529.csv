@@ -1,0 +1,9 @@
+i,i,i,145455,PRON,nsubj,True
+tried,try,try,329065,VERB,ROOT,False
+i,i,i,145455,PRON,nsubj,True
+tried,try,try,329065,VERB,parataxis,False
+i,i,i,145455,PRON,nsubj,True
+tried,try,try,329065,VERB,ccomp,False
+and,and,and,12285,CCONJ,cc,True
+'m,be,be,29345,AUX,conj,True
+tired,tired,tired,324484,ADJ,acomp,False

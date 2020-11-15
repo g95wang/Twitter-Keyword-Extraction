@@ -1,0 +1,11 @@
+years,year,year,146706,NOUN,npadvmod,False
+ago,ago,ago,6337,ADV,advmod,False
+today,today,today,325003,NOUN,npadvmod,False
+greys,grey,grey,129670,NOUN,compound,False
+anatomy,anatomy,anatomy,12076,NOUN,nsubj,False
+premiered,premiere,premiere,248385,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+rest,rest,rest,269833,NOUN,nsubj,False
+is,be,be,29345,AUX,conj,True
+history,history,history,141866,NOUN,attr,False

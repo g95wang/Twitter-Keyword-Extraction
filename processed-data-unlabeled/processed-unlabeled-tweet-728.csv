@@ -1,0 +1,16 @@
+India,India,india,150872,PROPN,nsubj,False
+ca,can,can,45964,VERB,aux,True
+nt,not,not,208798,PART,neg,False
+tolerate,tolerate,tolerate,325261,VERB,ROOT,False
+insults,insult,insult,154083,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+Martyrs,Martyrs,martyrs,180560,PROPN,pobj,False
+by,by,by,33133,ADP,prep,True
+Biased,Biased,biased,33171,PROPN,amod,False
+Media,Media,media,181993,PROPN,compound,False
+Freedom,Freedom,freedom,118591,PROPN,pobj,False
+of,of,of,211535,ADP,prep,True
+speech,speech,speech,298987,NOUN,pobj,False
+needs,need,need,197910,VERB,advcl,False
+a,a,a,0,DET,det,True
+righ,righ,right,272806,NOUN,dobj,False

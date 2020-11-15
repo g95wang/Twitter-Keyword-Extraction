@@ -1,0 +1,9 @@
+JUST,just,just,162503,ADV,advmod,True
+IN,in,in,149313,ADV,ROOT,True
+EasyJet,easyjet,ease,94887,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+cut,cut,cut,75735,VERB,relcl,False
+workforce,workforce,workforce,367500,NOUN,dobj,False
+by,by,by,33133,ADP,prep,True
+up,up,up,354457,ADP,pcomp,True
+to,to,to,324862,ADP,prep,True

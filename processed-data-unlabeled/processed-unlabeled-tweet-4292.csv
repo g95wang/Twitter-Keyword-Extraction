@@ -1,0 +1,15 @@
+Tom,Tom,tom,325373,PROPN,compound,False
+Jones,Jones,jones,161749,PROPN,compound,False
+image,image,image,147569,NOUN,ROOT,False
+Meet,meet,meet,182300,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+man,man,man,178862,NOUN,dobj,False
+who,who,who,365278,PRON,nsubj,True
+created,create,create,72418,VERB,relcl,False
+the,the,the,320691,DET,det,True
+Sex,sex,sex,286812,NOUN,compound,False
+Bomb,Bomb,bomb,37671,PROPN,dobj,False
+Made,make,make,178090,VERB,ROOT,True
+a,a,a,0,DET,det,True
+champagne,champagne,champagne,52334,NOUN,compound,False
+drinker,drinker,drinker,93125,NOUN,ccomp,False

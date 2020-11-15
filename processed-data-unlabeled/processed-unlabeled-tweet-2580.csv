@@ -1,0 +1,9 @@
+Albert,Albert,albert,7421,PROPN,compound,False
+Camus,Camus,camus,45959,PROPN,poss,False
+The,the,the,320691,DET,det,True
+Plague,Plague,plague,238686,PROPN,ROOT,False
+in,in,in,149313,ADP,prep,True
+book,book,book,38039,NOUN,compound,False
+covers,cover,cover,71476,VERB,pobj,False
+spanning,span,span,298304,VERB,acl,False
+decades,decade,decade,77901,NOUN,dobj,False

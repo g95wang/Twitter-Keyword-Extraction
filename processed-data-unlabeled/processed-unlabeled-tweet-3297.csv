@@ -1,0 +1,11 @@
+When,when,when,364637,ADV,advmod,True
+raise,raise,raise,260134,VERB,advcl,False
+voice,voice,voice,360982,NOUN,dobj,False
+kids,kid,kid,164450,NOUN,nsubj,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+listen,listen,listen,173504,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+like,like,like,172172,SCONJ,mark,False
+do,do,do,90528,AUX,advcl,True
+daddy,daddy,daddy,76097,VERB,punct,False

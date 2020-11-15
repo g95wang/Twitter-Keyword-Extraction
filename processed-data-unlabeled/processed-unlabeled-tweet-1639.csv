@@ -1,0 +1,12 @@
+so,so,so,295959,CCONJ,advmod,True
+who,who,who,365278,PRON,nsubj,True
+'s,be,be,29345,AUX,ROOT,True
+excited,excited,excited,106704,ADJ,acomp,False
+fast,fast,fast,110179,ADV,advmod,False
+forward,forward,forward,117747,ADV,advmod,False
+to,to,to,324862,ADP,prep,True
+June,June,june,162340,PROPN,pobj,False
+please,please,please,239622,INTJ,intj,True
+BANGYEDAM,bangyedam,banged,27420,NOUN,dep,False
+YEDAM_WAYO_D8,yedam_wayo_d8,myxedematoid,190701,NOUN,ROOT,False
+TREASURE,treasure,treasure,328703,NOUN,ROOT,False

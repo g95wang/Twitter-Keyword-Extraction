@@ -1,0 +1,15 @@
+The,the,the,320691,DET,det,True
+people,people,people,230162,NOUN,nsubj,False
+have,have,have,134390,AUX,relcl,True
+at,at,at,22372,ADP,prep,True
+company,company,company,64367,NOUN,pobj,False
+deciding,decide,decide,78310,VERB,acl,False
+these,these,these,321594,DET,det,True
+policies,policy,policy,241742,NOUN,dobj,False
+are,be,be,29345,AUX,ROOT,True
+so,so,so,295959,ADV,advmod,True
+left,left,left,169983,ADJ,acomp,False
+of,of,of,211535,ADP,prep,True
+center,center,center,50830,NOUN,pobj,False
+is,be,be,29345,AUX,ROOT,True
+abhorrent,abhorrent,abhorrent,394,ADJ,attr,False

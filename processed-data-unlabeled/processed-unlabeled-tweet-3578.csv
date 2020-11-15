@@ -1,0 +1,16 @@
+PLS,PLS,pals,224182,PROPN,compound,False
+RT,RT,rt,275072,PROPN,ROOT,False
+ASTRO,ASTRO,astrol,22266,PROPN,intj,False
+ChaEunwoo,ChaEunwoo,chandoo,52451,PROPN,nsubj,False
+has,have,have,134390,AUX,aux,True
+donated,donate,donate,91380,VERB,ROOT,False
+won,win,win,365877,VERB,dobj,False
+to,to,to,324862,PART,aux,True
+help,help,help,135801,VERB,advcl,False
+support,support,support,313022,VERB,xcomp,False
+the,the,the,320691,DET,det,True
+victims,victim,victim,359436,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+Gangwon,Gangwon,gangion,121861,PROPN,compound,False
+Wildfire,Wildfire,wildfire,365708,PROPN,pobj,False

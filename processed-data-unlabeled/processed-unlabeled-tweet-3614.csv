@@ -1,0 +1,16 @@
+PROMARE,PROMARE,prore,252906,PROPN,compound,False
+official,official,official,211620,NOUN,nsubj,False
+announced,announce,announce,13604,VERB,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+GEEKBOAT,GEEKBOAT,eelboat,95891,PROPN,compound,False
+crew,crew,crew,72834,NOUN,nsubj,False
+Imaishi,Imaishi,imshi,149309,PROPN,appos,False
+Koyama,Koyama,kokama,165880,PROPN,npadvmod,False
+Wakabayashi,Wakabayashi,kabayas,162648,PROPN,appos,False
+will,will,will,365768,VERB,aux,True
+livestream,livestream,overstream,221390,VERB,ccomp,False
+and,and,and,12285,CCONJ,cc,True
+provide,provide,provide,254058,VERB,conj,False
+live,live,live,173931,ADJ,amod,False
+audio,audio,audio,23288,ADJ,amod,False
+comment,comment,comment,63980,NOUN,dobj,False

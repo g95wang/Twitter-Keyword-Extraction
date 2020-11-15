@@ -1,0 +1,15 @@
+ShameOnYouSonia,shameonyousonia,amyotonia,10651,NOUN,npadvmod,False
+re,be,be,29345,VERB,aux,True
+calling,call,call,45246,VERB,ROOT,False
+Jagadesh,Jagadesh,bangladesh,27432,PROPN,dobj,False
+a,a,a,0,PROPN,det,True
+Cancer,Cancer,cancer,46095,PROPN,oprd,False
+is,be,be,29345,AUX,ROOT,True
+IITian,IITian,initiant,152813,PROPN,nmod,False
+PhD,phd,hd,134568,NOUN,nmod,False
+incredible,incredible,incredible,150446,ADJ,amod,False
+academician,academician,academician,1229,ADJ,amod,False
+foremost,foremost,foremost,116806,ADJ,amod,False
+scientist,scientist,scientist,280651,NOUN,attr,False
+who,who,who,365278,PRON,nsubj,True
+dev,dev,dev,83429,VERB,relcl,False

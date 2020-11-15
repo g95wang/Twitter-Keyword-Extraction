@@ -1,0 +1,13 @@
+From,from,from,119298,ADP,ROOT,True
+Cyprus,Cyprus,cyprus,57934,PROPN,pobj,False
+Cyprus,Cyprus,cyprus,57934,PROPN,compound,False
+Wheatear,Wheatear,wheatear,364485,PROPN,appos,False
+Lesser,Lesser,lesser,170851,PROPN,compound,False
+Grey,Grey,grey,129670,PROPN,conj,False
+and,and,and,12285,CCONJ,cc,True
+Masked,Masked,masked,180694,PROPN,compound,False
+Shrikes,Shrikes,shrikes,289195,PROPN,conj,False
+and,and,and,12285,CCONJ,cc,True
+a,a,a,0,DET,det,True
+Chukar,Chukar,chukar,56580,PROPN,amod,False
+westernpalearcticbirdsweekend,westernpalearcticbirdsweekend,eternalised,104832,NOUN,conj,False

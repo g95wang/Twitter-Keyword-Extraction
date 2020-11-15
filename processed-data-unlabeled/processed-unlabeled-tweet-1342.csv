@@ -1,0 +1,16 @@
+Psalms,psalm,psalm,254309,NOUN,ROOT,False
+KJV,KJV,kv,166553,PROPN,appos,False
+The,the,the,320691,DET,det,True
+wicked,wicke,wicked,365450,VERB,nsubjpass,False
+shall,shall,shall,287261,VERB,aux,False
+be,be,be,29345,AUX,auxpass,True
+turned,turn,turn,332792,VERB,ROOT,False
+into,into,into,156343,ADP,prep,True
+hell,hell,hell,135648,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+all,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+nations,nation,nation,197258,NOUN,conj,False
+that,that,that,320639,DET,nsubj,True
+forget,forget,forget,117219,VERB,relcl,False
+God,God,god,127304,PROPN,dobj,False

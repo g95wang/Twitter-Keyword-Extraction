@@ -1,0 +1,17 @@
+Open,open,open,213219,VERB,nsubj,False
+wallets,wallet,wallet,362246,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+pay,pay,pay,223065,VERB,advcl,False
+the,the,the,320691,DET,det,True
+Brexit,Brexit,brevit,40514,PROPN,compound,False
+Dividend,Dividend,dividend,90324,PROPN,poss,False
+Research,research,research,269100,NOUN,dobj,False
+by,by,by,33133,ADP,agent,True
+Bloomberg,Bloomberg,bloomer,36514,PROPN,compound,False
+Economics,Economics,economics,95380,PROPN,pobj,False
+estimates,estimate,estimate,104667,VERB,ROOT,False
+that,that,that,320639,SCONJ,punct,True
+the,the,the,320691,DET,det,True
+economic,economic,economic,95376,ADJ,amod,False
+cost,cost,cost,70153,NOUN,punct,False
+of,of,of,211535,ADP,prep,True

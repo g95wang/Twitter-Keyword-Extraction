@@ -1,0 +1,12 @@
+artists,artist,artist,20750,NOUN,dep,False
+born,bear,bear,29506,VERB,pcomp,False
+in,in,in,149313,ADP,prep,True
+both,both,both,38714,DET,det,True
+years,year,year,146706,NOUN,npadvmod,False
+old,old,old,212002,ADJ,amod,False
+this,this,this,322217,DET,det,True
+year,year,year,146706,NOUN,npadvmod,False
+Huh,huh,huh,144767,INTJ,ROOT,False
+IUxSUGA,IUxSUGA,sugan,310201,NOUN,ROOT,False
+EightOutNow,EightOutNow,leighton,170235,PROPN,ROOT,False
+EightBy93Line,EightBy93Line,eightling,96503,VERB,ROOT,False

@@ -1,0 +1,10 @@
+This,this,this,322217,DET,det,True
+part,part,part,226929,NOUN,nsubj,True
+had,have,have,134390,AUX,ROOT,True
+dead,dead,dead,77440,ADJ,ccomp,False
+on,on,on,212644,ADP,prep,True
+all,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+smoke,smoke,smoke,294987,NOUN,nmod,False
+funny,funny,funny,120308,ADJ,amod,False
+man,man,man,178862,NOUN,pobj,False

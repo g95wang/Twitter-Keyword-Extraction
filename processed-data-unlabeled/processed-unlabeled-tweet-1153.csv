@@ -1,0 +1,17 @@
+This,this,this,322217,DET,nsubj,True
+Is,be,be,29345,AUX,ROOT,True
+Of,of,of,211535,ADP,prep,True
+The,the,the,320691,DET,det,True
+Best,good,good,127869,ADJ,compound,False
+Climax,Climax,climax,59985,PROPN,compound,False
+Scene,scene,scene,279964,NOUN,pobj,False
+In,in,in,149313,ADP,ROOT,True
+Telugu,Telugu,telugu,318465,PROPN,compound,False
+Love,Love,love,175534,PROPN,compound,False
+Stories,Stories,stories,305421,PROPN,compound,False
+Trendsetter,Trendsetter,resetter,269258,PROPN,compound,False
+Movie,Movie,movie,194399,PROPN,pobj,False
+For,for,for,116301,ADP,ROOT,True
+A,a,a,0,DET,compound,True
+Reason,Reason,reason,262021,PROPN,pobj,False
+16YearsForMagicalAAR,16YearsForMagicalAAR,hypermagical,140254,PROPN,ROOT,False

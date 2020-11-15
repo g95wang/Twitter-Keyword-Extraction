@@ -1,0 +1,13 @@
+if,if,if,146980,SCONJ,mark,True
+u,u,u,333554,PRON,nsubj,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+like,like,like,172172,VERB,intj,False
+pickles,pickle,pickle,235903,NOUN,dobj,False
+keep,keep,keep,163579,VERB,advcl,True
+that,that,that,320639,DET,det,True
+shit,shit,shit,288544,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+that,that,that,320639,SCONJ,nsubj,True
+s,s,s,275971,VERB,ROOT,False
+embarrassing,embarrassing,embarrassing,98005,ADJ,acomp,False

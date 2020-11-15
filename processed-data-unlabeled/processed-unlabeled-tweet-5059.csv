@@ -1,0 +1,14 @@
+Dispatch,Dispatch,dispatch,88891,PROPN,nsubj,False
+losing,lose,lose,175338,VERB,ROOT,False
+job,job,job,161424,NOUN,dobj,False
+because,because,because,29780,SCONJ,mark,True
+celebrities,celebrity,celebrity,50466,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+revealing,reveal,reveal,271110,VERB,advcl,False
+own,own,own,222072,ADJ,amod,True
+relationships,relationship,relationship,266756,NOUN,dobj,False
+a,a,a,0,DET,det,True
+great,great,great,129442,ADJ,amod,False
+uno,uno,juno,162404,PROPN,compound,False
+reverse,reverse,reverse,271255,NOUN,compound,False
+card,card,card,47688,NOUN,appos,False

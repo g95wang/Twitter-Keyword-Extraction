@@ -1,0 +1,13 @@
+ETH,ETH,eth,104860,PROPN,ROOT,False
+Giveaway,Giveaway,giveaway,125695,PROPN,dep,False
+Follow,follow,follow,115989,VERB,compound,False
+LIKE,LIKE,like,172172,PROPN,ROOT,False
+amp,amp,amp,10991,NOUN,conj,False
+RT,RT,rt,275072,PROPN,compound,False
+Tag,tag,tag,315231,NOUN,compound,False
+friends,friend,friend,118947,NOUN,nsubj,False
+Ends,end,end,99559,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+hours,hour,hour,144367,NOUN,pobj,False
+Token,Token,token,325206,PROPN,compound,False
+Offering,offering,offering,211587,NOUN,dobj,False

@@ -1,0 +1,13 @@
+the,the,the,320691,DET,det,True
+screen,screen,screen,281701,NOUN,nsubj,False
+behind,behind,behind,30817,ADP,prep,True
+makes,make,make,178090,VERB,ROOT,False
+look,look,look,175060,VERB,ccomp,False
+like,like,like,172172,SCONJ,mark,False
+re,be,be,29345,VERB,aux,True
+performing,perform,perform,230668,VERB,advcl,False
+in,in,in,149313,ADP,prep,True
+front,front,front,119330,NOUN,amod,True
+moas,moas,moas,190915,PROPN,compound,False
+w,w,w,361650,PROPN,compound,False
+lightsticks,lightsticks,nightstick,199977,PROPN,pobj,False

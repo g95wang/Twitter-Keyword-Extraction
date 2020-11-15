@@ -1,0 +1,16 @@
+m,be,be,29345,VERB,ROOT,False
+an,an,an,11448,DET,det,True
+essential,essential,essential,104520,ADJ,amod,False
+worker,worker,worker,367494,NOUN,dobj,False
+getting,get,get,124419,VERB,acl,False
+about,about,about,756,ADV,prep,True
+hours,hour,hour,144367,NOUN,conj,False
+m,be,be,29345,VERB,ROOT,False
+making,make,make,178090,VERB,ROOT,False
+more,more,more,193383,ADJ,dobj,True
+than,than,than,320565,SCONJ,prep,True
+these,these,these,321594,DET,det,True
+unemployment,unemployment,unemployment,341213,NOUN,nmod,False
+lazy,lazy,lazy,169446,ADJ,amod,False
+asses,asse,asse,21625,VERB,compound,False
+hahaha,hahaha,haha,132277,PROPN,pobj,False

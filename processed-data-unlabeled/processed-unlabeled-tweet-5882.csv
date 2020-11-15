@@ -1,0 +1,14 @@
+SaveapStudents,SaveapStudents,students,306790,PROPN,ROOT,False
+CancelAPExamsPromoteStudents,CancelAPExamsPromoteStudents,cancelment,46093,PROPN,compound,False
+Sirr,Sirr,shirr,288505,PROPN,appos,False
+so,so,so,295959,ADV,advmod,True
+many,many,many,179225,ADJ,amod,True
+fake,fake,fake,109380,ADJ,amod,False
+news,news,news,199421,NOUN,compound,False
+araising,araise,araise,18398,VERB,appos,False
+on,on,on,212644,ADP,prep,True
+exams,exam,exam,106444,NOUN,pobj,False
+Please,please,please,239622,INTJ,intj,True
+cancel,cancel,cancel,46069,VERB,ROOT,False
+exams,exam,exam,106444,NOUN,dobj,False
+si,si,si,289441,NOUN,intj,False

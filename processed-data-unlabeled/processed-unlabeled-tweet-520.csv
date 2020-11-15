@@ -1,0 +1,16 @@
+after,after,after,5615,ADP,prep,True
+a,a,a,0,DET,det,True
+morning,morning,morning,193499,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+Gimmie,Gimmie,gimme,125009,PROPN,pobj,False
+Timestable,Timestable,timetable,323800,PROPN,compound,False
+Rockstars,Rockstars,rocketers,273679,PROPN,conj,False
+and,and,and,12285,CCONJ,cc,True
+reading,read,read,261551,VERB,conj,False
+Joseph,Joseph,joseph,161798,PROPN,dobj,False
+has,have,have,134390,AUX,aux,True
+enjoyed,enjoy,enjoy,100598,VERB,ROOT,False
+an,an,an,11448,DET,det,True
+active,active,active,3253,ADJ,amod,False
+afternoon,afternoon,afternoon,5723,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True

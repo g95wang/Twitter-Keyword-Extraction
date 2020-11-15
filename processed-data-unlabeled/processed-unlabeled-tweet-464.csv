@@ -1,0 +1,17 @@
+favorite,favorite,favorite,110510,ADJ,amod,False
+feature,feature,feature,110707,NOUN,ROOT,False
+Oh,oh,oh,211771,INTJ,intj,False
+that,that,that,320639,DET,nsubj,True
+'s,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+tough,tough,tough,326597,ADJ,amod,False
+one,one,one,212715,NOUN,attr,True
+To,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,advcl,True
+honest,honest,honest,143389,ADJ,acomp,False
+'s,be,be,29345,AUX,ROOT,True
+probably,probably,probably,251013,ADV,advmod,False
+the,the,the,320691,DET,det,True
+paths,path,path,227679,NOUN,attr,False
+and,and,and,12285,CCONJ,cc,True
+the,the,the,320691,DET,conj,True

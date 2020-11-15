@@ -1,0 +1,13 @@
+IT,IT,it,159424,PROPN,nsubj,True
+'S,be,be,29345,AUX,auxpass,True
+BEEN,be,be,29345,VERB,ROOT,True
+YEARS,year,year,146706,NOUN,attr,False
+BUT,but,but,43550,CCONJ,cc,True
+LIKE,LIKE,like,172172,VERB,ROOT,False
+WHAT,what,what,364447,PRON,ROOT,True
+THE,the,the,320691,DET,det,True
+HELL,HELL,hell,135648,NOUN,ROOT,False
+DID,do,do,90528,VERB,aux,True
+THIS,this,this,322217,DET,nsubj,True
+EVER,ever,ever,106143,NOUN,ROOT,True
+MEAN,mean,mean,181735,VERB,advmod,False

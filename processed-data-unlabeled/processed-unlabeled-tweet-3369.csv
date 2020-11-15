@@ -1,0 +1,10 @@
+feel,feel,feel,110884,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+girl,girl,girl,125519,NOUN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+equally,equally,equally,103177,ADV,advmod,False
+responsible,responsible,responsible,269791,ADJ,acomp,False
+for,for,for,116301,ADP,prep,True
+encouraging,encourage,encourage,99482,VERB,pcomp,False
+such,such,such,309936,ADJ,amod,True
+nonsense,nonsense,nonsense,207123,NOUN,dobj,False

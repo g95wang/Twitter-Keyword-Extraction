@@ -1,0 +1,13 @@
+was,be,be,29345,AUX,ROOT,True
+when,when,when,364637,ADV,advmod,True
+Trayvon,Trayvon,rayon,260125,PROPN,compound,False
+Martin,Martin,martin,180504,PROPN,nsubjpass,False
+was,be,be,29345,AUX,auxpass,True
+killed,kill,kill,164577,VERB,advcl,False
+m,be,be,29345,VERB,ROOT,False
+now,now,now,209199,ADV,advmod,True
+and,and,and,12285,CCONJ,cc,True
+ai,be,be,29345,VERB,ROOT,False
+nt,not,not,208798,PART,neg,False
+nothing,nothing,nothing,208898,PRON,nsubj,True
+changed,change,change,52470,VERB,ccomp,False

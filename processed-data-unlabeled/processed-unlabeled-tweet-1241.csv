@@ -1,0 +1,15 @@
+GIVEAWAY,GIVEAWAY,giveaway,125695,PROPN,nsubj,False
+FOR,for,for,116301,ADP,dep,True
+HITTING,hitting,hitting,141992,NOUN,ROOT,False
+FOLLOWERS,follower,follower,115992,NOUN,dobj,False
+Titanium,Titanium,titanium,324633,PROPN,compound,False
+White,White,white,365106,PROPN,compound,False
+Zombas,Zombas,zombis,369680,PROPN,compound,False
+xx,xx,xx,368709,VERB,ROOT,False
+To,to,to,324862,PART,aux,True
+enter,enter,enter,101211,VERB,ROOT,False
+Follow,Follow,follow,115989,PROPN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+Retweet,Retweet,etwee,105245,PROPN,conj,False
+There,there,there,321216,ADV,advmod,True
+w,w,w,361650,VERB,dep,False

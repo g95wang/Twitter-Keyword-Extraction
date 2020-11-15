@@ -1,0 +1,9 @@
+Is,be,be,29345,AUX,ROOT,True
+illegal,illegal,illegal,147326,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+speculate,speculate,speculate,298965,VERB,xcomp,False
+really,really,really,261766,ADV,advmod,True
+are,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+muppet,muppet,moppet,193242,NOUN,attr,False
+sorry,sorry,sorry,297653,ADJ,acomp,False

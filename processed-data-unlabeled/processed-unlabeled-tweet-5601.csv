@@ -1,0 +1,12 @@
+When,when,when,364637,ADV,advmod,True
+come,come,come,63721,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+Sallys,Sallys,sally,277116,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+actually,actually,actually,3298,ADV,advmod,False
+read,read,read,261551,VERB,conj,False
+the,the,the,320691,DET,det,True
+signs,sign,sign,290081,NOUN,dobj,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+door,door,door,91536,NOUN,pobj,False

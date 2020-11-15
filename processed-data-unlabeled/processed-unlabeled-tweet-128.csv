@@ -1,0 +1,14 @@
+That,that,that,320639,DET,nsubj,True
+sounds,sound,sound,297846,VERB,ROOT,False
+lovely,lovely,lovely,175553,ADJ,acomp,False
+to,to,to,324862,ADP,prep,True
+Maybe,maybe,maybe,177755,ADV,advmod,False
+just,just,just,162503,ADV,advmod,True
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+rain,rain,rain,260071,VERB,ccomp,False
+because,because,because,29780,SCONJ,mark,True
+'m,be,be,29345,AUX,auxpass,True
+stuck,stick,stick,304284,VERB,conj,False
+indoors,indoor,indoor,151259,NOUN,dobj,False
+anyway,anyway,anyway,13378,ADV,advmod,True

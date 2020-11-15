@@ -1,0 +1,17 @@
+Why,why,why,364728,ADV,advmod,True
+Vatican,Vatican,vatican,357500,PROPN,ROOT,False
+Jesus,Jesus,jesus,161034,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+from,from,from,119298,ADP,prep,True
+Italy,Italy,italy,159438,PROPN,pobj,False
+By,by,by,33133,ADP,ROOT,True
+the,the,the,320691,DET,det,True
+same,same,same,277518,ADJ,amod,True
+logic,logic,logic,174603,NOUN,amod,False
+temples,temple,temple,318563,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+Ram,Ram,ram,260234,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+Krishna,Krishna,krishna,166311,PROPN,conj,False
+sho,sho,sho,288620,INTJ,pobj,False

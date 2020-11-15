@@ -1,0 +1,17 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+how,how,how,144540,ADV,advmod,True
+insane,insane,insane,153391,ADJ,acomp,False
+the,the,the,320691,DET,det,True
+leftist,leftist,leftist,169991,ADJ,amod,False
+party,party,party,226988,NOUN,compound,False
+hash,hash,hash,134064,NOUN,nsubj,False
+gone,go,go,127161,VERB,ccomp,False
+really,really,really,261766,ADV,advmod,True
+Hope,hope,hope,143674,VERB,ROOT,False
+miss,miss,miss,189987,VERB,ccomp,False
+out,out,out,216108,ADP,prt,True
+on,on,on,212644,ADP,prep,True
+all,all,all,8522,DET,det,True
+future,future,future,120712,ADJ,amod,False
+plans,plan,plan,238877,NOUN,pobj,False

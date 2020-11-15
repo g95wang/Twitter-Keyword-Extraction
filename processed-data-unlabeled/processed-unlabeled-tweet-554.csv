@@ -1,0 +1,6 @@
+really,really,really,261766,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+am,be,be,29345,AUX,ccomp,True
+happy,happy,happy,133513,ADJ,acomp,False
+finally,finally,finally,112856,ADV,advmod,False
+bought,buy,buy,42353,VERB,ccomp,False

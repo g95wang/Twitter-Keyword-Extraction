@@ -1,0 +1,12 @@
+Kirk,Kirk,kirk,165070,PROPN,compound,False
+Herbstreit,Herbstreit,streit,306040,PROPN,nsubj,False
+Says,say,say,276740,VERB,ROOT,False
+NFL,NFL,infl,152075,PROPN,nmod,False
+and,and,and,12285,CCONJ,cc,True
+College,College,college,62931,PROPN,conj,False
+Football,Football,football,116135,PROPN,nsubj,False
+Should,Should,should,288990,VERB,aux,True
+Be,be,be,29345,AUX,auxpass,True
+Postponed,postpone,postpone,244404,VERB,ccomp,False
+Too,too,too,325685,ADV,advmod,True
+Risky,risky,risky,273250,ADJ,npadvmod,False

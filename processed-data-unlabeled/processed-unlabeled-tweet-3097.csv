@@ -1,0 +1,4 @@
+Bro,Bro,bro,41034,PROPN,npadvmod,False
+read,read,read,261551,VERB,ROOT,False
+this,this,this,322217,DET,det,True
+thread,thread,thread,322554,NOUN,dobj,False

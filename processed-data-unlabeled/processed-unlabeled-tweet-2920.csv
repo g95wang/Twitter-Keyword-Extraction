@@ -1,0 +1,17 @@
+s,s,s,275971,VERB,ROOT,False
+a,a,a,0,DET,det,True
+clown,clown,clown,60597,NOUN,attr,False
+making,make,make,178090,VERB,acl,False
+a,a,a,0,DET,det,True
+show,show,show,289042,NOUN,dobj,True
+of,of,of,211535,ADP,prep,True
+grandstanding,grandstand,grandstand,128894,VERB,pcomp,False
+pointlessly,pointlessly,pointlessly,241346,ADV,advmod,False
+there,there,there,321216,PRON,expl,True
+s,s,s,275971,VERB,ROOT,False
+literally,literally,literally,173575,ADV,advmod,False
+no,no,no,200529,DET,det,True
+point,point,point,241315,NOUN,attr,False
+to,to,to,324862,ADP,prep,True
+at,at,at,22372,ADV,advmod,True
+all,all,all,8522,ADV,advmod,True

@@ -1,0 +1,12 @@
+Blue,blue,blue,36690,ADJ,amod,False
+rapist,rapist,rapist,260746,NOUN,ROOT,False
+better,well,well,364011,ADV,amod,False
+than,than,than,320565,SCONJ,prep,True
+red,red,red,263841,ADJ,amod,False
+rapist,rapist,rapist,260746,NOUN,pobj,False
+If,if,if,146980,SCONJ,mark,True
+only,only,only,212848,ADV,advmod,True
+there,there,there,321216,PRON,expl,True
+was,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+ca,ca,ca,43830,NOUN,attr,True

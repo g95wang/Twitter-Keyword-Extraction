@@ -1,0 +1,16 @@
+NIRX,NIRX,nix,200504,PROPN,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,auxpass,True
+listed,list,list,173498,VERB,relcl,False
+at,at,at,22372,ADP,prep,True
+BitXmi,BitXmi,biti,35197,PROPN,pobj,False
+on,on,on,212644,ADP,prep,True
+To,to,to,324862,PART,aux,True
+celebrate,celebrate,celebrate,50448,VERB,advcl,False
+event,event,event,106111,NOUN,dobj,False
+users,user,user,355977,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+share,share,share,287481,VERB,ROOT,False
+NIRX,NIRX,nix,200504,PROPN,compound,False
+Follow,Follow,follow,115989,PROPN,compound,False
+Follow,Follow,follow,115989,PROPN,dobj,False

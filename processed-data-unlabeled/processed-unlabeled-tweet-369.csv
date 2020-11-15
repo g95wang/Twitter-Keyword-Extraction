@@ -1,0 +1,17 @@
+Mr.,Mr.,mr,194474,PROPN,compound,False
+Ambassador,Ambassador,ambassador,9938,PROPN,npadvmod,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+mother,mother,mother,193933,NOUN,attr,False
+whom,whom,whom,365315,PRON,pobj,True
+have,have,have,134390,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+spoken,speak,speak,298684,VERB,relcl,False
+to,to,to,324862,ADP,prep,True
+for,for,for,116301,ADP,prep,True
+months,month,month,192909,NOUN,pobj,False
+whom,whom,whom,365315,PRON,dobj,True
+of,of,of,211535,ADP,prep,True
+granddaughters,granddaughter,granddaughter,128811,NOUN,pobj,False
+never,never,never,199350,ADV,neg,True
+se,se,se,282384,VERB,ccomp,False

@@ -1,0 +1,15 @@
+Hangyul,Hangyul,hangul,133366,PROPN,nsubj,False
+complimented,compliment,compliment,64714,VERB,ROOT,False
+eyeshadow,eyeshadow,beshadow,32315,NOUN,dobj,False
+looks,look,look,175060,VERB,ccomp,False
+good,good,good,127869,ADJ,acomp,False
+so,so,so,295959,ADV,advmod,True
+Dohyon,Dohyon,doon,91534,PROPN,nsubj,False
+ran,run,run,275612,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+the,the,the,320691,DET,det,True
+mirror,mirror,mirror,188519,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+check,check,check,53311,VERB,advcl,False
+so,so,so,295959,ADV,advmod,True
+cute,cute,cute,75755,ADJ,oprd,False

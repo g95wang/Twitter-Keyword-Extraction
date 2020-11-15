@@ -1,0 +1,16 @@
+Jewish,jewish,jewish,161117,ADJ,amod,False
+Captain,captain,captain,47176,NOUN,compound,False
+dad,dad,dad,76084,NOUN,nsubj,False
+documented,document,document,90695,VERB,ROOT,False
+what,what,what,364447,PRON,dobj,True
+discovered,discover,discover,87665,VERB,ccomp,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+liberation,liberation,liberation,171499,NOUN,compound,False
+team,team,team,317482,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+Dachau,Dachau,dacha,75972,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+WWII,WWII,wiwi,366769,PROPN,pobj,False
+has,have,have,134390,AUX,ROOT,True
+ma,ma,ma,176592,PROPN,dobj,False

@@ -1,0 +1,17 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+completely,completely,completely,64638,ADV,advmod,False
+unacceptable,unacceptable,unacceptable,334415,ADJ,acomp,False
+Who,who,who,365278,PRON,attr,True
+are,be,be,29345,AUX,ROOT,True
+these,these,these,321594,DET,det,True
+men,man,man,178862,NOUN,attr,False
+What,what,what,364447,DET,det,True
+agency,agency,agency,5992,NOUN,dobj,False
+do,do,do,90528,AUX,aux,True
+represent,represent,represent,268488,VERB,ROOT,False
+What,what,what,364447,PRON,attr,True
+is,be,be,29345,AUX,ROOT,True
+chain,chain,chain,51972,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+command,command,command,63866,NOUN,pobj,False

@@ -1,0 +1,15 @@
+are,be,be,29345,AUX,ccomp,True
+happy,happy,happy,133513,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+share,share,share,287481,VERB,xcomp,False
+jai,jai,jai,160134,NOUN,compound,False
+mass,mass,mass,180750,ADJ,compound,False
+entry,entry,entry,101704,NOUN,compound,False
+clebrations,clebration,celebration,50455,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+rtcxroads,rtcxroad,troad,330871,NOUN,compound,False
+area,area,area,19298,NOUN,pobj,False
+follow,follow,follow,115989,VERB,ROOT,False
+Mental,mental,mental,183495,ADJ,amod,False
+mass,mass,mass,180750,NOUN,compound,False
+entry,entry,entry,101704,NOUN,ROOT,False

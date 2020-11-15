@@ -1,0 +1,14 @@
+More,More,more,193383,ADJ,amod,True
+consumers,consumer,consumer,67193,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+accepting,accept,accept,1468,VERB,ROOT,False
+FacialRecognition,FacialRecognition,irrecognition,158178,PROPN,compound,False
+systems,system,system,292520,NOUN,dobj,False
+as,as,as,20837,SCONJ,prep,True
+contactless,contactless,contactile,67233,NOUN,compound,False
+alternatives,alternative,alternative,9491,NOUN,pobj,False
+during,during,during,94458,ADP,prep,True
+the,the,the,320691,DET,det,True
+COVID19,covid19,covid,71525,NOUN,nummod,False
+pandemic,pandemic,pandemic,224465,NOUN,pobj,False
+w,w,w,361650,NOUN,punct,False

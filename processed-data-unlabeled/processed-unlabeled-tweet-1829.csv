@@ -1,0 +1,13 @@
+therefore,therefore,therefore,321243,ADV,advmod,True
+i,i,i,145455,PRON,nsubj,True
+conclude,conclude,conclude,65360,VERB,advcl,False
+ros,ros,ros,274418,PROPN,compound,False
+solo,solo,solo,296839,PROPN,compound,False
+album,album,album,7508,NOUN,nsubjpass,False
+must,must,must,196148,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+released,release,release,266810,VERB,ROOT,False
+as,as,as,20837,ADV,advmod,True
+soon,soon,soon,297339,ADV,advmod,False
+as,as,as,20837,SCONJ,prep,True
+possible,possible,possible,243886,ADJ,amod,False

@@ -1,0 +1,16 @@
+has,have,have,134390,AUX,aux,True
+shown,show,show,289042,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+a,a,a,0,DET,det,True
+strong,strong,strong,306510,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+principled,principle,principle,250661,VERB,conj,False
+DNI,DNI,dani,76777,PROPN,dobj,False
+say,say,say,276740,VERB,ROOT,True
+ReleaseTheTranscripts,releasethetranscript,teletranscription,318291,NOUN,dobj,False
+without,without,without,366665,ADP,prep,True
+Adam,Adam,adam,3414,PROPN,compound,False
+Schiff,Schiff,schiffli,280136,PROPN,pobj,False
+as,as,as,20837,SCONJ,prep,True
+h,h,h,131712,NOUN,pobj,False

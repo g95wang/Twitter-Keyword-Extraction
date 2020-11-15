@@ -1,0 +1,14 @@
+SourCandy,SourCandy,organdy,214349,PROPN,nsubj,False
+has,have,have,134390,AUX,aux,True
+surpassed,surpass,surpass,313528,VERB,ROOT,False
+HALF,HALF,half,132585,PROPN,compound,False
+A,A,a,0,PROPN,compound,True
+MILLION,MILLION,million,187421,PROPN,nummod,False
+likes,like,like,172172,VERB,dobj,False
+on,on,on,212644,ADP,prep,True
+YouTube,YouTube,outbeg,216184,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+just,just,just,162503,ADV,advmod,True
+over,over,over,218092,ADP,quantmod,True
+an,an,an,11448,DET,nummod,True
+hour,hour,hour,144367,NOUN,pobj,False

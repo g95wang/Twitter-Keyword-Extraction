@@ -1,0 +1,12 @@
+Anyone,anyone,anyone,13244,PRON,nsubj,True
+can,can,can,45964,VERB,aux,True
+hold,hold,hold,142390,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+helm,helm,helm,135740,NOUN,dobj,False
+when,when,when,364637,ADV,advmod,True
+the,the,the,320691,DET,det,True
+sea,sea,sea,282385,NOUN,nsubj,False
+is,be,be,29345,AUX,advcl,True
+calm,calm,calm,45368,ADJ,acomp,False
+Publilius,Publilius,pullus,256291,PROPN,compound,False
+Syrus,Syrus,syrus,292453,PROPN,ROOT,False

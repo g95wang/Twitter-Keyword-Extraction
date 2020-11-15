@@ -1,0 +1,17 @@
+options,option,option,213845,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+necessarily,necessarily,necessarily,197711,ADV,advmod,False
+FACTS,FACTS,facts,109092,PROPN,acomp,False
+The,the,the,320691,DET,det,True
+fact,fact,fact,109031,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+clear,clear,clear,59644,ADJ,acomp,False
+If,if,if,146980,SCONJ,mark,True
+citizens,citizen,citizen,58672,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+Africa,Africa,africa,5583,PROPN,pobj,False
+put,put,put,257261,VERB,ROOT,True
+a,a,a,0,DET,det,True
+vote,vote,vote,361409,NOUN,dobj,False
+w,w,w,361650,PROPN,npadvmod,False

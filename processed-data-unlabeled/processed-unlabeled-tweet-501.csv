@@ -1,0 +1,12 @@
+there,there,there,321216,PRON,expl,True
+s,s,s,275971,VERB,ROOT,False
+a,a,a,0,DET,det,True
+giant,giant,giant,124614,NOUN,attr,False
+laying,lay,lay,167368,VERB,acl,False
+dormant,dormant,dormant,91690,ADJ,dobj,False
+but,but,but,43550,CCONJ,cc,True
+s,s,s,275971,VERB,ROOT,False
+bout,bout,bout,39076,NOUN,acomp,False
+to,to,to,324862,PART,aux,True
+awaken,awaken,awaken,24938,VERB,advcl,False
+soon,soon,soon,297339,ADV,advmod,False

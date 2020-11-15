@@ -1,0 +1,14 @@
+Follow,follow,follow,115989,VERB,ROOT,False
+up,up,up,354457,ADP,prt,True
+with,with,with,366582,ADP,prep,True
+Elmagazine,elmagazine,enmagazine,100704,NOUN,compound,False
+article,article,article,20674,NOUN,pobj,False
+Avoiding,avoid,avoid,24847,VERB,acl,False
+Racial,Racial,racial,259409,PROPN,compound,False
+Equity,Equity,equity,103408,PROPN,compound,False
+Detours,Detours,detours,83258,PROPN,dobj,False
+to,to,to,324862,PART,aux,True
+learn,learn,learn,169659,VERB,xcomp,False
+and,and,and,12285,CCONJ,cc,True
+engage,engage,engage,100294,VERB,conj,False
+further,further,further,120517,ADV,advmod,True

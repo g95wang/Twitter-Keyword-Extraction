@@ -1,0 +1,11 @@
+Online,online,online,212850,ADJ,compound,False
+exams,exam,exam,106444,NOUN,nsubj,False
+do,do,do,90528,AUX,aux,True
+really,really,really,261766,ADV,advmod,True
+test,test,test,319741,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+students,student,student,306785,NOUN,poss,False
+knowledge,knowledge,knowledge,165721,NOUN,dobj,False
+or,or,or,213904,CCONJ,cc,True
+internet,internet,internet,155496,NOUN,compound,False
+connection,connection,connection,66506,NOUN,conj,False

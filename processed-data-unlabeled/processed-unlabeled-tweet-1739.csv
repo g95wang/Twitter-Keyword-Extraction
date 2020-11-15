@@ -1,0 +1,11 @@
+PLEASE,please,please,239622,VERB,ROOT,True
+no,no,no,200529,ADV,neg,True
+matter,matter,matter,181309,ADV,advmod,False
+how,how,how,144540,ADV,advmod,True
+big,big,big,33680,ADJ,ccomp,False
+or,or,or,213904,CCONJ,cc,True
+small,small,small,294676,ADJ,conj,False
+platform,platform,platform,239346,NOUN,conj,False
+help,help,help,135801,VERB,conj,False
+spread,spread,spread,301217,VERB,xcomp,False
+awareness,awareness,awareness,24971,NOUN,compound,False

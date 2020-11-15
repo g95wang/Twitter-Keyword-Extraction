@@ -1,0 +1,12 @@
+Affinitweet,Affinitweet,affinite,5384,PROPN,compound,False
+Valentine,Valentine,valentine,356656,PROPN,ROOT,False
+This,this,this,322217,DET,det,True
+year,year,year,146706,NOUN,npadvmod,False
+'re,be,be,29345,AUX,ROOT,True
+CollinsKey,CollinsKey,collinses,63036,PROPN,npadvmod,False
+And,and,and,12285,CCONJ,cc,True
+whom,whom,whom,365315,PRON,nsubj,True
+will,will,will,365768,VERB,aux,True
+be,be,be,29345,AUX,relcl,True
+yours,yours,yours,157757,DET,attr,True
+via,via,via,359224,ADP,ROOT,True

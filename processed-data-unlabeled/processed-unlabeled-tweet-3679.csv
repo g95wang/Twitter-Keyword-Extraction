@@ -1,0 +1,15 @@
+Bitcoin,Bitcoin,biscotin,34951,PROPN,compound,False
+Cash,cash,cash,48853,NOUN,compound,False
+price,price,price,250334,NOUN,nsubj,False
+varies,vary,vary,357167,VERB,ROOT,False
+near,near,near,197596,SCONJ,prep,False
+what,what,what,364447,PRON,nsubj,True
+s,s,s,275971,VERB,ccomp,False
+next,next,next,199504,ADV,advmod,True
+instabtc,instabtc,instant,153848,NOUN,ROOT,False
+fintech,fintech,finch,112879,NOUN,compound,False
+mining,mining,mining,187903,NOUN,compound,False
+trading,trade,trade,327240,VERB,compound,False
+premining,premine,premie,248381,VERB,ROOT,False
+hardcap,hardcap,haircap,132384,NOUN,dobj,False
+cardano,cardano,cardanol,47698,NOUN,ROOT,False

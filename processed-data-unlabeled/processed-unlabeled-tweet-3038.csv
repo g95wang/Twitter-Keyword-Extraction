@@ -1,0 +1,11 @@
+This,this,this,322217,DET,det,True
+virus,virus,virus,360286,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+not,not,not,208798,PART,neg,True
+touch,touch,touch,326560,VERB,ROOT,False
+household,household,household,144419,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+the,the,the,320691,DET,det,True
+name,name,name,196686,NOUN,pobj,True
+of,of,of,211535,ADP,prep,True
+Jesus,Jesus,jesus,161034,PROPN,pobj,False

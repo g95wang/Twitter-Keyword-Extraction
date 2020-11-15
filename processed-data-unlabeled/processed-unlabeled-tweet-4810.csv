@@ -1,0 +1,12 @@
+Are,be,be,29345,AUX,ROOT,True
+Not,not,not,208798,PART,neg,True
+Fake,fake,fake,109380,ADJ,acomp,False
+And,and,and,12285,CCONJ,cc,True
+paid,pay,pay,223065,VERB,conj,False
+PowerOfSid,PowerOfSid,poneroid,243018,PROPN,pobj,False
+Are,be,be,29345,AUX,ROOT,True
+Not,not,not,208798,PART,neg,True
+Fake,fake,fake,109380,ADJ,acomp,False
+And,and,and,12285,CCONJ,cc,True
+paid,pay,pay,223065,VERB,conj,False
+PowerOfSid,PowerOfSid,poneroid,243018,PROPN,pobj,False

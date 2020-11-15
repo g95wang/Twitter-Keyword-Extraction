@@ -1,0 +1,6 @@
+are,be,be,29345,AUX,aux,True
+not,not,not,208798,PART,neg,True
+testing,test,test,319741,VERB,ROOT,False
+as,as,as,20837,ADV,advmod,True
+aggressively,aggressively,aggressively,6141,ADV,advmod,False
+as,as,as,20837,SCONJ,prep,True

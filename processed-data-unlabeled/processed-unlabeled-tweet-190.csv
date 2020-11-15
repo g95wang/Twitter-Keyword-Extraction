@@ -1,0 +1,16 @@
+That,that,that,320639,DET,nsubj,True
+s,s,s,275971,VERB,ROOT,False
+what,what,what,364447,PRON,nsubj,True
+happens,happen,happen,133505,VERB,ccomp,False
+when,when,when,364637,ADV,advmod,True
+let,let,let,170875,VERB,advcl,False
+Jordans,Jordans,jordans,161781,PROPN,compound,False
+production,production,production,251589,VERB,compound,False
+company,company,company,64367,NOUN,nsubj,False
+produce,produce,produce,251568,VERB,ccomp,False
+the,the,the,320691,DET,det,True
+doc,doc,doc,90576,NOUN,dobj,False
+Tons,ton,ton,325491,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+things,thing,thing,321869,NOUN,pobj,False
+were,be,be,29345,AUX,ROOT,True

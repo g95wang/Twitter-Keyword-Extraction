@@ -1,0 +1,14 @@
+Best,good,good,127869,ADJ,compound,False
+Actor,Actor,actor,3272,PROPN,compound,False
+Best,Best,best,32549,PROPN,compound,False
+Dancer,Dancer,dancer,76678,PROPN,compound,False
+South,South,south,297980,PROPN,compound,False
+Indian,Indian,indian,150876,PROPN,compound,False
+Actor,Actor,actor,3272,PROPN,ROOT,False
+Indian,Indian,indian,150876,PROPN,compound,False
+Dancer,Dancer,dancer,76678,PROPN,compound,False
+Allu,Allu,ayllu,6777,PROPN,compound,False
+bhai,bhai,bahai,26376,NOUN,nsubj,False
+bolthey,bolthey,bolty,37647,NOUN,ROOT,False
+north,north,north,208605,NOUN,advmod,False
+17victoriousyrso,17victoriousyrso,victoriously,359474,ADJ,ROOT,False

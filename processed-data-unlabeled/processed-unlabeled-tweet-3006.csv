@@ -1,0 +1,8 @@
+no,no,no,200529,DET,det,True
+more,more,more,193383,ADJ,advmod,True
+victim,victim,victim,359436,NOUN,ROOT,False
+no,no,no,200529,DET,neg,True
+more,more,more,193383,ADV,amod,True
+n,n,n,196396,ADJ,punct,False
+NOMORE_NTHROOM,NOMORE_NTHROOM,omentotomy,212422,NOUN,appos,False
+n,n,n,196396,CCONJ,punct,False

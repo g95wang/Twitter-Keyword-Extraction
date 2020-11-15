@@ -1,0 +1,17 @@
+won,win,win,365877,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+House,House,house,144380,PROPN,dobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+Ned,Ned,ned,197902,PROPN,compound,False
+achievement,achievement,achievement,2253,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+Borderlands,Borderlands,borderlands,38380,PROPN,pobj,False
+Game,Game,game,121666,PROPN,appos,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+Year,Year,year,146706,PROPN,compound,False
+Edition,Edition,edition,95779,PROPN,pobj,False
+for,for,for,116301,ADP,prep,True
+TrueAchievement,TrueAchievement,reachievement,261491,PROPN,compound,False
+pts,pts,pts,255876,NOUN,pobj,False

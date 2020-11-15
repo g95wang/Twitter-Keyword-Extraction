@@ -1,0 +1,9 @@
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+get,get,get,124419,AUX,ROOT,True
+yo,yo,yo,157406,PROPN,compound,False
+feelings,feeling,feeling,110891,NOUN,nsubj,False
+hurt,hurt,hurt,145284,PROPN,ccomp,False
+tryna,tryna,terna,319432,PROPN,nsubj,False
+hurt,hurt,hurt,145284,PROPN,ROOT,False
+mine,mine,mine,187723,NOUN,dobj,True

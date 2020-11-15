@@ -1,0 +1,13 @@
+view,view,view,359574,NOUN,ROOT,False
+every,every,every,106158,DET,det,True
+morning,morning,morning,193499,NOUN,npadvmod,False
+when,when,when,364637,ADV,advmod,True
+wake,wake,wake,362124,VERB,advcl,False
+up,up,up,354457,ADP,prt,True
+And,and,and,12285,CCONJ,cc,True
+pretty,pretty,pretty,250049,ADJ,amod,False
+freakin,freakin,freaking,118535,ADJ,ROOT,False
+amazing,amazing,amazing,9904,ADJ,advmod,False
+boxers,boxer,boxer,39277,NOUN,ROOT,False
+boxer,boxer,boxer,39277,VERB,dobj,False
+YouGotSomethingForMe,YouGotSomethingForMe,geometriform,123954,PROPN,ROOT,False

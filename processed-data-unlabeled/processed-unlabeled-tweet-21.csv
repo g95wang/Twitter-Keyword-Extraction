@@ -1,0 +1,10 @@
+Rog,Rog,rog,273827,PROPN,nsubj,False
+played,play,play,238701,VERB,ROOT,False
+a,a,a,0,DET,det,True
+good,good,good,127869,ADJ,amod,False
+game,game,game,121666,NOUN,dobj,False
+true,true,true,331515,ADJ,advmod,False
+but,but,but,43550,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+fact,fact,fact,109031,NOUN,compound,False
+t,t,t,314735,NOUN,conj,False

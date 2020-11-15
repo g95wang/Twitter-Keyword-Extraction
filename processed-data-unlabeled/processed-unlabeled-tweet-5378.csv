@@ -1,0 +1,11 @@
+Sometimes,sometimes,sometimes,297064,ADV,advmod,True
+good,good,good,127869,ADJ,amod,False
+things,thing,thing,321869,NOUN,nsubj,False
+fall,fall,fall,109467,VERB,ROOT,False
+apart,apart,apart,16662,ADV,advmod,False
+so,so,so,295959,ADV,advmod,True
+better,well,well,364011,ADJ,advmod,False
+things,thing,thing,321869,NOUN,nsubj,False
+can,can,can,45964,VERB,aux,True
+fall,fall,fall,109467,VERB,ccomp,False
+together,together,together,325095,ADV,advmod,True

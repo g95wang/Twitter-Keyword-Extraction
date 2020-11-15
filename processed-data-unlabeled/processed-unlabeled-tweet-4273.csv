@@ -1,0 +1,13 @@
+nah,nah,nach,196451,PROPN,ROOT,False
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+unacceptable,unacceptable,unacceptable,334415,ADJ,acomp,False
+whoever,whoever,whoever,365284,PRON,nsubj,True
+put,put,put,257261,VERB,csubj,True
+out,out,out,216108,ADP,prt,True
+this,this,this,322217,DET,det,True
+article,article,article,20674,NOUN,dobj,False
+needs,need,need,197910,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,auxpass,True
+fired,fire,fire,113100,VERB,xcomp,False

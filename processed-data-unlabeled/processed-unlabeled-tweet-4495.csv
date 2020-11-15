@@ -1,0 +1,17 @@
+Fake,Fake,fake,109380,PROPN,compound,False
+news,news,news,199421,NOUN,nsubjpass,False
+is,be,be,29345,AUX,auxpass,True
+generated,generate,generate,123486,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+outlets,outlet,outlet,216930,NOUN,pobj,False
+that,that,that,320639,DET,nsubj,True
+masquerade,masquerade,masquerade,180742,VERB,relcl,False
+as,as,as,20837,SCONJ,prep,True
+actual,actual,actual,3283,ADJ,amod,False
+media,medium,medium,182217,NOUN,compound,False
+sites,site,site,292615,NOUN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+promulgate,promulgate,promulgate,252362,ADJ,amod,False
+false,false,false,109519,ADJ,conj,False
+or,or,or,213904,CCONJ,cc,True
+misle,misle,misled,189563,ADJ,conj,False

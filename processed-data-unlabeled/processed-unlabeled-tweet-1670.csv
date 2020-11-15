@@ -1,0 +1,12 @@
+The,the,the,320691,DET,det,True
+police,police,police,241679,NOUN,compound,False
+officer,officer,officer,211608,NOUN,nsubjpass,False
+who,who,who,365278,PRON,nsubj,True
+killed,kill,kill,164577,VERB,relcl,False
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,dobj,False
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+charged,charge,charge,52797,VERB,ROOT,False
+with,with,with,366582,ADP,prep,True
+murder,murder,murder,195668,NOUN,pobj,False

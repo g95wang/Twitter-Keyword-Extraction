@@ -1,0 +1,13 @@
+Headline,Headline,headline,134642,PROPN,compound,False
+Breaking,Breaking,breaking,40257,PROPN,compound,False
+News,News,news,199421,PROPN,ROOT,False
+Starship,Starship,starship,302952,PROPN,compound,False
+Trooper,Trooper,trooper,331114,PROPN,nsubj,False
+lands,land,land,167907,VERB,ROOT,False
+in,in,in,149313,ADP,prep,True
+Canada,Canada,canada,45976,PROPN,pobj,False
+Trudeau,Trudeau,trumeau,331567,PROPN,nsubj,False
+has,have,have,134390,AUX,ROOT,True
+RCMP,RCMP,camp,45775,PROPN,nsubj,False
+round,round,round,274842,ADV,ccomp,False
+up,up,up,354457,ADP,prt,True

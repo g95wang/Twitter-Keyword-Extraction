@@ -1,0 +1,16 @@
+Watching,watch,watch,363049,VERB,csubj,False
+the,the,the,320691,DET,det,True
+footage,footage,footage,116132,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+GeorgeFloyd,GeorgeFloyd,george,124030,PROPN,pobj,False
+has,have,have,134390,AUX,aux,True
+made,make,make,178090,VERB,ROOT,True
+physically,physically,physically,234059,ADV,advmod,False
+sick,sick,sick,289609,ADJ,ccomp,False
+Under,under,under,338801,ADP,prep,True
+normal,normal,normal,208534,ADJ,amod,False
+circumstances,circumstance,circumstance,58244,NOUN,pobj,False
+would,would,would,367745,VERB,aux,True
+never,never,never,199350,ADV,neg,True
+say,say,say,276740,VERB,ROOT,True
+this,this,this,322217,DET,dobj,True

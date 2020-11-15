@@ -1,0 +1,15 @@
+Watch,watch,watch,363049,VERB,ROOT,False
+this,this,this,322217,DET,dobj,True
+The,the,the,320691,DET,det,True
+shockingly,shockingly,shockingly,288653,ADV,advmod,False
+unplanned,unplanned,unplanned,348004,ADJ,amod,False
+way,way,way,361946,NOUN,ROOT,False
+India,India,india,150872,PROPN,nsubj,False
+announced,announce,announce,13604,VERB,relcl,False
+lockdown,lockdown,lookdown,175062,NOUN,nsubj,False
+might,may,may,177739,VERB,aux,True
+actually,actually,actually,3298,ADV,advmod,False
+lead,lead,lead,169508,VERB,ccomp,False
+to,to,to,324862,ADP,prep,True
+more,more,more,193383,ADJ,amod,True
+infections,infection,infection,151868,NOUN,pobj,False

@@ -1,0 +1,16 @@
+IT,it,it,159424,PRON,nsubj,True
+TOOK,take,take,315491,VERB,ROOT,False
+ALL,all,all,8522,DET,det,True
+STATES,state,state,303029,NOUN,dobj,False
+THE,the,the,320691,DET,det,True
+AMISH,AMISH,amish,10673,PROPN,conj,False
+KPOP,KPOP,kop,166044,PROPN,compound,False
+STANS,STANS,stains,302431,PROPN,conj,False
+OTHER,OTHER,other,215836,PROPN,amod,True
+COUNTRIES,COUNTRIES,countries,71233,PROPN,conj,False
+WITCHES,WITCHES,witches,366546,PROPN,conj,False
+ANONYMOUS,ANONYMOUS,anonymous,13804,PROPN,conj,False
+THE,the,the,320691,DET,det,True
+LGBT,LGBT,lgth,171368,PROPN,compound,False
+COMMUNITY,COMMUNITY,community,64281,PROPN,conj,False
+CELEBRITIES,CELEBRITIES,celebrities,50467,PROPN,conj,False

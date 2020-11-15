@@ -1,0 +1,13 @@
+A,a,a,0,DET,det,True
+BLACK,BLACK,black,35431,PROPN,compound,False
+TRANS,trans,trans,327664,NOUN,compound,False
+MAN,man,man,178862,NOUN,nsubj,False
+WAS,be,be,29345,VERB,ROOT,True
+K!LLED,K!LLED,killed,164590,PROPN,attr,False
+IN,in,in,149313,ADP,prep,True
+TALLAHASSEE,TALLAHASSEE,tallahassee,315669,PROPN,compound,False
+TODAY,today,today,325003,NOUN,pobj,False
+KNOW,know,know,165702,VERB,ROOT,False
+HIS,his,his,141668,DET,poss,True
+NAME,NAME,name,196686,PROPN,dobj,True
+TonyMcDade,tonymcdade,trionychidae,330241,NOUN,compound,False

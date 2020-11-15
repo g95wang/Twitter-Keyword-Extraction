@@ -1,0 +1,16 @@
+Powerful,powerful,powerful,245007,ADJ,amod,False
+video,video,video,359514,NOUN,nsubj,False
+shows,show,show,289042,VERB,ROOT,False
+Iranians,Iranians,iranians,157873,PROPN,nsubj,False
+demonstrating,demonstrate,demonstrate,80855,VERB,ccomp,False
+more,more,more,193383,ADJ,amod,True
+respect,respect,respect,269692,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+the,the,the,320691,DET,det,True
+US,US,us,355940,PROPN,compound,True
+flag,flag,flag,113704,NOUN,pobj,False
+than,than,than,320565,SCONJ,mark,True
+Colin,Colin,colin,62770,PROPN,compound,False
+Kaepernick,Kaepernick,kupfernickel,166481,PROPN,nsubj,False
+has,have,have,134390,AUX,advcl,True
+TheBlaze,TheBlaze,emblaze,98091,PROPN,dobj,False

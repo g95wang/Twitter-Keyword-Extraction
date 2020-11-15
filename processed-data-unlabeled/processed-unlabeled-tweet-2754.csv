@@ -1,0 +1,14 @@
+Dr,Dr,dr,92424,PROPN,nsubj,False
+believe,believe,believe,31085,VERB,ROOT,False
+a,a,a,0,DET,det,True
+test,test,test,319741,NOUN,nsubj,False
+on,on,on,212644,ADP,prep,True
+the,the,the,320691,DET,det,True
+st,st,st,302135,PROPN,compound,False
+go,go,go,127161,VERB,pobj,True
+does,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+mean,mean,mean,181735,VERB,ccomp,False
+are,be,be,29345,AUX,ccomp,True
+free,free,free,118571,ADJ,acomp,False
+from,from,from,119298,ADP,prep,True

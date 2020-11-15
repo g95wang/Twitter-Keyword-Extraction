@@ -1,0 +1,17 @@
+has,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,auxpass,True
+scientifically,scientifically,scientifically,280641,ADV,advmod,False
+proven,prove,prove,254009,VERB,ROOT,False
+that,that,that,320639,SCONJ,det,True
+consuming,consume,consume,67189,VERB,ccomp,False
+non-,non-,non,200943,PROPN,punct,False
+veg,veg,veg,357675,PROPN,advmod,False
+cause,cause,cause,50043,PROPN,ROOT,False
+intestine,intestine,intestine,156260,NOUN,compound,False
+cancer,cancer,cancer,46095,NOUN,nsubj,False
+and,and,and,12285,CCONJ,cc,True
+person,person,person,231951,NOUN,conj,False
+becomes,become,become,29882,VERB,ccomp,True
+vulnerable,vulnerable,vulnerable,361591,ADJ,acomp,False
+to,to,to,324862,ADP,prep,True
+bird,bird,bird,34732,NOUN,pobj,False

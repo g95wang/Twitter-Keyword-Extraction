@@ -1,0 +1,13 @@
+what,what,what,364447,PRON,attr,True
+the,the,the,320691,DET,det,True
+hell,hell,hell,135648,NOUN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+wrong,wrong,wrong,368091,ADJ,acomp,False
+with,with,with,366582,ADP,prep,True
+l.,l.,l,166589,PROPN,compound,False
+graham,graham,graham,128613,PROPN,pobj,False
+lately,lately,lately,168822,ADV,advmod,False
+'s,be,be,29345,AUX,auxpass,True
+become,become,become,29882,VERB,ROOT,True
+a,a,a,0,DET,det,True
+turncoat,turncoat,turncoat,332806,NOUN,attr,False

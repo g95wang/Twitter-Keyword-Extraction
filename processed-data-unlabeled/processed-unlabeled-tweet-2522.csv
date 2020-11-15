@@ -1,0 +1,13 @@
+LMAO,LMAO,lao,168251,PROPN,ROOT,False
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+even,even,even,106079,ADV,advmod,True
+funnier,funny,funny,120308,ADJ,acomp,False
+since,since,since,291358,SCONJ,mark,True
+have,have,have,134390,AUX,advcl,True
+no,no,no,200529,DET,det,True
+idea,idea,idea,146298,NOUN,dobj,False
+who,who,who,365278,PRON,attr,True
+this,this,this,322217,DET,det,True
+bitch,bitch,bitch,35166,NOUN,nsubj,False
+is,be,be,29345,AUX,relcl,True

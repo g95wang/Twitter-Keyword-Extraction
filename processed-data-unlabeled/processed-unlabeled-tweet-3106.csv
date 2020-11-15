@@ -1,0 +1,8 @@
+All,all,all,8522,DET,predet,True
+that,that,that,320639,DET,det,True
+space,space,space,298142,NOUN,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+next,next,next,199504,ADV,advmod,True
+to,to,to,324862,ADP,prep,True
+LIKE,like,like,172172,VERB,ROOT,False
+THAT,that,that,320639,DET,dobj,True

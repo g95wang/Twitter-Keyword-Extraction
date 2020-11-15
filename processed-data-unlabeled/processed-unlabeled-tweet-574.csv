@@ -1,0 +1,15 @@
+T,t,t,314735,NOUN,nmod,False
+Withfans,Withfans,withins,366654,PROPN,compound,False
+Weibo,Weibo,ceibo,50400,PROPN,compound,False
+Update,Update,update,354620,PROPN,nsubj,False
+Come,come,come,63721,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+get,get,get,124419,AUX,conj,True
+GOT7,GOT7,got,128258,PROPN,ccomp,False
+hello,hello,hello,135727,INTJ,intj,False
+everyone,everyone,everyone,106169,PRON,npadvmod,True
+are,be,be,29345,AUX,relcl,True
+new,new,new,199367,ADJ,amod,False
+albums,album,album,7508,NOUN,nsubj,False
+already,already,already,9397,ADV,advmod,True
+availa,availa,avail,24565,VERB,ROOT,False

@@ -1,0 +1,15 @@
+TRANS,TRANS,trans,327664,PROPN,nmod,False
+IG,IG,big,33680,PROPN,dobj,False
+Rhymer,Rhymer,rhymer,271960,PROPN,compound,False
+Instagram,Instagram,ingram,152546,PROPN,nsubj,False
+update,update,update,354620,NOUN,ROOT,False
+with,with,with,366582,ADP,prep,True
+Woojin,Woojin,wooing,367293,PROPN,pobj,False
+Trans,Trans,trans,327664,PROPN,ROOT,False
+'s,be,be,29345,AUX,auxpass,True
+been,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+long,long,long,174883,ADJ,amod,False
+time,time,time,323746,NOUN,attr,False
+Woojin,Woojin,wooing,367293,PROPN,npadvmod,False
+PARKWOOJIN,PARKWOOJIN,parkin,226564,NOUN,ROOT,False

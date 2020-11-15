@@ -1,0 +1,16 @@
+does,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+deserve,deserve,deserve,82519,VERB,ROOT,False
+all,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+stress,stress,stress,306125,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+i,i,i,145455,PRON,nsubj,True
+hate,hate,hate,134216,VERB,conj,False
+kung,kung,kung,166473,PROPN,compound,False
+meron,meron,merlon,183865,PROPN,compound,False
+mang,mang,mang,179117,PROPN,nsubj,False
+deserve,deserve,deserve,82519,PROPN,ROOT,False
+nun,nun,nun,209630,PROPN,amod,False
+sila,sila,sigla,290054,PROPN,compound,False
+yun,yun,yun,159685,PROPN,dobj,False

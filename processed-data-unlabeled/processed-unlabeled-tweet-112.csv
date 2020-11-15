@@ -1,0 +1,17 @@
+got,get,get,124419,VERB,ROOT,False
+just,just,just,162503,ADV,advmod,True
+opportunity,opportunity,opportunity,213669,NOUN,dobj,False
+at,at,at,22372,ADP,prep,True
+life,life,life,171890,NOUN,pobj,False
+Stop,stop,stop,305323,VERB,ROOT,False
+wasting,waste,waste,362983,VERB,xcomp,False
+time,time,time,323746,NOUN,dobj,False
+drawing,draw,draw,92753,VERB,advcl,False
+comparisons,comparison,comparison,64415,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+worrying,worrying,worrying,367646,NOUN,conj,False
+Start,start,start,302958,VERB,ROOT,False
+putting,put,put,257261,VERB,xcomp,False
+all,all,all,8522,DET,predet,True
+that,that,that,320639,DET,det,True
+ener,ener,ender,99654,NOUN,dobj,False

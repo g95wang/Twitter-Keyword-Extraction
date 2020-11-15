@@ -1,0 +1,16 @@
+Happy,happy,happy,133513,ADJ,compound,False
+Birthday,birthday,birthday,34904,NOUN,npadvmod,False
+hope,hope,hope,143674,VERB,ROOT,False
+special,special,special,298743,ADJ,amod,False
+day,day,day,76257,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+bring,bring,bring,40851,VERB,ccomp,False
+lots,lot,lot,175365,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+happiness,happiness,happiness,133519,NOUN,pobj,False
+love,love,love,175534,NOUN,conj,False
+and,and,and,12285,CCONJ,cc,True
+fun,fun,fun,120110,NOUN,conj,False
+Stay,stay,stay,302393,VERB,ROOT,False
+safe,safe,safe,276548,ADJ,amod,False
+Hap,Hap,hap,133441,NOUN,ROOT,False

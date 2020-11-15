@@ -1,0 +1,8 @@
+Congress,Congress,congress,66258,PROPN,appos,False
+Fed,Fed,fed,110787,PROPN,appos,False
+amp,amp,amp,10991,PROPN,conj,False
+Treasury,Treasury,treasury,328711,PROPN,appos,False
+stimulus,stimulus,stimulus,304653,NOUN,quantmod,False
+divided,divide,divide,90320,VERB,acl,False
+by,by,by,33133,ADP,agent,True
+m,m,m,176591,NOUN,pobj,False

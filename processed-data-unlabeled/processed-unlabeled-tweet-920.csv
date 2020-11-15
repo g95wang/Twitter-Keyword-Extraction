@@ -1,0 +1,12 @@
+This,this,this,322217,DET,nsubjpass,True
+is,be,be,29345,AUX,auxpass,True
+considered,consider,consider,66795,VERB,ROOT,False
+hypnosis,hypnosis,hypnosis,140726,NOUN,oprd,False
+Then,then,then,320906,ADV,advmod,True
+in,in,in,149313,ADP,ROOT,True
+that,that,that,320639,DET,det,True
+case,case,case,48783,NOUN,pobj,False
+F,f,f,108866,NOUN,compound,False
+L,l,l,166589,NOUN,compound,False
+O,o,o,209854,NOUN,compound,False
+P,p,p,222535,NOUN,ROOT,False

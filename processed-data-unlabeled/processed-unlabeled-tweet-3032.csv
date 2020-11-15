@@ -1,0 +1,13 @@
+k,k,k,162637,ADV,npadvmod,False
+less,less,less,170842,ADV,nsubj,True
+than,than,than,320565,SCONJ,prep,True
+original,original,original,214598,ADJ,amod,False
+predictions,prediction,prediction,246938,NOUN,pobj,False
+cause,cause,cause,50043,VERB,ROOT,False
+people,people,people,230162,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+listening,listen,listen,173504,VERB,ccomp,False
+Were,be,be,29345,AUX,aux,True
+doing,do,do,90528,VERB,ROOT,True
+good,good,good,127869,ADJ,amod,False
+folks,folk,folk,115918,NOUN,dobj,False

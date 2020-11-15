@@ -1,0 +1,8 @@
+Yo,Yo,yo,157406,PROPN,nmod,False
+free,free,free,118571,ADJ,amod,False
+Legal,Legal,legal,170007,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+about,about,about,756,ADJ,acomp,True
+to,to,to,324862,PART,aux,True
+get,get,get,124419,AUX,auxpass,True
+involved,involve,involve,157342,VERB,xcomp,False

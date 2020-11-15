@@ -1,0 +1,11 @@
+Here,here,here,136991,ADV,advmod,True
+'m,be,be,29345,AUX,aux,True
+replying,reply,reply,268301,VERB,ccomp,False
+to,to,to,324862,ADP,prep,True
+everyone,everyone,everyone,106169,PRON,pobj,True
+with,with,with,366582,ADP,prep,True
+this,this,this,322217,DET,det,True
+coz,coz,coz,71730,NOUN,pobj,False
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+exactl,exactl,exactly,106394,NOUN,attr,False

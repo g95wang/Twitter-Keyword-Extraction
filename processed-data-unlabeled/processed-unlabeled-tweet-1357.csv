@@ -1,0 +1,11 @@
+mom,mom,mom,191625,NOUN,nsubj,False
+taught,teach,teach,317425,VERB,ROOT,False
+If,if,if,146980,SCONJ,mark,True
+did,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+invite,invite,invite,157274,VERB,advcl,False
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+ask,ask,ask,21294,VERB,ccomp,False
+to,to,to,324862,PART,aux,True
+go,go,go,127161,VERB,xcomp,True

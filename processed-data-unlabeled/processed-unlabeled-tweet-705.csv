@@ -1,0 +1,12 @@
+NYC,NYC,ny,199522,PROPN,ROOT,False
+preparing,prepare,prepare,248752,VERB,acl,False
+to,to,to,324862,ADP,aux,True
+furlough,furlough,furlough,120435,NOUN,xcomp,False
+or,or,or,213904,CCONJ,cc,True
+lay,lay,lay,167368,VERB,conj,False
+off,off,off,211539,ADP,prt,True
+some,some,some,297029,DET,det,True
+workers,worker,worker,367494,NOUN,dobj,False
+de,de,de,77405,PROPN,compound,False
+Blasio,Blasio,abasio,137,PROPN,compound,False
+Ransom,Ransom,ransom,260636,PROPN,appos,False

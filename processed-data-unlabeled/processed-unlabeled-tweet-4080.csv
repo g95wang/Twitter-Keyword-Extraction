@@ -1,0 +1,11 @@
+guess,guess,guess,130940,VERB,ROOT,False
+also,also,also,9416,ADV,advmod,True
+means,mean,mean,181735,VERB,ccomp,False
+that,that,that,320639,SCONJ,mark,True
+did,do,do,90528,AUX,ccomp,True
+an,an,an,11448,DET,det,True
+excellent,excellent,excellent,106584,ADJ,amod,False
+job,job,job,161424,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+protecting,protect,protect,253369,VERB,pcomp,False
+personel,personel,personnel,232004,NOUN,dobj,False

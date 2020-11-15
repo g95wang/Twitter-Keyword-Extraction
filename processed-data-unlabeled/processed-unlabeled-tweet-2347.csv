@@ -1,0 +1,14 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+overview,overview,overview,221758,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+Twitter,Twitter,twitter,333475,PROPN,compound,False
+accounts,account,account,1719,NOUN,pobj,False
+had,have,have,134390,AUX,ccomp,True
+the,the,the,320691,DET,det,True
+most,most,most,193889,ADJ,amod,True
+interactions,interaction,interaction,154423,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+recently,recently,recently,262712,ADV,pcomp,False
+Via,via,via,359224,ADP,ROOT,True

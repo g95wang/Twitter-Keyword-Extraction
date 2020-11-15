@@ -1,0 +1,16 @@
+A,a,a,0,DET,det,True
+light,light,light,172003,ADJ,amod,False
+weight,weight,weight,363896,NOUN,ROOT,False
+durable,durable,durable,94396,ADJ,amod,False
+and,and,and,12285,CCONJ,cc,True
+environmental,environmental,environmental,101834,ADJ,advmod,False
+friendly,friendly,friendly,118952,ADJ,amod,False
+banknote,banknote,banknote,27502,NOUN,conj,False
+A,a,a,0,DET,det,True
+light,light,light,172003,ADJ,amod,False
+weight,weight,weight,363896,NOUN,ROOT,False
+durable,durable,durable,94396,ADJ,amod,False
+and,and,and,12285,CCONJ,cc,True
+environmental,environmental,environmental,101834,ADJ,advmod,False
+friendly,friendly,friendly,118952,ADJ,amod,False
+banknote,banknote,banknote,27502,NOUN,conj,False

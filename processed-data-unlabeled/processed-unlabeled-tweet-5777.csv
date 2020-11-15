@@ -1,0 +1,11 @@
+Be,be,be,29345,AUX,ROOT,True
+careful,careful,careful,47924,ADJ,acomp,False
+who,who,who,365278,PRON,dative,True
+tell,tell,tell,318356,VERB,ccomp,False
+plans,plan,plan,238877,NOUN,dobj,False
+Sometimes,sometimes,sometimes,297064,ADV,advmod,True
+fail,fail,fail,109249,VERB,ROOT,False
+because,because,because,29780,SCONJ,mark,True
+talk,talk,talk,315639,VERB,advcl,False
+too,too,too,325685,ADV,advmod,True
+much,much,much,194510,ADV,advmod,True

@@ -1,0 +1,11 @@
+really,really,really,261766,ADV,advmod,True
+enjoy,enjoy,enjoy,100598,VERB,ROOT,False
+watching,watch,watch,363049,VERB,xcomp,False
+Sehun,Sehun,shun,289365,PROPN,nsubj,False
+eat,eat,eat,94953,VERB,ccomp,False
+makes,make,make,178090,VERB,ROOT,False
+happy,happy,happy,133513,ADJ,ccomp,False
+knowing,know,know,165702,VERB,csubj,False
+tummy,tummy,tummy,332320,NOUN,dobj,False
+is,be,be,29345,AUX,ccomp,True
+full,full,full,119933,ADJ,acomp,True

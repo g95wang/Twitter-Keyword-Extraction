@@ -1,0 +1,17 @@
+already,already,already,9397,ADV,advmod,True
+ate,eat,eat,94953,VERB,ROOT,False
+both,both,both,38714,DET,dobj,True
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+donuts,donut,donut,91475,NOUN,pobj,False
+mom,mom,mom,191625,NOUN,nsubj,False
+bought,buy,buy,42353,VERB,relcl,False
+for,for,for,116301,ADP,dative,True
+Standard,standard,standard,302657,ADJ,amod,False
+issue,issue,issue,159379,NOUN,compound,False
+Dunkin,Dunkin,dunking,94197,PROPN,ROOT,False
+with,with,with,366582,ADP,prep,True
+chocolate,chocolate,chocolate,55285,NOUN,nsubj,False
+frosting,frosting,frosting,119430,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+sprinkles,sprinkle,sprinkle,301346,NOUN,conj,False

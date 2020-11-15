@@ -1,0 +1,14 @@
+is,be,be,29345,AUX,ROOT,True
+real,real,real,261710,ADJ,acomp,False
+but,but,but,43550,CCONJ,cc,True
+have,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,auxpass,True
+lied,lie,lie,171801,VERB,conj,False
+to,to,to,324862,ADP,prep,True
+about,about,about,756,ADP,prep,True
+the,the,the,320691,DET,det,True
+severity,severity,severity,286773,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+political,political,political,242538,ADJ,amod,False
+purposes,purpose,purpose,257044,NOUN,pobj,False
+fact,fact,fact,109031,NOUN,appos,False

@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True
+context,context,context,67420,NOUN,nsubj,False
+here,here,here,136991,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+that,that,that,320639,SCONJ,mark,True
+State,State,state,303029,PROPN,compound,False
+Department,Department,department,81504,PROPN,compound,False
+regulations,regulation,regulation,265887,NOUN,nsubj,False
+required,require,require,268870,VERB,ccomp,False
+to,to,to,324862,PART,aux,True
+sit,sit,sit,292603,VERB,xcomp,False
+for,for,for,116301,ADP,prep,True
+that,that,that,320639,DET,det,True
+interview,interview,interview,156185,NOUN,pobj,False
+was,be,be,29345,AUX,ROOT,True
+n't,not,not,208798,PART,neg,True
+optional,optional,optional,213846,ADJ,acomp,False

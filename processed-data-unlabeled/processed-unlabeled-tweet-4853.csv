@@ -1,0 +1,16 @@
+Paper,Paper,paper,225148,PROPN,compound,False
+plane,plane,plane,238908,NOUN,ROOT,False
+that,that,that,320639,DET,nsubj,True
+uses,use,use,355958,VERB,relcl,False
+a,a,a,0,DET,det,True
+flappy,flappy,flappy,113989,ADJ,amod,False
+wing,wing,wing,366126,NOUN,compound,False
+design,design,design,82572,NOUN,dobj,False
+Paper,Paper,paper,225148,PROPN,compound,False
+plane,plane,plane,238908,NOUN,ROOT,False
+that,that,that,320639,DET,nsubj,True
+uses,use,use,355958,VERB,relcl,False
+a,a,a,0,DET,det,True
+flappy,flappy,flappy,113989,ADJ,amod,False
+wing,wing,wing,366126,NOUN,compound,False
+design,design,design,82572,NOUN,dobj,False

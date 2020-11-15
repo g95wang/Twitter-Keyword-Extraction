@@ -1,0 +1,13 @@
+Here,here,here,136991,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+latest,late,late,168810,ADJ,amod,False
+edition,edition,edition,95779,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+Trusted,Trusted,trusted,331676,PROPN,amod,False
+Advisor,Advisor,advisor,4709,PROPN,compound,False
+TODAY,TODAY,today,325003,PROPN,pobj,False
+daily,daily,daily,76310,ADJ,advmod,False
+curated,curate,curate,75191,VERB,ROOT,False
+industry,industry,industry,151411,NOUN,compound,False
+news,news,news,199421,NOUN,dobj,False

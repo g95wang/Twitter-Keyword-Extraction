@@ -1,0 +1,11 @@
+Atta,Atta,atta,22913,PROPN,compound,False
+boy,boy,boy,37378,NOUN,compound,False
+Stanner,Stanner,stanner,302746,PROPN,ROOT,False
+Congratulations,congratulation,congratulation,66228,NOUN,ROOT,False
+are,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+real,real,real,261710,ADJ,amod,False
+pro,pro,pro,250901,ADJ,attr,False
+at,at,at,22372,ADP,prep,True
+what,what,what,364447,PRON,dobj,True
+do,do,do,90528,AUX,pcomp,True

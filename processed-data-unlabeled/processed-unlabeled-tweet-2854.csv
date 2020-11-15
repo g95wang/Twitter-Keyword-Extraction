@@ -1,0 +1,11 @@
+Good,good,good,127869,ADJ,compound,False
+Morning,Morning,morning,193499,PROPN,compound,False
+Sweet,Sweet,sweet,314276,PROPN,compound,False
+Stan,Stan,stan,302634,PROPN,ROOT,False
+Glad,Glad,glad,125774,PROPN,ROOT,False
+have,have,have,134390,AUX,ccomp,True
+the,the,the,320691,DET,det,True
+groceries,grocery,grocery,130126,NOUN,dobj,False
+wanted,want,want,362465,VERB,relcl,False
+Happy,Happy,happy,133513,PROPN,ROOT,False
+Friday,Friday,friday,118935,PROPN,npadvmod,False

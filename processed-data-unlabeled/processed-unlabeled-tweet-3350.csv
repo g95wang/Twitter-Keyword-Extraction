@@ -1,0 +1,17 @@
+Michigan,michigan,michigan,185771,ADJ,compound,False
+governor,governor,governor,128399,NOUN,nsubj,False
+orders,order,order,214218,VERB,ROOT,False
+thousands,thousand,thousand,322489,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+evacuate,evacuate,evacuate,105927,VERB,xcomp,False
+after,after,after,5615,ADP,mark,True
+dams,dam,dam,76496,NOUN,nsubj,False
+failed,fail,fail,109249,VERB,advcl,False
+saying,say,say,276740,VERB,advcl,False
+city,city,city,58633,NOUN,nsubj,False
+could,could,could,70511,VERB,aux,True
+be,be,be,29345,AUX,ccomp,True
+under,under,under,338801,ADP,prep,True
+feet,foot,foot,116131,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+water,water,water,363105,NOUN,pobj,False

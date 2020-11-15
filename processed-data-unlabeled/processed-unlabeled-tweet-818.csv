@@ -1,0 +1,8 @@
+i,i,i,145455,PRON,nsubj,True
+love,love,love,175534,VERB,ROOT,False
+and,and,and,12285,CCONJ,cc,True
+kind,kind,kind,164752,ADJ,amod,False
+sweet,sweet,sweet,314276,ADJ,amod,False
+personality,personality,personality,231966,NOUN,conj,False
+so,so,so,295959,ADV,advmod,True
+much,much,much,194510,ADV,advmod,True

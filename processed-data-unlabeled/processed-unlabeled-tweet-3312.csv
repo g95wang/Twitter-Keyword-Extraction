@@ -1,0 +1,9 @@
+Happy,happy,happy,133513,ADJ,compound,False
+Birthday,Birthday,birthday,34904,PROPN,compound,False
+sweetie,sweetie,sweetie,314305,NOUN,nsubj,False
+Have,have,have,134390,AUX,ROOT,True
+a,a,a,0,DET,det,True
+beautiful,beautiful,beautiful,29674,ADJ,amod,False
+day,day,day,76257,NOUN,dobj,False
+Stay,stay,stay,302393,VERB,ROOT,False
+healthy,healthy,healthy,134775,ADJ,acomp,False

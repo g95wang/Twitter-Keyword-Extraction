@@ -1,0 +1,14 @@
+So,so,so,295959,ADV,advmod,True
+why,why,why,364728,ADV,advmod,True
+was,be,be,29345,AUX,ROOT,True
+n't,not,not,208798,PART,neg,True
+this,this,this,322217,DET,nsubj,True
+a,a,a,0,DET,det,True
+segment,segment,segment,283206,NOUN,attr,False
+after,after,after,5615,ADP,mark,True
+Biden,Biden,bidden,33507,PROPN,nsubj,False
+'s,'s,s,275971,PART,case,True
+ai,be,be,29345,VERB,advcl,False
+n't,not,not,208798,PART,neg,True
+black,black,black,35431,ADJ,acomp,False
+remarks,remark,remark,267145,NOUN,ROOT,False

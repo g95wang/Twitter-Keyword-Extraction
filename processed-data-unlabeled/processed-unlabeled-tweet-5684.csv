@@ -1,0 +1,12 @@
+sentenced,sentence,sentence,285463,VERB,ROOT,False
+a,a,a,0,DET,det,True
+teenager,teenager,teenager,317786,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+years,year,year,146706,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+lighting,light,light,172003,VERB,pcomp,False
+a,a,a,0,DET,det,True
+trash,trash,trash,328518,NOUN,compound,False
+can,can,can,45964,NOUN,dobj,True
+on,on,on,212644,ADP,prep,True
+fire,fire,fire,113100,NOUN,pobj,False

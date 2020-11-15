@@ -1,0 +1,11 @@
+Stop,stop,stop,305323,VERB,ROOT,False
+deluding,delude,delude,80282,VERB,xcomp,False
+Trump,trump,trump,331570,ADJ,npadvmod,False
+'re,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+most,most,most,193889,ADV,advmod,True
+dishonest,dishonest,dishonest,88294,ADJ,amod,False
+man,man,man,178862,NOUN,attr,False
+on,on,on,212644,ADP,prep,True
+this,this,this,322217,DET,det,True
+planet,planet,planet,238917,NOUN,pobj,False

@@ -1,0 +1,13 @@
+GoodMorning,GoodMorning,gooding,127893,PROPN,compound,False
+ev1,ev1,dev,83429,PROPN,nsubjpass,False
+toady,toady,toady,324878,ADV,advmod,False
+is,be,be,29345,AUX,auxpass,True
+brought,bring,bring,40851,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+by,by,by,33133,ADP,agent,True
+the,the,the,320691,DET,det,True
+letter,letter,letter,170920,NOUN,nmod,False
+C,c,c,43829,NOUN,pobj,False
+for,for,for,116301,ADP,prep,True
+Coffee,Coffee,coffee,62136,PROPN,pobj,False
+ThursdayMotivation,thursdaymotivation,motivation,193998,NOUN,ROOT,False

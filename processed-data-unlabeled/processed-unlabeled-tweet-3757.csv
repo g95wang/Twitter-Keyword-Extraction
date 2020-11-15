@@ -1,0 +1,15 @@
+was,be,be,29345,AUX,auxpass,True
+asked,ask,ask,21294,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+smile,smile,smile,294874,VERB,xcomp,False
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+best,good,good,127869,ADJ,attr,False
+will,will,will,365768,VERB,aux,True
+get,get,get,124419,AUX,relcl,True
+PLEASE,PLEASE,please,239622,PROPN,aux,True
+STOP,stop,stop,305323,VERB,ROOT,False
+ALL,all,all,8522,DET,predet,True
+THE,the,the,320691,DET,det,True
+WARS,WARS,wars,362807,PROPN,dobj,False

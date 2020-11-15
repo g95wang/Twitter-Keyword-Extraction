@@ -1,0 +1,13 @@
+simosbreadandcatering,simosbreadandcatere,spirobranchiate,300171,VERB,csubj,False
+OPENS,OPENS,opens,213251,PROPN,ROOT,False
+THE,the,the,320691,DET,det,True
+COMMISSARY,COMMISSARY,commissary,64073,PROPN,compound,False
+AT,at,at,22372,ADP,compound,True
+DEVON,DEVON,devon,83660,PROPN,compound,False
+HOUSE,HOUSE,house,144380,PROPN,dobj,False
+TODAY,TODAY,today,325003,PROPN,npadvmod,False
+simosbreadandcatering,simosbreadandcatering,misrendering,189954,NOUN,nsubj,False
+is,be,be,29345,AUX,aux,True
+finally,finally,finally,112856,ADV,advmod,False
+opening,open,open,213219,VERB,ROOT,False
+THE,the,the,320691,DET,dobj,True

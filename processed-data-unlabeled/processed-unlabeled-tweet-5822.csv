@@ -1,0 +1,11 @@
+Goldario,Goldario,goladar,127473,PROPN,nsubj,False
+token,token,token,325206,NOUN,ROOT,False
+Earn,Earn,earn,94765,PROPN,dep,False
+in,in,in,149313,ADP,prep,True
+GLD,GLD,gld,126074,PROPN,pobj,False
+Per,per,per,230311,ADP,prep,True
+ref,ref,ref,264908,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+GLD,GLD,gld,126074,PROPN,compound,False
+Exchange,Exchange,exchange,106647,PROPN,pobj,False
+Airdrop,Airdrop,airdrop,6886,PROPN,ROOT,False

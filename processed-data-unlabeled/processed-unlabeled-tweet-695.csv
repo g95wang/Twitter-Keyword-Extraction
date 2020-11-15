@@ -1,0 +1,17 @@
+Shirley,Shirley,shirley,288503,PROPN,compound,False
+Chisholm,Chisholm,chrisom,56065,PROPN,nsubj,False
+was,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+brilliant,brilliant,brilliant,40800,ADJ,amod,False
+woman,woman,woman,366955,NOUN,attr,False
+ahead,ahead,ahead,6628,ADV,advmod,False
+of,of,of,211535,ADP,prep,True
+time,time,time,323746,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+definitely,definitely,definitely,79325,ADV,advmod,False
+not,not,not,208798,PART,neg,True
+given,give,give,125692,VERB,conj,False
+any,any,any,13086,DET,det,True
+credit,credit,credit,72496,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+brea,brea,bread,40187,PROPN,pobj,False

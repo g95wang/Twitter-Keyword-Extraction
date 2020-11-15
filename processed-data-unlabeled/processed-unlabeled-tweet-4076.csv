@@ -1,0 +1,16 @@
+The,the,the,320691,DET,det,True
+energy,energy,energy,100134,NOUN,nsubj,False
+spread,spread,spread,301217,VERB,relcl,False
+onscreen,onscreen,unscreen,350548,NOUN,acomp,False
+and,and,and,12285,CCONJ,cc,True
+offscreen,offscreen,offscreen,211677,NOUN,conj,False
+is,be,be,29345,AUX,ROOT,True
+inimitable,inimitable,inimitable,152762,ADJ,acomp,False
+Happy,happy,happy,133513,ADJ,compound,False
+Birthday,Birthday,birthday,34904,PROPN,compound,False
+Anna,Anna,anna,13459,PROPN,ROOT,False
+Thank,thank,thank,320604,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+being,be,be,29345,AUX,pcomp,True
+an,an,an,11448,DET,det,True
+insp,insp,insp,153745,NOUN,attr,False

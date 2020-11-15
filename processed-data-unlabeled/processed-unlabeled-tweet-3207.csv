@@ -1,0 +1,12 @@
+Future,Future,future,120712,PROPN,compound,False
+Nostalgia,Nostalgia,nostalgia,208768,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+minute,minute,minute,188058,ADJ,compound,False
+dance,dance,dance,76674,NOUN,compound,False
+party,party,party,226988,NOUN,attr,False
+needed,need,need,197910,VERB,relcl,False
+for,for,for,116301,ADP,prep,True
+sure,sure,sure,313361,ADJ,amod,False
+So,so,so,295959,ADV,advmod,True
+good,good,good,127869,ADJ,ROOT,False

@@ -1,0 +1,13 @@
+If,if,if,146980,SCONJ,mark,True
+had,have,have,134390,AUX,ROOT,True
+blonde,blonde,blonde,36406,ADJ,amod,False
+hair,hair,hair,132366,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+blue,blue,blue,36690,ADJ,amod,False
+eyes,eye,eye,96351,NOUN,conj,False
+all,all,all,8522,DET,appos,True
+would,would,would,367745,VERB,aux,True
+know,know,know,165702,VERB,ROOT,False
+who,who,who,365278,PRON,attr,True
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ccomp,True

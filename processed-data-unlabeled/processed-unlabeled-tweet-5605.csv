@@ -1,0 +1,15 @@
+BET,BET,bet,32670,PROPN,compound,False
+founder,founder,founder,117927,NOUN,compound,False
+Bob,Bob,bob,37034,PROPN,compound,False
+Johnson,Johnson,johnson,161569,PROPN,nsubj,False
+calls,call,call,45246,VERB,ROOT,False
+for,for,for,116301,ADP,mark,True
+the,the,the,320691,DET,det,True
+U.S.,U.S.,us,355940,PROPN,nsubj,False
+to,to,to,324862,PART,aux,True
+pay,pay,pay,223065,VERB,advcl,False
+African,african,african,5584,ADJ,amod,False
+Americans,Americans,americans,10314,PROPN,dative,False
+in,in,in,149313,ADP,prep,True
+Slavery,Slavery,slavery,293788,PROPN,compound,False
+Reparations,reparation,reparation,268016,NOUN,pobj,False

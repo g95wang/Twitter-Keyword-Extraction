@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True
+Obama,Obama,abama,81,PROPN,compound,False
+Biden,Biden,bidden,33507,PROPN,compound,False
+Administration,Administration,administration,4148,PROPN,nsubj,False
+had,have,have,134390,AUX,ROOT,True
+NO,no,no,200529,DET,det,True
+indication,indication,indication,150907,NOUN,dobj,False
+that,that,that,320639,SCONJ,mark,True
+General,General,general,123444,PROPN,compound,False
+Flynn,Flynn,lynn,172963,PROPN,nsubj,False
+did,do,do,90528,AUX,acl,True
+anything,anything,anything,13370,PRON,dobj,True
+wrong,wrong,wrong,368091,ADJ,amod,False
+But,but,but,43550,CCONJ,cc,True
+spied,spy,spy,299623,VERB,ROOT,False
+on,on,on,212644,ADP,prep,True
+anyways,anyways,anyways,13379,ADV,advmod,False

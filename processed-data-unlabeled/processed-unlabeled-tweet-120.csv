@@ -1,0 +1,9 @@
+ROS,ROS,ros,274418,PROPN,compound,False
+PARK,PARK,park,226556,PROPN,ROOT,False
+THAT,that,that,320639,DET,nsubj,True
+'S,be,be,29345,AUX,ROOT,True
+IT,it,it,159424,PRON,attr,True
+THAT,that,that,320639,DET,nsubj,True
+'S,be,be,29345,AUX,ROOT,True
+THE,the,the,320691,DET,det,True
+TWEET,tweet,tweet,333246,NOUN,attr,False

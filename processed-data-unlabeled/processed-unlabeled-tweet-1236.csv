@@ -1,0 +1,16 @@
+m,be,be,29345,VERB,ROOT,False
+gon,go,go,127161,VERB,dobj,False
+na,to,to,324862,PART,aux,False
+keep,keep,keep,163579,VERB,xcomp,True
+singing,singe,singe,291673,VERB,xcomp,False
+what,what,what,364447,PRON,dobj,True
+thought,think,think,321897,VERB,ccomp,False
+which,which,which,364730,DET,nsubj,True
+was,be,be,29345,AUX,relcl,True
+monsters,monster,monster,192834,NOUN,nsubj,False
+torture,torture,torture,326364,VERB,attr,False
+which,which,which,364730,DET,nsubj,True
+is,be,be,29345,AUX,ccomp,True
+more,more,more,193383,ADV,advmod,True
+fitting,fitting,fitting,113560,ADJ,acomp,False
+O,o,o,209854,INTJ,ROOT,False

@@ -1,0 +1,8 @@
+Engineers,engineer,engineer,100341,NOUN,nsubj,False
+Graduated,graduate,graduate,128569,VERB,acl,False
+from,from,from,119298,ADP,prep,True
+online,online,online,212850,ADJ,amod,False
+classes,class,class,59378,NOUN,pobj,False
+be,be,be,29345,AUX,ROOT,True
+like,like,like,172172,SCONJ,prep,False
+noexams,noexam,exam,106444,NOUN,pobj,False

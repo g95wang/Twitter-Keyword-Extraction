@@ -1,0 +1,11 @@
+Tarak,Tarak,arak,18399,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+who,who,who,365278,PRON,nsubj,True
+does,do,do,90528,AUX,relcl,True
+maximum,maximum,maximum,181562,ADJ,amod,False
+justice,justice,justice,162510,NOUN,dobj,False
+to,to,to,324862,ADP,prep,True
+scenes,scene,scene,279964,NOUN,pobj,False
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,compound,False
+https:/,https:/,chotts,55912,NOUN,pobj,False

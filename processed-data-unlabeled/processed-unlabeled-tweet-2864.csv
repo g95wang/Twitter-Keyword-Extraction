@@ -1,0 +1,9 @@
+Well,well,well,364011,ADV,advmod,True
+observed,observe,observe,210400,VERB,ROOT,False
+All,all,all,8522,DET,dep,True
+can,can,can,45964,VERB,aux,True
+say,say,say,276740,VERB,relcl,True
+is,be,be,29345,AUX,ROOT,True
+watch,watch,watch,363049,VERB,xcomp,False
+this,this,this,322217,DET,det,True
+space,space,space,298142,NOUN,dobj,False

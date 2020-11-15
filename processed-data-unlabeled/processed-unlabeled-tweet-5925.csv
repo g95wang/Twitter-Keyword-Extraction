@@ -1,0 +1,14 @@
+finished,finish,finish,113014,VERB,ROOT,False
+listening,listen,listen,173504,VERB,xcomp,False
+to,to,to,324862,ADP,prep,True
+on,on,on,212644,ADP,prep,True
+R4,R4,r,259188,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+Book,Book,book,38039,PROPN,pobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+Week,Week,week,363764,PROPN,pobj,False
+on,on,on,212644,ADP,prep,True
+catch,catch,catch,49435,VERB,amod,False
+up,up,up,354457,ADP,prt,True
+yeste,yeste,yester,146934,NOUN,pobj,False

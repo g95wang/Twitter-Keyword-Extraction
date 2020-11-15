@@ -1,0 +1,17 @@
+In,in,in,149313,ADP,prep,True
+India,India,india,150872,PROPN,pobj,False
+extremist,extremist,extremist,108720,ADJ,amod,False
+Hindu,hindu,hindu,139689,ADJ,compound,False
+mobs,mob,mob,190923,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+attacking,attack,attack,22933,VERB,ROOT,False
+Muslim,muslim,muslim,196089,ADJ,amod,False
+population,population,population,243322,NOUN,dobj,False
+Attackers,attacker,attacker,22936,NOUN,nsubj,False
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+burn,burn,burn,43205,VERB,xcomp,False
+alive,alive,alive,8375,ADJ,oprd,False
+are,be,be,29345,AUX,aux,True
+throwing,throw,throw,322857,VERB,ROOT,False
+pet,pet,pet,232312,NOUN,dobj,False

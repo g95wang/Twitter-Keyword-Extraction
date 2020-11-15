@@ -1,0 +1,8 @@
+Take,take,take,315491,VERB,ROOT,True
+time,time,time,323746,NOUN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+drive,drive,drive,93179,VERB,conj,False
+safe,safe,safe,276548,ADJ,advmod,False
+hope,hope,hope,143674,VERB,dep,False
+goes,go,go,127161,VERB,ccomp,False
+well,well,well,364011,ADV,advmod,True

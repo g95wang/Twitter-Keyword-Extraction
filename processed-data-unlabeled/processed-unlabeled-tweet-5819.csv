@@ -1,0 +1,14 @@
+YOUR,your,your,157754,DET,poss,True
+RIGHTS,right,right,272806,NOUN,ROOT,False
+this,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+UK,UK,auk,23422,PROPN,compound,False
+version,version,version,358827,NOUN,attr,False
+but,but,but,43550,CCONJ,cc,True
+m,be,be,29345,VERB,ROOT,False
+sure,sure,sure,313361,ADV,acomp,False
+some,some,some,297029,DET,det,True
+things,thing,thing,321869,NOUN,nsubj,False
+may,may,may,177739,VERB,aux,True
+apply,apply,apply,17795,VERB,ccomp,False

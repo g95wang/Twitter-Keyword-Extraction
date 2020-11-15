@@ -1,0 +1,16 @@
+Another,another,another,13899,DET,det,True
+beautiful,beautiful,beautiful,29674,ADJ,amod,False
+day,day,day,76257,NOUN,npadvmod,False
+amp,amp,amp,10991,NOUN,conj,False
+so,so,so,295959,ADV,advmod,True
+happy,happy,happy,133513,ADJ,ccomp,False
+not,not,not,208798,PART,neg,True
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,xcomp,True
+work,work,work,367468,NOUN,attr,False
+am,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+only,only,only,212848,ADJ,amod,True
+person,person,person,231951,NOUN,ROOT,False
+loving,love,love,175534,VERB,acl,False
+quarantine,quarantine,quarantine,257971,NOUN,dobj,False

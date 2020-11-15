@@ -1,0 +1,10 @@
+Dora,Dora,dora,91635,PROPN,nsubj,False
+calls,call,call,45246,VERB,ROOT,False
+an,an,an,11448,DET,det,True
+explorer,explorer,explorer,107901,NOUN,oprd,False
+but,but,but,43550,CCONJ,cc,True
+travels,travel,travel,328585,VERB,conj,False
+exclusively,exclusively,exclusively,106768,ADV,advmod,False
+through,through,through,322840,ADP,prep,True
+mapped,map,map,179725,VERB,amod,False
+territories,territory,territory,319602,NOUN,pobj,False

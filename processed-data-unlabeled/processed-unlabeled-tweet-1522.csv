@@ -1,0 +1,9 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+sick,sick,sick,289609,ADJ,amod,False
+Head,Head,head,134575,PROPN,ROOT,False
+of,of,of,211535,ADP,prep,True
+Site,Site,site,292615,PROPN,compound,False
+Integrity,integrity,integrity,154244,NOUN,pobj,False
+Ha,ha,ha,131713,INTJ,ROOT,False

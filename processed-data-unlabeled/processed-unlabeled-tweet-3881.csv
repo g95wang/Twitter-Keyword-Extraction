@@ -1,0 +1,14 @@
+Likee,Likee,like,172172,PROPN,nmod,False
+HelloLikee,HelloLikee,fellowlike,111060,PROPN,compound,False
+VIKAS,VIKAS,vias,359254,PROPN,appos,False
+RAI,RAI,rabi,259280,PROPN,compound,False
+BANTY,BANTY,banty,27605,PROPN,nsubj,False
+is,be,be,29345,AUX,aux,True
+broadcasting,broadcast,broadcast,41049,VERB,ROOT,False
+a,a,a,0,DET,det,True
+Magic,Magic,magic,177407,PROPN,compound,False
+Live,Live,live,173931,PROPN,dobj,False
+come,come,come,63721,VERB,conj,False
+and,and,and,12285,CCONJ,cc,True
+join,join,join,161599,VERB,conj,False
+in,in,in,149313,ADP,prt,True

@@ -1,0 +1,12 @@
+As,as,as,20837,SCONJ,prep,True
+Chief,Chief,chief,54204,PROPN,compound,False
+Prosecutor,Prosecutor,prosecutor,253040,PROPN,pobj,False
+Klobuchar,Klobuchar,kilobar,164635,PROPN,nsubj,False
+Declined,decline,decline,78496,VERB,ROOT,False
+Charges,charge,charge,52797,NOUN,dobj,False
+Against,against,against,5830,ADP,prep,True
+Cop,Cop,cop,68392,PROPN,pobj,False
+that,that,that,320639,DET,nsubj,True
+Killed,kill,kill,164577,VERB,relcl,False
+George,George,george,124030,PROPN,compound,False
+Floyd,Floyd,floyd,114889,PROPN,dobj,False

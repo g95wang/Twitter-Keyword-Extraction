@@ -1,0 +1,13 @@
+bands,band,band,27257,NOUN,ROOT,False
+Virgil,Virgil,virgil,360142,PROPN,compound,False
+Bands,Bands,bands,27378,PROPN,ROOT,False
+Hunnid,Hunnid,hunnic,145176,PROPN,compound,False
+Bands,Bands,bands,27378,PROPN,ROOT,False
+Fuck,fuck,fuck,119742,NOUN,ROOT,False
+man,man,man,178862,NOUN,npadvmod,False
+Lets,let,let,170875,NOUN,nsubj,False
+just,just,just,162503,ADV,advmod,True
+not,not,not,208798,PART,neg,True
+even,even,even,106079,ADV,advmod,True
+discuss,discuss,discuss,87788,VERB,ROOT,False
+man,man,man,178862,NOUN,dobj,False

@@ -1,0 +1,13 @@
+Report,report,report,268373,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+facts,fact,fact,109031,NOUN,dobj,False
+home,home,home,142751,ADV,advmod,False
+to,to,to,324862,ADP,prep,True
+Barnard,Barnard,barnard,28130,PROPN,compound,False
+castle,castle,castle,49090,NOUN,pobj,False
+is,be,be,29345,AUX,aux,True
+miles,mile,mile,187136,NOUN,npadvmod,False
+add,add,add,3502,VERB,acomp,False
+up,up,up,354457,ADP,prt,True
+to,to,to,324862,ADP,prep,True
+NOT,not,not,208798,ADV,pobj,True

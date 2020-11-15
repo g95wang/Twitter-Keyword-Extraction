@@ -1,0 +1,14 @@
+Here,here,here,136991,ADV,advmod,True
+are,be,be,29345,AUX,ROOT,True
+some,some,some,297029,DET,det,True
+emergency,emergency,emergency,98451,NOUN,compound,False
+preparedness,preparedness,preparedness,248755,NOUN,compound,False
+tips,tip,tip,324153,NOUN,nsubj,False
+Stay,stay,stay,302393,VERB,ROOT,False
+alert,alert,alert,7892,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+follow,follow,follow,115989,VERB,conj,False
+and,and,and,12285,CCONJ,cc,True
+for,for,for,116301,ADP,conj,True
+updates,update,update,354620,NOUN,pobj,False
+TaalErup,TaalErup,taler,315597,PROPN,ROOT,False

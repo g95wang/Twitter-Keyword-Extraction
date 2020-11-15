@@ -1,0 +1,13 @@
+Any,any,any,13086,DET,det,True
+fellow,fellow,fellow,111052,ADJ,amod,False
+snappers,snapper,snapper,295302,NOUN,nsubj,False
+out,out,out,216108,ADV,advmod,True
+there,there,there,321216,ADV,advmod,True
+recommend,recommend,recommend,263150,VERB,ROOT,False
+a,a,a,0,DET,det,True
+reliable,reliable,reliable,266875,ADJ,amod,False
+source,source,source,297914,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+acquiring,acquire,acquire,2737,VERB,pcomp,False
+a,a,a,0,DET,det,True
+M6,m6,m,176591,NOUN,dobj,False

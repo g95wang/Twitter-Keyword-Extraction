@@ -1,0 +1,8 @@
+the,the,the,320691,DET,det,True
+face,face,face,108932,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+person,person,person,231951,NOUN,pobj,False
+who,who,who,365278,PRON,nsubj,True
+ignored,ignore,ignore,147087,VERB,relcl,False
+earlier,early,early,94742,ADV,advmod,False

@@ -1,0 +1,16 @@
+Aussie,Aussie,aussie,23687,PROPN,compound,False
+rock,rock,rock,273647,NOUN,compound,False
+royalty,royalty,royalty,273883,NOUN,nsubjpass,False
+have,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,auxpass,True
+hosted,host,host,144193,VERB,ROOT,False
+at,at,at,22372,ADP,prep,True
+this,this,this,322217,DET,det,True
+home,home,home,142751,NOUN,pobj,False
+which,which,which,364730,DET,nsubj,True
+features,feature,feature,110707,VERB,relcl,False
+special,special,special,298743,ADJ,amod,False
+pieces,piece,piece,236161,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+music,music,music,195981,NOUN,compound,False
+memorabilia,memorabilia,memorabilia,183169,NOUN,pobj,False

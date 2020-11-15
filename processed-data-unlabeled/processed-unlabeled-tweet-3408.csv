@@ -1,0 +1,6 @@
+EURAUD,EURAUD,emraud,98924,NOUN,nmod,False
+OPENED,opened,opened,213231,NOUN,nmod,False
+ZipTrader,ZipTrader,trader,327252,PROPN,nmod,False
+Sell,sell,sell,283572,VERB,ROOT,False
+Stop,stop,stop,305323,VERB,ROOT,False
+Target,Target,target,316574,PROPN,dep,False

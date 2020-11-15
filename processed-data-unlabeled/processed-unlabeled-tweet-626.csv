@@ -1,0 +1,16 @@
+Went,go,go,127161,VERB,ROOT,False
+for,for,for,116301,ADP,prep,True
+a,a,a,0,DET,det,True
+run,run,run,275612,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+tightest,tightest,tightest,323470,NOUN,amod,False
+and,and,and,12285,CCONJ,cc,True
+tiniest,tiny,tiny,324013,ADJ,conj,False
+shorts,short,short,288895,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+boost,boost,boost,38213,VERB,advcl,False
+city,city,city,58633,NOUN,compound,False
+morale,morale,morale,193272,NOUN,dobj,False
+re,be,be,29345,VERB,ROOT,True
+welcome,welcome,welcome,363975,VERB,acomp,False
+Vancouver,Vancouver,vancouver,356935,PROPN,npadvmod,False

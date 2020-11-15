@@ -1,0 +1,17 @@
+Starring,starring,starring,302947,NOUN,ROOT,False
+DrashtiDhami,DrashtiDhami,drahthaar,92603,PROPN,appos,False
+Vivian,Vivian,vivian,360753,PROPN,compound,False
+Dsena,Dsena,sena,285199,PROPN,appos,False
+Country,country,country,71230,NOUN,ROOT,False
+of,of,of,211535,ADP,prep,True
+origin,origin,origin,214596,NOUN,pobj,False
+India,India,india,150872,PROPN,compound,False
+Original,Original,original,214598,PROPN,compound,False
+language(s,language(s,languages,168118,PROPN,dep,False
+Hindi,Hindi,hindi,139679,PROPN,ROOT,False
+No,no,no,200529,NOUN,dep,True
+of,of,of,211535,ADP,dep,True
+seasons,season,season,282586,NOUN,ROOT,False
+No,no,no,200529,INTJ,ROOT,True
+of,of,of,211535,ADP,dep,True
+ep,ep,ep,101985,PROPN,punct,False

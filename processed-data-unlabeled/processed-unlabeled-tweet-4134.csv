@@ -1,0 +1,17 @@
+Next,next,next,199504,ADJ,amod,True
+year,year,year,146706,NOUN,nsubj,False
+would,would,would,367745,VERB,aux,True
+be,be,be,29345,AUX,ROOT,True
+anniversary,anniversary,anniversary,13559,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+the,the,the,320691,DET,det,True
+best,good,good,127869,ADJ,amod,False
+way,way,way,361946,NOUN,conj,False
+to,to,to,324862,PART,aux,True
+celebrate,celebrate,celebrate,50448,VERB,relcl,False
+would,would,would,367745,VERB,aux,True
+be,be,be,29345,AUX,conj,True
+a,a,a,0,DET,det,True
+world,world,world,367566,NOUN,compound,False
+tour,tour,tour,326625,NOUN,attr,False
+4YrsOfGWTMani,4YrsOfGWTMani,pyromania,237858,PROPN,ROOT,False

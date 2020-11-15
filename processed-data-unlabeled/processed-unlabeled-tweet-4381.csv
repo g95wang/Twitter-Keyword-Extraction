@@ -1,0 +1,11 @@
+When,when,when,364637,ADV,advmod,True
+'re,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+relationship,relationship,relationship,266756,NOUN,pobj,False
+but,but,but,43550,CCONJ,cc,True
+'re,be,be,29345,AUX,aux,True
+having,have,have,134390,VERB,ROOT,False
+relationship,relationship,relationship,266756,NOUN,compound,False
+problems,problem,problem,251071,NOUN,dobj,False

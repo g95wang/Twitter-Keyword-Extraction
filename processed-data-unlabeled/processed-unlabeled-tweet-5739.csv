@@ -1,0 +1,8 @@
+Rioting,Rioting,rioting,273119,PROPN,nsubj,False
+works,work,work,367468,VERB,ROOT,False
+This,this,this,322217,DET,nsubjpass,True
+was,be,be,29345,AUX,auxpass,True
+nt,not,not,208798,PART,neg,False
+achieved,achieve,achieve,2251,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True
+voting,vote,vote,361409,VERB,pobj,False

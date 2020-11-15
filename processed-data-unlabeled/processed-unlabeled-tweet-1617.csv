@@ -1,0 +1,13 @@
+what,what,what,364447,PRON,nsubj,True
+as,as,as,20837,SCONJ,prep,True
+a,a,a,0,DET,det,True
+non,non,non,200943,ADJ,dep,False
+black,black,black,35431,ADJ,amod,False
+person,person,person,231951,NOUN,pobj,False
+can,can,can,45964,VERB,aux,True
+do,do,do,90528,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+support,support,support,313022,VERB,advcl,False
+BlackLivesMatter,blacklivesmatter,blacklister,35541,NOUN,dobj,False
+a,a,a,0,DET,det,True
+thread,thread,thread,322554,NOUN,appos,False

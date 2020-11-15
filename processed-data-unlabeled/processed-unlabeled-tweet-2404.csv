@@ -1,0 +1,14 @@
+Innovative,innovative,innovative,153091,ADJ,amod,False
+punishment,punishment,punishment,256682,NOUN,ROOT,False
+Be,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+bat,bat,bat,28865,NOUN,attr,False
+for,for,for,116301,ADP,prep,True
+minutes,minute,minute,188058,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+where,where,where,364654,ADV,advmod,True
+this,this,this,322217,DET,det,True
+Chinese,Chinese,chinese,54595,PROPN,amod,False
+Virus,Virus,virus,360286,PROPN,nsubj,False
+came,come,come,63721,VERB,pcomp,False
+from,from,from,119298,ADP,prep,True

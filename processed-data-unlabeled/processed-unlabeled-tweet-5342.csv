@@ -1,0 +1,12 @@
+A,a,a,0,DET,det,True
+thread,thread,thread,322554,NOUN,ROOT,False
+currently,currently,currently,75406,ADV,advmod,False
+videos,video,video,359514,VERB,relcl,False
+deep,deep,deep,78985,ADV,advmod,False
+of,of,of,211535,ADP,prep,True
+absolute,absolute,absolute,984,ADJ,amod,False
+police,police,police,241679,NOUN,compound,False
+brutality,brutality,brutality,41863,NOUN,nmod,False
+and,and,and,12285,CCONJ,cc,True
+power,power,power,245001,NOUN,conj,False
+abuse,abuse,abuse,1170,NOUN,pobj,False

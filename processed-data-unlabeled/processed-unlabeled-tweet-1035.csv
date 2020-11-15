@@ -1,0 +1,9 @@
+twitter,twitter,twitter,333475,ADV,advmod,False
+do,do,do,90528,AUX,ccomp,True
+thing,thing,thing,321869,NOUN,dobj,False
+amp,amp,amp,10991,NOUN,conj,False
+help,help,help,135801,VERB,ROOT,False
+get,get,get,124419,AUX,ccomp,True
+a,a,a,0,DET,det,True
+quarantine,quarantine,quarantine,257971,NOUN,compound,False
+buddy,buddy,buddy,42155,NOUN,dobj,False

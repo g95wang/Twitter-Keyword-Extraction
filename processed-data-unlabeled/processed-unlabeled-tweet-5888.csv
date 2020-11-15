@@ -1,0 +1,16 @@
+follow,follow,follow,115989,VERB,ROOT,False
+u,u,u,333554,PROPN,dobj,False
+U,u,u,333554,NOUN,nsubj,False
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+follow,follow,follow,115989,VERB,ROOT,False
+time,time,time,323746,NOUN,nsubj,False
+lem,lem,alem,7858,PROPN,compound,False
+check,check,check,53311,NOUN,dobj,False
+for,for,for,116301,ADP,prep,True
+u,u,u,333554,PROPN,pobj,False
+hate,hate,hate,134216,VERB,ROOT,False
+that,that,that,320639,DET,det,True
+kind,kind,kind,164752,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+foolery,foolery,foolery,116097,NOUN,pobj,False

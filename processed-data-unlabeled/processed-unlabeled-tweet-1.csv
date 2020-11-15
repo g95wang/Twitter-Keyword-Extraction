@@ -1,0 +1,11 @@
+The,the,the,320691,DET,det,True
+low,low,low,175601,ADJ,amod,False
+temperature,temperature,temperature,318525,NOUN,nsubj,False
+at,at,at,22372,ADP,prep,True
+Sky,Sky,sky,293055,PROPN,compound,False
+Harbor,Harbor,harbor,133589,PROPN,pobj,False
+this,this,this,322217,DET,det,True
+morning,morning,morning,193499,NOUN,npadvmod,False
+was,be,be,29345,AUX,ROOT,True
+degrees,degree,degree,79645,NOUN,attr,False
+azwx,azwx,azox,25379,NOUN,ROOT,False

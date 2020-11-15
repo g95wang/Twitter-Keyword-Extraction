@@ -1,0 +1,14 @@
+took,take,take,315491,VERB,ROOT,False
+time,time,time,323746,NOUN,dobj,False
+for,for,for,116301,ADP,mark,True
+to,to,to,324862,PART,aux,True
+mature,mature,mature,181354,VERB,advcl,False
+and,and,and,12285,CCONJ,cc,True
+really,really,really,261766,ADV,advmod,True
+understand,understand,understand,339888,VERB,conj,False
+this,this,this,322217,DET,dobj,True
+not,not,not,208798,PART,neg,True
+important,important,important,148877,ADJ,ROOT,False
+who,who,who,365278,PRON,nsubj,True
+delivers,deliver,deliver,80183,VERB,relcl,False
+LISTEN,LISTEN,listen,173504,PROPN,npadvmod,False

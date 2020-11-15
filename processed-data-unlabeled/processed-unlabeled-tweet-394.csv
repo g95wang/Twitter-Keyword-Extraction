@@ -1,0 +1,14 @@
+'ve,have,have,134390,AUX,aux,True
+said,say,say,276740,VERB,ROOT,False
+once,once,once,212661,ADV,advmod,True
+and,and,and,12285,CCONJ,cc,True
+'ll,will,will,365768,VERB,aux,True
+say,say,say,276740,VERB,ROOT,True
+until,until,until,353020,ADP,prep,True
+the,the,the,320691,DET,det,True
+end,end,end,99559,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+time,time,time,323746,NOUN,pobj,False
+Ardeth,Ardeth,ardent,19271,PROPN,compound,False
+Bay,Bay,bay,26409,PROPN,compound,False
+dese,dese,dense,81209,PROPN,dep,False

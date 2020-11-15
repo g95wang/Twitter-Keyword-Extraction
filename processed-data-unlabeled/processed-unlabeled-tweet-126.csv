@@ -1,0 +1,14 @@
+KOR,KOR,kor,166067,PROPN,nmod,False
+ENG,ENG,eng,100293,PROPN,compound,False
+LYRICS,LYRICS,lyrics,173393,PROPN,ROOT,False
+by,by,by,33133,ADP,prep,True
+IU,IU,imu,149311,PROPN,pobj,False
+Prod,Prod,prod,251504,PROPN,appos,False
+amp,amp,amp,10991,PROPN,conj,False
+Feat,Feat,feat,110640,PROPN,ROOT,False
+SUGA,SUGA,sugan,310201,PROPN,ROOT,False
+of,of,of,211535,ADP,prep,True
+BTS,BTS,bats,29070,PROPN,pobj,False
+BTS,bts,bats,29070,NOUN,ROOT,False
+IUxSUGA,IUxSUGA,sugan,310201,NOUN,compound,False
+EightOutNow,eightoutnow,leighton,170235,INTJ,ROOT,False

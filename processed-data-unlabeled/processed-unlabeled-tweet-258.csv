@@ -1,0 +1,12 @@
+just,just,just,162503,ADV,advmod,True
+noticed,notice,notice,208919,VERB,ROOT,False
+that,that,that,320639,SCONJ,mark,True
+today,today,today,325003,NOUN,poss,False
+'s,'s,s,275971,PART,case,True
+date,date,date,77165,NOUN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+interesting,interesting,interesting,154898,ADJ,acomp,False
+'s,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+reflection,reflection,reflection,265122,NOUN,attr,False
+of,of,of,211535,ADP,prep,True

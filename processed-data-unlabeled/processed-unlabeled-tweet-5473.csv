@@ -1,0 +1,16 @@
+This,this,this,322217,DET,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+false,false,false,109519,ADJ,acomp,False
+A,a,a,0,DET,det,True
+old,old,old,212002,ADJ,amod,False
+Black,black,black,35431,ADJ,amod,False
+woman,woman,woman,366955,NOUN,nsubj,False
+did,do,do,90528,AUX,ROOT,True
+this,this,this,322217,DET,dobj,True
+on,on,on,212644,ADP,prep,True
+May,May,may,177739,PROPN,pobj,True
+for,for,for,116301,ADP,prep,True
+This,this,this,322217,DET,nsubjpass,True
+was,be,be,29345,AUX,auxpass,True
+covered,cover,cover,71476,VERB,ROOT,False
+by,by,by,33133,ADP,agent,True

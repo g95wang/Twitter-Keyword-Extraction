@@ -1,0 +1,13 @@
+Today,today,today,325003,NOUN,compound,False
+is,be,be,29345,AUX,ROOT,True
+proud,proud,proud,253981,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+give,give,give,125692,VERB,xcomp,True
+the,the,the,320691,DET,det,True
+exclusive,exclusive,exclusive,106767,ADJ,amod,False
+Dutch,dutch,dutch,94573,ADJ,amod,False
+premiere,premiere,premiere,248385,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+Boargazm,Boargazm,bargham,27971,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+Epsilon,Epsilon,epsilon,103129,PROPN,pobj,False

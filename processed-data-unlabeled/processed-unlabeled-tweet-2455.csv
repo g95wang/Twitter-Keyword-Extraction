@@ -1,0 +1,13 @@
+NASA,NASA,nasa,197083,PROPN,nsubj,False
+Is,be,be,29345,AUX,ROOT,True
+About,about,about,756,ADJ,acomp,True
+to,to,to,324862,PART,aux,True
+Grab,grab,grab,128456,VERB,xcomp,False
+an,an,an,11448,DET,det,True
+Asteroid,Asteroid,asteroid,22051,PROPN,compound,False
+Sample,Sample,sample,277587,PROPN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+Bring,bring,bring,40851,VERB,conj,False
+Home,home,home,142751,ADV,advmod,False
+Nasa,Nasa,nasa,197083,PROPN,dobj,False
+via,via,via,359224,ADP,prep,True

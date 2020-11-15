@@ -1,0 +1,16 @@
+If,if,if,146980,SCONJ,mark,True
+the,the,the,320691,DET,det,True
+past,past,past,227394,ADJ,amod,False
+governments,government,government,128391,NOUN,nsubj,False
+were,be,be,29345,AUX,advcl,True
+loyal,loyal,loyal,174733,ADJ,acomp,False
+to,to,to,324862,ADP,prep,True
+Pakistan,Pakistan,pakistan,223263,PROPN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+instead,instead,instead,153876,ADV,advmod,False
+of,of,of,211535,ADP,cc,True
+filling,fill,fill,112683,VERB,pcomp,False
+bank,bank,bank,27482,NOUN,compound,False
+accounts,account,account,1719,NOUN,dobj,False
+had,have,have,134390,AUX,aux,True
+filled,fill,fill,112683,VERB,ROOT,False

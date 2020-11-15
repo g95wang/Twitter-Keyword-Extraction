@@ -1,0 +1,15 @@
+That,that,that,320639,DET,det,True
+one,one,one,212715,NOUN,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+true,true,true,331515,ADJ,amod,False
+story,story,story,305411,NOUN,attr,False
+from,from,from,119298,ADP,prep,True
+the,the,the,320691,DET,det,True
+th,th,th,320421,ADJ,compound,False
+century,century,century,51064,NOUN,pobj,False
+If,if,if,146980,SCONJ,mark,True
+look,look,look,175060,VERB,ROOT,False
+up,up,up,354457,ADP,prt,True
+on,on,on,212644,ADP,prep,True
+SkyOnDemand,SkyOnDemand,nondemand,202861,PROPN,pobj,False

@@ -1,0 +1,11 @@
+here,here,here,136991,ADV,advmod,True
+is,be,be,29345,AUX,ROOT,True
+proof,proof,proof,252471,NOUN,attr,False
+that,that,that,320639,SCONJ,mark,True
+the,the,the,320691,DET,det,True
+petitions,petition,petition,232417,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+helping,help,help,135801,VERB,acl,False
+please,please,please,239622,INTJ,intj,True
+keep,keep,keep,163579,VERB,dep,True
+signing,sign,sign,290081,VERB,xcomp,False

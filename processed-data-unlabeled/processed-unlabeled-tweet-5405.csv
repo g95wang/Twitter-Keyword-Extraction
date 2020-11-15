@@ -1,0 +1,14 @@
+Sometimes,sometimes,sometimes,297064,ADV,advmod,True
+i,i,i,145455,PRON,nsubj,True
+have,have,have,134390,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+best,good,good,127869,ADJ,amod,False
+conversations,conversation,conversation,68015,NOUN,dobj,False
+with,with,with,366582,ADP,prep,True
+at,at,at,22372,ADV,advmod,True
+least,least,least,169698,ADJ,advmod,True
+understand,understand,understand,339888,VERB,ROOT,False
+what,what,what,364447,PRON,pobj,True
+'m,be,be,29345,AUX,aux,True
+talking,talk,talk,315639,VERB,ccomp,False
+about,about,about,756,ADP,prep,True

@@ -1,0 +1,14 @@
+ok,ok,ok,211942,ADV,advmod,False
+now,now,now,209199,ADV,advmod,True
+this,this,this,322217,DET,nsubj,True
+was,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+cultural,cultural,cultural,74842,ADJ,amod,False
+reset,reset,reset,269255,NOUN,attr,False
+ok,ok,ok,211942,ADV,advmod,False
+now,now,now,209199,ADV,advmod,True
+this,this,this,322217,DET,nsubj,True
+was,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+cultural,cultural,cultural,74842,ADJ,amod,False
+reset,reset,reset,269255,NOUN,attr,False

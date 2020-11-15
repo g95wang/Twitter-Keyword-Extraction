@@ -1,0 +1,4 @@
+All,all,all,8522,DET,det,True
+cops,cop,cop,68392,NOUN,nsubj,False
+were,be,be,29345,AUX,ROOT,True
+chargerd,chargerd,charged,52803,NOUN,acomp,False

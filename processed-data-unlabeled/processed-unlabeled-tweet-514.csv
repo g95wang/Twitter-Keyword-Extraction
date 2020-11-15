@@ -1,0 +1,17 @@
+A,a,a,0,DET,det,True
+small,small,small,294676,ADJ,amod,False
+edit,edit,edit,95772,NOUN,nsubj,False
+from,from,from,119298,ADP,prep,True
+side,side,side,289721,ADJ,amod,True
+Mutual,mutual,mutual,196333,ADJ,amod,False
+love,love,love,175534,NOUN,pobj,False
+from,from,from,119298,ADP,prep,True
+anna,anna,anna,13459,PROPN,compound,False
+fans,fan,fan,109645,NOUN,pobj,False
+Hope,hope,hope,143674,VERB,ROOT,False
+all,all,all,8522,DET,nsubj,True
+of,of,of,211535,ADP,prep,True
+like,like,like,172172,VERB,intj,False
+Give,give,give,125692,VERB,ROOT,True
+some,some,some,297029,DET,det,True
+sup,sup,sup,311245,NOUN,dobj,False

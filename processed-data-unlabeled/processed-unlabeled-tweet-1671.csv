@@ -1,0 +1,9 @@
+mention,mention,mention,183534,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+prettiest,pretty,pretty,250049,ADJ,compound,False
+person,person,person,231951,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+this,this,this,322217,DET,det,True
+twitter,twitter,twitter,333475,NOUN,pobj,False
+go,go,go,127161,VERB,ROOT,True
+go,go,go,127161,VERB,advcl,True

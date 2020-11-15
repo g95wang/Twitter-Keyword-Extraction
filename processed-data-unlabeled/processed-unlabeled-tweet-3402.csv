@@ -1,0 +1,10 @@
+There,there,there,321216,PRON,expl,True
+have,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,ROOT,True
+alerts,alert,alert,7892,NOUN,attr,False
+so,so,so,295959,ADV,advmod,True
+far,far,far,109839,ADV,advmod,False
+today,today,today,325003,NOUN,npadvmod,False
+d,d,d,75936,NOUN,dep,False
+May,May,may,177739,PROPN,ROOT,True
+GMT,GMT,gm,127003,PROPN,appos,False

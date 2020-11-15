@@ -1,0 +1,11 @@
+Squirrels,squirrel,squirrel,302055,NOUN,nsubj,False
+are,be,be,29345,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+star,star,star,302844,NOUN,attr,False
+of,of,of,211535,ADP,prep,True
+an,an,an,11448,DET,det,True
+Ontario,Ontario,ontario,212930,PROPN,compound,False
+photographers,photographer,photographer,235162,NOUN,pobj,False
+elaborate,elaborate,elaborate,96652,ADJ,conj,False
+photoshoot,photoshoot,potshoot,244788,NOUN,dobj,False
+TheMoment,themoment,theowmen,321188,NOUN,ROOT,False

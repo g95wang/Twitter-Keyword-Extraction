@@ -1,0 +1,15 @@
+ONLINE,online,online,212850,ADJ,compound,False
+CLASSES,class,class,59378,NOUN,compound,False
+PUSHED,pushed,pushed,257188,VERB,ROOT,False
+POOR,POOR,poor,243168,PROPN,compound,False
+FAMILY,FAMILY,family,109591,PROPN,compound,False
+FORCED,forced,forced,116406,NOUN,appos,False
+TO,to,to,324862,ADP,prep,True
+RE,RE,re,261391,PROPN,dep,True
+ALLOCATE,ALLOCATE,allocate,8783,PROPN,amod,False
+MEAGER,MEAGER,meager,181693,PROPN,compound,False
+RESOURCES,RESOURCES,resources,269668,PROPN,pobj,False
+There,there,there,321216,PRON,expl,True
+fixed,fix,fix,113590,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+headline,headline,headline,134642,NOUN,dobj,False

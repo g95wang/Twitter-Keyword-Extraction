@@ -1,0 +1,8 @@
+WORST,WORST,worst,367697,PROPN,compound,False
+EPISODE,EPISODE,episode,102810,PROPN,compound,False
+Series,Series,series,286094,PROPN,nsubj,False
+is,be,be,29345,AUX,ccomp,True
+quite,quite,quite,259028,ADV,advmod,True
+good,good,good,127869,ADJ,acomp,False
+is,be,be,29345,AUX,ROOT,True
+n't,not,not,208798,PART,neg,True

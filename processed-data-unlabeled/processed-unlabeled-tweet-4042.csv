@@ -1,0 +1,9 @@
+Powerstar,Powerstar,powerstat,245021,PROPN,compound,False
+Birthday,Birthday,birthday,34904,PROPN,nsubj,False
+Wishes,wish,wish,366457,VERB,ROOT,False
+To,to,to,324862,ADP,prep,True
+Young,Young,young,157730,PROPN,compound,False
+Tiger,Tiger,tiger,323437,PROPN,pobj,False
+Thank,thank,thank,320604,VERB,ROOT,False
+Sir,Sir,sir,292308,PROPN,compound,False
+HappyBirthdayNTR,HappyBirthdayNTR,birthday,34904,PROPN,ROOT,False

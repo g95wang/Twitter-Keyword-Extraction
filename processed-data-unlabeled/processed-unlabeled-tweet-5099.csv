@@ -1,0 +1,17 @@
+Seungkwan,Seungkwan,sekhwan,283394,PROPN,nsubj,False
+asked,ask,ask,21294,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+camera,camera,camera,45675,NOUN,compound,False
+man,man,man,178862,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+do,do,do,90528,AUX,xcomp,True
+Aju,Aju,ju,161970,PROPN,compound,False
+Nice,Nice,nice,199579,PROPN,compound,False
+omg,omg,mg,185606,INTJ,ROOT,False
+was,be,be,29345,AUX,ROOT,True
+so,so,so,295959,ADV,advmod,True
+quick,quick,quick,258487,ADJ,acomp,False
+OTYinChicago,otyinchicago,chicago,54099,ADJ,dep,False
+OTYinChicago,otyinchicago,chicago,54099,ADJ,dep,False
+OdeToYouinCHI,OdeToYouinCHI,dermorhynchi,82274,PROPN,compound,False
+https,https,hts,144605,NOUN,ROOT,False

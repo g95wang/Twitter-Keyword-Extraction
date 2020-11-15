@@ -1,0 +1,16 @@
+When,when,when,364637,ADV,advmod,True
+should,should,should,288990,VERB,aux,True
+British,british,british,40996,ADJ,amod,False
+schools,school,school,280423,NOUN,nsubj,False
+reopen,reopen,reopen,267863,VERB,ROOT,False
+Here,here,here,136991,ADV,advmod,True
+'s,be,be,29345,AUX,ROOT,True
+what,what,what,364447,PRON,dative,True
+the,the,the,320691,DET,det,True
+science,science,science,280630,NOUN,nsubj,False
+tells,tell,tell,318356,VERB,ccomp,False
+Devi,Devi,devi,83515,PROPN,compound,False
+Sridhar,Sridhar,sridhar,302118,PROPN,dobj,False
+and,and,and,12285,CCONJ,cc,True
+Ines,Ines,bines,34194,PROPN,compound,False
+Hassan,Hassan,hasan,134061,PROPN,conj,False

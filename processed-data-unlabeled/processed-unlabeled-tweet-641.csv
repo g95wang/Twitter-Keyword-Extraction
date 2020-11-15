@@ -1,0 +1,17 @@
+GREAT,great,great,129442,ADJ,amod,False
+OPPORTUNITY,opportunity,opportunity,213669,NOUN,ROOT,False
+GIVEN,give,give,125692,VERB,acl,False
+BY,by,by,33133,ADP,agent,True
+GOD,GOD,god,127304,PROPN,pobj,False
+DURING,during,during,94458,ADP,ROOT,True
+THE,the,the,320691,DET,det,True
+CORONA,CORONA,corona,69428,PROPN,pobj,False
+LOCKDOWN,LOCKDOWN,lookdown,175062,PROPN,pobj,False
+MY,MY,my,185619,PROPN,poss,True
+FOUNDATION,FOUNDATION,foundation,117917,PROPN,nsubj,False
+STOOD,stand,stand,302655,VERB,ROOT,False
+MANY,many,many,179225,ADJ,amod,True
+TIMES,time,time,323746,NOUN,dobj,False
+WITH,with,with,366582,ADP,prep,True
+CITY,CITY,city,58633,PROPN,pobj,False
+POLICE.THANKS,POLICE.THANKS,pickthank,235937,PROPN,pobj,False

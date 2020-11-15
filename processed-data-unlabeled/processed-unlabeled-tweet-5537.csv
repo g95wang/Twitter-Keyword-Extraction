@@ -1,0 +1,17 @@
+If,if,if,146980,SCONJ,mark,True
+think,think,think,321897,VERB,ROOT,False
+that,that,that,320639,SCONJ,nsubj,True
+s,s,s,275971,VERB,ccomp,False
+bad,bad,bad,26158,ADJ,acomp,False
+Have,have,have,134390,AUX,aux,True
+seen,see,see,283054,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+George,George,george,124030,PROPN,nmod,False
+Floyd,Floyd,floyd,114889,PROPN,nmod,False
+Challenge,Challenge,challenge,52186,PROPN,nmod,False
+people,people,people,230162,NOUN,dobj,False
+kneeling,kneel,kneel,165494,VERB,acl,False
+on,on,on,212644,ADP,prep,True
+kids,kid,kid,164450,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+frien,frien,friend,118947,PROPN,conj,False

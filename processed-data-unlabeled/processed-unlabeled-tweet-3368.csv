@@ -1,0 +1,10 @@
+Video,video,video,359514,NOUN,ROOT,False
+Epcot,Epcot,depot,81786,PROPN,nmod,False
+International,International,international,155462,PROPN,nmod,False
+Flower,Flower,flower,115181,PROPN,nmod,False
+and,and,and,12285,CCONJ,cc,True
+Garden,Garden,garden,122096,PROPN,conj,False
+Festival,Festival,festival,111693,PROPN,compound,False
+topiary,topiary,topiary,325882,NOUN,compound,False
+tour,tour,tour,326625,NOUN,appos,False
+minutes,minute,minute,188058,NOUN,appos,False

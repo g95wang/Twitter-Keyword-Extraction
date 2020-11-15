@@ -1,0 +1,8 @@
+Mitch,Mitch,mitch,190463,PROPN,nsubj,False
+to,to,to,324862,ADP,prep,True
+Frank,Frank,frank,118363,PROPN,pobj,False
+to,to,to,324862,PART,prep,True
+RJ,RJ,raj,260150,PROPN,pobj,False
+Count,Count,count,70595,PROPN,ROOT,False
+the,the,the,320691,DET,det,True
+dribbles,dribbles,dribbles,93026,NOUN,dobj,False

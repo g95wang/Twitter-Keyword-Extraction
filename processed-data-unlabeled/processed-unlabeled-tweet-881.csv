@@ -1,0 +1,9 @@
+th,th,th,320421,PROPN,compound,False
+music,music,music,195981,NOUN,ROOT,False
+baby,baby,baby,25503,NOUN,npadvmod,False
+take,take,take,315491,VERB,ROOT,True
+hand,hand,hand,133091,NOUN,dobj,False
+want,want,want,362465,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+be,be,be,29345,AUX,ccomp,True
+husband~,husband~,husband,145307,NOUN,attr,False

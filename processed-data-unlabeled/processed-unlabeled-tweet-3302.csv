@@ -1,0 +1,7 @@
+WELCOME,welcome,welcome,363975,VERB,ROOT,False
+TO,to,to,324862,ADP,prep,True
+FUTURE,FUTURE,future,120712,PROPN,amod,False
+NOSTALGIA,NOSTALGIA,nostalgia,208768,PROPN,pobj,False
+IT,it,it,159424,PRON,nsubj,True
+'S,be,be,29345,AUX,ROOT,True
+OUT,out,out,216108,ADV,acomp,True

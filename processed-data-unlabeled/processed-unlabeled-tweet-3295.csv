@@ -1,0 +1,10 @@
+talking,talk,talk,315639,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+corona,corona,corona,69428,NOUN,compound,False
+virus,virus,virus,360286,NOUN,pobj,False
+for,for,for,116301,ADP,mark,True
+to,to,to,324862,PART,aux,True
+not,not,not,208798,PART,neg,True
+disturb,disturb,disturb,89965,VERB,advcl,False
+and,and,and,12285,CCONJ,cc,True
+family,family,family,109591,NOUN,conj,False

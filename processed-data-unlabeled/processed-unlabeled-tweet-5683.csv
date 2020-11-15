@@ -1,0 +1,16 @@
+Those,those,those,322465,DET,nsubj,True
+are,be,be,29345,AUX,ROOT,True
+not,not,not,208798,PART,neg,True
+soldiers,soldier,soldier,296558,NOUN,attr,False
+And,and,and,12285,CCONJ,cc,True
+should,should,should,288990,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+dishonorably,dishonorably,dishonorably,88301,ADV,advmod,False
+kicked,kick,kick,164415,VERB,ROOT,False
+out,out,out,216108,ADP,prt,True
+Since,since,since,291358,SCONJ,mark,True
+when,when,when,364637,ADV,advmod,True
+does,do,do,90528,AUX,aux,True
+Americans,Americans,americans,10314,PROPN,nsubj,False
+bow,bow,bow,39126,VERB,ROOT,False
+disgusting,disgusting,disgusting,88208,ADJ,ROOT,False

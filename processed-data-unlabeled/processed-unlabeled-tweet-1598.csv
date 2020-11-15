@@ -1,0 +1,14 @@
+everyone,everyone,everyone,106169,PRON,nsubj,True
+at,at,at,22372,ADP,prep,True
+local,local,local,174264,ADJ,amod,False
+target,target,target,316574,NOUN,pobj,False
+tomorrow,tomorrow,tomorrow,325475,NOUN,compound,False
+morning,morning,morning,193499,NOUN,npadvmod,False
+waiting,wait,wait,362072,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+see,see,see,283054,VERB,xcomp,True
+who,who,who,365278,PRON,nsubj,True
+makes,make,make,178090,VERB,ccomp,False
+the,the,the,320691,DET,det,True
+first,first,first,113286,ADJ,amod,True
+move,move,move,194383,NOUN,dobj,True

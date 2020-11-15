@@ -1,0 +1,13 @@
+All,all,all,8522,DET,predet,True
+this,this,this,322217,DET,nsubj,True
+shall,shall,shall,287261,VERB,aux,False
+pass,pass,pass,227250,VERB,nsubj,False
+do,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+worry,worry,worry,367636,VERB,ROOT,False
+Tomorrow,tomorrow,tomorrow,325475,NOUN,npadvmod,False
+things,thing,thing,321869,NOUN,nsubj,False
+will,will,will,365768,VERB,aux,True
+gon,go,go,127161,VERB,ROOT,False
+na,to,to,324862,PART,aux,False
+change,change,change,52470,VERB,xcomp,False

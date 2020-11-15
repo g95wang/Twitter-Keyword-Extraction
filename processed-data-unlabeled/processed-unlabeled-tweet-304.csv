@@ -1,0 +1,16 @@
+Happy,happy,happy,133513,ADJ,amod,False
+birthday,birthday,birthday,34904,NOUN,compound,False
+Bang,Bang,bang,27412,PROPN,compound,False
+Yedam,Yedam,edam,95645,PROPN,npadvmod,False
+wish,wish,wish,366457,VERB,ROOT,False
+all,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+best,good,good,127869,ADJ,dobj,False
+stay,stay,stay,302393,VERB,conj,False
+healty,healty,healthy,134775,ADJ,acomp,False
+and,and,and,12285,CCONJ,cc,True
+happy,happy,happy,133513,ADJ,conj,False
+forever,forever,forever,117124,ADV,advmod,False
+drawing,draw,draw,92753,VERB,advcl,False
+for,for,for,116301,ADP,prep,True
+yedamieee,yedamieee,damie,76553,PROPN,pobj,False

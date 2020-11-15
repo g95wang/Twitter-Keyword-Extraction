@@ -1,0 +1,17 @@
+Probably,probably,probably,251013,ADV,advmod,False
+not,not,not,208798,PART,ROOT,True
+ve,have,have,134390,VERB,ROOT,False
+a,a,a,0,DET,det,True
+houseful,houseful,houseful,144415,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+young,young,young,157730,ADJ,amod,False
+strong,strong,strong,306510,ADJ,amod,False
+capable,capable,capable,46752,ADJ,amod,False
+bored,bored,bored,38406,ADJ,amod,False
+people,people,people,230162,NOUN,pobj,False
+though,though,though,322468,ADV,advmod,True
+all,all,all,8522,DET,nsubj,True
+looking,look,look,175060,VERB,advcl,False
+for,for,for,116301,ADP,prep,True
+something,something,something,297061,PRON,pobj,True
+use,use,use,355958,NOUN,amod,False

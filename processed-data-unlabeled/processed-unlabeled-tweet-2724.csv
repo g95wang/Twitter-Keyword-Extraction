@@ -1,0 +1,17 @@
+The,the,the,320691,DET,det,True
+best,good,good,127869,ADJ,amod,False
+trend,trend,trend,328944,NOUN,dep,False
+for,for,for,116301,ADP,prep,True
+this,this,this,322217,DET,det,True
+week,week,week,363764,NOUN,pobj,False
+congratulations,congratulation,congratulation,66228,NOUN,ROOT,False
+for,for,for,116301,ADP,prep,True
+for,for,for,116301,ADP,prep,True
+winning,win,win,365877,VERB,pcomp,False
+a,a,a,0,DET,det,True
+first,first,first,113286,ADJ,amod,True
+place,place,place,238538,NOUN,dobj,False
+in,in,in,149313,ADP,prep,True
+a,a,a,0,DET,det,True
+music,music,music,195981,NOUN,compound,False
+show,show,show,289042,NOUN,pobj,True

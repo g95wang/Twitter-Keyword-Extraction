@@ -1,0 +1,17 @@
+if,if,if,146980,SCONJ,mark,True
+someone,someone,someone,297038,PRON,nsubj,True
+talks,talk,talk,315639,VERB,advcl,False
+shit,shit,shit,288544,VERB,dobj,False
+about,about,about,756,ADP,prep,True
+everyone,everyone,everyone,106169,PRON,pobj,True
+to,to,to,324862,ADP,prep,True
+then,then,then,320906,ADV,advmod,True
+re,be,be,29345,VERB,aux,True
+also,also,also,9416,ADV,advmod,True
+talking,talk,talk,315639,VERB,ROOT,False
+shit,shit,shit,288544,NOUN,acomp,False
+about,about,about,756,ADP,prep,True
+to,to,to,324862,ADP,dative,True
+everyone,everyone,everyone,106169,PRON,pobj,True
+dot,dot,dot,91878,NOUN,compound,False
+edu,edu,educ,95820,NOUN,appos,False

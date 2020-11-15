@@ -1,0 +1,12 @@
+have,have,have,134390,AUX,aux,True
+spoken,speak,speak,298684,VERB,ROOT,False
+to,to,to,324862,PART,aux,True
+carrier,carrier,carrier,48518,VERB,xcomp,False
+a,a,a,0,DET,det,True
+number,number,number,209515,NOUN,dobj,False
+of,of,of,211535,ADP,prep,True
+times,time,time,323746,NOUN,pobj,False
+and,and,and,12285,CCONJ,cc,True
+are,be,be,29345,AUX,aux,True
+not,not,not,208798,PART,neg,True
+helping,help,help,135801,VERB,conj,False

@@ -1,0 +1,12 @@
+LOOK,look,look,175060,VERB,ROOT,False
+AT,at,at,22372,ADP,ROOT,True
+HIM,him,him,139537,PRON,pobj,True
+LOOK,LOOK,look,175060,PROPN,ROOT,False
+AT,at,at,22372,ADP,ROOT,True
+HIMMM,himmm,him,139537,NOUN,pobj,False
+LOOK,look,look,175060,VERB,ROOT,False
+AT,at,at,22372,ADP,ROOT,True
+HIM,him,him,139537,PRON,pobj,True
+LOOK,LOOK,look,175060,PROPN,ROOT,False
+AT,at,at,22372,ADP,ROOT,True
+HIMMM,himmm,him,139537,NOUN,pobj,False

@@ -1,0 +1,17 @@
+WhyMillionsEatVeg,whymillionseatveg,millionist,187433,NOUN,ROOT,False
+Because,because,because,29780,SCONJ,mark,True
+u,u,u,333554,PRON,nsubj,False
+can,can,can,45964,VERB,aux,True
+eat,eat,eat,94953,VERB,ROOT,False
+meat,meat,meat,181814,NOUN,dobj,False
+God,God,god,127304,PROPN,nsubj,False
+gives,give,give,125692,VERB,relcl,False
+punishment,punishment,punishment,256682,NOUN,dobj,False
+Holy,holy,holy,142432,ADJ,compound,False
+books,book,book,38039,NOUN,nsubj,False
+proof,proof,proof,252471,NOUN,ROOT,False
+that,that,that,320639,DET,nsubj,True
+eat,eat,eat,94953,VERB,relcl,False
+veg,veg,veg,357675,NOUN,dobj,False
+Like,like,like,172172,SCONJ,ROOT,False
+vege,vege,venge,358072,PROPN,pobj,False

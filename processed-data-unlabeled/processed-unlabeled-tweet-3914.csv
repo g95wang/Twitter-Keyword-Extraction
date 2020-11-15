@@ -1,0 +1,16 @@
+Biko,Biko,bikol,33836,PROPN,poss,False
+'s,'s,s,275971,PART,case,True
+syrup,syrup,syrup,292442,NOUN,nsubj,False
+was,be,be,29345,AUX,ROOT,True
+for,for,for,116301,ADP,prep,True
+then,then,then,320906,ADV,pcomp,True
+now,now,now,209199,ADV,advmod,True
+'s,be,be,29345,AUX,ROOT,True
+bo,bo,bo,36920,PROPN,compound,False
+Mandela,Mandela,mandelate,179014,PROPN,nsubj,False
+did,do,do,90528,AUX,aux,True
+n't,not,not,208798,PART,neg,True
+fight,fight,fight,112433,VERB,ccomp,False
+for,for,for,116301,ADP,prep,True
+this,this,this,322217,DET,det,True
+comrades,comrade,comrade,64999,NOUN,pobj,False

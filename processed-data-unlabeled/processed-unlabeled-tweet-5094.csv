@@ -1,0 +1,16 @@
+Having,have,have,134390,VERB,ROOT,False
+a,a,a,0,DET,det,True
+wee,wee,wee,363736,ADJ,amod,False
+stroll,stroll,stroll,306468,NOUN,dobj,False
+down,down,down,92197,ADP,prep,True
+West,West,west,364234,PROPN,compound,False
+George,George,george,124030,PROPN,compound,False
+Street,Street,street,306018,PROPN,pobj,False
+in,in,in,149313,ADP,prep,True
+Glasgow,Glasgow,glasgow,125958,PROPN,pobj,False
+on,on,on,212644,ADP,prep,True
+a,a,a,0,DET,det,True
+Saturday,Saturday,saturday,278848,PROPN,compound,False
+afternoon,afternoon,afternoon,5723,NOUN,pobj,False
+AUOBGlasgow,AUOBGlasgow,glasgow,125958,PROPN,compound,False
+indyref2,indyref2,indef,150701,NOUN,ROOT,False

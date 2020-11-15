@@ -1,0 +1,17 @@
+How,how,how,144540,ADV,advmod,True
+differently,differently,differently,85297,ADV,advmod,False
+would,would,would,367745,VERB,aux,True
+men,man,man,178862,NOUN,nsubj,False
+see,see,see,283054,VERB,ROOT,True
+if,if,if,146980,SCONJ,mark,True
+as,as,as,20837,SCONJ,prep,True
+boys,boy,boy,37378,NOUN,pobj,False
+grew,grow,grow,130412,VERB,advcl,False
+up,up,up,354457,ADP,prt,True
+with,with,with,366582,ADP,prep,True
+movies,movie,movie,194399,NOUN,pobj,False
+featuring,feature,feature,110707,VERB,acl,False
+like,like,like,172172,SCONJ,prep,False
+this,this,this,322217,DET,pobj,True
+via,via,via,359224,ADP,ROOT,True
+http,http,hatt,134258,NOUN,pobj,False

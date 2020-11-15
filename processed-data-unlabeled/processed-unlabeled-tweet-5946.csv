@@ -1,0 +1,17 @@
+Since,since,since,291358,SCONJ,prep,True
+early,early,early,94742,ADV,advmod,False
+this,this,this,322217,DET,det,True
+morning,morning,morning,193499,NOUN,pobj,False
+the,the,the,320691,DET,det,True
+Hellenic,Hellenic,hellenic,135682,PROPN,compound,False
+Coast,Coast,coast,61085,PROPN,compound,False
+Guard,Guard,guard,130774,PROPN,nsubj,False
+has,have,have,134390,AUX,aux,True
+ignored,ignore,ignore,147087,VERB,ROOT,False
+repeated,repeat,repeat,268081,VERB,amod,False
+requests,request,request,268851,NOUN,dobj,False
+by,by,by,33133,ADV,prep,True
+to,to,to,324862,PART,aux,True
+respond,respond,respond,269765,VERB,pcomp,False
+to,to,to,324862,ADP,prep,True
+bo,bo,bo,36920,PROPN,pobj,False

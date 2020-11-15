@@ -1,0 +1,13 @@
+despite,despite,despite,82839,SCONJ,prep,False
+temperature,temperature,temperature,318525,NOUN,compound,False
+checks,check,check,53311,NOUN,pobj,False
+lol,lol,lola,174784,ADJ,ROOT,False
+as,as,as,20837,SCONJ,mark,True
+if,if,if,146980,SCONJ,mark,True
+temperature,temperature,temperature,318525,NOUN,compound,False
+checks,check,check,53311,NOUN,nsubj,False
+are,be,be,29345,AUX,advcl,True
+a,a,a,0,DET,det,True
+relaible,relaible,releasible,266818,ADJ,amod,False
+covid-19,covid-19,covid,71525,NOUN,nummod,False
+test,test,test,319741,NOUN,attr,False

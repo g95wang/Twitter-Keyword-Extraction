@@ -1,0 +1,10 @@
+Man,Man,man,178862,PROPN,npadvmod,False
+stabbed,stab,stab,302140,VERB,ROOT,False
+to,to,to,324862,ADP,prep,True
+death,death,death,77637,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+supermarket,supermarket,supermarket,312225,NOUN,pobj,False
+as,as,as,20837,SCONJ,mark,True
+wife,wife,wife,365591,NOUN,nsubj,False
+waited,wait,wait,362072,VERB,advcl,False
+outside,outside,outside,217444,ADV,advmod,False

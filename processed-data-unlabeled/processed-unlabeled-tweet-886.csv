@@ -1,0 +1,13 @@
+The,the,the,320691,DET,det,True
+part,part,part,226929,NOUN,nsubj,True
+that,that,that,320639,DET,nsubj,True
+really,really,really,261766,ADV,advmod,True
+messes,mess,mess,184459,VERB,relcl,False
+up,up,up,354457,ADP,prt,True
+is,be,be,29345,AUX,ROOT,True
+that,that,that,320639,SCONJ,mark,True
+Elon,Elon,elon,97752,PROPN,compound,False
+Musk,Musk,musk,196039,PROPN,nsubj,False
+already,already,already,9397,ADV,advmod,True
+had,have,have,134390,AUX,ccomp,True
+kids,kid,kid,164450,NOUN,dobj,False

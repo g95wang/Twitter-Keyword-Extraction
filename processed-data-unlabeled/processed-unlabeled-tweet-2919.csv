@@ -1,0 +1,17 @@
+Under,under,under,338801,ADP,ROOT,True
+the,the,the,320691,DET,det,True
+cover,cover,cover,71476,NOUN,pobj,False
+of,of,of,211535,ADP,prep,True
+the,the,the,320691,DET,det,True
+Corona,Corona,corona,69428,PROPN,compound,False
+virus,virus,virus,360286,NOUN,pobj,False
+Enemy,enemy,enemy,100116,NOUN,nsubj,False
+of,of,of,211535,ADP,prep,True
+religion,religion,religion,266938,NOUN,pobj,False
+are,be,be,29345,AUX,aux,True
+closing,close,close,60433,VERB,ROOT,False
+down,down,down,92197,ADP,prt,True
+mosques,mosque,mosque,193842,NOUN,dobj,False
+May,May,may,177739,VERB,aux,True
+Allah,Allah,allah,8530,PROPN,nsubj,False
+help,help,help,135801,VERB,ROOT,False

@@ -1,0 +1,10 @@
+HALB,HALB,alb,7377,PROPN,nsubj,False
+that,that,that,320639,DET,nsubj,True
+is,be,be,29345,AUX,relcl,True
+nice,nice,nice,199579,ADJ,amod,False
+float,float,float,114796,NOUN,nmod,False
+SS,SS,ss,302127,PROPN,attr,False
+explains,explain,explain,107802,VERB,ROOT,False
+the,the,the,320691,DET,det,True
+easy,easy,easy,94901,ADJ,amod,False
+movement,movement,movement,194393,NOUN,dobj,False

@@ -1,0 +1,17 @@
+With,with,with,366582,ADP,prep,True
+National,National,national,197259,PROPN,compound,False
+Cabinet,Cabinet,cabinet,43935,PROPN,compound,False
+meeting,meeting,meeting,182309,NOUN,pobj,False
+in,in,in,149313,ADP,prep,True
+just,just,just,162503,ADV,advmod,True
+under,under,under,338801,ADP,quantmod,True
+weeks,week,week,363764,NOUN,pobj,False
+have,have,have,134390,AUX,ROOT,True
+the,the,the,320691,DET,det,True
+chance,chance,chance,52384,NOUN,dobj,False
+to,to,to,324862,PART,aux,True
+make,make,make,178090,VERB,acl,True
+sure,sure,sure,313361,ADJ,ccomp,False
+politicians,politician,politician,242546,NOUN,nsubj,False
+are,be,be,29345,AUX,aux,True
+talking,talk,talk,315639,VERB,ccomp,False

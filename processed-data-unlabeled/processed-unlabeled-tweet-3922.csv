@@ -1,0 +1,16 @@
+Now,now,now,209199,ADV,advmod,True
+that,that,that,320639,DET,nsubj,True
+'s,be,be,29345,AUX,ROOT,True
+a,a,a,0,DET,det,True
+civilized,civilized,civilized,58942,ADJ,amod,False
+country,country,country,71230,NOUN,attr,False
+Same,same,same,277518,ADJ,amod,True
+people,people,people,230162,NOUN,nsubj,False
+that,that,that,320639,DET,nsubj,True
+brought,bring,bring,40851,VERB,relcl,False
+Christianity,Christianity,christianity,56137,PROPN,dobj,False
+to,to,to,324862,ADP,dative,True
+oooo,oooo,oooo,213063,ADV,advmod,False
+Colonize,colonize,colonize,63263,VERB,ROOT,False
+join,join,join,161599,VERB,ccomp,False
+Yet,yet,yet,146952,ADV,ROOT,True

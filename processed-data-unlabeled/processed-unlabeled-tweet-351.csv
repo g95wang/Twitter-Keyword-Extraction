@@ -1,0 +1,11 @@
+That,that,that,320639,SCONJ,mark,True
+bumped,bump,bump,42749,VERB,ROOT,False
+heads,head,head,134575,NOUN,dobj,False
+song,song,song,297195,VERB,ccomp,False
+a,a,a,0,DET,det,True
+lil,lil,lila,172215,NOUN,dobj,False
+nice,nice,nice,199579,ADJ,oprd,False
+but,but,but,43550,CCONJ,cc,True
+other,other,other,215836,ADJ,conj,True
+then,then,then,320906,ADV,advmod,True
+that,that,that,320639,DET,appos,True

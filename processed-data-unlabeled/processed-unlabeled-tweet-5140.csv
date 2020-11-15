@@ -1,0 +1,10 @@
+time,time,time,323746,NOUN,ROOT,False
+to,to,to,324862,PART,aux,True
+break,break,break,40228,VERB,relcl,False
+all,all,all,8522,DET,predet,True
+the,the,the,320691,DET,det,True
+record,record,record,263489,NOUN,compound,False
+Retweet,Retweet,etwee,105245,PROPN,dobj,False
+if,if,if,146980,SCONJ,mark,True
+u,u,u,333554,PRON,nsubj,False
+agree,agree,agree,6445,VERB,advcl,False

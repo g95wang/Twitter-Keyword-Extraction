@@ -1,0 +1,15 @@
+Happy,happy,happy,133513,ADJ,compound,False
+Birthday,birthday,birthday,34904,NOUN,ROOT,False
+To,to,to,324862,ADP,ROOT,True
+The,the,the,320691,DET,det,True
+Loml,Loml,coml,63861,PROPN,pobj,False
+Love,love,love,175534,VERB,ROOT,False
+So,so,so,295959,ADV,advmod,True
+Much,much,much,194510,ADV,advmod,True
+sorry,sorry,sorry,297653,ADJ,advcl,False
+for,for,for,116301,ADP,prep,True
+posting,post,post,243900,VERB,pcomp,False
+late,late,late,168810,ADV,advmod,False
+something,something,something,297061,PRON,nsubj,True
+happened,happen,happen,133505,VERB,ROOT,False
+ht,ht,ht,144603,PROPN,dep,False

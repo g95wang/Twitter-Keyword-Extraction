@@ -1,0 +1,9 @@
+TWICE,twice,twice,333299,ADV,ROOT,False
+More,More,more,193383,ADJ,dobj,True
+amp,amp,amp,10991,NOUN,conj,False
+More,More,more,193383,ADJ,amod,True
+Group,Group,group,130347,PROPN,compound,False
+Fancam,Fancam,fanam,109650,PROPN,conj,False
+Mcountdown,Mcountdown,countdown,70601,PROPN,compound,False
+Comeback,Comeback,comeback,63723,PROPN,compound,False
+Stage,Stage,stage,302294,PROPN,appos,False

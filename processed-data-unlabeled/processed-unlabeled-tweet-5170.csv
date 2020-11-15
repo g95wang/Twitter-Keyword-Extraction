@@ -1,0 +1,17 @@
+ENG,ENG,eng,100293,PROPN,compound,False
+Sub,Sub,sub,307054,PROPN,compound,False
+Video,Video,video,359514,PROPN,ROOT,False
+Everyone,everyone,everyone,106169,PRON,nsubj,True
+is,be,be,29345,AUX,ROOT,True
+happy,happy,happy,133513,ADJ,acomp,False
+to,to,to,324862,PART,aux,True
+see,see,see,283054,VERB,xcomp,True
+Park,Park,park,226556,PROPN,compound,False
+Bom,Bom,bom,37668,PROPN,dobj,False
+The,the,the,320691,DET,det,True
+King,King,king,164870,PROPN,npadvmod,False
+of,of,of,211535,ADP,prep,True
+Mask,Mask,mask,180688,PROPN,compound,False
+Singer,Singer,singer,291687,PROPN,compound,False
+ep,ep,ep,101985,PROPN,pobj,False
+KOCOWATV,KOCOWATV,cowpat,71638,PROPN,ROOT,False

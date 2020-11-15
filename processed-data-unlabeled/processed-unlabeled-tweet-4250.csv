@@ -1,0 +1,16 @@
+DONT,DONT,dont,91473,NOUN,compound,False
+PLAY,PLAY,play,238701,NOUN,ROOT,False
+WITH,with,with,366582,ADP,prep,True
+LE0,LE0,le,169491,PROPN,pobj,False
+HE,HE,he,134574,PROPN,compound,True
+KICKS,kick,kick,164415,NOUN,ROOT,False
+YOU,you,you,157723,PRON,nsubj,True
+THEN,then,then,320906,ADV,advmod,True
+SENDS,send,send,285228,VERB,ROOT,False
+YOU,you,you,157723,PRON,dobj,True
+TO,to,to,324862,ADP,prep,True
+THE,the,the,320691,DET,det,True
+LOADING,loading,loading,174078,NOUN,compound,False
+SCREEN,screen,screen,281701,NOUN,pobj,False
+FOR,for,for,116301,ADP,prep,True
+MINS,min,min,187647,NOUN,pobj,False

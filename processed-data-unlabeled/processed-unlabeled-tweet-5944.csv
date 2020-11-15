@@ -1,0 +1,17 @@
+Co,co,co,60794,NOUN,dep,False
+founder,founder,founder,117927,NOUN,amod,False
+Jo,Jo,jo,161415,PROPN,compound,False
+Hand,Hand,hand,133091,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+just,just,just,162503,ADV,advmod,True
+about,about,about,756,ADP,acomp,True
+to,to,to,324862,PART,aux,True
+start,start,start,302958,VERB,xcomp,False
+speaking,speak,speak,298684,VERB,xcomp,False
+on,on,on,212644,ADP,prep,True
+tips,tip,tip,324153,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+live,live,live,173931,VERB,advcl,False
+more,more,more,193383,ADV,advmod,True
+sustainably,sustainably,unsustainably,352549,ADV,advmod,False
+Join,join,join,161599,VERB,ROOT,False

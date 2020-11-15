@@ -1,0 +1,13 @@
+What,what,what,364447,PRON,dobj,True
+does,do,do,90528,AUX,aux,True
+this,this,this,322217,DET,nsubj,True
+have,have,have,134390,AUX,ROOT,True
+to,to,to,324862,PART,aux,True
+do,do,do,90528,AUX,xcomp,True
+with,with,with,366582,ADP,prep,True
+the,the,the,320691,DET,det,True
+poor,poor,poor,243168,ADJ,amod,False
+people,people,people,230162,NOUN,pobj,False
+who,who,who,365278,PRON,nsubj,True
+have,have,have,134390,AUX,relcl,True
+nt,not,not,208798,PART,neg,False

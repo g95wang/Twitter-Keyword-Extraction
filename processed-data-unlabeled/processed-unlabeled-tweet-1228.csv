@@ -1,0 +1,6 @@
+Outer,Outer,outer,216548,PROPN,compound,False
+Banks,Banks,banks,27522,PROPN,nsubj,False
+is,be,be,29345,AUX,ROOT,True
+new,new,new,199367,ADJ,amod,False
+favorite,favorite,favorite,110510,ADJ,amod,False
+show,show,show,289042,NOUN,attr,True

@@ -1,0 +1,11 @@
+Brave,Brave,brave,40089,PROPN,compound,False
+Partners,Partners,partners,227116,PROPN,ROOT,False
+With,with,with,366582,ADP,prep,True
+Binance,binance,finance,112858,NOUN,pobj,False
+to,to,to,324862,PART,aux,True
+Develop,develop,develop,83481,VERB,relcl,False
+In,In,in,149313,PROPN,nmod,True
+Browser,Browser,browser,41674,PROPN,pobj,False
+Crypto,Crypto,crypto,73188,PROPN,compound,False
+Trading,Trading,trading,327270,PROPN,compound,False
+SEARCH,SEARCH,search,282535,NOUN,dobj,False

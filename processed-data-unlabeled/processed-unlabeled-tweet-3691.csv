@@ -1,0 +1,16 @@
+TVXQ,TVXQ,tv,333139,PROPN,ROOT,False
+LIVE,live,live,173931,NOUN,compound,False
+Beyond_the_T,Beyond_the_T,beyond,30884,PROPN,ROOT,False
+Beyond,beyond,beyond,30884,ADP,prep,True
+the,the,the,320691,DET,det,True
+scenes,scene,scene,279964,NOUN,pobj,False
+Concert,concert,concert,65191,NOUN,compound,False
+practice,practice,practice,245090,NOUN,appos,False
+SUN,SUN,sun,311023,PROPN,compound,False
+PM,PM,pm,240704,PROPN,ROOT,False
+KST,KST,kist,165149,PROPN,nmod,False
+JST,JST,jest,161001,PROPN,appos,False
+SUN,SUN,sun,311023,PROPN,compound,False
+PM,PM,pm,240704,PROPN,ROOT,False
+CST,CST,cst,74350,PROPN,appos,False
+SAT,SAT,sat,278641,PROPN,ROOT,False

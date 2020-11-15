@@ -1,0 +1,10 @@
+Posted,post,post,243900,VERB,ROOT,False
+a,a,a,0,DET,det,True
+new,new,new,199367,ADJ,amod,False
+photo,photo,photo,234975,NOUN,dobj,False
+Sweaty,sweaty,sweaty,314222,NOUN,compound,False
+moment,moment,moment,191630,NOUN,dep,False
+The,the,the,320691,DET,det,True
+Drip,drip,drip,93146,NOUN,nsubj,False
+Is,be,be,29345,AUX,acl,True
+Worth,worth,worth,367704,ADJ,acomp,False

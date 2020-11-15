@@ -1,0 +1,11 @@
+Not,not,not,208798,PART,neg,True
+money,money,money,191829,NOUN,ROOT,False
+But,but,but,43550,CCONJ,cc,True
+then,then,then,320906,ADV,advmod,True
+again,again,again,5827,ADV,advmod,True
+never,never,never,199350,ADV,neg,True
+pays,pay,pay,223065,VERB,ROOT,False
+when,when,when,364637,ADV,advmod,True
+does,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+hav,hav,hav,134381,VERB,advcl,False

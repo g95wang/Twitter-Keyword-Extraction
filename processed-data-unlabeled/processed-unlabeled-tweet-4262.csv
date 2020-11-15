@@ -1,0 +1,16 @@
+mid,mid,mid,186661,NOUN,dep,False
+week,week,week,363764,NOUN,npadvmod,False
+have,have,have,134390,AUX,aux,True
+been,be,be,29345,AUX,aux,True
+looking,look,look,175060,VERB,ROOT,False
+after,after,after,5615,ADP,prep,True
+well,well,well,364011,NOUN,compound,True
+being,being,being,30877,NOUN,pobj,True
+as,as,as,20837,ADV,advmod,True
+well,well,well,364011,ADV,advmod,True
+as,as,as,20837,SCONJ,cc,True
+staff,staff,staff,302276,NOUN,conj,False
+clients,client,client,59907,NOUN,conj,False
+and,and,and,12285,CCONJ,cc,True
+networks,network,network,198917,NOUN,conj,False
+HumpDay,HumpDay,humpy,145086,PROPN,ROOT,False

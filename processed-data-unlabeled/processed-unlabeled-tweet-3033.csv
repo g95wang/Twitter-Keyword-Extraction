@@ -1,0 +1,12 @@
+And,and,and,12285,CCONJ,cc,True
+Joe,Joe,joe,161519,PROPN,compound,False
+Biden,Biden,bidden,33507,PROPN,nsubj,False
+said,say,say,276740,VERB,ROOT,False
+would,would,would,367745,VERB,aux,True
+veto,veto,veto,359168,VERB,ccomp,False
+medicare,medicare,medicare,182079,PROPN,nmod,False
+for,for,for,116301,ADP,prep,True
+all,all,all,8522,DET,dobj,True
+if,if,if,146980,SCONJ,mark,True
+'s,be,be,29345,AUX,advcl,True
+President,President,president,249451,PROPN,attr,False

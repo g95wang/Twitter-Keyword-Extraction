@@ -1,0 +1,16 @@
+Coronavirus,Coronavirus,coronavirus,69453,PROPN,nsubj,False
+survivor,survivor,survivor,313681,PROPN,nsubj,False
+died,die,die,85120,VERB,ROOT,False
+just,just,just,162503,ADV,advmod,True
+hours,hour,hour,144367,NOUN,npadvmod,False
+after,after,after,5615,ADP,prep,True
+appearing,appear,appear,17609,VERB,pcomp,False
+in,in,in,149313,ADP,prep,True
+viral,viral,viral,360111,ADJ,amod,False
+applause,applause,applause,17770,NOUN,compound,False
+video,video,video,359514,NOUN,pobj,False
+that,that,that,320639,DET,nsubj,True
+went,go,go,127161,VERB,relcl,False
+around,around,around,20104,ADP,prep,True
+the,the,the,320691,DET,det,True
+world,world,world,367566,NOUN,pobj,False

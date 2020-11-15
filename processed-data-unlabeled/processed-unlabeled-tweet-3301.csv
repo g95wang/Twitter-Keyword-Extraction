@@ -1,0 +1,15 @@
+None,none,none,203318,NOUN,nsubjpass,True
+of,of,of,211535,ADP,prep,True
+past,past,past,227394,ADJ,amod,False
+experiences,experience,experience,107708,NOUN,pobj,False
+can,can,can,45964,VERB,aux,True
+be,be,be,29345,AUX,auxpass,True
+used,use,use,355958,VERB,ROOT,True
+against,against,against,5830,ADP,prep,True
+happened,happen,happen,133505,VERB,ROOT,False
+done,done,done,91408,NOUN,ROOT,True
+do,do,do,90528,AUX,aux,True
+nt,not,not,208798,PART,neg,False
+care,care,care,47901,VERB,ROOT,False
+ve,have,have,134390,VERB,aux,False
+grown,grow,grow,130412,VERB,ROOT,False
