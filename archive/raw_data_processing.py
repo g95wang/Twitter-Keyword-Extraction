@@ -34,16 +34,21 @@ def main():
     os.chdir("../labeled_data")
     tweets_texts = []
     tweets_keys = []
+    tweet_name = []
     for eachfile in glob.glob("*/*.txt"):
         keyfile = os.path.splitext(eachfile)[0] + ".key"
         tweets_texts.append(open(eachfile).read().splitlines()[0])
         keys = open(keyfile).read().splitlines()
+        # if (len(keys) > 1):
+        #     keys = keys[:2]
+            # print(len(keys))
         tweets_keys.append(keys)
-
+        tweet_name.append(eachfile)
+    open('labeled_tweets.csv', 'w').close()
     for i in range(0, len(tweets_texts)):
         with open(r'labeled_tweets.csv', 'a') as file:
             writer = csv.writer(file)
-            writer.writerow([tweets_texts[i], tweets_keys[i]])
+            writer.writerow([tweets_texts[i], tweets_keys[i], tweet_name[i]])
 
     word_list = nltk.corpus.words.words()
     os.chdir("..")
