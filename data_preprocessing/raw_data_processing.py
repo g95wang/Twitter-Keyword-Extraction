@@ -21,58 +21,34 @@ def readfile(filename):
 
 def main():
     # unlabelled
-    # alldata = []
-    os.chdir("./unlabeled_data")
-    # for eachfile in glob.glob("*.json"):
-    #     alldata.extend(readfile(eachfile))
+    alldata = []
+    os.chdir("./raw_data")
+    for eachfile in glob.glob("./unlabeled_data/*.json"):
+        alldata.extend(readfile(eachfile))
     
-    # for eachtweet in alldata:
-    #     with open(r'saved_tweets.csv', 'a') as file:
-    #         writer = csv.writer(file)
-    #         writer.writerow([eachtweet])
+    for eachtweet in alldata:
+        with open(r'../extracted_tweets/unlabeled_tweets.csv', 'a') as file:
+            writer = csv.writer(file)
+            writer.writerow([eachtweet])
 
     # labeled
-    os.chdir("../labeled_data")
     tweets_texts = []
     tweets_keys = []
     tweet_name = []
-    j = 1
-    for eachfile in glob.glob("*/*.txt"):
+    for eachfile in glob.glob("./labeled_data/*/*.txt"):
         keyfile = os.path.splitext(eachfile)[0] + ".key"
         tweets_texts.append(open(eachfile).read().splitlines()[0])
         keys = open(keyfile).read().splitlines()
-        filename = "../../processed-data-labeled/processed-labeled-tweet-{}.csv".format(j)
         tweets_keys.append(keys)
         tweet_name.append(eachfile)
-        # process labelled csv file
-        tmpFile = "tmp.csv"
-        with open(filename, "r") as file, open(tmpFile, "w") as outFile:
-            reader = csv.reader(file, delimiter=',')
-            writer = csv.writer(outFile, delimiter=',')
-            # header = next(reader)
-            # writer.writerow(header)
-            total_words = []
-            for row in reader:
-                total_words.append(row[0])
-                # colValues = []
-                # for col in row:
-                #     colValues.append(col.lower())
-                # writer.writerow(colValues)
-            upper_bound_keyword = math.ceil(len(total_words) / 10)
-            # print(upper_bound_keyword) 
-        # os.rename(tmpFile, filename)
-        
-        j += 1
-        if (j > 1):
-            break
-    open('labeled_tweets.csv', 'w').close()
+
+    open('../extracted_tweets/labeled_tweets.csv', 'w').close()
     for i in range(0, len(tweets_texts)):
-        with open(r'labeled_tweets.csv', 'a') as file:
+        with open(r'../extracted_tweets/labeled_tweets.csv', 'a') as file:
             writer = csv.writer(file)
             writer.writerow([tweets_texts[i], tweets_keys[i], tweet_name[i]])
 
     word_list = nltk.corpus.words.words()
-    os.chdir("..")
     f = open("all_words.txt", "w") 
     for eachword in word_list:
         f.write(eachword + "\n")

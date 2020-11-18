@@ -17,7 +17,7 @@ def find_similar(word):
 	return cur_word
 
 ##### setup dictionary #####
-file = open('all_words.txt', 'r')
+file = open('./raw_data/all_words.txt', 'r')
 lines = file.readlines()
 
 index = 0
@@ -39,7 +39,7 @@ p.set_options(p.OPT.URL, p.OPT.MENTION, p.OPT.RESERVED, p.OPT.EMOJI, p.OPT.SMILE
 # different models -> https://spacy.io/models/en
 nlp = spacy.load("en_core_web_sm")
 
-with open('saved_tweets.csv') as csv_file:
+with open('./extracted_tweets/unlabeled_tweets.csv') as csv_file:
 	csv_reader = csv.reader(csv_file, delimiter=',')
 
 	with open('twitter_dictionary.csv', "a") as dic:
@@ -70,7 +70,7 @@ with open('saved_tweets.csv') as csv_file:
 
 				dependency_tagged = nlp(cleaned)
 
-				filename = 'processed-data-unlabeled/processed-unlabeled-tweet-' + str(i) + '.csv'
+				filename = '../processed-data-unlabeled/processed-unlabeled-tweet-' + str(i) + '.csv'
 				
 				with open(filename, "a") as file:
 				    # https://spacy.io/usage/spacy-101#annotations-pos-deps

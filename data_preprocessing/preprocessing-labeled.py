@@ -4,6 +4,7 @@ import string
 import spacy
 import csv
 import sys
+import math
 
 ##### return the most similar word in the dictionary #####
 def find_similar(word):
@@ -17,7 +18,7 @@ def find_similar(word):
 	return cur_word
 
 ##### setup dictionary #####
-file = open('all_words.txt', 'r')
+file = open('./raw_data/all_words.txt', 'r')
 lines = file.readlines()
 
 index = 0
@@ -39,7 +40,7 @@ p.set_options(p.OPT.URL, p.OPT.MENTION, p.OPT.RESERVED, p.OPT.EMOJI, p.OPT.SMILE
 # different models -> https://spacy.io/models/en
 nlp = spacy.load("en_core_web_sm")
 
-with open('labeled_tweets.csv') as csv_file:
+with open('./extracted_tweets/labeled_tweets.csv') as csv_file:
 	csv_reader = csv.reader(csv_file, delimiter=',')
 
 	with open('twitter_dictionary.csv', "a") as dic:
@@ -59,7 +60,17 @@ with open('labeled_tweets.csv') as csv_file:
 			print('Start processing tweet NO.', i)
 
 			tweet = row[0]
-			keys = row[1]
+			# keys = row[1]
+			keystr = row[1][1:-1]
+			keys = keystr.split(',')
+			for count in range(len(keys)):
+				if (len(keys[count]) > 0):
+					if (keys[count][0] == " "):
+						keys[count] = keys[count][1:]
+					keys[count] = keys[count][1:-1]
+					if (len(keys[count]) > 0):
+						if (keys[count][0] == "#" or keys[count][0] == "@"):
+							keys[count] = keys[count][1:]
 
 			# print('original:', tweet)
 			cleaned = p.clean(tweet)
@@ -70,12 +81,12 @@ with open('labeled_tweets.csv') as csv_file:
 				# print('cleaned:', cleaned)
 
 				dependency_tagged = nlp(cleaned)
-
-				filename = 'processed-data-labeled/processed-labeled-tweet-' + str(i) + '.csv'
+				filename = '../processed-data-labeled/processed-labeled-tweet-' + str(i) + '.csv'
 				
 				with open(filename, "a") as file:
 				    # https://spacy.io/usage/spacy-101#annotations-pos-deps
 					writer = csv.writer(file)
+					rows_to_write = []
 					for token in dependency_tagged:
 
 						if token.lemma_ != '-PRON-' and token.pos_ != 'SPACE' and token.text not in string.punctuation and token.text.isdigit() == False and token.pos_ != 'PUNCT' and token.pos_ != 'NUM' and token.pos_ != 'X':
@@ -105,7 +116,17 @@ with open('labeled_tweets.csv') as csv_file:
 							else:
 								row = [token.text, token.lemma_, lower_case, word_index, token.pos_, token.dep_, token.is_stop, 0]	
 								
-							writer.writerow(row)
-
+							# writer.writerow(row)
+							rows_to_write.append(row)
 						else:
 							print('!!!!! invalid token !!!!!', token.text)
+					
+					upper_bound_keyword = math.ceil(len(rows_to_write) / 10)
+					keys = keys[:upper_bound_keyword]
+					for row in rows_to_write:
+						if row[0] in keys:
+							row[-1] = 1
+						else:
+							row[-1] = 0
+						writer.writerow(row)
+						

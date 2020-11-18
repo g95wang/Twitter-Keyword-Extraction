@@ -5,7 +5,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from queue import PriorityQueue as PQ
 
-directory = [os.getcwd() + '/new_processed-data-labeled', os.getcwd() + '/processed-data-unlabeled']
+directory = [os.getcwd() + '/processed-data-labeled', os.getcwd() + '/processed-data-unlabeled']
 
 text = 0
 lemma = 1
