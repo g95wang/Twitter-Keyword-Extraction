@@ -1,1 +1,0 @@
-Hi Ajit , Following is sample code t oh achieve the same . Put all your jquery code in a separate javascript file ... http://bit.ly/97OWFn #Answers
