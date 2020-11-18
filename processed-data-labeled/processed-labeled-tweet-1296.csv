@@ -1,8 +1,8 @@
-happy,happy,happy,133513,ADJ,amod,False,1
+happy,happy,happy,133513,ADJ,amod,False,0
 birthday,birthday,birthday,34904,NOUN,nsubj,False,1
 to,to,to,324862,ADP,prep,True,0
-bitches,bitch,bitch,35166,NOUN,ROOT,False,1
+bitches,bitch,bitch,35166,NOUN,ROOT,False,0
 is,be,be,29345,AUX,ROOT,True,0
 the,the,the,320691,DET,det,True,0
-lucky,lucky,lucky,175842,ADJ,amod,False,1
-number,number,number,209515,NOUN,attr,False,1
+lucky,lucky,lucky,175842,ADJ,amod,False,0
+number,number,number,209515,NOUN,attr,False,0

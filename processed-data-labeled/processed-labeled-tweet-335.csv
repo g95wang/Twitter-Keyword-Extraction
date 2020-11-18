@@ -1,10 +1,10 @@
 If,if,if,146980,SCONJ,mark,True,0
-missed,miss,miss,189987,VERB,ROOT,False,1
-Happy,Happy,happy,133513,PROPN,compound,False,1
-Halloween,Halloween,halloween,132756,PROPN,dobj,False,1
+missed,miss,miss,189987,VERB,ROOT,False,0
+Happy,Happy,happy,133513,PROPN,compound,False,0
+Halloween,Halloween,halloween,132756,PROPN,dobj,False,0
 from,from,from,119298,ADP,prep,True,0
 Banshee,Banshee,banshee,27583,PROPN,pobj,False,1
 the,the,the,320691,DET,det,True,0
 Super,Super,super,311253,PROPN,compound,False,0
-Siblings,Siblings,siblings,289540,PROPN,conj,False,1
+Siblings,Siblings,siblings,289540,PROPN,conj,False,0
 webcomics,webcomic,encomic,99445,NOUN,pobj,False,0

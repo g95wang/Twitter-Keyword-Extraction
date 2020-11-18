@@ -1,7 +1,7 @@
 But,but,but,43550,CCONJ,cc,True,0
 of,of,of,211535,ADP,prep,True,0
 course,course,course,71315,NOUN,pobj,False,0
-fat,fat,fat,110227,ADJ,amod,False,1
+fat,fat,fat,110227,ADJ,amod,False,0
 ass,ass,ass,21558,NOUN,nsubj,False,1
 wants,want,want,362465,VERB,ROOT,False,0
 treats,treat,treat,328716,NOUN,dobj,False,1

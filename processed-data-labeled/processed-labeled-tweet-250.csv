@@ -1,7 +1,7 @@
 Still,still,still,304511,ADV,advmod,True,0
-bumpin,bumpin,bumping,42763,VERB,ROOT,False,1
-SpeakNow,SpeakNow,preknow,248142,PROPN,dobj,False,1
-in,in,in,149313,ADP,prep,True,1
+bumpin,bumpin,bumping,42763,VERB,ROOT,False,0
+SpeakNow,SpeakNow,preknow,248142,PROPN,dobj,False,0
+in,in,in,149313,ADP,prep,True,0
 car,car,car,47250,NOUN,pobj,False,1
 Probably,probably,probably,251013,ADV,advmod,False,0
 wo,will,will,365768,VERB,aux,False,0

@@ -1,5 +1,5 @@
 went,go,go,127161,VERB,ROOT,False,0
-long,long,long,174883,ADV,advmod,False,1
+long,long,long,174883,ADV,advmod,False,0
 without,without,without,366665,ADP,prep,True,0
 talking,talk,talk,315639,VERB,pcomp,False,1
 about,about,about,756,ADP,prep,True,0
@@ -7,16 +7,16 @@ some,some,some,297029,DET,det,True,0
 shit,shit,shit,288544,NOUN,pobj,False,0
 do,do,do,90528,AUX,aux,True,0
 n't,not,not,208798,PART,neg,True,0
-care,care,care,47901,VERB,relcl,False,1
-discuss,discuss,discuss,87788,NOUN,advcl,False,1
+care,care,care,47901,VERB,relcl,False,0
+discuss,discuss,discuss,87788,NOUN,advcl,False,0
 guess,guess,guess,130940,VERB,ROOT,False,1
 about,about,about,756,ADP,advmod,True,0
 that,that,that,320639,DET,det,True,0
-time,time,time,323746,NOUN,npadvmod,False,1
+time,time,time,323746,NOUN,npadvmod,False,0
 The,the,the,320691,DET,det,True,0
 peace,peace,peace,228323,NOUN,nsubj,False,1
 was,be,be,29345,AUX,ROOT,True,0
 good,good,good,127869,ADJ,acomp,False,0
 while,while,while,364797,SCONJ,mark,True,0
-lasted,last,last,168771,VERB,advcl,False,1
+lasted,last,last,168771,VERB,advcl,False,0
 sighs,sigh,sigh,289984,NOUN,dobj,False,0

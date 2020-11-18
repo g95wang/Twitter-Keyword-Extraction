@@ -1,5 +1,5 @@
 can,can,can,45964,VERB,aux,True,0
-beat,beat,beat,29590,VERB,ROOT,False,1
+beat,beat,beat,29590,VERB,ROOT,False,0
 the,the,the,320691,DET,det,True,0
 crap,crap,crap,72160,NOUN,dobj,False,1
 out,out,out,216108,SCONJ,prep,True,0

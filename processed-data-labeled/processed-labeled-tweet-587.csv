@@ -1,10 +1,10 @@
-i,i,i,145455,PRON,nsubj,True,1
+i,i,i,145455,PRON,nsubj,True,0
 remember,remember,remember,267232,VERB,ROOT,False,1
 when,when,when,364637,ADV,advmod,True,0
 had,have,have,134390,AUX,advcl,True,0
 like,like,like,172172,INTJ,intj,False,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 got,get,get,124419,VERB,ROOT,False,0
 the,the,the,320691,DET,det,True,0
-juice,juice,juice,162184,NOUN,dobj,False,1
+juice,juice,juice,162184,NOUN,dobj,False,0
 now,now,now,209199,ADV,advmod,True,0

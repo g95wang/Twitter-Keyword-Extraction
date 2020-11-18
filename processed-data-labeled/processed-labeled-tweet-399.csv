@@ -1,7 +1,7 @@
 Review,Review,review,271336,PROPN,nsubj,False,0
-of,of,of,211535,ADP,prep,True,1
+of,of,of,211535,ADP,prep,True,0
 Lancaster,Lancaster,lancaster,167862,PROPN,compound,False,0
-Painting,Painting,painting,223189,PROPN,pobj,False,1
+Painting,Painting,painting,223189,PROPN,pobj,False,0
 Steve,Steve,steve,304184,PROPN,appos,False,0
 Toby,Toby,toby,324950,PROPN,conj,False,0
 Jeff,Jeff,jeff,160757,PROPN,conj,False,0
@@ -14,4 +14,4 @@ to,to,to,324862,PART,aux,True,0
 work,work,work,367468,VERB,xcomp,False,1
 with,with,with,366582,ADP,prep,True,0
 were,be,be,29345,AUX,ROOT,True,0
-professional,professional,professional,251701,ADJ,acomp,False,1
+professional,professional,professional,251701,ADJ,acomp,False,0

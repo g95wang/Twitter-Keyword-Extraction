@@ -2,9 +2,9 @@ Got,got,got,128258,VERB,ROOT,False,0
 an,an,an,11448,DET,det,True,0
 hour,hour,hour,144367,NOUN,compound,False,0
 sleep,sleep,sleep,293885,NOUN,dobj,False,1
-Tired,tired,tired,324484,ADJ,ROOT,False,1
+Tired,tired,tired,324484,ADJ,ROOT,False,0
 as,as,as,20837,SCONJ,prep,True,0
-hell,hell,hell,135648,NOUN,pobj,False,1
+hell,hell,hell,135648,NOUN,pobj,False,0
 Stuck,stick,stick,304284,VERB,ROOT,False,0
 in,in,in,149313,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0

@@ -1,10 +1,10 @@
 World,World,world,367566,PROPN,compound,False,0
-Cup,Cup,cup,75053,PROPN,compound,False,1
-soccer,soccer,soccer,296086,NOUN,poss,False,1
-'s,'s,s,275971,PART,case,True,1
+Cup,Cup,cup,75053,PROPN,compound,False,0
+soccer,soccer,soccer,296086,NOUN,poss,False,0
+'s,'s,s,275971,PART,case,True,0
 psychic,psychic,psychic,255280,ADJ,amod,False,0
 octopus,octopus,octopus,211117,PROPN,nsubj,False,1
-Paul,Paul,paul,228082,PROPN,nsubj,False,1
-dies,die,die,85120,VERB,ROOT,False,1
+Paul,Paul,paul,228082,PROPN,nsubj,False,0
+dies,die,die,85120,VERB,ROOT,False,0
 in,in,in,149313,ADP,prep,True,0
-Germany,Germany,germany,124186,PROPN,pobj,False,1
+Germany,Germany,germany,124186,PROPN,pobj,False,0

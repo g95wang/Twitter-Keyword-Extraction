@@ -1,5 +1,5 @@
 damn,damn,damn,76569,INTJ,advmod,False,1
-i,i,i,145455,PRON,nsubj,True,1
+i,i,i,145455,PRON,nsubj,True,0
 got,get,get,124419,VERB,ROOT,False,0
 ta,to,to,324862,PART,aux,False,0
 eat,eat,eat,94953,VERB,xcomp,False,1
@@ -8,14 +8,14 @@ all,all,all,8522,DET,nsubj,True,0
 had,have,have,134390,AUX,relcl,True,0
 to,to,to,324862,PART,aux,True,0
 eat,eat,eat,94953,VERB,xcomp,False,1
-is,be,be,29345,AUX,ROOT,True,1
+is,be,be,29345,AUX,ROOT,True,0
 SNICKERS,snicker,snicker,295484,NOUN,attr,False,0
 and,and,and,12285,CCONJ,cc,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 Lemonade,Lemonade,lemonade,170345,PROPN,compound,False,1
 damn,damn,damn,76569,INTJ,ROOT,False,1
 yeah,yeah,yeah,146696,INTJ,ROOT,False,0
 boy,boy,boy,37378,INTJ,ROOT,False,0
-on,on,on,212644,ADP,prep,True,1
+on,on,on,212644,ADP,prep,True,0
 that,that,that,320639,DET,det,True,0
 undergradBUDGET,undergradBUDGET,undergraduette,339293,PROPN,pobj,False,0

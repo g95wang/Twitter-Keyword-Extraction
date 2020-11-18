@@ -1,8 +1,8 @@
 What,what,what,364447,PRON,nsubj,True,0
 is,be,be,29345,AUX,ROOT,True,0
-worse,bad,bad,26158,ADJ,acomp,False,1
+worse,bad,bad,26158,ADJ,acomp,False,0
 than,than,than,320565,SCONJ,prep,True,0
-cheating,cheat,cheat,53282,VERB,pcomp,False,1
+cheating,cheat,cheat,53282,VERB,pcomp,False,0
 Lying,lie,lie,171801,VERB,ROOT,False,1
 about,about,about,756,ADP,prep,True,0
-cheating,cheat,cheat,53282,VERB,pobj,False,1
+cheating,cheat,cheat,53282,VERB,pobj,False,0

@@ -3,10 +3,10 @@ Yo,Yo,yo,157406,PROPN,intj,False,0
 Thursday,Thursday,thursday,323090,PROPN,attr,False,1
 th,th,th,320421,PROPN,prep,False,0
 October,October,october,211035,PROPN,pobj,False,0
-Morning,morning,morning,193499,NOUN,ROOT,False,1
+Morning,morning,morning,193499,NOUN,ROOT,False,0
 country,country,country,71230,NOUN,npadvmod,False,1
-Morning,morning,morning,193499,NOUN,ROOT,False,1
-Life,Life,life,171890,PROPN,npadvmod,False,1
-Morning,morning,morning,193499,NOUN,ROOT,False,1
-great,great,great,129442,ADJ,amod,False,1
-peopLe,peopLe,people,230162,NOUN,appos,False,1
+Morning,morning,morning,193499,NOUN,ROOT,False,0
+Life,Life,life,171890,PROPN,npadvmod,False,0
+Morning,morning,morning,193499,NOUN,ROOT,False,0
+great,great,great,129442,ADJ,amod,False,0
+peopLe,peopLe,people,230162,NOUN,appos,False,0

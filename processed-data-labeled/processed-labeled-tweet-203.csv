@@ -9,7 +9,7 @@ Now,now,now,209199,ADV,advmod,True,0
 Deluxe,Deluxe,deluxe,80312,PROPN,compound,False,0
 CD+DVD,CD+DVD,cadded,44279,PROPN,parataxis,False,0
 Taylor,Taylor,taylor,315380,PROPN,compound,False,1
-Swift,Swift,swift,314395,PROPN,ROOT,False,1
+Swift,Swift,swift,314395,PROPN,ROOT,False,0
 Performer,Performer,performer,230677,PROPN,appos,False,0
 Format,Format,format,117387,PROPN,ROOT,False,0
 Audio,audio,audio,23288,NOUN,appos,False,0

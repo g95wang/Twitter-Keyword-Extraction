@@ -1,12 +1,6 @@
 wearing,wear,wear,363540,VERB,ROOT,False,0
-high,high,high,139224,ADJ,amod,False,1
-school,school,school,280423,NOUN,compound,False,1
-track,track,track,327165,NOUN,compound,False,1
-hoodie,hoodie,hoodie,143478,NOUN,dobj,False,1
-memories,memory,memory,183183,NOUN,ROOT,False,1
-wearing,wear,wear,363540,VERB,ROOT,False,0
-high,high,high,139224,ADJ,amod,False,1
-school,school,school,280423,NOUN,compound,False,1
-track,track,track,327165,NOUN,compound,False,1
-hoodie,hoodie,hoodie,143478,NOUN,dobj,False,1
+high,high,high,139224,ADJ,amod,False,0
+school,school,school,280423,NOUN,compound,False,0
+track,track,track,327165,NOUN,compound,False,0
+hoodie,hoodie,hoodie,143478,NOUN,dobj,False,0
 memories,memory,memory,183183,NOUN,ROOT,False,1

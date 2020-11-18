@@ -1,10 +1,10 @@
 going,go,go,127161,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
-stuff,stuff,stuff,306820,VERB,xcomp,False,1
+stuff,stuff,stuff,306820,VERB,xcomp,False,0
 face,face,face,108932,NOUN,dobj,False,1
 with,with,with,366582,ADP,prep,True,0
-a,a,a,0,DET,det,True,1
-huge,huge,huge,144731,ADJ,amod,False,1
-bowl,bowl,bowl,39197,NOUN,pobj,False,1
+a,a,a,0,DET,det,True,0
+huge,huge,huge,144731,ADJ,amod,False,0
+bowl,bowl,bowl,39197,NOUN,pobj,False,0
 of,of,of,211535,ADP,prep,True,0
-cereal,cereal,cereal,51358,NOUN,pobj,False,1
+cereal,cereal,cereal,51358,NOUN,pobj,False,0

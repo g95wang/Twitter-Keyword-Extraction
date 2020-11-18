@@ -11,8 +11,8 @@ barely,barely,barely,27916,ADV,advmod,False,0
 pulled,pull,pull,256246,VERB,amod,False,1
 out,out,out,216108,ADP,prt,True,0
 still,still,still,304511,ADV,advmod,True,0
-weak,weak,weak,363453,ADJ,ROOT,False,1
+weak,weak,weak,363453,ADJ,ROOT,False,0
 as,as,as,20837,SCONJ,prep,True,0
-hell,hell,hell,135648,NOUN,pobj,False,1
+hell,hell,hell,135648,NOUN,pobj,False,0
 though,though,though,322468,SCONJ,mark,True,0
 lol,lol,lola,174784,PROPN,advcl,False,0

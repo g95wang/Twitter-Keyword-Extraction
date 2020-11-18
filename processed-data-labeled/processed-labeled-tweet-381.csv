@@ -1,8 +1,8 @@
-European,european,european,105824,ADJ,amod,False,1
-officials,official,official,211620,NOUN,nsubj,False,1
-criticize,criticize,criticize,73495,VERB,ROOT,False,1
-U.S.,U.S.,us,355940,PROPN,nmod,False,1
+European,european,european,105824,ADJ,amod,False,0
+officials,official,official,211620,NOUN,nsubj,False,0
+criticize,criticize,criticize,73495,VERB,ROOT,False,0
+U.S.,U.S.,us,355940,PROPN,nmod,False,0
 airport,airport,airport,6972,NOUN,compound,False,0
 security,security,security,282950,NOUN,compound,False,1
-measures,measure,measure,181799,NOUN,dobj,False,1
+measures,measure,measure,181799,NOUN,dobj,False,0
 Like,like,like,172172,SCONJ,prep,False,0

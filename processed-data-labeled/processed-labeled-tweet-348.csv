@@ -1,11 +1,11 @@
 Is,be,be,29345,AUX,ROOT,True,0
 there,there,there,321216,PRON,expl,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 Flex,Flex,flex,114486,PROPN,attr,False,1
 for,for,for,116301,ADP,prep,True,0
 CF,CF,cf,51810,PROPN,pobj,False,0
 or,or,or,213904,CCONJ,cc,True,0
-Dreamweaver,Dreamweaver,dreamer,92856,PROPN,conj,False,1
+Dreamweaver,Dreamweaver,dreamer,92856,PROPN,conj,False,0
 for,for,for,116301,ADP,prep,True,0
 CF,CF,cf,51810,PROPN,compound,False,0
 book,book,book,38039,NOUN,pobj,False,1

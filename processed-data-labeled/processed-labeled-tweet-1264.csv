@@ -1,13 +1,13 @@
 Check,check,check,53311,VERB,ROOT,False,0
 out,out,out,216108,ADP,prt,True,0
-the,the,the,320691,DET,det,True,1
-hot,hot,hot,144238,ADJ,amod,False,1
+the,the,the,320691,DET,det,True,0
+hot,hot,hot,144238,ADJ,amod,False,0
 new,new,new,199367,ADJ,amod,False,1
 LA,LA,la,166590,PROPN,compound,False,0
-artist,artist,artist,20750,NOUN,compound,False,1
+artist,artist,artist,20750,NOUN,compound,False,0
 music,music,music,195981,NOUN,dobj,False,1
 New,New,new,199367,PROPN,amod,False,0
-Mixtape,Mixtape,midtap,186836,PROPN,ROOT,False,1
+Mixtape,Mixtape,midtap,186836,PROPN,ROOT,False,0
 No,no,no,200529,INTJ,det,True,0
 Turning,turn,turn,332792,VERB,appos,False,0
 Back,back,back,25705,ADV,advmod,True,0

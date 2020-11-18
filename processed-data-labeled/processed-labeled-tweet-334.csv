@@ -1,7 +1,7 @@
 was,be,be,29345,AUX,ROOT,True,0
 that,that,that,320639,SCONJ,nsubj,True,0
 the,the,the,320691,DET,det,True,0
-wrong,wrong,wrong,368091,ADJ,amod,False,1
+wrong,wrong,wrong,368091,ADJ,amod,False,0
 context,context,context,67420,NOUN,attr,False,1
 Tryin,tryin,trying,329913,ADJ,ROOT,False,0
 to,to,to,324862,PART,aux,True,0

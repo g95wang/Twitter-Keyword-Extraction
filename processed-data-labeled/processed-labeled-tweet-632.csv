@@ -1,7 +1,7 @@
 eVeRyBODy,eVeRyBODy,everybody,106159,PROPN,ROOT,False,0
 DiCK,DiCK,dick,84880,PROPN,compound,False,0
 SUCKiN,SUCKiN,sucking,309965,VERB,ROOT,False,0
-MiAMi,MiAMi,miami,185632,PROPN,ROOT,False,1
+MiAMi,MiAMi,miami,185632,PROPN,ROOT,False,0
 CAUSe,cause,cause,50043,ADP,compound,False,0
 THey,they,they,320834,INTJ,appos,True,0
 DRAFTeD,drafted,drafted,92496,NOUN,ROOT,False,0
@@ -12,8 +12,8 @@ NiGGA,NiGGA,niggra,199896,PROPN,npadvmod,False,0
 AiNT,AiNT,aint,6828,PROPN,compound,False,0
 DOiNT,DOiNT,dint,86216,PROPN,ROOT,False,0
 lMFAO,lmfao,lao,168251,VERB,npadvmod,False,0
-traded,trade,trade,327240,VERB,ROOT,False,1
+traded,trade,trade,327240,VERB,ROOT,False,0
 for,for,for,116301,ADP,prep,True,0
 lebron,lebron,oleron,212117,PROPN,pobj,False,1
 no,no,no,200529,DET,det,True,1
-drafte,drafte,drafted,92496,NOUN,pobj,False,1
+drafte,drafte,drafted,92496,NOUN,pobj,False,0

@@ -1,10 +1,10 @@
 Yes,yes,yes,146918,INTJ,ROOT,False,0
 DM,dm,dm,90523,VERB,ROOT,False,0
 an,an,an,11448,DET,det,True,0
-email,email,email,97893,NOUN,compound,False,1
-address,address,address,3590,NOUN,appos,False,1
+email,email,email,97893,NOUN,compound,False,0
+address,address,address,3590,NOUN,appos,False,0
 to,to,to,324862,PART,aux,True,0
-send,send,send,285228,VERB,acl,False,1
+send,send,send,285228,VERB,acl,False,0
 the,the,the,320691,DET,det,True,0
-link,link,link,172930,NOUN,dobj,False,1
+link,link,link,172930,NOUN,dobj,False,0
 to,to,to,324862,ADP,prep,True,0

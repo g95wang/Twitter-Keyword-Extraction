@@ -1,9 +1,9 @@
 Subby,Subby,slubby,294492,PROPN,compound,False,0
-Dubby,Dubby,dubby,93679,PROPN,compound,False,1
+Dubby,Dubby,dubby,93679,PROPN,compound,False,0
 Doo,Doo,doo,91480,PROPN,nsubj,False,0
 is,be,be,29345,AUX,ROOT,True,0
-too,too,too,325685,ADV,advmod,True,1
-cute,cute,cute,75755,ADJ,acomp,False,1
+too,too,too,325685,ADV,advmod,True,0
+cute,cute,cute,75755,ADJ,acomp,False,0
 for,for,for,116301,ADP,prep,True,0
 life,life,life,171890,NOUN,pobj,False,0
 ommggggg,ommggggg,bogging,37302,NOUN,acomp,False,0

@@ -12,7 +12,7 @@ tweet,tweet,tweet,333246,NOUN,attr,False,1
 there,there,there,321216,PRON,expl,True,0
 's,be,be,29345,AUX,conj,True,0
 some,some,some,297029,DET,det,True,0
-cute,cute,cute,75755,ADJ,amod,False,1
+cute,cute,cute,75755,ADJ,amod,False,0
 guys,guy,guy,131001,NOUN,attr,False,1
 in,in,in,149313,ADV,prep,True,0
 here,here,here,136991,ADV,pcomp,True,0

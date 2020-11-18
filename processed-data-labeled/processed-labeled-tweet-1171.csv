@@ -1,8 +1,8 @@
 These,these,these,321594,DET,det,True,0
-gaps,gap,gap,122010,NOUN,nsubj,False,1
+gaps,gap,gap,122010,NOUN,nsubj,False,0
 really,really,really,261766,ADV,advmod,True,0
-motivate,motivate,motivate,193994,VERB,ROOT,False,1
+motivate,motivate,motivate,193994,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
 make,make,make,178090,VERB,xcomp,True,0
-things,thing,thing,321869,NOUN,nsubj,False,1
+things,thing,thing,321869,NOUN,nsubj,False,0
 happen,happen,happen,133505,VERB,ccomp,False,1

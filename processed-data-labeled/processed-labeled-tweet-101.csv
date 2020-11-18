@@ -1,10 +1,10 @@
 At,at,at,22372,ADP,ROOT,True,0
 square,square,square,301730,NOUN,pobj,False,1
 to,to,to,324862,PART,aux,True,0
-make,make,make,178090,VERB,pcomp,True,1
-backpacks,backpack,backpack,25855,NOUN,dobj,False,1
+make,make,make,178090,VERB,pcomp,True,0
+backpacks,backpack,backpack,25855,NOUN,dobj,False,0
 for,for,for,116301,ADP,prep,True,0
 kids,kid,kid,164450,NOUN,pobj,False,0
 with,with,with,366582,ADP,prep,True,0
-astdlv,astdlv,astel,22011,NOUN,pobj,False,1
+astdlv,astdlv,astel,22011,NOUN,pobj,False,0
 Woot,woot,whoot,365349,VERB,ROOT,False,0

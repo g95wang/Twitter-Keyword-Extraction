@@ -8,8 +8,8 @@ the,the,the,320691,DET,det,True,0
 lack,lack,lack,166940,NOUN,pobj,False,0
 of,of,of,211535,ADP,prep,True,0
 a,a,a,0,DET,det,True,0
-good,good,good,127869,ADJ,amod,False,1
-Twitter,Twitter,twitter,333475,PROPN,compound,False,1
+good,good,good,127869,ADJ,amod,False,0
+Twitter,Twitter,twitter,333475,PROPN,compound,False,0
 extension,extension,extension,108229,NOUN,pobj,False,1
 and,and,and,12285,CCONJ,cc,True,0
 extension,extension,extension,108229,NOUN,compound,False,1

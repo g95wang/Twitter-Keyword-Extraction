@@ -1,7 +1,7 @@
 As,as,as,20837,SCONJ,mark,True,0
-Halloween,Halloween,halloween,132756,PROPN,nsubj,False,1
-approaches,approach,approach,17969,NOUN,advcl,False,1
-parents,parent,parent,226369,NOUN,nsubj,False,1
+Halloween,Halloween,halloween,132756,PROPN,nsubj,False,0
+approaches,approach,approach,17969,NOUN,advcl,False,0
+parents,parent,parent,226369,NOUN,nsubj,False,0
 should,should,should,288990,VERB,aux,True,0
 note,note,note,208861,VERB,ROOT,False,0
 this,this,this,322217,DET,det,True,0
@@ -9,5 +9,5 @@ reminder,reminder,reminder,267298,NOUN,dobj,False,1
 from,from,from,119298,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 Wall,Wall,wall,362225,PROPN,compound,False,1
-Street,Street,street,306018,PROPN,compound,False,1
-Journal,Journal,journal,161874,PROPN,pobj,False,1
+Street,Street,street,306018,PROPN,compound,False,0
+Journal,Journal,journal,161874,PROPN,pobj,False,0

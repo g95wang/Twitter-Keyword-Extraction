@@ -1,6 +1,6 @@
-unimpressed,unimpressed,unimpressed,344367,ADJ,ROOT,False,1
+unimpressed,unimpressed,unimpressed,344367,ADJ,ROOT,False,0
 with,with,with,366582,ADP,prep,True,0
 apple,apple,apple,17774,PROPN,compound,False,1
-hardware,hardware,hardware,133712,NOUN,compound,False,1
-quality,quality,quality,257878,NOUN,pobj,False,1
+hardware,hardware,hardware,133712,NOUN,compound,False,0
+quality,quality,quality,257878,NOUN,pobj,False,0
 recently,recently,recently,262712,ADV,advmod,False,0

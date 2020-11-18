@@ -8,9 +8,9 @@ years,year,year,146706,NOUN,pobj,False,0
 am,be,be,29345,AUX,aux,True,0
 finding,find,find,112884,VERB,ROOT,False,0
 that,that,that,320639,SCONJ,mark,True,0
-curmudgeonly,curmudgeonly,curmudgeonly,75371,ADJ,amod,False,1
+curmudgeonly,curmudgeonly,curmudgeonly,75371,ADJ,amod,False,0
 traits,trait,trait,327490,NOUN,nsubj,False,1
 are,be,be,29345,AUX,aux,True,0
 becoming,become,become,29882,VERB,ccomp,True,0
 more,more,more,193383,ADV,advmod,True,0
-prevalent,prevalent,prevalent,250116,ADJ,acomp,False,1
+prevalent,prevalent,prevalent,250116,ADJ,acomp,False,0

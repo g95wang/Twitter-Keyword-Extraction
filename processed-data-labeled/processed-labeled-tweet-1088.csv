@@ -1,8 +1,8 @@
 Want,want,want,362465,VERB,ROOT,False,0
 To,to,to,324862,PART,aux,True,0
-Make,make,make,178090,VERB,xcomp,True,1
+Make,make,make,178090,VERB,xcomp,True,0
 Per,per,per,230311,ADP,prep,True,0
-Day,day,day,76257,NOUN,pobj,False,1
-internet,internet,internet,155496,NOUN,compound,False,1
+Day,day,day,76257,NOUN,pobj,False,0
+internet,internet,internet,155496,NOUN,compound,False,0
 marketing,marketing,marketing,180167,NOUN,compound,False,1
-seminars,seminar,seminar,284496,NOUN,ROOT,False,1
+seminars,seminar,seminar,284496,NOUN,ROOT,False,0

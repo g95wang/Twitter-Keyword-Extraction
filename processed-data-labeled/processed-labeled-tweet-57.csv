@@ -1,12 +1,12 @@
 Years,year,year,146706,NOUN,ROOT,False,1
 of,of,of,211535,ADP,prep,True,0
-pounding,pounding,pounding,244919,NOUN,pcomp,False,1
+pounding,pounding,pounding,244919,NOUN,pcomp,False,0
 RT,RT,rt,275072,PROPN,npadvmod,False,0
 'll,will,will,365768,VERB,aux,True,0
 be,be,be,29345,AUX,ROOT,True,0
 okay,okay,okay,211944,ADJ,acomp,False,0
 did,do,do,90528,AUX,aux,True,0
 n't,not,not,208798,PART,neg,True,0
-feel,feel,feel,110884,VERB,ROOT,False,1
-a,a,a,0,DET,det,True,1
-thing,thing,thing,321869,NOUN,dobj,False,1
+feel,feel,feel,110884,VERB,ROOT,False,0
+a,a,a,0,DET,det,True,0
+thing,thing,thing,321869,NOUN,dobj,False,0

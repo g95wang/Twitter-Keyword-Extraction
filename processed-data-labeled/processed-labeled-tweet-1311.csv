@@ -3,11 +3,11 @@ oh,oh,oh,211771,INTJ,intj,False,0
 of,of,of,211535,ADP,prep,True,0
 cats,cat,cat,49166,NOUN,pobj,False,0
 has,have,have,134390,AUX,aux,True,0
-figured,figure,figure,112475,VERB,ROOT,False,1
+figured,figure,figure,112475,VERB,ROOT,False,0
 out,out,out,216108,ADP,prt,True,0
 how,how,how,144540,ADV,advmod,True,0
 to,to,to,324862,PART,aux,True,0
-open,open,open,213219,VERB,xcomp,False,1
+open,open,open,213219,VERB,xcomp,False,0
 the,the,the,320691,DET,det,True,0
 fridge,fridge,fridge,118937,NOUN,dobj,False,1
 Surely,surely,surely,313368,ADV,advmod,False,0

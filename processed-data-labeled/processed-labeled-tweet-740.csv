@@ -1,9 +1,9 @@
 JUST,just,just,162503,ADV,advmod,True,0
 IN,in,in,149313,ADP,ROOT,True,0
-Schomburg,Schomburg,homburg,142749,PROPN,compound,False,1
-Center,Center,center,50830,PROPN,compound,False,1
+Schomburg,Schomburg,homburg,142749,PROPN,compound,False,0
+Center,Center,center,50830,PROPN,compound,False,0
 Getting,Getting,getting,124450,PROPN,compound,False,0
-Maya,Maya,maya,177741,PROPN,compound,False,1
-Angelou,Angelou,angelo,12692,PROPN,poss,False,1
-'s,'s,s,275971,PART,case,True,1
+Maya,Maya,maya,177741,PROPN,compound,False,0
+Angelou,Angelou,angelo,12692,PROPN,poss,False,0
+'s,'s,s,275971,PART,case,True,0
 Papers,Papers,papers,225179,PROPN,pobj,False,0

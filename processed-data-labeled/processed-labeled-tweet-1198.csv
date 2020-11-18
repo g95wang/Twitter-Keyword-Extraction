@@ -1,12 +1,12 @@
-bored,bore,bore,38396,VERB,ROOT,False,1
-out,out,out,216108,SCONJ,prep,True,1
+bored,bore,bore,38396,VERB,ROOT,False,0
+out,out,out,216108,SCONJ,prep,True,0
 of,of,of,211535,ADP,prep,True,0
 MIND,mind,mind,187702,NOUN,pobj,False,0
 because,because,because,29780,SCONJ,mark,True,0
 fallout,fallout,fallout,109507,NOUN,nsubj,False,1
 does,do,do,90528,AUX,aux,True,0
 n't,not,not,208798,PART,neg,True,0
-work,work,work,367468,VERB,advcl,False,1
+work,work,work,367468,VERB,advcl,False,0
 on,on,on,212644,ADP,prep,True,0
 computer,computer,computer,64981,NOUN,pobj,False,1
 keeps,keep,keep,163579,VERB,ROOT,False,0

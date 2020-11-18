@@ -1,12 +1,12 @@
-Arranging,arrange,arrange,20168,VERB,ROOT,False,1
-a,a,a,0,DET,det,True,1
+Arranging,arrange,arrange,20168,VERB,ROOT,False,0
+a,a,a,0,DET,det,True,0
 bunch,bunch,bunch,42786,NOUN,dobj,False,0
 of,of,of,211535,ADP,prep,True,0
-Animal,Animal,animal,13153,PROPN,compound,False,1
-Crossing,Crossing,crossing,73831,PROPN,compound,False,1
+Animal,Animal,animal,13153,PROPN,compound,False,0
+Crossing,Crossing,crossing,73831,PROPN,compound,False,0
 music,music,music,195981,NOUN,pobj,False,1
 for,for,for,116301,ADP,prep,True,0
-clarinet,clarinet,clarinet,59316,NOUN,pobj,False,1
+clarinet,clarinet,clarinet,59316,NOUN,pobj,False,0
 and,and,and,12285,CCONJ,cc,True,0
 putting,put,put,257261,VERB,conj,False,0
 on,on,on,212644,ADP,prep,True,0
@@ -20,4 +20,4 @@ have,have,have,134390,AUX,ROOT,True,0
 to,to,to,324862,PART,aux,True,0
 search,search,search,282535,VERB,xcomp,False,1
 to,to,to,324862,PART,aux,True,0
-find,find,find,112884,VERB,advcl,False,1
+find,find,find,112884,VERB,advcl,False,0

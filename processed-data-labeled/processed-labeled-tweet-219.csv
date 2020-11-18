@@ -1,6 +1,6 @@
 Actually,actually,actually,3298,ADV,advmod,False,0
 has,have,have,134390,AUX,ROOT,True,0
-little,little,little,173876,ADJ,dobj,False,1
+little,little,little,173876,ADJ,dobj,False,0
 to,to,to,324862,PART,aux,True,0
 do,do,do,90528,AUX,relcl,True,0
 with,with,with,366582,ADP,prep,True,0
@@ -17,7 +17,7 @@ done,do,do,90528,VERB,xcomp,True,0
 that,that,that,320639,DET,det,True,0
 day,day,day,76257,NOUN,npadvmod,False,0
 and,and,and,12285,CCONJ,cc,True,0
-spread,spread,spread,301217,VERB,conj,False,1
+spread,spread,spread,301217,VERB,conj,False,0
 out,out,out,216108,ADP,prt,True,0
 so,so,so,295959,ADV,mark,True,0
 can,can,can,45964,VERB,aux,True,0

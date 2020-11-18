@@ -7,11 +7,11 @@ been,be,be,29345,AUX,aux,True,0
 calling,call,call,45246,VERB,ccomp,False,1
 private,private,private,250837,ADJ,oprd,False,1
 and,and,and,12285,CCONJ,cc,True,0
-hanging,hang,hang,133325,VERB,conj,False,1
+hanging,hang,hang,133325,VERB,conj,False,0
 up,up,up,354457,ADP,prt,True,0
 and,and,and,12285,CCONJ,cc,True,0
-all,all,all,8522,DET,nsubj,True,1
-i,i,i,145455,PRON,nsubj,True,1
+all,all,all,8522,DET,nsubj,True,0
+i,i,i,145455,PRON,nsubj,True,0
 have,have,have,134390,AUX,relcl,True,0
 to,to,to,324862,PART,aux,True,0
 say,say,say,276740,VERB,xcomp,True,0

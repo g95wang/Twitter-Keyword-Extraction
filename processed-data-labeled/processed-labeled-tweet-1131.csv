@@ -8,7 +8,7 @@ OVER,over,over,218092,ADP,compound,True,0
 CARS,CARS,cars,48576,PROPN,compound,False,0
 TRUCKS,TRUCKS,trucks,331493,PROPN,ROOT,False,0
 AND,and,and,12285,CCONJ,cc,True,0
-SUV,SUV,surv,313645,PROPN,poss,False,1
-'S,'S,s,275971,PROPN,case,True,1
+SUV,SUV,surv,313645,PROPN,poss,False,0
+'S,'S,s,275971,PROPN,case,True,0
 DAY,DAY,day,76257,PROPN,compound,False,0
 WARRENTY,WARRENTY,warranty,362770,PROPN,conj,False,0

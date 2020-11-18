@@ -1,6 +1,6 @@
 What,what,what,364447,PRON,attr,True,0
-is,be,be,29345,AUX,ROOT,True,1
-Paradise,Paradise,paradise,225508,PROPN,nsubj,False,1
+is,be,be,29345,AUX,ROOT,True,0
+Paradise,Paradise,paradise,225508,PROPN,nsubj,False,0
 in,in,in,149313,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 world,world,world,367566,NOUN,pobj,False,1

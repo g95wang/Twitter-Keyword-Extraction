@@ -1,10 +1,10 @@
 the,the,the,320691,DET,det,True,0
-chagall,chagall,chagal,51951,PROPN,compound,False,1
-windows,window,window,366001,VERB,nsubjpass,False,1
+chagall,chagall,chagal,51951,PROPN,compound,False,0
+windows,window,window,366001,VERB,nsubjpass,False,0
 aka,aka,aka,7108,ADV,advmod,False,0
 ferris,ferris,ferris,111511,PROPN,poss,False,0
 sloane,sloane,sloanea,294273,PROPN,conj,False,0
-'s,'s,s,275971,PART,case,True,1
+'s,'s,s,275971,PART,case,True,0
 make,make,make,178090,VERB,amod,True,0
 out,out,out,216108,ADP,prt,True,0
 backdrop,backdrop,backdrop,25765,NOUN,appos,False,0
@@ -13,8 +13,8 @@ being,be,be,29345,AUX,auxpass,True,0
 installed,instal,instal,153826,VERB,ROOT,False,1
 as,as,as,20837,SCONJ,mark,True,0
 type,type,type,324164,VERB,advcl,False,0
-story,story,story,305411,NOUN,ROOT,False,1
-in,in,in,149313,ADP,prep,True,1
+story,story,story,305411,NOUN,ROOT,False,0
+in,in,in,149313,ADP,prep,True,0
 sunday,sunday,sunday,311068,PROPN,poss,False,0
-'s,'s,s,275971,PART,case,True,1
+'s,'s,s,275971,PART,case,True,0
 tribune,tribune,tribune,329276,PROPN,pobj,False,1

@@ -1,7 +1,7 @@
 What,what,what,364447,DET,det,True,0
 kind,kind,kind,164752,NOUN,nsubj,False,0
 of,of,of,211535,ADP,prep,True,0
-sick,sick,sick,289609,ADJ,amod,False,1
+sick,sick,sick,289609,ADJ,amod,False,0
 individual,individual,individual,151166,ADJ,pobj,False,1
 enjoys,enjoy,enjoy,100598,NOUN,ROOT,False,0
 doing,do,do,90528,VERB,xcomp,True,0
@@ -9,9 +9,9 @@ practice,practice,practice,245090,NOUN,compound,False,1
 questions,question,question,258416,NOUN,dobj,False,0
 for,for,for,116301,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
-Quantitative,Quantitative,quantitative,257939,PROPN,compound,False,1
+Quantitative,Quantitative,quantitative,257939,PROPN,compound,False,0
 Reasoning,Reasoning,reasoning,262031,PROPN,compound,False,1
-section,section,section,282851,NOUN,pobj,False,1
+section,section,section,282851,NOUN,pobj,False,0
 of,of,of,211535,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 GRE,GRE,gre,129419,PROPN,pobj,False,0

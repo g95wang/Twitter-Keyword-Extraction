@@ -1,7 +1,7 @@
 i,i,i,145455,PRON,nsubj,True,0
 want,want,want,362465,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
-go,go,go,127161,VERB,xcomp,True,1
+go,go,go,127161,VERB,xcomp,True,0
 on,on,on,212644,ADP,prep,True,0
 stage,stage,stage,302294,NOUN,pobj,False,1
 with,with,with,366582,ADP,prep,True,0

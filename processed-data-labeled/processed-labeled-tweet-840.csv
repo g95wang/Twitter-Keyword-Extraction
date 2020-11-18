@@ -11,10 +11,10 @@ down,down,down,92197,ADP,prt,True,0
 the,the,the,320691,DET,det,True,0
 volume,volume,volume,361218,NOUN,dobj,False,1
 are,be,be,29345,AUX,ROOT,True,0
-people,people,people,230162,NOUN,attr,False,1
+people,people,people,230162,NOUN,attr,False,0
 Let,let,let,170875,VERB,ROOT,False,0
 find,find,find,112884,VERB,ccomp,False,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 way,way,way,361946,NOUN,dobj,False,0
 to,to,to,324862,PART,aux,True,0
 show,show,show,289042,VERB,relcl,True,0

@@ -4,6 +4,6 @@ the,the,the,320691,DET,det,True,0
 post,post,post,243900,NOUN,dobj,False,1
 did,do,do,90528,AUX,relcl,True,0
 about,about,about,756,ADP,prep,True,0
-campaign,campaign,campaign,45783,NOUN,compound,False,1
-sign,sign,sign,290081,NOUN,compound,False,1
-vandalism,vandalism,vandalism,356941,NOUN,pobj,False,1
+campaign,campaign,campaign,45783,NOUN,compound,False,0
+sign,sign,sign,290081,NOUN,compound,False,0
+vandalism,vandalism,vandalism,356941,NOUN,pobj,False,0

@@ -1,7 +1,7 @@
 Now,now,now,209199,ADV,advmod,True,0
 that,that,that,320639,SCONJ,mark,True,0
 're,be,be,29345,AUX,ccomp,True,0
-good,good,good,127869,ADJ,acomp,False,1
+good,good,good,127869,ADJ,acomp,False,0
 will,will,will,365768,VERB,aux,True,0
 be,be,be,29345,AUX,ROOT,True,0
 too,too,too,325685,ADV,advmod,True,0

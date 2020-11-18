@@ -1,10 +1,10 @@
-hard,hard,hard,133614,ADJ,advmod,False,1
+hard,hard,hard,133614,ADJ,advmod,False,0
 for,for,for,116301,ADP,prep,True,0
 when,when,when,364637,ADV,advmod,True,0
 have,have,have,134390,AUX,pcomp,True,0
 too,too,too,325685,ADV,advmod,True,0
 ask,ask,ask,21294,VERB,dobj,False,1
 is,be,be,29345,AUX,ROOT,True,0
-really,really,really,261766,ADV,advmod,True,1
+really,really,really,261766,ADV,advmod,True,0
 that,that,that,320639,DET,advmod,True,0
-dull,dull,dull,93988,ADJ,acomp,False,1
+dull,dull,dull,93988,ADJ,acomp,False,0

@@ -5,4 +5,4 @@ already,already,already,9397,ADV,advmod,True,0
 already,already,already,9397,ADV,advmod,True,0
 answered,answer,answer,13962,VERB,conj,False,1
 the,the,the,320691,DET,det,True,0
-query,query,query,258363,NOUN,dobj,False,1
+query,query,query,258363,NOUN,dobj,False,0

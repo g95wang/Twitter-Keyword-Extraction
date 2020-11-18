@@ -1,6 +1,6 @@
 love,love,love,175534,VERB,ccomp,False,1
 more,more,more,193383,ADV,advmod,True,0
 than,than,than,320565,SCONJ,prep,True,0
-songs,song,song,297195,NOUN,pobj,False,1
+songs,song,song,297195,NOUN,pobj,False,0
 can,can,can,45964,VERB,aux,True,0
-say,say,say,276740,VERB,ROOT,True,1
+say,say,say,276740,VERB,ROOT,True,0

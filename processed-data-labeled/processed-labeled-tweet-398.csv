@@ -1,6 +1,6 @@
 This,this,this,322217,DET,det,True,0
-nigga,nigga,niggra,199896,NOUN,nmod,False,1
+nigga,nigga,niggra,199896,NOUN,nmod,False,0
 walter,walter,walter,362302,PROPN,npadvmod,False,1
-sad,sad,sad,276441,PROPN,amod,False,1
-yaw,yaw,yaw,145868,PROPN,npadvmod,False,1
+sad,sad,sad,276441,PROPN,amod,False,0
+yaw,yaw,yaw,145868,PROPN,npadvmod,False,0
 ahahaa,ahahaa,haha,132277,ADV,ROOT,False,0

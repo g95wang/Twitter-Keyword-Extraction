@@ -6,8 +6,8 @@ illegal,illegal,illegal,147326,ADJ,acomp,False,0
 wearing,wear,wear,363540,VERB,acl,False,0
 Ed,Ed,ed,95639,PROPN,compound,False,0
 Hardy,Hardy,hardy,133668,PROPN,dobj,False,1
-to,to,to,324862,ADP,prep,True,1
+to,to,to,324862,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 Apple,Apple,apple,17774,PROPN,compound,False,1
-store,store,store,305385,NOUN,pobj,False,1
+store,store,store,305385,NOUN,pobj,False,0
 gtfo,gtfo,fo,115636,NOUN,ROOT,False,0

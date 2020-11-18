@@ -7,10 +7,10 @@ but,but,but,43550,CCONJ,cc,True,0
 do,do,do,90528,AUX,aux,True,0
 feel,feel,feel,110884,VERB,ROOT,False,1
 rather,rather,rather,261011,ADV,advmod,True,0
-inconvenienced,inconvenienced,inconvenienced,150325,ADJ,acomp,False,1
+inconvenienced,inconvenienced,inconvenienced,150325,ADJ,acomp,False,0
 and,and,and,12285,CCONJ,cc,True,0
-weird,weird,weird,363928,ADJ,compound,False,1
-ed,ed,ed,95639,NOUN,conj,False,1
+weird,weird,weird,363928,ADJ,compound,False,0
+ed,ed,ed,95639,NOUN,conj,False,0
 out,out,out,216108,ADP,prt,True,0
 by,by,by,33133,ADP,agent,True,0
 the,the,the,320691,DET,det,True,0

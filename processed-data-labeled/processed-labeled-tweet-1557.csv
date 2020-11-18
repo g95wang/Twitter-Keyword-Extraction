@@ -1,8 +1,8 @@
 know,know,know,165702,VERB,ROOT,False,0
 that,that,that,320639,DET,nsubj,True,0
-s,s,s,275971,VERB,ccomp,False,1
-right,right,right,272806,ADJ,amod,False,1
-husband,husband,husband,145307,NOUN,nmod,False,1
+s,s,s,275971,VERB,ccomp,False,0
+right,right,right,272806,ADJ,amod,False,0
+husband,husband,husband,145307,NOUN,nmod,False,0
 ily,ily,idly,146603,PROPN,compound,False,0
 win,win,win,365877,VERB,nsubjpass,False,0
 or,or,or,213904,CCONJ,cc,True,0
@@ -14,6 +14,6 @@ was,be,be,29345,AUX,auxpass,True,0
 n't,not,not,208798,PART,neg,True,0
 built,build,build,42364,VERB,ROOT,False,1
 in,in,in,149313,ADP,prep,True,0
-a,a,a,0,DET,det,True,1
-Day,day,day,76257,NOUN,pobj,False,1
+a,a,a,0,DET,det,True,0
+Day,day,day,76257,NOUN,pobj,False,0
 Work,work,work,367468,NOUN,ROOT,False,0

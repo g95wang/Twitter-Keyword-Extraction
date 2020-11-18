@@ -1,8 +1,8 @@
 NP,NP,np,209239,PROPN,compound,False,0
 Young,young,young,157730,ADJ,compound,False,1
-Jeezy,Jeezy,jeez,160753,PROPN,compound,False,1
+Jeezy,Jeezy,jeez,160753,PROPN,compound,False,0
 Ft,Ft,ft,119704,PROPN,compound,False,0
-Birdman,Birdman,birdman,34782,PROPN,pobj,False,1
-Bun,Bun,bun,42782,PROPN,compound,False,1
-B,B,b,25416,PROPN,conj,False,1
-Tool,tool,tool,325691,NOUN,appos,False,1
+Birdman,Birdman,birdman,34782,PROPN,pobj,False,0
+Bun,Bun,bun,42782,PROPN,compound,False,0
+B,B,b,25416,PROPN,conj,False,0
+Tool,tool,tool,325691,NOUN,appos,False,0

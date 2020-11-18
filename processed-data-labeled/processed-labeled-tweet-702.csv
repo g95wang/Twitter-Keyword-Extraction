@@ -1,6 +1,6 @@
 that,that,that,320639,DET,mark,True,0
-fallout,fallout,fallout,109507,PROPN,amod,False,1
-vegas,vegas,vegas,357681,PROPN,compound,False,1
+fallout,fallout,fallout,109507,PROPN,amod,False,0
+vegas,vegas,vegas,357681,PROPN,compound,False,0
 game,game,game,121666,NOUN,nsubj,False,1
-looks,look,look,175060,VERB,ROOT,False,1
-neat,neat,neat,197626,ADJ,acomp,False,1
+looks,look,look,175060,VERB,ROOT,False,0
+neat,neat,neat,197626,ADJ,acomp,False,0

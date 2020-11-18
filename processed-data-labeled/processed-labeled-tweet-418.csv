@@ -12,12 +12,12 @@ worst,bad,bad,26158,ADJ,amod,False,0
 way,way,way,361946,NOUN,pobj,False,0
 can,can,can,45964,VERB,aux,True,0
 anyone,anyone,anyone,13244,PRON,nsubj,True,0
-suggest,suggest,suggest,310240,VERB,ROOT,False,1
+suggest,suggest,suggest,310240,VERB,ROOT,False,0
 a,a,a,0,DET,det,True,0
 better,well,well,364011,ADJ,amod,False,0
 country,country,country,71230,NOUN,nsubj,False,1
 to,to,to,324862,PART,aux,True,0
-live,live,live,173931,VERB,ccomp,False,1
+live,live,live,173931,VERB,ccomp,False,0
 in,in,in,149313,ADP,prep,True,0
 CAsen,CAsen,casein,48810,PROPN,ROOT,False,0
 CAgov,cagov,cagot,44538,ADP,nmod,False,0

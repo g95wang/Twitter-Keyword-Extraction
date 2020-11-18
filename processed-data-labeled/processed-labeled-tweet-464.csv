@@ -1,8 +1,8 @@
 In,in,in,149313,ADP,ROOT,True,0
 the,the,the,320691,DET,det,True,0
-shadow,shadow,shadow,287079,NOUN,pobj,False,1
+shadow,shadow,shadow,287079,NOUN,pobj,False,0
 of,of,of,211535,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
-Shard,Shard,shard,287475,PROPN,compound,False,1
-David,David,david,77311,PROPN,compound,False,1
+Shard,Shard,shard,287475,PROPN,compound,False,0
+David,David,david,77311,PROPN,compound,False,0
 Shariatmadari,Shariatmadari,sheristadar,288110,PROPN,pobj,False,1

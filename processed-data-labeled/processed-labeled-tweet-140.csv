@@ -2,11 +2,11 @@ Beat,beat,beat,29590,VERB,compound,False,1
 Fable,fable,fable,108880,ADJ,ROOT,False,1
 with,with,with,366582,ADP,prep,True,0
 flying,fly,fly,114525,VERB,amod,False,0
-colors,color,color,63304,NOUN,pobj,False,1
+colors,color,color,63304,NOUN,pobj,False,0
 Now,now,now,209199,ADV,advmod,True,0
 to,to,to,324862,PART,aux,True,0
 be,be,be,29345,AUX,ROOT,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 bit,bit,bit,35156,NOUN,npadvmod,False,0
 more,more,more,193383,ADV,advmod,True,0
-extreme,extreme,extreme,108711,ADJ,acomp,False,1
+extreme,extreme,extreme,108711,ADJ,acomp,False,0

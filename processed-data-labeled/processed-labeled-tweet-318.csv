@@ -1,12 +1,12 @@
 Everytime,everytime,eventime,106120,ADV,npadvmod,False,0
-i,i,i,145455,PRON,nsubj,True,1
+i,i,i,145455,PRON,nsubj,True,0
 watch,watch,watch,363049,VERB,advcl,False,0
 the,the,the,320691,DET,det,True,0
-Celtics,Celtics,celtic,50647,PROPN,compound,False,1
+Celtics,Celtics,celtic,50647,PROPN,compound,False,0
 game,game,game,121666,NOUN,dobj,False,1
 or,or,or,213904,CCONJ,cc,True,0
 the,the,the,320691,DET,det,True,0
-Lakers,Lakers,lakers,167493,PROPN,compound,False,1
+Lakers,Lakers,lakers,167493,PROPN,compound,False,0
 game,game,game,121666,NOUN,conj,False,1
 reminds,remind,remind,267295,VERB,ROOT,False,0
 back,back,back,25705,ADV,advmod,True,0

@@ -1,5 +1,5 @@
 Currently,currently,currently,75406,ADV,advmod,False,0
-laughing,laugh,laugh,169119,VERB,ROOT,False,1
-at,at,at,22372,ADP,prep,True,1
-Laker,Laker,laker,167492,PROPN,compound,False,1
+laughing,laugh,laugh,169119,VERB,ROOT,False,0
+at,at,at,22372,ADP,prep,True,0
+Laker,Laker,laker,167492,PROPN,compound,False,0
 haters,hater,hater,134227,NOUN,pobj,False,1

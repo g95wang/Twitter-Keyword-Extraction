@@ -1,6 +1,6 @@
 KOBE,KOBE,kob,165793,PROPN,nsubj,False,0
 WILL,WILL,will,365768,VERB,aux,True,0
 BE,be,be,29345,VERB,ROOT,True,0
-MVP,MVP,mp,194465,PROPN,attr,False,1
+MVP,MVP,mp,194465,PROPN,attr,False,0
 THIS,THIS,this,322217,PROPN,det,True,0
 YEAR,year,year,146706,NOUN,npadvmod,False,1

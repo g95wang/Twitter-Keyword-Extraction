@@ -1,8 +1,8 @@
 For,for,for,116301,ADP,prep,True,0
-fast,fast,fast,110179,ADJ,amod,False,1
+fast,fast,fast,110179,ADJ,amod,False,0
 and,and,and,12285,CCONJ,cc,True,0
 effective,effective,effective,95955,ADJ,conj,False,1
-weight,weight,weight,363896,NOUN,compound,False,1
-loss,loss,loss,175351,NOUN,pobj,False,1
+weight,weight,weight,363896,NOUN,compound,False,0
+loss,loss,loss,175351,NOUN,pobj,False,0
 try,try,try,329065,VERB,ROOT,False,0
 this,this,this,322217,DET,dobj,True,0

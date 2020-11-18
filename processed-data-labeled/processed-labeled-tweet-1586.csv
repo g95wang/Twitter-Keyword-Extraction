@@ -1,13 +1,13 @@
 How,how,how,144540,ADV,advmod,True,0
 does,do,do,90528,AUX,aux,True,0
 Adam,Adam,adam,3414,PROPN,compound,False,1
-Morrison,Morrison,morrion,193652,PROPN,nsubj,False,1
+Morrison,Morrison,morrion,193652,PROPN,nsubj,False,0
 have,have,have,134390,AUX,ROOT,True,0
-a,a,a,0,DET,det,True,1
-ring,ring,ring,273011,NOUN,dobj,False,1
+a,a,a,0,DET,det,True,0
+ring,ring,ring,273011,NOUN,dobj,False,0
 and,and,and,12285,CCONJ,cc,True,0
 Reggie,Reggie,reggie,265612,PROPN,compound,False,1
-Miller,Miller,miller,187321,PROPN,nsubj,False,1
+Miller,Miller,miller,187321,PROPN,nsubj,False,0
 does,do,do,90528,AUX,aux,True,0
 n't,not,not,208798,PART,neg,True,0
 have,have,have,134390,AUX,conj,True,0

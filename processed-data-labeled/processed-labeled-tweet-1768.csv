@@ -11,6 +11,6 @@ do,do,do,90528,AUX,aux,True,0
 nt,not,not,208798,PART,neg,False,0
 even,even,even,106079,ADV,advmod,True,0
 have,have,have,134390,AUX,ROOT,True,0
-a,a,a,0,DET,det,True,1
-favorite,favorite,favorite,110510,ADJ,amod,False,1
+a,a,a,0,DET,det,True,0
+favorite,favorite,favorite,110510,ADJ,amod,False,0
 team,team,team,317482,NOUN,dobj,False,1

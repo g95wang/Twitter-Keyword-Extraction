@@ -1,6 +1,6 @@
 This,this,this,322217,DET,nsubj,True,0
 is,be,be,29345,AUX,aux,True,0
-starting,start,start,302958,VERB,ROOT,False,1
+starting,start,start,302958,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
 get,get,get,124419,AUX,xcomp,True,0
 boring,boring,boring,38442,ADJ,acomp,False,1

@@ -14,7 +14,7 @@ to,to,to,324862,ADP,prep,True,0
 complicated,complicated,complicated,64694,ADJ,amod,False,0
 things,thing,thing,321869,NOUN,pobj,False,0
 fall,fall,fall,109467,NOUN,nsubj,False,0
-is,be,be,29345,AUX,ROOT,True,1
+is,be,be,29345,AUX,ROOT,True,0
 september,september,september,285650,PROPN,attr,False,0
 to,to,to,324862,ADP,prep,True,0
-christmas,christmas,christmas,56164,PROPN,pobj,False,1
+christmas,christmas,christmas,56164,PROPN,pobj,False,0

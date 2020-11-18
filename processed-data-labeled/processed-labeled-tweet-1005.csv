@@ -8,7 +8,7 @@ if,if,if,146980,SCONJ,mark,True,0
 there,there,there,321216,PRON,expl,True,0
 is,be,be,29345,AUX,advcl,True,0
 less,less,less,170842,ADJ,amod,True,0
-fo,fo,fo,115636,NOUN,attr,False,1
+fo,fo,fo,115636,NOUN,attr,False,0
 More,More,more,193383,ADJ,ROOT,True,0
-for,for,for,116301,ADP,prep,True,1
-Taurus,Taurus,taurus,317119,PROPN,pobj,False,1
+for,for,for,116301,ADP,prep,True,0
+Taurus,Taurus,taurus,317119,PROPN,pobj,False,0

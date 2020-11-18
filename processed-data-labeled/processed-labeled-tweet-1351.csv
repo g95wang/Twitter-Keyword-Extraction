@@ -1,7 +1,7 @@
 np,np,np,209239,PROPN,ROOT,False,0
 i,i,i,145455,PRON,nsubj,True,0
-hate,hate,hate,134216,VERB,ccomp,False,1
+hate,hate,hate,134216,VERB,ccomp,False,0
 this,this,this,322217,DET,det,True,0
-part,part,part,226929,NOUN,dobj,True,1
+part,part,part,226929,NOUN,dobj,True,0
 pussycat,pussycat,pussycat,257228,NOUN,compound,False,1
-dolls,doll,doll,91138,NOUN,ROOT,False,1
+dolls,doll,doll,91138,NOUN,ROOT,False,0

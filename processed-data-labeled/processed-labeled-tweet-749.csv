@@ -5,7 +5,7 @@ n't,not,not,208798,PART,neg,True,0
 mind,mind,mind,187702,VERB,ROOT,False,1
 RT,RT,rt,275072,PROPN,ROOT,False,0
 If,if,if,146980,SCONJ,mark,True,0
-i,i,i,145455,PRON,nsubj,True,1
+i,i,i,145455,PRON,nsubj,True,0
 never,never,never,199350,ADV,neg,True,0
 see,see,see,283054,VERB,ROOT,True,0
 face,face,face,108932,NOUN,ccomp,False,1

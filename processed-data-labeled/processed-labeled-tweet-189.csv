@@ -1,12 +1,12 @@
-Arabian,Arabian,arabian,18306,PROPN,poss,False,1
-'s,'s,s,275971,PART,case,True,1
-timey,timey,timely,323763,NOUN,ROOT,False,1
+Arabian,Arabian,arabian,18306,PROPN,poss,False,0
+'s,'s,s,275971,PART,case,True,0
+timey,timey,timely,323763,NOUN,ROOT,False,0
 Whfft,Whfft,whiffet,364757,PROPN,ROOT,False,0
 wish,wish,wish,366457,VERB,ROOT,False,0
 born,bear,bear,29506,VERB,ccomp,False,1
 to,to,to,324862,PART,aux,True,0
 be,be,be,29345,AUX,advcl,True,0
-an,an,an,11448,DET,det,True,1
-arabian,arabian,arabian,18306,NOUN,attr,False,1
+an,an,an,11448,DET,det,True,0
+arabian,arabian,arabian,18306,NOUN,attr,False,0
 Like,like,like,172172,SCONJ,ROOT,False,0
 LOLOLOLOL,LOLOLOLOL,colocolo,63190,PROPN,pobj,False,0

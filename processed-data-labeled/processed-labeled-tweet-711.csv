@@ -1,12 +1,12 @@
 RT,RT,rt,275072,PROPN,ROOT,False,0
-random,random,random,260526,PROPN,amod,False,1
+random,random,random,260526,PROPN,amod,False,0
 ii,ii,ii,147122,PROPN,nsubj,False,0
 love,love,love,175534,NOUN,ROOT,False,0
 how,how,how,144540,ADV,advmod,True,0
 this,this,this,322217,DET,det,True,0
 nigga,nigga,niggra,199896,NOUN,compound,False,0
-kome,kome,kome,165960,VERB,ccomp,False,1
-in,in,in,149313,ADP,prep,True,1
+kome,kome,kome,165960,VERB,ccomp,False,0
+in,in,in,149313,ADP,prep,True,0
 with,with,with,366582,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 singing,singing,singing,291697,NOUN,pobj,False,1

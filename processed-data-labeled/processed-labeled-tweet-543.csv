@@ -3,12 +3,5 @@ told,tell,tell,318356,VERB,ROOT,False,0
 not,not,not,208798,PART,neg,True,0
 even,even,even,106079,ADV,advmod,True,0
 Halloween,Halloween,halloween,132756,PROPN,compound,False,1
-costume,costume,costume,70238,NOUN,attr,False,1
-Trololol,trololol,trollol,331060,INTJ,ROOT,False,0
-told,tell,tell,318356,VERB,ROOT,False,0
-'s,be,be,29345,AUX,ROOT,True,0
-not,not,not,208798,PART,neg,True,0
-even,even,even,106079,ADV,advmod,True,0
-Halloween,Halloween,halloween,132756,PROPN,compound,False,1
-costume,costume,costume,70238,NOUN,attr,False,1
+costume,costume,costume,70238,NOUN,attr,False,0
 Trololol,trololol,trollol,331060,INTJ,ROOT,False,0

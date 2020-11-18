@@ -1,5 +1,5 @@
 Lol,Lol,lola,174784,PROPN,npadvmod,False,0
-need,need,need,197910,VERB,ROOT,False,1
+need,need,need,197910,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
 get,get,get,124419,AUX,xcomp,True,0
 on,on,on,212644,ADP,prep,True,0
@@ -10,10 +10,10 @@ as,as,as,20837,ADV,advmod,True,0
 well,well,well,364011,ADV,advmod,True,0
 RT,RT,rt,275072,PROPN,ROOT,False,0
 Let,let,let,170875,VERB,ROOT,False,0
-open,open,open,213219,VERB,ccomp,False,1
+open,open,open,213219,VERB,ccomp,False,0
 Word,word,word,367408,NOUN,dobj,False,1
 so,so,so,295959,SCONJ,mark,True,0
 can,can,can,45964,VERB,aux,True,0
-start,start,start,302958,VERB,ROOT,False,1
+start,start,start,302958,VERB,ROOT,False,0
 this,this,this,322217,DET,det,True,0
 paper,paper,paper,225148,NOUN,dobj,False,1

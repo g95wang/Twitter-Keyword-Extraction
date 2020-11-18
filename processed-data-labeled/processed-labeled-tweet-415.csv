@@ -2,9 +2,9 @@ have,have,have,134390,AUX,ROOT,True,0
 lunch,lunch,lunch,176181,NOUN,dobj,False,1
 then,then,then,320906,ADV,advmod,True,0
 more,more,more,193383,ADJ,amod,True,0
-class,class,class,59378,NOUN,dobj,False,1
+class,class,class,59378,NOUN,dobj,False,0
 then,then,then,320906,ADV,advmod,True,0
 i,i,i,145455,PRON,nsubj,True,0
 go,go,go,127161,VERB,ROOT,True,0
-home,home,home,142751,ADV,compound,False,1
+home,home,home,142751,ADV,compound,False,0
 lol,lol,lola,174784,NOUN,npadvmod,False,0

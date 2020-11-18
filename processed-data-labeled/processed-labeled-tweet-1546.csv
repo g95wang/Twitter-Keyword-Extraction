@@ -8,10 +8,10 @@ near,near,near,197596,SCONJ,prep,False,0
 all,all,all,8522,ADV,advmod,True,0
 about,about,about,756,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
-fine,fine,fine,112898,ADJ,amod,False,1
+fine,fine,fine,112898,ADJ,amod,False,0
 art,art,art,20445,NOUN,pobj,False,1
 of,of,of,211535,ADP,prep,True,0
-decapation,decapation,decapitation,78034,NOUN,pobj,False,1
+decapation,decapation,decapitation,78034,NOUN,pobj,False,0
 lately,lately,lately,168822,ADV,advmod,False,0
 cookoo,cookoo,cookbook,68221,VERB,compound,False,0
 cookoo,cookoo,cookbook,68221,PROPN,appos,False,0

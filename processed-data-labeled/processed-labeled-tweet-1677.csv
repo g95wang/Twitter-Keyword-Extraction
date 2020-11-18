@@ -1,9 +1,9 @@
-pen,pen,pen,229480,NOUN,nsubj,False,1
-died,die,die,85120,VERB,ROOT,False,1
+pen,pen,pen,229480,NOUN,nsubj,False,0
+died,die,die,85120,VERB,ROOT,False,0
 's,be,be,29345,AUX,ROOT,True,0
 the,the,the,320691,DET,det,True,0
 only,only,only,212848,ADJ,amod,True,0
-pen,pen,pen,229480,NOUN,attr,False,1
+pen,pen,pen,229480,NOUN,attr,False,0
 've,have,have,134390,AUX,aux,True,0
 ever,ever,ever,106143,ADV,advmod,True,0
 used,use,use,355958,VERB,relcl,True,0

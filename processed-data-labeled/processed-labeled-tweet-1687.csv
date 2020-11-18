@@ -4,7 +4,7 @@ Cus,Cus,acus,3365,PROPN,ROOT,False,0
 probably,probably,probably,251013,ADV,advmod,False,0
 the,the,the,320691,DET,det,True,0
 same,same,same,277518,ADJ,amod,True,0
-size,size,size,292760,NOUN,appos,False,1
+size,size,size,292760,NOUN,appos,False,0
 as,as,as,20837,SCONJ,prep,True,0
 the,the,the,320691,DET,det,True,0
 bop,bop,bop,38299,NOUN,pobj,False,1

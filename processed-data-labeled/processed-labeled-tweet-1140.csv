@@ -3,8 +3,8 @@ that,that,that,320639,SCONJ,mark,True,0
 m,be,be,29345,VERB,appos,False,0
 just,just,just,162503,ADV,advmod,True,0
 now,now,now,209199,ADV,advmod,True,0
-watching,watch,watch,363049,VERB,acl,False,1
+watching,watch,watch,363049,VERB,acl,False,0
 the,the,the,320691,DET,det,True,0
 Britney,Britney,britany,40981,PROPN,compound,False,1
-Glee,Glee,glee,126113,PROPN,compound,False,1
+Glee,Glee,glee,126113,PROPN,compound,False,0
 episode,episode,episode,102810,NOUN,dobj,False,0

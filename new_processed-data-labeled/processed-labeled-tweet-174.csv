@@ -1,9 +1,0 @@
-i,i,i,145455,PRON,nsubj,True,0
-ai,be,be,29345,VERB,ROOT,False,0
-nt,not,not,208798,PART,advmod,False,0
-worried,worried,worried,367640,ADJ,acomp,False,0
-about,about,about,756,ADP,prep,True,0
-i,i,i,145455,PRON,nsubj,True,0
-know,know,know,165702,VERB,ROOT,False,0
-'re,be,be,29345,AUX,ccomp,True,0
-strong,strong,strong,306510,ADJ,acomp,False,1

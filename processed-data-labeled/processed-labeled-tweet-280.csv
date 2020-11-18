@@ -1,7 +1,7 @@
-happy,happy,happy,133513,ADJ,amod,False,1
-tears,tear,tear,317512,NOUN,ROOT,False,1
+happy,happy,happy,133513,ADJ,amod,False,0
+tears,tear,tear,317512,NOUN,ROOT,False,0
 're,be,be,29345,AUX,ROOT,True,0
-incredible,incredible,incredible,150446,ADJ,amod,False,1
+incredible,incredible,incredible,150446,ADJ,amod,False,0
 son,son,son,297156,NOUN,attr,False,1
-hope,hope,hope,143674,VERB,ROOT,False,1
-know,know,know,165702,VERB,parataxis,False,1
+hope,hope,hope,143674,VERB,ROOT,False,0
+know,know,know,165702,VERB,parataxis,False,0

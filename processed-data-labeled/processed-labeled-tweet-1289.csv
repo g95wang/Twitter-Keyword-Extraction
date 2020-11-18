@@ -1,10 +1,10 @@
 little,little,little,173876,ADJ,amod,False,0
 bumbs,bumb,bumbo,42717,NOUN,ROOT,False,1
 around,around,around,20104,ADP,prep,True,0
-lip,lip,lip,173117,NOUN,pobj,False,1
+lip,lip,lip,173117,NOUN,pobj,False,0
 and,and,and,12285,CCONJ,cc,True,0
 swear,swear,swear,314205,VERB,ROOT,False,0
-lipgloss,lipgloss,lipless,173151,NOUN,compound,False,1
+lipgloss,lipgloss,lipless,173151,NOUN,compound,False,0
 dumbniggathere,dumbniggathere,ungathered,342937,ADV,dobj,False,0
 bumps,bump,bump,42749,NOUN,ROOT,False,0
 typo,typo,typo,324316,NOUN,ROOT,False,0

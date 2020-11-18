@@ -1,11 +1,11 @@
 Somebody,somebody,somebody,297030,PRON,nsubj,False,0
 tell,tell,tell,318356,VERB,ROOT,False,0
-sasha,sasha,sashay,278586,PROPN,compound,False,1
+sasha,sasha,sashay,278586,PROPN,compound,False,0
 vulecic,vulecic,vulcanic,361527,PROPN,dobj,False,1
-to,to,to,324862,PART,aux,True,1
-finish,finish,finish,113014,VERB,xcomp,False,1
+to,to,to,324862,PART,aux,True,0
+finish,finish,finish,113014,VERB,xcomp,False,0
 damn,damn,damn,76569,ADJ,amod,False,0
-rosetta,rosetta,rosetta,274508,NOUN,compound,False,1
-stone,stone,stone,305187,NOUN,compound,False,1
-english,english,english,100389,PROPN,compound,False,1
+rosetta,rosetta,rosetta,274508,NOUN,compound,False,0
+stone,stone,stone,305187,NOUN,compound,False,0
+english,english,english,100389,PROPN,compound,False,0
 cds,cd,cd,50294,NOUN,dobj,False,1

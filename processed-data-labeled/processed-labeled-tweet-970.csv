@@ -1,4 +1,4 @@
-Quote,quote,quote,259156,NOUN,ROOT,False,1
+Quote,quote,quote,259156,NOUN,ROOT,False,0
 of,of,of,211535,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 day,day,day,76257,NOUN,pobj,False,0
@@ -8,5 +8,5 @@ just,just,just,162503,ADV,advmod,True,0
 as,as,as,20837,ADV,advmod,True,0
 contagious,contagious,contagious,67248,ADJ,acomp,False,1
 as,as,as,20837,SCONJ,prep,True,0
-courage,courage,courage,71281,NOUN,pobj,False,1
-choice,choice,choice,55305,NOUN,ROOT,False,1
+courage,courage,courage,71281,NOUN,pobj,False,0
+choice,choice,choice,55305,NOUN,ROOT,False,0

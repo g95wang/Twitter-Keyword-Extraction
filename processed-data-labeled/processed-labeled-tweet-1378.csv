@@ -1,9 +1,9 @@
 Nothing,nothing,nothing,208898,PRON,nsubj,True,0
 is,be,be,29345,AUX,ROOT,True,0
 more,more,more,193383,ADV,advmod,True,0
-despicable,despicable,despicable,82820,ADJ,acomp,False,1
+despicable,despicable,despicable,82820,ADJ,acomp,False,0
 than,than,than,320565,SCONJ,prep,True,0
-respect,respect,respect,269692,NOUN,pobj,False,1
+respect,respect,respect,269692,NOUN,pobj,False,0
 based,base,base,28484,VERB,acl,False,1
 on,on,on,212644,ADP,prep,True,0
-fear,fear,fear,110591,NOUN,pobj,False,1
+fear,fear,fear,110591,NOUN,pobj,False,0

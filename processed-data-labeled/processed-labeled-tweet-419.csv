@@ -1,10 +1,10 @@
-roommate,roommate,roommate,274267,NOUN,nsubj,False,1
+roommate,roommate,roommate,274267,NOUN,nsubj,False,0
 does,do,do,90528,AUX,aux,True,0
 n't,not,not,208798,PART,neg,True,0
 sleep,sleep,sleep,293885,VERB,ccomp,False,1
-hibernates,hibernate,hibernate,138219,VERB,ROOT,False,1
+hibernates,hibernate,hibernate,138219,VERB,ROOT,False,0
 plus,plus,plus,240617,CCONJ,cc,False,0
-hours,hour,hour,144367,NOUN,conj,False,1
-a,a,a,0,DET,det,True,1
-day,day,day,76257,NOUN,npadvmod,False,1
+hours,hour,hour,144367,NOUN,conj,False,0
+a,a,a,0,DET,det,True,0
+day,day,day,76257,NOUN,npadvmod,False,0
 SMH,smh,samh,277535,NOUN,ROOT,False,0

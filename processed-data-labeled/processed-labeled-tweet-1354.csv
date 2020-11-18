@@ -1,10 +1,10 @@
 When,when,when,364637,ADV,advmod,True,0
 have,have,have,134390,AUX,advcl,True,0
-a,a,a,0,DET,det,True,1
-good,good,good,127869,ADJ,amod,False,1
-thing,thing,thing,321869,NOUN,dobj,False,1
-hold,hold,hold,142390,VERB,ROOT,False,1
+a,a,a,0,DET,det,True,0
+good,good,good,127869,ADJ,amod,False,0
+thing,thing,thing,321869,NOUN,dobj,False,0
+hold,hold,hold,142390,VERB,ROOT,False,0
 squeeze,squeeze,squeeze,301886,VERB,conj,False,1
 never,never,never,199350,ADV,neg,True,0
 let,let,let,170875,VERB,dep,False,0
-go,go,go,127161,VERB,ccomp,True,1
+go,go,go,127161,VERB,ccomp,True,0

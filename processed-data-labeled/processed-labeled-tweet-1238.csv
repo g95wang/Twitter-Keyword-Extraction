@@ -7,7 +7,7 @@ someone,someone,someone,297038,PRON,attr,True,0
 brave,brave,brave,40089,ADJ,amod,False,1
 enough,enough,enough,100831,ADV,advmod,True,0
 to,to,to,324862,PART,aux,True,0
-catch,catch,catch,49435,VERB,xcomp,False,1
+catch,catch,catch,49435,VERB,xcomp,False,0
 Otherwise,otherwise,otherwise,215859,ADV,advmod,True,0
 keep,keep,keep,163579,VERB,ROOT,True,0
 standing,stand,stand,302655,VERB,xcomp,False,0

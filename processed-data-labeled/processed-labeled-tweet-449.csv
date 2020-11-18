@@ -1,6 +1,6 @@
-Lamar,Lamar,amar,9803,PROPN,compound,False,1
+Lamar,Lamar,amar,9803,PROPN,compound,False,0
 odom,odom,odoom,211365,NOUN,nsubj,False,1
-knocked,knock,knock,165629,VERB,ROOT,False,1
+knocked,knock,knock,165629,VERB,ROOT,False,0
 that,that,that,320639,SCONJ,det,True,0
-ball,ball,ball,26890,NOUN,dobj,False,1
+ball,ball,ball,26890,NOUN,dobj,False,0
 out,out,out,216108,ADP,prt,True,0

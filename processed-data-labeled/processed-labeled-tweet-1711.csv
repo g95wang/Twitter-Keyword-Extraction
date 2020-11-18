@@ -1,14 +1,14 @@
-Tried,try,try,329065,VERB,ROOT,False,1
+Tried,try,try,329065,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
 read,read,read,261551,VERB,xcomp,False,1
 more,more,more,193383,ADJ,dobj,True,0
 of,of,of,211535,ADP,prep,True,0
-Amy,Amy,amy,10366,PROPN,compound,False,1
-McKay,McKay,mckay,181658,PROPN,poss,False,1
-'s,'s,s,275971,PART,case,True,1
+Amy,Amy,amy,10366,PROPN,compound,False,0
+McKay,McKay,mckay,181658,PROPN,poss,False,0
+'s,'s,s,275971,PART,case,True,0
 The,the,the,320691,DET,det,True,0
-Birth,Birth,birth,34902,PROPN,compound,False,1
-House,House,house,144380,PROPN,pobj,False,1
+Birth,Birth,birth,34902,PROPN,compound,False,0
+House,House,house,144380,PROPN,pobj,False,0
 but,but,but,43550,CCONJ,cc,True,0
 just,just,just,162503,ADV,advmod,True,0
 is,be,be,29345,AUX,conj,True,0
@@ -16,5 +16,5 @@ n't,not,not,208798,PART,neg,True,0
 the,the,the,320691,DET,det,True,0
 same,same,same,277518,ADJ,attr,True,0
 without,without,without,366665,ADP,prep,True,0
-reading,read,read,261551,VERB,pcomp,False,1
+reading,read,read,261551,VERB,pcomp,False,0
 aloud,aloud,aloud,9290,ADV,advmod,False,0

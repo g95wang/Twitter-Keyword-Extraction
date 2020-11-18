@@ -4,7 +4,7 @@ done,do,do,90528,VERB,ROOT,True,0
 at,at,at,22372,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 post,post,post,243900,NOUN,compound,False,1
-office,office,office,211603,NOUN,pobj,False,1
+office,office,office,211603,NOUN,pobj,False,0
 So,so,so,295959,ADV,advmod,True,0
 many,many,many,179225,ADJ,amod,True,0
-cookies,cookie,cookie,68236,NOUN,ROOT,False,1
+cookies,cookie,cookie,68236,NOUN,ROOT,False,0

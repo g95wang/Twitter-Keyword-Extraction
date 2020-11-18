@@ -3,10 +3,10 @@ are,be,be,29345,AUX,aux,True,0
 going,go,go,127161,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
 see,see,see,283054,VERB,xcomp,True,0
-T,T,t,314735,PROPN,compound,False,1
-Swift,Swift,swift,314395,PROPN,compound,False,1
+T,T,t,314735,PROPN,compound,False,0
+Swift,Swift,swift,314395,PROPN,compound,False,0
 November,November,november,209151,PROPN,dobj,False,0
-if,if,if,146980,SCONJ,mark,True,1
+if,if,if,146980,SCONJ,mark,True,0
 so,so,so,295959,ADV,advcl,True,0
 see,see,see,283054,VERB,ROOT,True,0
 there,there,there,321216,ADV,advmod,True,0

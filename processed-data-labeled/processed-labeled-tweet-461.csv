@@ -1,8 +1,8 @@
 Pick,pick,pick,235851,VERB,csubj,False,1
 up,up,up,354457,ADP,prt,True,0
 the,the,the,320691,DET,det,True,0
-phone,phone,phone,234654,NOUN,nmod,False,1
-young,young,young,157730,ADJ,amod,False,1
+phone,phone,phone,234654,NOUN,nmod,False,0
+young,young,young,157730,ADJ,amod,False,0
 man,man,man,178862,NOUN,dobj,False,0
-stop,stop,stop,305323,VERB,ROOT,False,1
-textin,textin,textrine,320392,PROPN,dobj,False,1
+stop,stop,stop,305323,VERB,ROOT,False,0
+textin,textin,textrine,320392,PROPN,dobj,False,0

@@ -1,7 +1,7 @@
 Productivity,Productivity,productivity,251596,PROPN,compound,False,1
-Principles,Principles,principles,250663,PROPN,ROOT,False,1
+Principles,Principles,principles,250663,PROPN,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
-Live,live,live,173931,VERB,relcl,False,1
+Live,live,live,173931,VERB,relcl,False,0
 By,by,by,33133,ADP,prep,True,0
 Personal,Personal,personal,231959,PROPN,compound,False,0
 Productivity,Productivity,productivity,251596,PROPN,compound,False,1

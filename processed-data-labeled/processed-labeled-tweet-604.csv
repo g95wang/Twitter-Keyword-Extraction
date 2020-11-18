@@ -5,6 +5,6 @@ just,just,just,162503,ADV,advmod,True,0
 feels,feel,feel,110884,VERB,ROOT,False,1
 like,like,like,172172,SCONJ,mark,False,0
 all,all,all,8522,DET,det,True,0
-auto,auto,auto,23853,NOUN,nsubj,False,1
-tuned,tune,tune,332388,VERB,advcl,False,1
+auto,auto,auto,23853,NOUN,nsubj,False,0
+tuned,tune,tune,332388,VERB,advcl,False,0
 now,now,now,209199,ADV,advmod,True,0

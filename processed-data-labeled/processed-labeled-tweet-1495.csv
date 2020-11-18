@@ -1,12 +1,12 @@
 Does,do,do,90528,AUX,aux,True,0
 feel,feel,feel,110884,VERB,ROOT,False,0
 like,like,like,172172,SCONJ,prep,False,0
-Summer,summer,summer,310930,NOUN,pobj,False,1
+Summer,summer,summer,310930,NOUN,pobj,False,0
 to,to,to,324862,ADP,prep,True,0
 does,do,do,90528,AUX,ROOT,True,0
-in,in,in,149313,ADP,prep,True,1
+in,in,in,149313,ADP,prep,True,0
 Myrtle,Myrtle,myrtle,188549,PROPN,compound,False,1
 Beach,Beach,beach,29347,PROPN,pobj,False,0
 South,South,south,297980,PROPN,compound,False,1
-Carolina,Carolina,carolina,48291,PROPN,appos,False,1
-degrees,degree,degree,79645,NOUN,dobj,False,1
+Carolina,Carolina,carolina,48291,PROPN,appos,False,0
+degrees,degree,degree,79645,NOUN,dobj,False,0

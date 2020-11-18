@@ -1,11 +1,11 @@
 really,really,really,261766,ADV,advmod,True,0
 enjoy,enjoy,enjoy,100598,VERB,ROOT,False,1
-reading,read,read,261551,VERB,xcomp,False,1
+reading,read,read,261551,VERB,xcomp,False,0
 or,or,or,213904,CCONJ,cc,True,0
-watching,watch,watch,363049,VERB,conj,False,1
+watching,watch,watch,363049,VERB,conj,False,0
 but,but,but,43550,CCONJ,cc,True,0
 ca,can,can,45964,VERB,aux,True,0
 n't,not,not,208798,PART,neg,True,0
 just,just,just,162503,ADV,advmod,True,0
-listen,listen,listen,173504,VERB,conj,False,1
+listen,listen,listen,173504,VERB,conj,False,0
 lol,lol,lola,174784,ADJ,dobj,False,0

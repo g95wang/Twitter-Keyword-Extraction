@@ -1,12 +1,12 @@
 Autism,autism,autism,23849,NOUN,compound,False,1
 Families,family,family,109591,NOUN,nsubj,False,0
 Given,give,give,125692,VERB,ROOT,False,0
-Fresh,fresh,fresh,118806,ADJ,compound,False,1
-Hope,Hope,hope,143674,PROPN,dobj,False,1
-SimpleStepsAutism,simplestepsautism,simpletonism,291069,NOUN,ROOT,False,1
+Fresh,fresh,fresh,118806,ADJ,compound,False,0
+Hope,Hope,hope,143674,PROPN,dobj,False,0
+SimpleStepsAutism,simplestepsautism,simpletonism,291069,NOUN,ROOT,False,0
 Com,Com,com,63575,PROPN,compound,False,1
 Launches,Launches,launches,169155,PROPN,ROOT,False,0
-American,American,american,10298,PROPN,amod,False,1
+American,American,american,10298,PROPN,amod,False,0
 Families,family,family,109591,NOUN,ROOT,False,0
 Facing,face,face,108932,VERB,acl,False,0
 the,the,the,320691,DET,det,True,0

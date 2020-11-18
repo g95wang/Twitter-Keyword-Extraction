@@ -1,9 +1,0 @@
-Global,global,global,126455,ADJ,amod,False,0
-food,food,food,116078,NOUN,compound,False,0
-crisis,crisis,crisis,73336,NOUN,nsubj,False,1
-forecast,forecast,forecast,116541,NOUN,ROOT,False,0
-as,as,as,20837,SCONJ,mark,True,0
-prices,price,price,250334,NOUN,nsubj,False,0
-reach,reach,reach,261480,VERB,advcl,False,0
-record,record,record,263489,ADJ,compound,False,0
-highs,high,high,139224,NOUN,dobj,False,0

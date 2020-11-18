@@ -6,7 +6,7 @@ PARTS,PARTS,parts,227130,PROPN,dobj,False,0
 an,an,an,11448,DET,det,True,0
 absolutely,absolutely,absolutely,985,ADV,advmod,False,0
 normal,normal,normal,208534,ADJ,amod,False,1
-girl,girl,girl,125519,NOUN,attr,False,1
+girl,girl,girl,125519,NOUN,attr,False,0
 and,and,and,12285,CCONJ,cc,True,0
 day,day,day,76257,NOUN,npadvmod,False,0
 saw,see,see,283054,VERB,ROOT,False,0

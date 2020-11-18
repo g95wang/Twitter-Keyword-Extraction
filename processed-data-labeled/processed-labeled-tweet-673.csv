@@ -5,7 +5,7 @@ at,at,at,22372,ADV,advmod,True,0
 all,all,all,8522,ADV,advmod,True,0
 trust,trust,trust,331669,VERB,ROOT,False,0
 'm,be,be,29345,AUX,aux,True,0
-seeking,seek,seek,283114,VERB,ROOT,False,1
+seeking,seek,seek,283114,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
 understand,understand,understand,339888,VERB,xcomp,False,1
-video,video,video,359514,NOUN,conj,False,1
+video,video,video,359514,NOUN,conj,False,0

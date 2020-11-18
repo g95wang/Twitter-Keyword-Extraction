@@ -1,7 +1,7 @@
 On,on,on,212644,ADP,ROOT,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 massive,massive,massive,180810,ADJ,amod,False,0
-sugar,sugar,sugar,310203,NOUN,nmod,False,1
+sugar,sugar,sugar,310203,NOUN,nmod,False,0
 high,high,high,139224,ADJ,amod,False,1
-killing,killing,killing,164606,NOUN,compound,False,1
-spree,spree,spree,301243,NOUN,pobj,False,1
+killing,killing,killing,164606,NOUN,compound,False,0
+spree,spree,spree,301243,NOUN,pobj,False,0

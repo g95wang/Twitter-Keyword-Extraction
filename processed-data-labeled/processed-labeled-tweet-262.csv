@@ -1,11 +1,11 @@
 oneofmyfollowers,oneofmyfollower,honeyflower,143351,NOUN,nsubj,False,0
 need,need,need,197910,VERB,ROOT,False,1
 this,this,this,322217,DET,det,True,0
-ham,ham,ham,132897,NOUN,dobj,False,1
+ham,ham,ham,132897,NOUN,dobj,False,0
 so,so,so,295959,SCONJ,mark,True,0
 can,can,can,45964,VERB,aux,True,0
 stop,stop,stop,305323,VERB,advcl,False,1
-crying,cry,cry,72853,VERB,xcomp,False,1
+crying,cry,cry,72853,VERB,xcomp,False,0
 DONT,dont,dont,91473,VERB,ROOT,False,0
 THINK,think,think,321897,NOUN,dobj,False,0
 U,u,u,333554,NOUN,nsubj,False,0

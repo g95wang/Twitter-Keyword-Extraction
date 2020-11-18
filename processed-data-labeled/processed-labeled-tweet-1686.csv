@@ -3,8 +3,8 @@ need,need,need,197910,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
 make,make,make,178090,VERB,xcomp,True,0
 official,official,official,211620,ADJ,amod,False,1
-api,api,apii,16983,PROPN,nsubj,False,1
-'s,'s,s,275971,PART,case,True,1
+api,api,apii,16983,PROPN,nsubj,False,0
+'s,'s,s,275971,PART,case,True,0
 like,like,like,172172,INTJ,intj,False,0
 does,do,do,90528,AUX,ccomp,True,0
 for,for,for,116301,ADP,mark,True,0

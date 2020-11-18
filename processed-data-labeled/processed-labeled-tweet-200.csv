@@ -1,10 +1,10 @@
-Hopin,Hopin,chopin,55681,PROPN,nsubj,False,1
-wristbands,wristband,wristband,368023,NOUN,dobj,False,1
-business,business,business,43481,NOUN,compound,False,1
+Hopin,Hopin,chopin,55681,PROPN,nsubj,False,0
+wristbands,wristband,wristband,368023,NOUN,dobj,False,0
+business,business,business,43481,NOUN,compound,False,0
 cards,card,card,47688,NOUN,conj,False,1
-and,and,and,12285,CCONJ,cc,True,1
-stickers,sticker,sticker,304295,NOUN,conj,False,1
+and,and,and,12285,CCONJ,cc,True,0
+stickers,sticker,sticker,304295,NOUN,conj,False,0
 come,come,come,63721,VERB,ROOT,False,0
-in,in,in,149313,ADP,prt,True,1
+in,in,in,149313,ADP,prt,True,0
 tomorrow,tomorrow,tomorrow,325475,NOUN,pobj,False,0
 BuzzNtheBurgh,buzzntheburgh,brandenburgh,39902,NOUN,appos,False,0

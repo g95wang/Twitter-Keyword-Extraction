@@ -1,11 +1,11 @@
 No,no,no,200529,DET,det,True,1
-injuries,injury,injury,152870,NOUN,nsubj,False,1
-reported,report,report,268373,VERB,ROOT,False,1
-in,in,in,149313,ADP,prep,True,1
+injuries,injury,injury,152870,NOUN,nsubj,False,0
+reported,report,report,268373,VERB,ROOT,False,0
+in,in,in,149313,ADP,prep,True,0
 separate,separate,separate,285547,ADJ,amod,False,0
-shooting,shoot,shoot,288779,VERB,compound,False,1
-incidents,incident,incident,149845,NOUN,pobj,False,1
-in,in,in,149313,ADP,prep,True,1
+shooting,shoot,shoot,288779,VERB,compound,False,0
+incidents,incident,incident,149845,NOUN,pobj,False,0
+in,in,in,149313,ADP,prep,True,0
 Muskegon,Muskegon,maskegon,180696,PROPN,pobj,False,1
 Chronicle,Chronicle,chronicle,56412,PROPN,nmod,False,0
 Jeffrey,Jeffrey,jeffrey,160767,PROPN,compound,False,0
@@ -14,4 +14,4 @@ owner,owner,owner,222075,NOUN,appos,False,0
 of,of,of,211535,ADP,prep,True,0
 a,a,a,0,DET,det,True,0
 home,home,home,142751,NOUN,pobj,False,0
-i,i,i,145455,PRON,ROOT,True,1
+i,i,i,145455,PRON,ROOT,True,0

@@ -1,7 +1,7 @@
 Let,let,let,170875,VERB,ROOT,False,0
 say,say,say,276740,VERB,ccomp,True,0
 Darth,Darth,dearth,77621,PROPN,compound,False,1
-Vader,Vader,evader,105942,PROPN,nsubj,False,1
+Vader,Vader,evader,105942,PROPN,nsubj,False,0
 was,be,be,29345,AUX,ccomp,True,0
 still,still,still,304511,ADV,advmod,True,0
 alive,alive,alive,8375,ADJ,acomp,False,1
@@ -10,7 +10,7 @@ all,all,all,8522,DET,predet,True,0
 the,the,the,320691,DET,det,True,0
 Ewoks,Ewoks,woks,366886,PROPN,nsubj,False,1
 were,be,be,29345,AUX,conj,True,0
-prisoners,prisoner,prisoner,250789,NOUN,attr,False,1
+prisoners,prisoner,prisoner,250789,NOUN,attr,False,0
 not,not,not,208798,PART,neg,True,0
 to,to,to,324862,PART,aux,True,0
 mention,mention,mention,183534,VERB,parataxis,False,0
@@ -19,4 +19,4 @@ McFly,McFly,cly,59885,PROPN,compound,False,0
 fans,fan,fan,109645,NOUN,dobj,False,0
 How,how,how,144540,ADV,advmod,True,0
 would,would,would,367745,VERB,aux,True,0
-save,save,save,279065,VERB,ROOT,False,1
+save,save,save,279065,VERB,ROOT,False,0

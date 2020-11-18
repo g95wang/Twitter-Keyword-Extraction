@@ -7,4 +7,4 @@ never,never,never,199350,ADV,neg,True,0
 late,late,late,168810,ADV,advmod,False,1
 is,be,be,29345,AUX,ROOT,True,0
 better,well,well,364011,ADJ,acomp,False,0
--Drake,-drake,drake,92641,NOUN,punct,False,1
+-Drake,-drake,drake,92641,NOUN,punct,False,0

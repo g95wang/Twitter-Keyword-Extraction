@@ -1,9 +1,9 @@
 all,all,all,8522,DET,det,True,0
 that,that,that,320639,SCONJ,det,True,0
-flirting,flirting,flirting,114719,NOUN,advcl,False,1
+flirting,flirting,flirting,114719,NOUN,advcl,False,0
 can,can,can,45964,VERB,aux,True,0
-a,a,a,0,DET,det,True,1
-nigga,nigga,niggra,199896,NOUN,nsubj,False,1
-stab,stab,stab,302140,NOUN,ROOT,False,1
+a,a,a,0,DET,det,True,0
+nigga,nigga,niggra,199896,NOUN,nsubj,False,0
+stab,stab,stab,302140,NOUN,ROOT,False,0
 that,that,that,320639,DET,dobj,True,0
 nowplaying,nowplaying,downplaying,92286,NOUN,ROOT,False,1

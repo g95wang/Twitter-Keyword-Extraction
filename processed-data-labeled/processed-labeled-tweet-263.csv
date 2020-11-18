@@ -1,7 +1,7 @@
-Spooky,Spooky,spooky,300848,PROPN,compound,False,1
-Things,thing,thing,321869,NOUN,ROOT,False,1
+Spooky,Spooky,spooky,300848,PROPN,compound,False,0
+Things,thing,thing,321869,NOUN,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
 Do,do,do,90528,AUX,relcl,True,0
-in,in,in,149313,ADP,prep,True,1
+in,in,in,149313,ADP,prep,True,0
 Salem,Salem,salem,276975,PROPN,pobj,False,0
 Massachusetts,Massachusetts,massachusetts,180753,PROPN,appos,False,1

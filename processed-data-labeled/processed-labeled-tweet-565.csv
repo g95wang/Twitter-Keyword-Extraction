@@ -1,12 +1,12 @@
 The,the,the,320691,DET,det,True,0
 Evaporator,Evaporator,evaporator,106044,PROPN,compound,False,1
 LB,LB,lb,169477,PROPN,ROOT,False,0
-Desiccant,desiccant,desiccant,82545,ADJ,compound,False,1
+Desiccant,desiccant,desiccant,82545,ADJ,compound,False,0
 Air,Air,air,6838,PROPN,compound,False,1
-Dryer,Dryer,dryer,93046,PROPN,ROOT,False,1
+Dryer,Dryer,dryer,93046,PROPN,ROOT,False,0
 Now,now,now,209199,ADV,advmod,True,0
 Plus,Plus,plus,240617,PROPN,cc,False,0
-Freight,Freight,freight,118701,PROPN,conj,False,1
+Freight,Freight,freight,118701,PROPN,conj,False,0
 Use,Use,use,355958,PROPN,ROOT,False,0
 code,code,code,61687,NOUN,compound,False,0
 T102610,t102610,t,314735,NOUN,dobj,False,0

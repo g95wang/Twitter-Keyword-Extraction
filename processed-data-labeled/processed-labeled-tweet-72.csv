@@ -1,9 +1,9 @@
 Everytime,everytime,eventime,106120,ADV,advmod,False,0
 i,i,i,145455,PRON,nsubj,True,0
 send,send,send,285228,VERB,ROOT,False,0
-a,a,a,0,DET,det,True,1
-text,text,text,320378,NOUN,compound,False,1
-message,message,message,184460,NOUN,dobj,False,1
+a,a,a,0,DET,det,True,0
+text,text,text,320378,NOUN,compound,False,0
+message,message,message,184460,NOUN,dobj,False,0
 i,i,i,145455,PRON,nsubj,True,0
 said,say,say,276740,VERB,ROOT,False,0
 leggo,leggo,legge,170082,PROPN,dobj,False,1

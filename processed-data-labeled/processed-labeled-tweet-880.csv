@@ -1,10 +1,10 @@
 Deputy,deputy,deputy,81951,NOUN,nsubj,False,1
-pulls,pull,pull,256246,VERB,ROOT,False,1
+pulls,pull,pull,256246,VERB,ROOT,False,0
 over,over,over,218092,ADP,prep,True,0
 FL,FL,fl,113654,PROPN,compound,False,0
-man,man,man,178862,NOUN,pobj,False,1
-naked,naked,naked,196643,ADJ,amod,False,1
-teen,teen,teen,317783,NOUN,appos,False,1
+man,man,man,178862,NOUN,pobj,False,0
+naked,naked,naked,196643,ADJ,amod,False,0
+teen,teen,teen,317783,NOUN,appos,False,0
 in,in,in,149313,ADP,prep,True,0
 backseat,backseat,backseat,25887,NOUN,pobj,False,1
 fl,fl,fl,113654,NOUN,ROOT,False,0

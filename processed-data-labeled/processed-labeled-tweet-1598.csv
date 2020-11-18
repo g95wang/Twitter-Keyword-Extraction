@@ -1,6 +1,6 @@
 BEEZID,BEEZID,beid,30861,PROPN,nsubj,False,0
 is,be,be,29345,AUX,aux,True,0
-celebrating,celebrate,celebrate,50448,VERB,ROOT,False,1
+celebrating,celebrate,celebrate,50448,VERB,ROOT,False,0
 year,year,year,146706,NOUN,dobj,False,0
 Birthday,birthday,birthday,34904,NOUN,appos,False,1
 and,and,and,12285,CCONJ,cc,True,0
@@ -13,5 +13,5 @@ of,of,of,211535,ADP,prep,True,0
 all,all,all,8522,DET,pobj,True,0
 Check,check,check,53311,VERB,ROOT,False,0
 out,out,out,216108,ADP,prt,True,0
-Beezid,Beezid,beid,30861,PROPN,compound,False,1
+Beezid,Beezid,beid,30861,PROPN,compound,False,0
 Bu,Bu,bu,41904,PROPN,dobj,False,0

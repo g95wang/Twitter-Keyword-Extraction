@@ -1,7 +1,7 @@
 Being,be,be,29345,AUX,auxpass,True,0
-told,tell,tell,318356,VERB,csubj,False,1
-interview,interview,interview,156185,VERB,ccomp,False,1
-well,well,well,364011,ADV,advmod,True,1
+told,tell,tell,318356,VERB,csubj,False,0
+interview,interview,interview,156185,VERB,ccomp,False,0
+well,well,well,364011,ADV,advmod,True,0
 is,be,be,29345,AUX,ROOT,True,0
 of,of,of,211535,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0

@@ -1,11 +1,11 @@
-Boston,Boston,boston,38634,PROPN,compound,False,1
-Celtics,Celtics,celtic,50647,PROPN,nsubj,False,1
+Boston,Boston,boston,38634,PROPN,compound,False,0
+Celtics,Celtics,celtic,50647,PROPN,nsubj,False,0
 are,be,be,29345,AUX,ROOT,True,0
 hungry,hungry,hungry,145153,ADJ,amod,False,1
 tonite,tonite,tonite,325601,NOUN,acomp,False,0
-Miami,Miami,miami,185632,PROPN,compound,False,1
+Miami,Miami,miami,185632,PROPN,compound,False,0
 Heat,Heat,heat,134920,PROPN,nsubj,False,1
 just,just,just,162503,ADV,advmod,True,0
 looks,look,look,175060,VERB,ROOT,False,0
-full,full,full,119933,ADJ,acomp,True,1
+full,full,full,119933,ADJ,acomp,True,0
 Lol,Lol,lola,174784,PROPN,ROOT,False,0

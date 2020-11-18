@@ -1,6 +1,6 @@
 Audio,audio,audio,23288,NOUN,ROOT,False,0
-Lupe,Lupe,lupe,176282,PROPN,compound,False,1
-Fiasco,Fiasco,fiasco,111948,PROPN,npadvmod,False,1
+Lupe,Lupe,lupe,176282,PROPN,compound,False,0
+Fiasco,Fiasco,fiasco,111948,PROPN,npadvmod,False,0
 The,the,the,320691,DET,det,True,0
 show,show,show,289042,NOUN,nsubj,True,1
 goes,go,go,127161,VERB,ROOT,False,1
@@ -8,4 +8,4 @@ on,on,on,212644,ADP,prep,True,0
 st,st,st,302135,PROPN,compound,False,0
 SingleOff,SingleOff,single,291702,PROPN,compound,False,0
 Laserss,Laserss,lasers,168716,PROPN,compound,False,0
-Album,Album,album,7508,PROPN,pobj,False,1
+Album,Album,album,7508,PROPN,pobj,False,0

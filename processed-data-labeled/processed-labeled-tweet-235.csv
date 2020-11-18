@@ -1,5 +1,5 @@
 got,get,get,124419,VERB,ROOT,False,0
-a,a,a,0,DET,det,True,1
-hole,hole,hole,142416,NOUN,dobj,False,1
+a,a,a,0,DET,det,True,0
+hole,hole,hole,142416,NOUN,dobj,False,0
 in,in,in,149313,ADP,prep,True,0
 head,head,head,134575,NOUN,pobj,False,1

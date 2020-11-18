@@ -1,8 +1,0 @@
-CFA,CFA,ca,43830,PROPN,compound,False,0
-Risk,Risk,risk,273244,PROPN,compound,False,0
-Mgmt,Mgmt,mgt,185610,PROPN,ROOT,False,1
-Corporate,Corporate,corporate,69522,PROPN,amod,False,0
-Governance,Governance,governance,128379,PROPN,ROOT,False,0
-of,of,of,211535,ADP,prep,True,0
-Asian,Asian,asian,21198,PROPN,amod,False,0
-Companies,company,company,64367,NOUN,pobj,False,0

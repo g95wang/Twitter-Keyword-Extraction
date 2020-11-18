@@ -2,11 +2,11 @@ Just,just,just,162503,ADV,advmod,True,0
 to,to,to,324862,PART,aux,True,0
 clarify,clarify,clarify,59298,VERB,advcl,False,1
 when,when,when,364637,ADV,advmod,True,0
-cleared,clear,clear,59644,VERB,advcl,False,1
-browser,browser,browser,41674,NOUN,compound,False,1
-cookies,cookie,cookie,68236,NOUN,dobj,False,1
+cleared,clear,clear,59644,VERB,advcl,False,0
+browser,browser,browser,41674,NOUN,compound,False,0
+cookies,cookie,cookie,68236,NOUN,dobj,False,0
 also,also,also,9416,ADV,advmod,True,0
-cleared,clear,clear,59644,VERB,ROOT,False,1
+cleared,clear,clear,59644,VERB,ROOT,False,0
 the,the,the,320691,DET,det,True,0
-browser,browser,browser,41674,NOUN,compound,False,1
+browser,browser,browser,41674,NOUN,compound,False,0
 cache,cache,cache,44072,PROPN,dobj,False,1

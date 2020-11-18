@@ -1,8 +1,8 @@
-want,want,want,362465,VERB,ROOT,False,1
+want,want,want,362465,VERB,ROOT,False,0
 need,need,need,197910,VERB,ROOT,False,1
 RT,RT,rt,275072,PROPN,ROOT,False,0
 As,as,as,20837,ADV,prep,True,0
-refreshing,refreshing,refreshing,265378,ADJ,amod,False,1
+refreshing,refreshing,refreshing,265378,ADJ,amod,False,0
 as,as,as,20837,SCONJ,prep,True,0
 Gatorade,Gatorade,tornade,326154,PROPN,pobj,False,1
 but,but,but,43550,CCONJ,cc,True,0

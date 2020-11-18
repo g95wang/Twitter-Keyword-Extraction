@@ -1,5 +1,5 @@
 'm,be,be,29345,AUX,aux,True,0
-selling,sell,sell,283572,VERB,ROOT,False,1
+selling,sell,sell,283572,VERB,ROOT,False,0
 snorkel,snorkel,snorkel,295736,NOUN,dobj,False,1
 text,text,text,320378,VERB,dep,False,0
 for,for,for,116301,ADP,prep,True,0

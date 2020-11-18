@@ -5,10 +5,10 @@ that,that,that,320639,DET,nsubj,True,0
 are,be,be,29345,AUX,relcl,True,0
 confused,confused,confused,66087,ADJ,acomp,False,1
 The,the,the,320691,DET,det,True,0
-rice,rice,rice,272503,NOUN,nsubj,False,1
+rice,rice,rice,272503,NOUN,nsubj,False,0
 absorbs,absorb,absorb,1015,VERB,ROOT,False,1
 the,the,the,320691,DET,det,True,0
-water,water,water,363105,NOUN,dobj,False,1
+water,water,water,363105,NOUN,dobj,False,0
 from,from,from,119298,ADP,prep,True,0
 phone,phone,phone,234654,NOUN,pobj,False,1
 like,like,like,172172,INTJ,prep,False,0
@@ -18,7 +18,7 @@ do,do,do,90528,AUX,aux,True,0
 n't,not,not,208798,PART,neg,True,0
 ask,ask,ask,21294,VERB,ROOT,False,0
 how,how,how,144540,ADV,advmod,True,0
-or,or,or,213904,CCONJ,cc,True,1
+or,or,or,213904,CCONJ,cc,True,0
 why,why,why,364728,ADV,conj,True,0
 just,just,just,162503,ADV,advmod,True,0
 know,know,know,165702,VERB,ccomp,False,0

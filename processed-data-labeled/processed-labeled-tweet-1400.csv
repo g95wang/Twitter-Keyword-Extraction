@@ -1,7 +1,7 @@
 that,that,that,320639,DET,mark,True,0
-good,good,good,127869,PROPN,amod,False,1
+good,good,good,127869,PROPN,amod,False,0
 times,times,times,323785,PROPN,compound,False,1
-episode,episode,episode,102810,PROPN,nsubj,False,1
+episode,episode,episode,102810,PROPN,nsubj,False,0
 was,be,be,29345,AUX,aux,True,0
-fucking,fuck,fuck,119742,VERB,ROOT,False,1
-hilarious,hilarious,hilarious,139405,ADJ,oprd,False,1
+fucking,fuck,fuck,119742,VERB,ROOT,False,0
+hilarious,hilarious,hilarious,139405,ADJ,oprd,False,0

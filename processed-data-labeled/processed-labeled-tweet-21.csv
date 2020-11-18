@@ -4,8 +4,8 @@ had,have,have,134390,AUX,ROOT,True,0
 some,some,some,297029,DET,dobj,True,0
 of,of,of,211535,ADP,prep,True,0
 that,that,that,320639,DET,det,True,0
-Persian,persian,persian,231908,ADJ,amod,False,1
-dugh,dugh,dough,92033,NOUN,pobj,False,1
+Persian,persian,persian,231908,ADJ,amod,False,0
+dugh,dugh,dough,92033,NOUN,pobj,False,0
 last,last,last,168771,ADJ,amod,True,0
 week,week,week,363764,NOUN,npadvmod,False,1
 To,to,to,324862,ADP,prep,True,0
@@ -14,4 +14,4 @@ the,the,the,320691,DET,det,True,0
 mint,mint,mint,188024,NOUN,attr,False,1
 that,that,that,320639,DET,nsubj,True,0
 makes,make,make,178090,VERB,relcl,False,0
-great,great,great,129442,ADJ,ccomp,False,1
+great,great,great,129442,ADJ,ccomp,False,0

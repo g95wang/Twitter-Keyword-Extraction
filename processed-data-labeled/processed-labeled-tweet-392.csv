@@ -1,7 +1,7 @@
 Google,Google,googlies,127944,PROPN,nsubj,False,1
-maps,maps,maps,179751,PROPN,ROOT,False,1
-street,street,street,306018,NOUN,compound,False,1
-view,view,view,359574,NOUN,dobj,False,1
+maps,maps,maps,179751,PROPN,ROOT,False,0
+street,street,street,306018,NOUN,compound,False,0
+view,view,view,359574,NOUN,dobj,False,0
 intlib10,intlib10,intagli,154184,PROPN,ROOT,False,0
 am,be,be,29345,AUX,aux,True,0
 stealing,steal,steal,303257,VERB,ROOT,False,0

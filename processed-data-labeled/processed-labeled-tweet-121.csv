@@ -1,6 +1,6 @@
 SDS,SDS,sds,282382,PROPN,ROOT,False,0
-favorite,favorite,favorite,110510,ADJ,amod,False,1
+favorite,favorite,favorite,110510,ADJ,amod,False,0
 song,song,song,297195,PROPN,compound,False,1
-new,new,new,199367,PROPN,amod,False,1
-album,album,album,7508,PROPN,compound,False,1
+new,new,new,199367,PROPN,amod,False,0
+album,album,album,7508,PROPN,compound,False,0
 hehe,hehe,hehe,135344,PROPN,ROOT,False,0

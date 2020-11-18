@@ -2,14 +2,14 @@ yeah,yeah,yeah,146696,INTJ,intj,False,0
 cancel,cancel,cancel,46069,VERB,advcl,False,1
 out,out,out,216108,ADP,prt,True,0
 and,and,and,12285,CCONJ,cc,True,0
-durant,durant,durant,94414,ADJ,conj,False,1
-fuck,fuck,fuck,119742,NOUN,dobj,False,1
+durant,durant,durant,94414,ADJ,conj,False,0
+fuck,fuck,fuck,119742,NOUN,dobj,False,0
 around,around,around,20104,ADV,advmod,True,0
 and,and,and,12285,CCONJ,cc,True,0
 have,have,have,134390,AUX,conj,True,0
 have,have,have,134390,AUX,ROOT,True,0
 no,no,no,200529,DET,det,True,1
-answer,answer,answer,13962,NOUN,dobj,False,1
+answer,answer,answer,13962,NOUN,dobj,False,0
 for,for,for,116301,ADP,prep,True,0
 nobody,nobody,nobody,200587,PRON,nsubj,True,0
 does,do,do,90528,AUX,ccomp,True,0

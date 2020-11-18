@@ -2,12 +2,12 @@ If,if,if,146980,SCONJ,mark,True,0
 haven,haven,haven,134397,VERB,ROOT,False,0
 seen,see,see,283054,VERB,ccomp,False,0
 Trading,trading,trading,327270,NOUN,compound,False,0
-Places,Places,places,238580,PROPN,dobj,False,1
+Places,Places,places,238580,PROPN,dobj,False,0
 Video,video,video,359514,NOUN,appos,False,0
 then,then,then,320906,ADV,advmod,True,0
-missing,miss,miss,189987,VERB,ROOT,False,1
+missing,miss,miss,189987,VERB,ROOT,False,0
 out,out,out,216108,ADP,prt,True,0
 on,on,on,212644,ADP,prep,True,0
 some,some,some,297029,DET,det,True,0
-dope,dope,dope,91606,NOUN,compound,False,1
+dope,dope,dope,91606,NOUN,compound,False,0
 shit,shit,shit,288544,NOUN,pobj,False,1

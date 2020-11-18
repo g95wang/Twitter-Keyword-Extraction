@@ -1,10 +1,10 @@
-Jay,Jay,jay,160135,PROPN,compound,False,1
-Z,Z,z,368716,PROPN,nsubj,False,1
+Jay,Jay,jay,160135,PROPN,compound,False,0
+Z,Z,z,368716,PROPN,nsubj,False,0
 Responds,respond,respond,269765,NOUN,ROOT,False,0
 To,to,to,324862,ADP,prep,True,0
-Beyonce,Beyonce,bonce,37791,PROPN,compound,False,1
+Beyonce,Beyonce,bonce,37791,PROPN,compound,False,0
 Pregnancy,Pregnancy,pregnancy,247724,PROPN,pobj,False,1
-Rumors,Rumors,rumors,275578,PROPN,compound,False,1
+Rumors,Rumors,rumors,275578,PROPN,compound,False,0
 The,the,the,320691,DET,det,True,0
 Urban,Urban,urban,355378,PROPN,compound,False,0
-Daily,Daily,daily,76310,PROPN,ROOT,False,1
+Daily,Daily,daily,76310,PROPN,ROOT,False,0

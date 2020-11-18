@@ -1,8 +1,0 @@
-like,like,like,172172,VERB,ROOT,False,0
-monkeys,monkey,monkey,192022,NOUN,dobj,False,0
-but,but,but,43550,CCONJ,cc,True,0
-still,still,still,304511,ADV,advmod,True,0
-hate,hate,hate,134216,VERB,conj,False,0
-COSTCO,COSTCO,coco,61599,NOUN,compound,False,0
-parking,parking,parking,226565,NOUN,compound,False,0
-lots,lot,lot,175365,NOUN,dobj,False,1

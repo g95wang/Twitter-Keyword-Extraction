@@ -1,14 +1,14 @@
 is,be,be,29345,AUX,ccomp,True,0
 what,what,what,364447,PRON,attr,True,0
 is,be,be,29345,AUX,ccomp,True,0
-brother,brother,brother,41578,NOUN,attr,False,1
+brother,brother,brother,41578,NOUN,attr,False,0
 lol,lol,lola,174784,INTJ,ROOT,False,0
 Lol,Lol,lola,174784,PROPN,ROOT,False,0
 but,but,but,43550,CCONJ,cc,True,0
-the,the,the,320691,DET,det,True,1
+the,the,the,320691,DET,det,True,0
 cost,cost,cost,70153,NOUN,conj,False,1
 of,of,of,211535,ADP,prep,True,0
-knees,knee,knee,165484,NOUN,pobj,False,1
+knees,knee,knee,165484,NOUN,pobj,False,0
 though,though,though,322468,ADV,advmod,True,0
 Y,Y,y,145456,PROPN,intj,False,0
 cnt,cnt,cant,46546,VERB,intj,False,0
@@ -16,5 +16,5 @@ just,just,just,162503,ADV,advmod,True,0
 wait,wait,wait,362072,VERB,ROOT,False,1
 until,until,until,353020,ADP,mark,True,0
 gets,get,get,124419,VERB,advcl,False,0
-old,old,old,212002,ADJ,acomp,False,1
-retires,retire,retire,270554,NOUN,conj,False,1
+old,old,old,212002,ADJ,acomp,False,0
+retires,retire,retire,270554,NOUN,conj,False,0

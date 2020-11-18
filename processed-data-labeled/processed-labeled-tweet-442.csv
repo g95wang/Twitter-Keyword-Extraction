@@ -1,12 +1,12 @@
-i,i,i,145455,PRON,nsubj,True,1
+i,i,i,145455,PRON,nsubj,True,0
 think,think,think,321897,VERB,ROOT,False,0
-wrong,wrong,wrong,368091,ADJ,amod,False,1
-people,people,people,230162,NOUN,nsubj,False,1
+wrong,wrong,wrong,368091,ADJ,amod,False,0
+people,people,people,230162,NOUN,nsubj,False,0
 judge,judge,judge,162053,VERB,ccomp,False,1
 others,other,other,215836,NOUN,dobj,True,0
 by,by,by,33133,ADP,prep,True,0
 there,there,there,321216,PRON,pcomp,True,0
-religion,religion,religion,266938,NOUN,pobj,False,1
+religion,religion,religion,266938,NOUN,pobj,False,0
 gets,get,get,124419,VERB,ROOT,False,0
-on,on,on,212644,ADP,prep,True,1
+on,on,on,212644,ADP,prep,True,0
 nerves,nerve,nerve,198735,NOUN,pobj,False,1

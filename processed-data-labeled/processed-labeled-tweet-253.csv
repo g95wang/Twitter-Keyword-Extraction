@@ -1,9 +1,9 @@
 Did,do,do,90528,AUX,aux,True,0
 the,the,the,320691,DET,det,True,0
-Texas,Texas,texas,320374,PROPN,compound,False,1
+Texas,Texas,texas,320374,PROPN,compound,False,0
 Chainsaw,Chainsaw,chains,51992,PROPN,compound,False,1
-Massacre,Massacre,massacre,180754,PROPN,nsubj,False,1
-really,really,really,261766,ADV,advmod,True,1
-happen,happen,happen,133505,VERB,ROOT,False,1
+Massacre,Massacre,massacre,180754,PROPN,nsubj,False,0
+really,really,really,261766,ADV,advmod,True,0
+happen,happen,happen,133505,VERB,ROOT,False,0
 lol,lol,lola,174784,INTJ,ROOT,False,0
 yes,yes,yes,146918,INTJ,intj,False,0

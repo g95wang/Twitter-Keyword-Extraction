@@ -1,11 +1,11 @@
 Interested,interested,interested,154893,ADJ,ROOT,False,0
-in,in,in,149313,ADP,prep,True,1
+in,in,in,149313,ADP,prep,True,0
 KP,KP,kep,163877,PROPN,compound,False,0
 Orthopedic,Orthopedic,orthopedic,215089,PROPN,compound,False,1
-Medical,Medical,medical,182067,PROPN,compound,False,1
+Medical,Medical,medical,182067,PROPN,compound,False,0
 Assistant,Assistant,assistant,21827,PROPN,compound,False,1
-position,position,position,243797,NOUN,pobj,False,1
+position,position,position,243797,NOUN,pobj,False,0
 Please,please,please,239622,INTJ,intj,True,0
 call,call,call,45246,VERB,ROOT,True,0
 Crossing,Crossing,crossing,73831,PROPN,xcomp,False,0
-fingers,finger,finger,112940,NOUN,dobj,False,1
+fingers,finger,finger,112940,NOUN,dobj,False,0

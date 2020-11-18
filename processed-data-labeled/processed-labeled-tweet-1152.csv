@@ -1,9 +1,9 @@
-troy,troy,troy,331008,PROPN,compound,False,1
+troy,troy,troy,331008,PROPN,compound,False,0
 smith,smith,smith,294935,PROPN,nsubj,False,1
-is,be,be,29345,AUX,ROOT,True,1
+is,be,be,29345,AUX,ROOT,True,0
 about,about,about,756,ADJ,acomp,True,0
 to,to,to,324862,PART,aux,True,0
-finish,finish,finish,113014,VERB,xcomp,False,1
+finish,finish,finish,113014,VERB,xcomp,False,0
 the,the,the,320691,DET,det,True,0
 rest,rest,rest,269833,NOUN,dobj,False,0
 of,of,of,211535,ADP,prep,True,0
@@ -12,11 +12,11 @@ season,season,season,282586,NOUN,pobj,False,1
 for,for,for,116301,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 ers,er,er,103459,NOUN,pobj,False,0
-'s,be,be,29345,AUX,aux,True,1
+'s,be,be,29345,AUX,aux,True,0
 gon,go,go,127161,VERB,ROOT,False,0
 na,to,to,324862,PART,aux,False,0
 get,get,get,124419,AUX,xcomp,True,0
-a,a,a,0,DET,det,True,1
-win,win,win,365877,NOUN,ccomp,False,1
+a,a,a,0,DET,det,True,0
+win,win,win,365877,NOUN,ccomp,False,0
 this,this,this,322217,DET,det,True,0
 week,week,week,363764,NOUN,npadvmod,False,1

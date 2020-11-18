@@ -3,8 +3,8 @@ is,be,be,29345,AUX,ccomp,True,0
 already,already,already,9397,ADV,advmod,True,0
 on,on,on,212644,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
-top,top,top,325810,ADJ,amod,True,1
-countdown,countdown,countdown,70601,NOUN,pobj,False,1
+top,top,top,325810,ADJ,amod,True,0
+countdown,countdown,countdown,70601,NOUN,pobj,False,0
 really,really,really,261766,ADV,advmod,True,0
 is,be,be,29345,AUX,ROOT,True,0
 mind,mind,mind,187702,NOUN,nsubj,False,1

@@ -1,11 +1,11 @@
 If,if,if,146980,SCONJ,mark,True,0
-i,i,i,145455,PRON,nsubj,True,1
+i,i,i,145455,PRON,nsubj,True,0
 die,die,die,85120,VERB,advcl,False,1
 don,don,don,91365,PROPN,compound,False,0
-cry,cry,cry,72853,PROPN,dobj,False,1
+cry,cry,cry,72853,PROPN,dobj,False,0
 just,just,just,162503,ADV,advmod,True,0
 get,get,get,124419,AUX,ROOT,True,0
 high,high,high,139224,ADJ,acomp,False,1
 and,and,and,12285,CCONJ,cc,True,0
-fly,fly,fly,114525,VERB,conj,False,1
+fly,fly,fly,114525,VERB,conj,False,0
 with,with,with,366582,ADP,prep,True,0

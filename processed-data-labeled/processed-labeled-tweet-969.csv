@@ -1,12 +1,12 @@
 The,the,the,320691,DET,det,True,0
 Heat,Heat,heat,134920,PROPN,nsubj,False,1
 have,have,have,134390,AUX,aux,True,0
-used,use,use,355958,VERB,ROOT,True,1
+used,use,use,355958,VERB,ROOT,True,0
 up,up,up,354457,ADP,prt,True,0
 all,all,all,8522,DET,det,True,0
-time,time,time,323746,NOUN,compound,False,1
+time,time,time,323746,NOUN,compound,False,0
 outs,out,out,216108,NOUN,dobj,False,1
 in,in,in,149313,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
-first,first,first,113286,ADJ,amod,True,1
-half,half,half,132585,NOUN,pobj,False,1
+first,first,first,113286,ADJ,amod,True,0
+half,half,half,132585,NOUN,pobj,False,0

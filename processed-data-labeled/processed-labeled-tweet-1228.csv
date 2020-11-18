@@ -1,6 +1,6 @@
 with,with,with,366582,ADP,prep,True,0
 there,there,there,321216,ADV,pcomp,True,0
-boycotts,boycotts,boycotts,37402,PROPN,pobj,False,1
+boycotts,boycotts,boycotts,37402,PROPN,pobj,False,0
 and,and,and,12285,CCONJ,cc,True,0
 the,the,the,320691,DET,det,True,0
 way,way,way,361946,NOUN,conj,False,0
@@ -13,4 +13,4 @@ were,be,be,29345,AUX,ROOT,True,0
 right,right,right,272806,ADJ,advmod,False,0
 in,in,in,149313,ADV,advmod,True,0
 there,there,there,321216,ADV,advmod,True,0
-assessment,assessment,assessment,21721,NOUN,attr,False,1
+assessment,assessment,assessment,21721,NOUN,attr,False,0

@@ -1,7 +1,7 @@
-Inspired,inspire,inspire,153796,VERB,ROOT,False,1
+Inspired,inspire,inspire,153796,VERB,ROOT,False,0
 after,after,after,5615,ADP,prep,True,0
 a,a,a,0,DET,det,True,0
 yummy,yummy,yummy,159681,ADJ,amod,False,1
-lunch,lunch,lunch,176181,NOUN,pobj,False,1
+lunch,lunch,lunch,176181,NOUN,pobj,False,0
 with,with,with,366582,ADP,prep,True,0
 Thanks,thank,thank,320604,NOUN,ROOT,False,0

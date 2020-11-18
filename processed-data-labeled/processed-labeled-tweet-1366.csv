@@ -1,9 +1,9 @@
 Hahaha,Hahaha,haha,132277,PROPN,ROOT,False,0
 That,that,that,320639,DET,nsubj,True,0
-'s,be,be,29345,AUX,ROOT,True,1
+'s,be,be,29345,AUX,ROOT,True,0
 just,just,just,162503,ADV,advmod,True,0
 what,what,what,364447,PRON,dobj,True,0
-sister,sister,sister,292572,NOUN,nsubj,False,1
+sister,sister,sister,292572,NOUN,nsubj,False,0
 was,be,be,29345,AUX,aux,True,0
 saying,say,say,276740,VERB,ccomp,False,0
 to,to,to,324862,ADP,prep,True,0

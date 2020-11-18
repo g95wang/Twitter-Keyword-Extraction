@@ -1,9 +1,9 @@
-Coultrain,Coultrain,outran,217221,PROPN,compound,False,1
-Green,green,green,129512,NOUN,nsubj,False,1
+Coultrain,Coultrain,outran,217221,PROPN,compound,False,0
+Green,green,green,129512,NOUN,nsubj,False,0
 almost,almost,almost,9157,ADV,advmod,True,0
-forgot,forget,forget,117219,VERB,ROOT,False,1
+forgot,forget,forget,117219,VERB,ROOT,False,0
 how,how,how,144540,ADV,advmod,True,0
 brilliant,brilliant,brilliant,40800,ADJ,acomp,False,1
 this,this,this,322217,DET,det,True,0
-album,album,album,7508,NOUN,nsubj,False,1
+album,album,album,7508,NOUN,nsubj,False,0
 was,be,be,29345,AUX,ccomp,True,0

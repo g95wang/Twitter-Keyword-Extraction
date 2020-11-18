@@ -1,4 +1,4 @@
 WHO,who,who,365278,PRON,nsubj,True,0
-is,be,be,29345,AUX,ROOT,True,1
-this,this,this,322217,DET,det,True,1
+is,be,be,29345,AUX,ROOT,True,0
+this,this,this,322217,DET,det,True,0
 CHICK,CHICK,chick,54133,PROPN,attr,False,0

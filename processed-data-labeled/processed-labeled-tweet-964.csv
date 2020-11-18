@@ -1,11 +1,11 @@
 nowFOLLOWiNG,nowFOLLOWiNG,nonfollowing,204121,PROPN,compound,False,0
 letme,letme,leme,170317,PROPN,nsubj,False,1
 give,give,give,125692,VERB,ROOT,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 quick,quick,quick,258487,ADJ,amod,False,0
 s\o,s\o,so,295959,PROPN,dobj,False,0
-Ladies,lady,lady,167178,NOUN,nsubj,False,1
-follow,follow,follow,115989,VERB,ROOT,False,1
+Ladies,lady,lady,167178,NOUN,nsubj,False,0
+follow,follow,follow,115989,VERB,ROOT,False,0
 's,be,be,29345,AUX,ROOT,True,0
-teamfollowback,teamfollowback,yellowback,146795,ADJ,attr,False,1
+teamfollowback,teamfollowback,yellowback,146795,ADJ,attr,False,0
 chris,chris,chris,55984,PROPN,ROOT,False,1

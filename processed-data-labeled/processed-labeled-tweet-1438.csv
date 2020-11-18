@@ -1,13 +1,13 @@
 Really,really,really,261766,ADV,advmod,True,0
-bad,bad,bad,26158,ADJ,amod,False,1
+bad,bad,bad,26158,ADJ,amod,False,0
 first,first,first,113286,ADJ,amod,True,0
-impression,impression,impression,149068,NOUN,compound,False,1
+impression,impression,impression,149068,NOUN,compound,False,0
 miami,miami,miami,185632,PROPN,ROOT,False,1
 lebron,lebron,oleron,212117,PROPN,nsubj,False,1
 use,use,use,355958,VERB,ROOT,False,0
-teammates,teammate,teammate,317494,NOUN,dobj,False,1
+teammates,teammate,teammate,317494,NOUN,dobj,False,0
 there,there,there,321216,PRON,expl,True,0
 's,be,be,29345,AUX,ROOT,True,0
 no,no,no,200529,INTJ,det,True,0
 in,in,in,149313,ADP,prep,True,0
-team,team,team,317482,NOUN,pobj,False,1
+team,team,team,317482,NOUN,pobj,False,0

@@ -1,7 +1,7 @@
-Khadr,Khadr,khar,164254,PROPN,poss,False,1
-'s,'s,s,275971,PART,case,True,1
-time,time,time,323746,NOUN,nsubj,False,1
-in,in,in,149313,ADP,prep,True,1
+Khadr,Khadr,khar,164254,PROPN,poss,False,0
+'s,'s,s,275971,PART,case,True,0
+time,time,time,323746,NOUN,nsubj,False,0
+in,in,in,149313,ADP,prep,True,0
 GTMO,GTMO,atmo,22690,PROPN,pobj,False,0
 used,use,use,355958,VERB,ROOT,True,0
 against,against,against,5830,ADP,prep,True,1

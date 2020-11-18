@@ -1,8 +1,8 @@
 lets,let,let,170875,VERB,ROOT,False,0
 Support,Support,support,313022,PROPN,compound,False,1
 Breast,Breast,breast,40285,PROPN,compound,False,1
-Cancer,Cancer,cancer,46095,PROPN,compound,False,1
-research,research,research,269100,NOUN,compound,False,1
+Cancer,Cancer,cancer,46095,PROPN,compound,False,0
+research,research,research,269100,NOUN,compound,False,0
 click,click,click,59892,VERB,dobj,False,0
 on,on,on,212644,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0

@@ -1,7 +1,7 @@
-cousin,cousin,cousin,71384,NOUN,nsubj,False,1
+cousin,cousin,cousin,71384,NOUN,nsubj,False,0
 is,be,be,29345,AUX,aux,True,0
 deff,deff,def,79060,PROPN,nsubj,False,0
-losing,lose,lose,175338,VERB,ROOT,False,1
+losing,lose,lose,175338,VERB,ROOT,False,0
 ha,ha,ha,131713,INTJ,intj,False,0
-fckn,fckn,fack,109016,PROPN,amod,False,1
+fckn,fckn,fack,109016,PROPN,amod,False,0
 mind,mind,mind,187702,NOUN,dobj,False,1

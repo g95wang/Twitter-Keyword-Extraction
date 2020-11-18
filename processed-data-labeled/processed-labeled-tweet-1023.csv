@@ -1,8 +1,8 @@
 The,the,the,320691,DET,det,True,0
 Red,Red,red,263841,PROPN,compound,False,1
-Bandana,Bandana,bandana,27271,PROPN,ROOT,False,1
+Bandana,Bandana,bandana,27271,PROPN,ROOT,False,0
 An,an,an,11448,DET,det,True,0
-Argument,argument,argument,19593,NOUN,ROOT,False,1
+Argument,argument,argument,19593,NOUN,ROOT,False,0
 for,for,for,116301,ADP,prep,True,0
 Walking,walk,walk,362193,VERB,compound,False,0
 TribLocal,TribLocal,tribological,329236,PROPN,pobj,False,0

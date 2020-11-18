@@ -1,7 +1,7 @@
 ai,be,be,29345,VERB,aux,False,0
 n't,not,not,208798,PART,neg,True,0
 cheat,cheat,cheat,53282,VERB,ROOT,False,1
-played,play,play,238701,VERB,ccomp,False,1
+played,play,play,238701,VERB,ccomp,False,0
 the,the,the,320691,DET,det,True,0
 hand,hand,hand,133091,NOUN,dobj,False,0
-dealt,deal,deal,77534,VERB,relcl,False,1
+dealt,deal,deal,77534,VERB,relcl,False,0

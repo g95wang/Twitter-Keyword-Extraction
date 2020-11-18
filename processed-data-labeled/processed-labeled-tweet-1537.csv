@@ -4,11 +4,11 @@ to,to,to,324862,PART,aux,True,0
 get,get,get,124419,AUX,xcomp,True,0
 IR,IR,ir,157862,PROPN,compound,False,0
 projects,project,project,252003,NOUN,nsubj,False,1
-upload,upload,upload,354835,ADJ,ccomp,False,1
+upload,upload,upload,354835,ADJ,ccomp,False,0
 AND,and,and,12285,CCONJ,cc,True,0
 dress,dress,dress,92977,VERB,conj,False,1
-up,up,up,354457,ADP,prt,True,1
+up,up,up,354457,ADP,prt,True,0
 for,for,for,116301,ADP,prep,True,0
-Halloween,Halloween,halloween,132756,PROPN,pobj,False,1
+Halloween,Halloween,halloween,132756,PROPN,pobj,False,0
 on,on,on,212644,ADP,prep,True,0
-Friday,Friday,friday,118935,PROPN,pobj,False,1
+Friday,Friday,friday,118935,PROPN,pobj,False,0

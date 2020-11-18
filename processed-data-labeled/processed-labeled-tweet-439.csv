@@ -4,5 +4,5 @@ NICKI,NICKI,nickie,199647,PROPN,compound,False,0
 MINAJ,MINAJ,mina,187648,PROPN,compound,False,0
 RIGHT,RIGHT,right,272806,PROPN,ROOT,False,0
 THROUGH,THROUGH,through,322840,VERB,prep,True,0
-ME,ME,me,181664,PROPN,dep,True,1
+ME,ME,me,181664,PROPN,dep,True,0
 NickiMinaj,NickiMinaj,nicking,199649,PROPN,ROOT,False,0

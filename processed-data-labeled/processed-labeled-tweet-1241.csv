@@ -1,12 +1,12 @@
 anyone,anyone,anyone,13244,PRON,nsubj,True,0
 else,else,else,97787,ADV,advmod,True,0
-really,really,really,261766,ADV,advmod,True,1
+really,really,really,261766,ADV,advmod,True,0
 missing,miss,miss,189987,VERB,ROOT,False,1
-Jesse,Jesse,jesse,160993,PROPN,dobj,False,1
+Jesse,Jesse,jesse,160993,PROPN,dobj,False,0
 and,and,and,12285,CCONJ,cc,True,0
 the,the,the,320691,DET,det,True,0
 Rippers,Rippers,rippers,273185,PROPN,conj,False,1
-right,right,right,272806,VERB,advmod,False,1
+right,right,right,272806,VERB,advmod,False,0
 about,about,about,756,ADP,advmod,True,0
 now,now,now,209199,ADV,advmod,True,0
 glee,glee,glee,126113,VERB,ROOT,False,0

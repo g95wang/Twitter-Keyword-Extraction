@@ -1,9 +1,0 @@
-'m,be,be,29345,AUX,ROOT,True,0
-no,no,no,200529,DET,det,True,0
-meteorologist,meteorologist,meteorologist,185150,NOUN,attr,False,0
-but,but,but,43550,CCONJ,cc,True,0
-'m,be,be,29345,AUX,conj,True,0
-pretty,pretty,pretty,250049,ADV,advmod,False,0
-sure,sure,sure,313361,ADJ,acomp,False,0
-raining,rain,rain,260071,VERB,compound,False,0
-bitches,bitch,bitch,35166,NOUN,ROOT,False,1

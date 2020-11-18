@@ -1,6 +1,6 @@
 If,if,if,146980,SCONJ,mark,True,0
 Health,Health,health,134768,PROPN,nsubj,False,1
-Safety,Safety,safety,276575,PROPN,conj,False,1
+Safety,Safety,safety,276575,PROPN,conj,False,0
 is,be,be,29345,AUX,advcl,True,0
 common,common,common,64154,ADJ,amod,False,0
 sense,sense,sense,285350,NOUN,attr,False,0
@@ -10,7 +10,7 @@ so,so,so,295959,ADV,advmod,True,0
 many,many,many,179225,ADJ,amod,True,0
 people,people,people,230162,NOUN,nsubjpass,False,0
 get,get,get,124419,VERB,auxpass,True,0
-hurt,hurt,hurt,145284,VERB,ROOT,False,1
+hurt,hurt,hurt,145284,VERB,ROOT,False,0
 at,at,at,22372,ADP,prep,True,0
 work,work,work,367468,NOUN,pobj,False,0
 Stupidity,stupidity,stupidity,306958,NOUN,ROOT,False,1

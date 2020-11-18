@@ -4,12 +4,12 @@ How,how,how,144540,ADV,advmod,True,0
 soon,soon,soon,297339,ADV,ROOT,False,0
 did,do,do,90528,AUX,aux,True,0
 n't,not,not,208798,PART,neg,True,0
-realize,realize,realize,261754,VERB,ROOT,False,1
+realize,realize,realize,261754,VERB,ROOT,False,0
 Phil,Phil,phil,233519,PROPN,compound,False,1
-Kollar,Kollar,collar,62837,PROPN,ROOT,False,1
+Kollar,Kollar,collar,62837,PROPN,ROOT,False,0
 Really,really,really,261766,ADV,ROOT,True,1
 How,how,how,144540,ADV,advmod,True,0
 soon,soon,soon,297339,ADV,ROOT,False,0
 did,do,do,90528,AUX,aux,True,0
 n't,not,not,208798,PART,neg,True,0
-realize,realize,realize,261754,VERB,ROOT,False,1
+realize,realize,realize,261754,VERB,ROOT,False,0

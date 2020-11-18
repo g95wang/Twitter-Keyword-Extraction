@@ -9,5 +9,5 @@ move,move,move,194383,VERB,ROOT,True,1
 into,into,into,156343,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 Gospel,Gospel,gospel,128197,PROPN,pobj,False,1
-Todd,Todd,todd,325007,PROPN,compound,False,1
-Friel,Friel,frizel,119192,PROPN,ROOT,False,1
+Todd,Todd,todd,325007,PROPN,compound,False,0
+Friel,Friel,frizel,119192,PROPN,ROOT,False,0

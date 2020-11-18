@@ -4,5 +4,5 @@ the,the,the,320691,DET,det,True,0
 only,only,only,212848,ADJ,amod,True,0
 person,person,person,231951,NOUN,attr,False,1
 that,that,that,320639,DET,nsubj,True,0
-knew,know,know,165702,VERB,relcl,False,1
+knew,know,know,165702,VERB,relcl,False,0
 lol,lol,lola,174784,INTJ,ROOT,False,0

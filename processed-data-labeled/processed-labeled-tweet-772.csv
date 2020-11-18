@@ -2,5 +2,5 @@ can,can,can,45964,VERB,aux,True,0
 somebody,somebody,somebody,297030,VERB,nsubj,False,0
 guard,guard,guard,130774,VERB,ROOT,False,0
 james,james,james,160268,PROPN,compound,False,1
-fucking,fucking,fucking,119745,PROPN,compound,False,1
-jones,jones,jones,161749,PROPN,dobj,False,1
+fucking,fucking,fucking,119745,PROPN,compound,False,0
+jones,jones,jones,161749,PROPN,dobj,False,0

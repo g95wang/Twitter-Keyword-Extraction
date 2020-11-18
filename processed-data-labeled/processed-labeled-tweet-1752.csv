@@ -2,7 +2,7 @@ TDFAMILY,tdfamily,family,109591,VERB,nsubj,False,0
 YOU,you,you,157723,PRON,nsubj,True,0
 MUST,MUST,must,196148,VERB,aux,True,0
 CONTACT,contact,contact,67230,VERB,ROOT,False,0
-ME,me,me,181664,NOUN,dobj,True,1
+ME,me,me,181664,NOUN,dobj,True,0
 IF,if,if,146980,ADP,mark,True,0
 YOU,you,you,157723,PRON,nsubj,True,0
 WILL,WILL,will,365768,VERB,aux,True,0

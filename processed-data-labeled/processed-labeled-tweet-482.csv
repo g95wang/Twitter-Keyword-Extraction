@@ -1,5 +1,5 @@
 Spending,spend,spend,299147,VERB,ROOT,False,1
 the,the,the,320691,DET,det,True,0
-day,day,day,76257,NOUN,dobj,False,1
+day,day,day,76257,NOUN,dobj,False,0
 with,with,with,366582,ADP,prep,True,0
-mom,mom,mom,191625,NOUN,pobj,False,1
+mom,mom,mom,191625,NOUN,pobj,False,0

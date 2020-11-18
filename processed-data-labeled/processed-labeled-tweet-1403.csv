@@ -1,6 +1,6 @@
 OMG,OMG,mg,185606,PROPN,nsubj,False,0
 is,be,be,29345,AUX,ROOT,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 filling,filling,filling,112707,NOUN,attr,False,1
 for,for,for,116301,ADP,prep,True,0
-eatpraylovecollab,eatpraylovecollab,prealveolar,245679,NOUN,pobj,False,1
+eatpraylovecollab,eatpraylovecollab,prealveolar,245679,NOUN,pobj,False,0

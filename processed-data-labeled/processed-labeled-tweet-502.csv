@@ -4,13 +4,5 @@ told,tell,tell,318356,VERB,ROOT,False,1
 why,why,why,364728,ADV,advmod,True,0
 did,do,do,90528,AUX,aux,True,0
 n't,not,not,208798,PART,neg,True,0
-come,come,come,63721,VERB,ccomp,False,1
-MOREHOUSE,morehouse,rehouse,266044,NOUN,ROOT,False,0
-How,how,how,144540,ADV,advmod,True,0
-so,so,so,295959,ADV,ROOT,True,0
-told,tell,tell,318356,VERB,ROOT,False,1
-why,why,why,364728,ADV,advmod,True,0
-did,do,do,90528,AUX,aux,True,0
-n't,not,not,208798,PART,neg,True,0
-come,come,come,63721,VERB,ccomp,False,1
+come,come,come,63721,VERB,ccomp,False,0
 MOREHOUSE,morehouse,rehouse,266044,NOUN,ROOT,False,0

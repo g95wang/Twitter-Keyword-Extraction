@@ -8,5 +8,5 @@ th,th,th,320421,PROPN,prep,False,0
 Saks,Saks,sacks,276317,PROPN,compound,False,1
 Fifth,Fifth,fifth,112407,PROPN,compound,False,0
 Avenue,Avenue,avenue,24663,PROPN,compound,False,1
-Outlet,Outlet,outlet,216930,PROPN,pobj,False,1
+Outlet,Outlet,outlet,216930,PROPN,pobj,False,0
 on,on,on,212644,ADV,advmod,True,0

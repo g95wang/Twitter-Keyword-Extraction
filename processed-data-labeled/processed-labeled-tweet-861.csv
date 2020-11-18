@@ -1,10 +1,10 @@
-Judge,Judge,judge,162053,PROPN,compound,False,1
+Judge,Judge,judge,162053,PROPN,compound,False,0
 grants,grant,grant,128969,NOUN,compound,False,0
-injunction,injunction,injunction,152858,NOUN,ROOT,False,1
+injunction,injunction,injunction,152858,NOUN,ROOT,False,0
 vs,vs,vs,361509,ADP,prep,False,0
 new,new,new,199367,PROPN,amod,False,0
 Mass,Mass,mass,180750,PROPN,dep,False,1
-obscenity,obscenity,obscenity,210326,NOUN,compound,False,1
-law,law,law,169329,NOUN,compound,False,1
+obscenity,obscenity,obscenity,210326,NOUN,compound,False,0
+law,law,law,169329,NOUN,compound,False,0
 Yahoo,Yahoo,yahoo,145532,PROPN,pobj,False,0
 News,news,news,199421,NOUN,ROOT,False,0

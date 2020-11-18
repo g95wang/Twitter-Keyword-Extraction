@@ -1,8 +1,8 @@
 Half,half,half,132585,NOUN,nsubj,False,0
 of,of,of,211535,ADP,prep,True,0
 small,small,small,294676,ADJ,amod,False,1
-companies,company,company,64367,NOUN,pobj,False,1
-expect,expect,expect,107598,VERB,ccomp,False,1
-staff,staff,staff,302276,NOUN,compound,False,1
-theft,theft,theft,320814,NOUN,dobj,False,1
+companies,company,company,64367,NOUN,pobj,False,0
+expect,expect,expect,107598,VERB,ccomp,False,0
+staff,staff,staff,302276,NOUN,compound,False,0
+theft,theft,theft,320814,NOUN,dobj,False,0
 survey,survey,survey,313646,NOUN,ROOT,False,0

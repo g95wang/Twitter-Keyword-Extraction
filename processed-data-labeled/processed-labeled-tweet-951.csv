@@ -2,8 +2,8 @@ If,if,if,146980,SCONJ,mark,True,0
 can,can,can,45964,VERB,aux,True,0
 see,see,see,283054,VERB,advcl,True,0
 only,only,only,212848,ADV,advmod,True,0
-Darfur,Darfur,darr,77008,PROPN,compound,False,1
-documentary,documentary,documentary,90699,NOUN,dobj,False,1
+Darfur,Darfur,darr,77008,PROPN,compound,False,0
+documentary,documentary,documentary,90699,NOUN,dobj,False,0
 this,this,this,322217,DET,det,True,0
 year,year,year,146706,NOUN,npadvmod,False,0
 recommend,recommend,recommend,263150,VERB,ROOT,False,0

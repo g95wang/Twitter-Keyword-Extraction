@@ -2,6 +2,6 @@ Wednesday,Wednesday,wednesday,363732,PROPN,ROOT,False,1
 th,th,th,320421,PROPN,prep,False,0
 october,october,october,211035,PROPN,pobj,False,0
 have,have,have,134390,AUX,ROOT,True,0
-a,a,a,0,DET,det,True,1
-nice,nice,nice,199579,ADJ,amod,False,1
-day,day,day,76257,NOUN,dobj,False,1
+a,a,a,0,DET,det,True,0
+nice,nice,nice,199579,ADJ,amod,False,0
+day,day,day,76257,NOUN,dobj,False,0

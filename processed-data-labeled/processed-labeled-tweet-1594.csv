@@ -1,5 +1,5 @@
 WAIT,wait,wait,362072,VERB,ROOT,False,0
-A,a,a,0,DET,det,True,1
+A,a,a,0,DET,det,True,0
 SECOND,second,second,282753,ADJ,ROOT,False,0
 IT,it,it,159424,NOUN,nsubj,True,0
 'S,be,be,29345,AUX,ROOT,True,0
@@ -23,6 +23,6 @@ am,be,be,29345,AUX,ROOT,True,0
 illuminate,illuminate,illuminate,147467,ADJ,acomp,False,0
 am,be,be,29345,AUX,ROOT,True,0
 king,king,king,164870,PROPN,compound,False,1
-Augustus,Augustus,augustus,23419,PROPN,attr,False,1
-say,say,say,276740,VERB,ROOT,True,1
-to,to,to,324862,ADP,prep,True,1
+Augustus,Augustus,augustus,23419,PROPN,attr,False,0
+say,say,say,276740,VERB,ROOT,True,0
+to,to,to,324862,ADP,prep,True,0

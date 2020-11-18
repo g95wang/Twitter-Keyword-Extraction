@@ -1,10 +1,10 @@
 if,if,if,146980,SCONJ,mark,True,0
-worse,worse,worse,367663,ADV,ROOT,False,1
+worse,worse,worse,367663,ADV,ROOT,False,0
 then,then,then,320906,ADV,advmod,True,0
 those,those,those,322465,DET,npadvmod,True,0
 then,then,then,320906,ADV,advmod,True,0
 yeah,yeah,yeah,146696,INTJ,intj,False,0
-need,need,need,197910,VERB,ROOT,False,1
-a,a,a,0,DET,det,True,1
-bag,bag,bag,26267,NOUN,dobj,False,1
+need,need,need,197910,VERB,ROOT,False,0
+a,a,a,0,DET,det,True,0
+bag,bag,bag,26267,NOUN,dobj,False,0
 lol,lol,lola,174784,INTJ,ROOT,False,0

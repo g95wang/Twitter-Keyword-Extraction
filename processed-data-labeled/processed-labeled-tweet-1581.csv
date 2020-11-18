@@ -10,10 +10,10 @@ has,have,have,134390,AUX,aux,True,0
 played,play,play,238701,VERB,ROOT,False,0
 up,up,up,354457,ADP,prt,True,0
 in,in,in,149313,ADP,prep,True,0
-Toronto,Toronto,toronto,326184,PROPN,pobj,False,1
+Toronto,Toronto,toronto,326184,PROPN,pobj,False,0
 away,away,away,24923,ADV,advmod,False,0
 from,from,from,119298,ADP,prep,True,0
-spotlight,spotlight,spotlight,301099,NOUN,pobj,False,1
+spotlight,spotlight,spotlight,301099,NOUN,pobj,False,0
 pressure,pressure,pressure,249604,NOUN,npadvmod,False,0
 This,this,this,322217,DET,det,True,0
 stage,stage,stage,302294,NOUN,compound,False,0

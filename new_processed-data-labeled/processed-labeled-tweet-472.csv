@@ -1,9 +1,0 @@
-Who,who,who,365278,PRON,nsubj,True,0
-lied,lie,lie,171801,VERB,ROOT,False,0
-and,and,and,12285,CCONJ,cc,True,0
-died,die,die,85120,VERB,conj,False,0
-and,and,and,12285,CCONJ,cc,True,0
-told,tell,tell,318356,VERB,conj,False,0
-daddy,daddy,daddy,76097,NOUN,dobj,False,1
-can,can,can,45964,VERB,aux,True,0
-sing,sing,sing,291662,VERB,relcl,False,0

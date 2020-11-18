@@ -1,7 +1,7 @@
-Shannon,Shannon,shannon,287421,PROPN,nsubj,False,1
+Shannon,Shannon,shannon,287421,PROPN,nsubj,False,0
 actually,actually,actually,3298,ADV,advmod,False,0
-finally,finally,finally,112856,ADV,advmod,False,1
+finally,finally,finally,112856,ADV,advmod,False,0
 putting,put,put,257261,VERB,ROOT,False,1
 some,some,some,297029,DET,det,True,0
-work,work,work,367468,NOUN,dobj,False,1
-in,in,in,149313,ADP,prt,True,1
+work,work,work,367468,NOUN,dobj,False,0
+in,in,in,149313,ADP,prt,True,0

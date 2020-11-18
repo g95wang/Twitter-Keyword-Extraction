@@ -3,7 +3,7 @@ If,if,if,146980,SCONJ,mark,True,0
 got,get,get,124419,VERB,advcl,False,0
 ta,to,to,324862,PART,aux,False,0
 leave,leave,leave,169747,VERB,xcomp,False,1
-make,make,make,178090,VERB,ROOT,True,1
+make,make,make,178090,VERB,ROOT,True,0
 sure,sure,sure,313361,ADJ,acomp,False,0
 never,never,never,199350,ADV,neg,True,0
 forget,forget,forget,117219,VERB,ccomp,False,1

@@ -1,6 +1,6 @@
 Main,main,main,177882,ADJ,amod,False,0
-Girl,girl,girl,125519,NOUN,ROOT,False,1
-Phone,phone,phone,234654,NOUN,ROOT,False,1
-full,full,full,119933,ADJ,amod,True,1
+Girl,girl,girl,125519,NOUN,ROOT,False,0
+Phone,phone,phone,234654,NOUN,ROOT,False,0
+full,full,full,119933,ADJ,amod,True,0
 of,of,of,211535,ADP,prep,True,0
 bitches,bitch,bitch,35166,NOUN,pobj,False,1

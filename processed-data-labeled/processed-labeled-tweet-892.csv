@@ -1,7 +1,7 @@
 A,a,a,0,DET,det,True,0
-Womans,Womans,womans,366998,PROPN,nmod,False,1
-Love,Love,love,175534,PROPN,ROOT,False,1
+Womans,Womans,womans,366998,PROPN,nmod,False,0
+Love,Love,love,175534,PROPN,ROOT,False,0
 will,will,will,365768,VERB,dep,True,0
 never,never,never,199350,ADV,neg,True,0
 die/,die/,die,85120,VERB,dep,False,1
-Lmbo,lmbo,limbo,172321,ADJ,appos,False,1
+Lmbo,lmbo,limbo,172321,ADJ,appos,False,0

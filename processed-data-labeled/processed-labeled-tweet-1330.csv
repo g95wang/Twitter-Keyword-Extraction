@@ -1,6 +1,6 @@
 And,and,and,12285,CCONJ,cc,True,0
 these,these,these,321594,DET,det,True,0
-lights,light,light,172003,NOUN,nsubj,False,1
+lights,light,light,172003,NOUN,nsubj,False,0
 ai,be,be,29345,VERB,aux,False,0
 nt,not,not,208798,PART,neg,False,0
 making,make,make,178090,VERB,ROOT,False,0

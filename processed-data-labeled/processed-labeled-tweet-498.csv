@@ -1,9 +1,9 @@
-Tummy,Tummy,tummy,332320,PROPN,compound,False,1
+Tummy,Tummy,tummy,332320,PROPN,compound,False,0
 Feels,feel,feel,110884,VERB,compound,False,1
-Funny,Funny,funny,120308,PROPN,ROOT,False,1
+Funny,Funny,funny,120308,PROPN,ROOT,False,0
 EMILY,EMILY,emily,98551,PROPN,ROOT,False,0
 What,what,what,364447,PRON,dobj,True,0
 Are,be,be,29345,AUX,aux,True,0
-Doing,do,do,90528,VERB,ROOT,True,1
+Doing,do,do,90528,VERB,ROOT,True,0
 In,in,in,149313,ADP,prep,True,0
 There,there,there,321216,ADV,pcomp,True,0

@@ -1,8 +1,8 @@
-nuin,nuin,nucin,209305,PROPN,ROOT,False,1
+nuin,nuin,nucin,209305,PROPN,ROOT,False,0
 much,much,much,194510,ADV,advmod,True,0
 at,at,at,22372,ADV,advmod,True,0
 all,all,all,8522,ADV,advmod,True,0
 just,just,just,162503,ADV,advmod,True,0
-relaxing,relax,relax,266782,VERB,advcl,False,1
+relaxing,relax,relax,266782,VERB,advcl,False,0
 waddup,waddup,addu,3605,PROPN,dobj,False,1
 with,with,with,366582,ADP,prep,True,0

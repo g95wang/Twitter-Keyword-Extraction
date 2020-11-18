@@ -1,6 +1,6 @@
 'm,be,be,29345,AUX,ROOT,True,0
 at,at,at,22372,ADP,prep,True,0
-Kalamazoo,Kalamazoo,kalamalo,162853,PROPN,compound,False,1
+Kalamazoo,Kalamazoo,kalamalo,162853,PROPN,compound,False,0
 Gazette,Gazette,gazette,122989,PROPN,pobj,False,1
 S,S,s,275971,PROPN,appos,False,0
 Burdick,Burdick,burdock,43008,PROPN,compound,False,0
@@ -8,4 +8,4 @@ St.,St.,st,302135,PROPN,ROOT,False,0
 at,at,at,22372,ADP,prep,True,0
 Lovell,Lovell,lovelily,175558,PROPN,compound,False,1
 St.,St.,st,302135,PROPN,pobj,False,0
-Kalamazoo,Kalamazoo,kalamalo,162853,PROPN,appos,False,1
+Kalamazoo,Kalamazoo,kalamalo,162853,PROPN,appos,False,0

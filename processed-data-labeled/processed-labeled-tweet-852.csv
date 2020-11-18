@@ -1,8 +1,8 @@
 AMBER,AMBER,amber,9953,PROPN,nsubj,False,0
-year,year,year,146706,NOUN,npadvmod,False,1
-old,old,old,212002,ADJ,amod,False,1
+year,year,year,146706,NOUN,npadvmod,False,0
+old,old,old,212002,ADJ,amod,False,0
 MI,MI,mi,185618,PROPN,compound,False,0
-Girl,Girl,girl,125519,PROPN,appos,False,1
+Girl,Girl,girl,125519,PROPN,appos,False,0
 who,who,who,365278,PRON,nsubj,True,0
 was,be,be,29345,AUX,relcl,True,0
 Abducted,abduct,abduct,290,VERB,acomp,False,1
@@ -10,6 +10,6 @@ Look,look,look,175060,VERB,advcl,False,0
 at,at,at,22372,ADP,prep,True,0
 and,and,and,12285,CCONJ,cc,True,0
 the,the,the,320691,DET,det,True,0
-suspect,suspect,suspect,313718,NOUN,conj,False,1
+suspect,suspect,suspect,313718,NOUN,conj,False,0
 do,do,do,90528,AUX,aux,True,0
-recognize,recognize,recognize,263068,VERB,ROOT,False,1
+recognize,recognize,recognize,263068,VERB,ROOT,False,0

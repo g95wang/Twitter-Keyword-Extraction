@@ -1,13 +1,13 @@
 see,see,see,283054,VERB,ROOT,True,0
 that,that,that,320639,SCONJ,mark,True,0
-regretfully,regretfully,regretfully,265818,ADV,advmod,False,1
+regretfully,regretfully,regretfully,265818,ADV,advmod,False,0
 was,be,be,29345,AUX,auxpass,True,0
 tied,tie,tie,323366,VERB,ccomp,False,1
 up,up,up,354457,ADP,prt,True,0
 Physed,physe,physes,234038,VERB,conj,False,1
 at,at,at,22372,ADP,prep,True,0
-Forest,Forest,forest,117012,PROPN,compound,False,1
-Green,Green,green,129512,PROPN,pobj,False,1
+Forest,Forest,forest,117012,PROPN,compound,False,0
+Green,Green,green,129512,PROPN,pobj,False,0
 have,have,have,134390,AUX,conj,True,0
 a,a,a,0,DET,det,True,0
 good,good,good,127869,ADJ,amod,False,0

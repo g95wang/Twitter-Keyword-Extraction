@@ -1,7 +1,7 @@
 Have,have,have,134390,AUX,aux,True,0
 tried,try,try,329065,VERB,ROOT,False,1
-installing,instal,instal,153826,VERB,xcomp,False,1
+installing,instal,instal,153826,VERB,xcomp,False,0
 on,on,on,212644,ADP,prep,True,0
-hard,hard,hard,133614,ADJ,amod,False,1
-drive,drive,drive,93179,NOUN,pobj,False,1
+hard,hard,hard,133614,ADJ,amod,False,0
+drive,drive,drive,93179,NOUN,pobj,False,0
 yet,yet,yet,146952,ADV,advmod,True,0

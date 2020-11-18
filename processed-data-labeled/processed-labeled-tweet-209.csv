@@ -1,10 +1,10 @@
 thanks,thank,thank,320604,NOUN,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
-check,check,check,53311,VERB,advcl,False,1
+check,check,check,53311,VERB,advcl,False,0
 out,out,out,216108,ADP,prt,True,0
-Slumber,Slumber,slumber,294556,PROPN,nmod,False,1
-Sleepover,Sleepover,sleeper,293887,PROPN,nmod,False,1
-Lan,Lan,lan,167849,PROPN,compound,False,1
-Party,Party,party,226988,PROPN,nmod,False,1
-Massacre,Massacre,massacre,180754,PROPN,nmod,False,1
+Slumber,Slumber,slumber,294556,PROPN,nmod,False,0
+Sleepover,Sleepover,sleeper,293887,PROPN,nmod,False,0
+Lan,Lan,lan,167849,PROPN,compound,False,0
+Party,Party,party,226988,PROPN,nmod,False,0
+Massacre,Massacre,massacre,180754,PROPN,nmod,False,0
 trailer,trailer,trailer,327416,NOUN,dobj,False,1

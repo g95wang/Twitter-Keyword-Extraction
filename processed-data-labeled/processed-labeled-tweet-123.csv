@@ -7,11 +7,11 @@ YOU,you,you,157723,PRON,nsubj,True,0
 WIPE,wipe,wipe,366316,VERB,advcl,False,0
 YOUR,your,your,157754,DET,poss,True,0
 ASSES,asses,asses,21711,VERB,dobj,False,0
-Washington,Washington,washington,362914,PROPN,compound,False,1
+Washington,Washington,washington,362914,PROPN,compound,False,0
 D.C.,D.C.,dc,77394,PROPN,ROOT,False,0
 ASSHOLES,asshole,asshole,21745,VERB,compound,False,0
 SHIT,shit,shit,288544,NOUN,nsubj,False,0
-DRIVING,driving,driving,93211,NOUN,ROOT,False,1
+DRIVING,driving,driving,93211,NOUN,ROOT,False,0
 FUCKS,fuck,fuck,119742,NOUN,dobj,False,0
 Costco,Costco,coco,61599,PROPN,compound,False,1
 Wholesale,Wholesale,wholesale,365294,PROPN,ROOT,False,1

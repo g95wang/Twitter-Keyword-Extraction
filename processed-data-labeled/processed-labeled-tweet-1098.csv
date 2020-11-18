@@ -1,12 +1,12 @@
 Another,another,another,13899,DET,det,True,0
-timeout,timeout,timeout,323775,NOUN,ROOT,False,1
+timeout,timeout,timeout,323775,NOUN,ROOT,False,0
 by,by,by,33133,ADP,prep,True,0
-teenager,teenager,teenager,317786,PROPN,pobj,False,1
+teenager,teenager,teenager,317786,PROPN,pobj,False,0
 in,in,in,149313,ADP,prep,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 suit,suit,suit,310317,NOUN,pobj,False,1
 The,the,the,320691,DET,det,True,0
-Miami,Miami,miami,185632,PROPN,compound,False,1
+Miami,Miami,miami,185632,PROPN,compound,False,0
 Heat,Heat,heat,134920,PROPN,nsubj,False,1
 HAVE,have,have,134390,VERB,ROOT,True,0
 A,a,a,0,DET,det,True,0

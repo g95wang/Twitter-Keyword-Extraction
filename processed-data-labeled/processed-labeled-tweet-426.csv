@@ -4,6 +4,6 @@ THE,the,the,320691,DET,det,True,0
 HEAT,HEAT,heat,134920,PROPN,appos,False,0
 AT,at,at,22372,ADP,ROOT,True,0
 SEE,see,see,283054,VERB,ROOT,True,0
-ICE,ice,ice,145963,NOUN,compound,False,1
-COLD,cold,cold,62658,NOUN,nsubj,False,1
+ICE,ice,ice,145963,NOUN,compound,False,0
+COLD,cold,cold,62658,NOUN,nsubj,False,0
 SHOOTING,shooting,shooting,288786,NOUN,ROOT,False,1

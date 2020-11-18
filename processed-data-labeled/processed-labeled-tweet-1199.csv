@@ -1,7 +1,7 @@
-Man,Man,man,178862,PROPN,nsubj,False,1
-loses,lose,lose,175338,VERB,ROOT,False,1
+Man,Man,man,178862,PROPN,nsubj,False,0
+loses,lose,lose,175338,VERB,ROOT,False,0
 everything,everything,everything,106171,PRON,dobj,True,0
 in,in,in,149313,ADP,prep,True,0
 elaborate,elaborate,elaborate,96652,ADJ,amod,False,1
-Fonzie,Fonzie,fozier,118115,PROPN,compound,False,1
-scheme,scheme,scheme,280104,NOUN,pobj,False,1
+Fonzie,Fonzie,fozier,118115,PROPN,compound,False,0
+scheme,scheme,scheme,280104,NOUN,pobj,False,0

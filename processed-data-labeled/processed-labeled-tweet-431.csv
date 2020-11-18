@@ -1,10 +1,10 @@
 Back,back,back,25705,ADV,ROOT,True,0
 off,off,off,211539,ADP,prep,True,0
-Caitlin,Caitlin,catlin,49773,PROPN,pobj,False,1
+Caitlin,Caitlin,catlin,49773,PROPN,pobj,False,0
 What,what,what,364447,PRON,attr,True,0
 's,be,be,29345,AUX,ROOT,True,0
 problem,problem,problem,251071,NOUN,nsubj,False,1
 do,do,do,90528,AUX,aux,True,0
 n't,not,not,208798,PART,neg,True,0
 even,even,even,106079,ADV,advmod,True,0
-know,know,know,165702,VERB,ROOT,False,1
+know,know,know,165702,VERB,ROOT,False,0

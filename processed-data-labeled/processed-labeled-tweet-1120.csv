@@ -8,6 +8,6 @@ RT,RT,rt,275072,PROPN,ROOT,False,0
 growing,grow,grow,130412,VERB,ROOT,False,1
 but,but,but,43550,CCONJ,cc,True,0
 at,at,at,22372,ADP,prep,True,0
-this,this,this,322217,DET,det,True,1
-ugly,ugly,ugly,333654,ADJ,amod,False,1
+this,this,this,322217,DET,det,True,0
+ugly,ugly,ugly,333654,ADJ,amod,False,0
 stage,stage,stage,302294,NOUN,pobj,False,1

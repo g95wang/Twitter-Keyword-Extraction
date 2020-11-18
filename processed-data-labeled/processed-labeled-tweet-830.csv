@@ -6,8 +6,8 @@ shoutout,shoutout,shutout,289410,ADJ,ROOT,False,0
 to,to,to,324862,ADP,prep,True,0
 all,all,all,8522,DET,predet,True,0
 the,the,the,320691,DET,det,True,0
-happy,happy,happy,133513,ADJ,amod,False,1
-couples,couple,couple,71262,NOUN,pobj,False,1
+happy,happy,happy,133513,ADJ,amod,False,0
+couples,couple,couple,71262,NOUN,pobj,False,0
 got,get,get,124419,VERB,ROOT,False,0
 so,so,so,295959,ADV,advmod,True,0
 much,much,much,194510,ADJ,amod,True,0

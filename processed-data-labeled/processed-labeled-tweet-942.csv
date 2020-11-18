@@ -7,5 +7,5 @@ and,and,and,12285,CCONJ,cc,True,0
 enter,enter,enter,101211,VERB,conj,False,0
 the,the,the,320691,DET,det,True,0
 promo,promo,promo,252297,NOUN,compound,False,1
-code,code,code,61687,NOUN,compound,False,1
+code,code,code,61687,NOUN,compound,False,0
 JUICE,juice,juice,162184,NOUN,dobj,False,0

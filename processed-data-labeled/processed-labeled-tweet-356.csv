@@ -1,6 +1,6 @@
 still,still,still,304511,ADV,advmod,True,0
-open,open,open,213219,VERB,ROOT,False,1
+open,open,open,213219,VERB,ROOT,False,0
 doors,door,door,91536,NOUN,dobj,False,1
 for,for,for,116301,ADP,prep,True,0
-ladies,lady,lady,167178,NOUN,pobj,False,1
+ladies,lady,lady,167178,NOUN,pobj,False,0
 TrueStory,TrueStory,trustor,331712,PROPN,appos,False,0

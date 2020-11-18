@@ -1,5 +1,5 @@
 Nike,Nike,nike,200044,PROPN,ROOT,False,1
-horrible,horrible,horrible,143957,ADJ,amod,False,1
-ad,ad,ad,3392,NOUN,appos,False,1
+horrible,horrible,horrible,143957,ADJ,amod,False,0
+ad,ad,ad,3392,NOUN,appos,False,0
 Very,very,very,358514,ADV,advmod,True,0
-smug,smug,smug,295130,ADJ,ROOT,False,1
+smug,smug,smug,295130,ADJ,ROOT,False,0

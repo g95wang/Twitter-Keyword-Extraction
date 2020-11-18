@@ -1,9 +1,9 @@
 if,if,if,146980,SCONJ,mark,True,0
 're,be,be,29345,AUX,advcl,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 believer,believer,believer,31087,NOUN,attr,False,1
 what,what,what,364447,PRON,attr,True,0
-s,s,s,275971,VERB,ROOT,False,1
+s,s,s,275971,VERB,ROOT,False,0
 the,the,the,320691,DET,det,True,0
 mosy,mosy,mopsy,193248,ADJ,amod,False,0
 favorite,favorite,favorite,110510,ADJ,amod,False,0

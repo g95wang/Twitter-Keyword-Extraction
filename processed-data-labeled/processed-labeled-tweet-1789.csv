@@ -1,8 +1,8 @@
 Carving,carve,carve,48707,VERB,advcl,False,1
-a,a,a,0,DET,det,True,1
-Pumpkin,Pumpkin,pumpkin,256524,PROPN,dobj,False,1
+a,a,a,0,DET,det,True,0
+Pumpkin,Pumpkin,pumpkin,256524,PROPN,dobj,False,0
 With,with,with,366582,ADP,prep,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 Gun,Gun,gun,131319,PROPN,nmod,False,1
 Video,video,video,359514,NOUN,pobj,False,0
 This,this,this,322217,DET,det,True,0

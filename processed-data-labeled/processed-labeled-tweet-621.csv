@@ -12,7 +12,7 @@ there-,there-,there,321216,NOUN,punct,False,0
 RT,RT,rt,275072,PROPN,ROOT,False,0
 if,if,if,146980,SCONJ,mark,True,0
 're,be,be,29345,AUX,ROOT,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 teacher,teacher,teacher,317432,NOUN,attr,False,0
 so,so,so,295959,SCONJ,mark,True,0
 can,can,can,45964,VERB,aux,True,0

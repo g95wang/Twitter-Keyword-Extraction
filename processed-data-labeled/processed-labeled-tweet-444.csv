@@ -1,7 +1,7 @@
 WOW,wow,wow,367775,INTJ,ROOT,False,0
 this,this,this,322217,DET,det,True,0
 storm,storm,storm,305450,NOUN,nsubj,False,1
-in,in,in,149313,ADP,prep,True,1
+in,in,in,149313,ADP,prep,True,0
 NOVA,NOVA,nova,209079,PROPN,pobj,False,0
 is,be,be,29345,AUX,ccomp,True,0
 crazyyyyy,crazyyyyy,crazy,72341,NOUN,acomp,False,0
@@ -11,10 +11,10 @@ are,be,be,29345,AUX,aux,True,0
 loving,love,love,175534,VERB,ROOT,False,1
 the,the,the,320691,DET,det,True,0
 running,running,running,275678,NOUN,dobj,False,0
-in,in,in,149313,ADP,prep,True,1
+in,in,in,149313,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 rain,rain,rain,260071,NOUN,pobj,False,1
-to,to,to,324862,ADP,prep,True,1
+to,to,to,324862,ADP,prep,True,0
 class,class,class,59378,NOUN,pobj,False,0
 but,but,but,43550,CCONJ,cc,True,0
 am,be,be,29345,AUX,conj,True,0

@@ -5,8 +5,8 @@ bad,bad,bad,26158,ADJ,amod,False,1
 news,news,news,199421,NOUN,dobj,False,1
 followed,follow,follow,115989,VERB,acl,False,0
 by,by,by,33133,ADP,agent,True,0
-echoing,echo,echo,95265,VERB,ROOT,False,1
-silence,silence,silence,290264,NOUN,dobj,False,1
+echoing,echo,echo,95265,VERB,ROOT,False,0
+silence,silence,silence,290264,NOUN,dobj,False,0
 from,from,from,119298,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 LieToMe,lietome,leptome,170752,ADJ,amod,False,0

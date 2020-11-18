@@ -1,9 +1,9 @@
 whatif,whatif,hastif,134147,NOUN,npadvmod,False,0
 People,People,people,230162,NOUN,nsubj,False,1
-believed,believe,believe,31085,VERB,ROOT,False,1
+believed,believe,believe,31085,VERB,ROOT,False,0
 everything,everything,everything,106171,PRON,dobj,True,0
 that,that,that,320639,DET,dobj,True,0
 heard,hear,hear,134794,VERB,relcl,False,0
 about,about,about,756,ADP,prep,True,0
--dumb,-dumb,dumb,94029,NOUN,compound,False,1
-fuckers,fucker,fucker,119744,NOUN,ROOT,False,1
+-dumb,-dumb,dumb,94029,NOUN,compound,False,0
+fuckers,fucker,fucker,119744,NOUN,ROOT,False,0

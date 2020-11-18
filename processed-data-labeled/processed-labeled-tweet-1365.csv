@@ -1,6 +1,6 @@
 what,what,what,364447,PRON,nsubj,True,0
 s,s,s,275971,VERB,ROOT,False,0
-good,good,good,127869,ADJ,amod,False,1
+good,good,good,127869,ADJ,amod,False,0
 witcha,witcha,witch,366534,VERB,compound,False,0
-Mr.,Mr.,mr,194474,PROPN,compound,False,1
+Mr.,Mr.,mr,194474,PROPN,compound,False,0
 Law,Law,law,169329,PROPN,nsubj,False,1

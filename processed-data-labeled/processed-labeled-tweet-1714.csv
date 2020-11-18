@@ -1,6 +1,6 @@
 First,first,first,113286,ADV,advmod,True,0
 a,a,a,0,DET,det,True,0
-window,window,window,366001,NOUN,compound,False,1
+window,window,window,366001,NOUN,compound,False,0
 now,now,now,209199,ADV,advmod,True,0
 keys,key,key,163636,VERB,ROOT,False,1
 What,what,what,364447,PRON,nsubj,True,0

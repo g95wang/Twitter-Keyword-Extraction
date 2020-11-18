@@ -1,6 +1,6 @@
 Great,great,great,129442,ADJ,amod,False,1
-collection,collection,collection,62900,NOUN,ROOT,False,1
+collection,collection,collection,62900,NOUN,ROOT,False,0
 of,of,of,211535,ADP,prep,True,0
-items,item,item,159501,NOUN,pobj,False,1
+items,item,item,159501,NOUN,pobj,False,0
 from,from,from,119298,ADP,prep,True,0
-Etsy,Etsy,betsy,32823,PROPN,pobj,False,1
+Etsy,Etsy,betsy,32823,PROPN,pobj,False,0

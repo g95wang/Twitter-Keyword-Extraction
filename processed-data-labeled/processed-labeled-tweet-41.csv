@@ -1,5 +1,5 @@
 did,do,do,90528,AUX,aux,True,0
-really,really,really,261766,ADV,advmod,True,1
+really,really,really,261766,ADV,advmod,True,0
 snow,snow,snow,295774,VERB,ROOT,False,1
 ca,can,can,45964,VERB,aux,True,0
 n't,not,not,208798,PART,neg,True,0
@@ -14,4 +14,4 @@ anything,anything,anything,13370,PRON,dobj,True,0
 while,while,while,364797,SCONJ,mark,True,0
 was,be,be,29345,AUX,advcl,True,0
 in,in,in,149313,ADP,prep,True,0
-Utah,Utah,utah,356102,PROPN,pobj,False,1
+Utah,Utah,utah,356102,PROPN,pobj,False,0

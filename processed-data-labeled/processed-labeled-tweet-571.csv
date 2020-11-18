@@ -1,9 +1,9 @@
-Gerard,Gerard,gerard,124123,PROPN,compound,False,1
+Gerard,Gerard,gerard,124123,PROPN,compound,False,0
 Way,Way,way,361946,PROPN,nsubj,False,0
 looks,look,look,175060,VERB,ROOT,False,0
 like,like,like,172172,SCONJ,prep,False,0
-a,a,a,0,DET,det,True,1
-younger,young,young,157730,ADJ,amod,False,1
+a,a,a,0,DET,det,True,0
+younger,young,young,157730,ADJ,amod,False,0
 Shane,Shane,shane,287399,PROPN,compound,False,1
 Dawson,Dawson,dawson,77356,PROPN,nsubj,False,1
 which,which,which,364730,DET,nsubj,True,0
@@ -13,6 +13,6 @@ cus,cus,acus,3365,NOUN,compound,False,0
 Shane,Shane,shane,287399,PROPN,attr,False,1
 is,be,be,29345,AUX,ccomp,True,0
 WAY,WAY,way,361946,PROPN,npadvmod,False,0
-younger,young,young,157730,ADJ,acomp,False,1
+younger,young,young,157730,ADJ,acomp,False,0
 than,than,than,320565,SCONJ,prep,True,0
-Gerard,Gerard,gerard,124123,PROPN,pobj,False,1
+Gerard,Gerard,gerard,124123,PROPN,pobj,False,0

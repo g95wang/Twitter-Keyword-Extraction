@@ -8,5 +8,5 @@ going,go,go,127161,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
 put,put,put,257261,VERB,xcomp,True,1
 this,this,this,322217,DET,dobj,True,0
-on,on,on,212644,ADP,prep,True,1
+on,on,on,212644,ADP,prep,True,0
 resume,resume,resume,270142,NOUN,pobj,False,1

@@ -1,8 +1,8 @@
 A,a,a,0,DET,det,True,0
 lot,lot,lot,175365,NOUN,nsubj,False,0
 of,of,of,211535,ADP,prep,True,0
-people,people,people,230162,NOUN,pobj,False,1
-flex,flex,flex,114486,ADJ,ROOT,False,1
+people,people,people,230162,NOUN,pobj,False,0
+flex,flex,flex,114486,ADJ,ROOT,False,0
 for,for,for,116301,ADP,prep,True,0
 twitter,twitter,twitter,333475,NOUN,pcomp,False,1
 idk,idk,dk,90515,PROPN,ROOT,False,0

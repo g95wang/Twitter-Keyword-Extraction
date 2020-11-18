@@ -8,6 +8,6 @@ the,the,the,320691,DET,det,True,0
 video,video,video,359514,NOUN,nsubj,False,1
 was,be,be,29345,AUX,ccomp,True,0
 SO,so,so,295959,ADV,advmod,True,0
-funny,funny,funny,120308,ADJ,acomp,False,1
-good,good,good,127869,ADJ,amod,False,1
-job,job,job,161424,NOUN,ROOT,False,1
+funny,funny,funny,120308,ADJ,acomp,False,0
+good,good,good,127869,ADJ,amod,False,0
+job,job,job,161424,NOUN,ROOT,False,0

@@ -1,9 +1,9 @@
 okay,okay,okay,211944,INTJ,intj,False,0
 the,the,the,320691,DET,det,True,0
-place,place,place,238538,NOUN,nsubj,False,1
+place,place,place,238538,NOUN,nsubj,False,0
 to,to,to,324862,PART,aux,True,0
 add,add,add,3502,VERB,relcl,False,1
-picture,picture,picture,236096,NOUN,dobj,False,1
+picture,picture,picture,236096,NOUN,dobj,False,0
 is,be,be,29345,AUX,ROOT,True,0
 nt,not,not,208798,PART,neg,False,0
 here,here,here,136991,ADV,advmod,True,0

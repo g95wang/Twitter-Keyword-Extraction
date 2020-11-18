@@ -6,5 +6,5 @@ And,and,and,12285,CCONJ,cc,True,0
 what,what,what,364447,PRON,nsubj,True,0
 's,be,be,29345,AUX,csubj,True,0
 up,up,up,354457,ADP,advmod,True,0
-is,be,be,29345,AUX,ROOT,True,1
+is,be,be,29345,AUX,ROOT,True,0
 penis,penis,penis,229667,NOUN,attr,False,1

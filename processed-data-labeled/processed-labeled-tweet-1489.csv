@@ -1,6 +1,6 @@
 Backed,back,back,25705,VERB,amod,False,0
 RT,RT,rt,275072,PROPN,ROOT,False,0
-Pedestals,pedestal,pedestal,228828,NOUN,nsubj,False,1
+Pedestals,pedestal,pedestal,228828,NOUN,nsubj,False,0
 will,will,will,365768,VERB,aux,True,0
 never,never,never,199350,ADV,neg,True,0
 get,get,get,124419,AUX,appos,True,0

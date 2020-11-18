@@ -1,11 +1,11 @@
 Thanks,thanks,thanks,320619,INTJ,ROOT,False,0
 RT,RT,rt,275072,PROPN,ROOT,False,0
 RT,RT,rt,275072,PROPN,ROOT,False,0
-i,i,i,145455,PRON,nsubj,True,1
+i,i,i,145455,PRON,nsubj,True,0
 need,need,need,197910,VERB,ROOT,False,1
 some,some,some,297029,DET,det,True,0
-motivation,motivation,motivation,193998,NOUN,dobj,False,1
-right,right,right,272806,ADV,advmod,False,1
+motivation,motivation,motivation,193998,NOUN,dobj,False,0
+right,right,right,272806,ADV,advmod,False,0
 now,now,now,209199,ADV,advmod,True,0
 fml,fml,fl,113654,PROPN,advmod,False,1
 smfh,smfh,samh,277535,NOUN,dobj,False,0

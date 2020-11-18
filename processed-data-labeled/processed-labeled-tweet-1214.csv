@@ -2,13 +2,13 @@ Why,why,why,364728,ADV,advmod,True,0
 does,do,do,90528,AUX,aux,True,0
 the,the,the,320691,DET,det,True,0
 wifi,wifi,wifie,365614,NOUN,nsubj,False,1
-on,on,on,212644,ADP,prep,True,1
-boyfriend,boyfriend,boyfriend,37410,NOUN,pobj,False,1
+on,on,on,212644,ADP,prep,True,0
+boyfriend,boyfriend,boyfriend,37410,NOUN,pobj,False,0
 is,be,be,29345,AUX,ROOT,True,0
-macbook,macbook,matchbook,181041,NOUN,npadvmod,False,1
-professional,professional,professional,251701,PROPN,nsubj,False,1
+macbook,macbook,matchbook,181041,NOUN,npadvmod,False,0
+professional,professional,professional,251701,PROPN,nsubj,False,0
 have,have,have,134390,AUX,aux,True,0
-speed,speed,speed,299007,NOUN,attr,False,1
+speed,speed,speed,299007,NOUN,attr,False,0
 were,be,be,29345,AUX,aux,True,0
 trying,try,try,329065,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
@@ -16,4 +16,4 @@ figure,figure,figure,112475,VERB,xcomp,False,0
 out,out,out,216108,ADP,prt,True,0
 why,why,why,364728,ADV,advmod,True,0
 download,download,download,92274,NOUN,compound,False,1
-sp,sp,sp,298139,NOUN,ccomp,False,1
+sp,sp,sp,298139,NOUN,ccomp,False,0

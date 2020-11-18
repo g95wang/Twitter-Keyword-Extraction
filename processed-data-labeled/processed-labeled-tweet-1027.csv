@@ -1,8 +1,8 @@
-Falling,fall,fall,109467,VERB,ROOT,False,1
-asleep,asleep,asleep,21327,ADJ,acomp,False,1
+Falling,fall,fall,109467,VERB,ROOT,False,0
+asleep,asleep,asleep,21327,ADJ,acomp,False,0
 with,with,with,366582,ADP,prep,True,0
 this,this,this,322217,DET,det,True,0
-caprisun,caprisun,caprin,47095,NOUN,pobj,False,1
-in,in,in,149313,ADP,prep,True,1
+caprisun,caprisun,caprin,47095,NOUN,pobj,False,0
+in,in,in,149313,ADP,prep,True,0
 mouth,mouth,mouth,194337,NOUN,compound,False,1
 hurt,hurt,hurt,145284,VERB,pobj,False,0

@@ -1,11 +1,11 @@
 got,get,get,124419,VERB,ROOT,False,0
-woken,wake,wake,362124,VERB,xcomp,False,1
+woken,wake,wake,362124,VERB,xcomp,False,0
 up,up,up,354457,ADP,prt,True,0
 by,by,by,33133,ADP,agent,True,0
 television,television,television,318311,NOUN,pobj,False,1
 falling,fall,fall,109467,VERB,advcl,False,1
-on,on,on,212644,ADP,prep,True,1
+on,on,on,212644,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
-floor,floor,floor,114931,NOUN,pobj,False,1
+floor,floor,floor,114931,NOUN,pobj,False,0
 Nice,nice,nice,199579,ADJ,intj,False,0
 right,right,right,272806,ADJ,ROOT,False,0

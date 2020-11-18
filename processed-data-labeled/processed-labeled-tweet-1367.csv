@@ -1,9 +1,9 @@
 niggas,niggas,niggards,199868,PROPN,nsubj,False,1
 be,be,be,29345,AUX,aux,True,0
-lieing,lie,lie,171801,VERB,ROOT,False,1
+lieing,lie,lie,171801,VERB,ROOT,False,0
 about,about,about,756,ADP,prep,True,0
 don,don,don,91365,VERB,cc,False,0
-eat,eat,eat,94953,VERB,conj,False,1
+eat,eat,eat,94953,VERB,conj,False,0
 pussy,pussy,pussy,257227,ADJ,dobj,False,1
 but,but,but,43550,CCONJ,cc,True,0
 when,when,when,364637,ADV,advmod,True,0

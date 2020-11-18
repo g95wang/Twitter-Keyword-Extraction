@@ -1,7 +1,7 @@
 wonder,wonder,wonder,367029,VERB,ROOT,False,1
 if,if,if,146980,SCONJ,mark,True,0
-realize,realize,realize,261754,VERB,ccomp,False,1
+realize,realize,realize,261754,VERB,ccomp,False,0
 were,be,be,29345,AUX,aux,True,0
-talking,talk,talk,315639,VERB,ccomp,False,1
+talking,talk,talk,315639,VERB,ccomp,False,0
 about,about,about,756,ADP,prep,True,0
 YOU,you,you,157723,PRON,pobj,True,0

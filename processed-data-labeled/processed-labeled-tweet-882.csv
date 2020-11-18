@@ -1,8 +1,8 @@
-Weekly,Weekly,weekly,363772,PROPN,compound,False,1
+Weekly,Weekly,weekly,363772,PROPN,compound,False,0
 Last,Last,last,168771,PROPN,compound,True,1
-Minute,Minute,minute,188058,PROPN,compound,False,1
-Deal,Deal,deal,77534,PROPN,appos,False,1
-Boston,Boston,boston,38634,PROPN,ROOT,False,1
+Minute,Minute,minute,188058,PROPN,compound,False,0
+Deal,Deal,deal,77534,PROPN,appos,False,0
+Boston,Boston,boston,38634,PROPN,ROOT,False,0
 from,from,from,119298,ADP,prep,True,0
 Travel,travel,travel,328585,NOUN,ROOT,False,0
 by,by,by,33133,ADP,prep,True,0

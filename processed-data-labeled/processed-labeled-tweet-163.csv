@@ -1,7 +1,7 @@
-Southside,southside,outside,217444,ADP,ROOT,False,1
+Southside,southside,outside,217444,ADP,ROOT,False,0
 outside,outside,outside,217444,ADV,advmod,False,0
 On,on,on,212644,ADP,prep,True,0
-knees,knee,knee,165484,VERB,pobj,False,1
+knees,knee,knee,165484,VERB,pobj,False,0
 with,with,with,366582,ADP,prep,True,1
 mouth,mouth,mouth,194337,NOUN,pcomp,False,1
 wide,wide,wide,365506,ADV,advmod,False,0

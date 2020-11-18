@@ -1,11 +1,11 @@
-Arrests,arrest,arrest,20204,NOUN,ROOT,False,1
+Arrests,arrest,arrest,20204,NOUN,ROOT,False,0
 Seen,see,see,283054,VERB,acl,False,0
 as,as,as,20837,SCONJ,prep,True,0
 Part,part,part,226929,NOUN,pobj,True,1
 of,of,of,211535,ADP,prep,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 Wider,wide,wide,365506,ADJ,compound,False,0
 Plot,Plot,plot,240203,PROPN,pobj,False,1
 via,via,via,359224,ADP,prep,True,0
-teaparty,teaparty,tepary,319136,NOUN,compound,False,1
+teaparty,teaparty,tepary,319136,NOUN,compound,False,0
 tcot,tcot,cot,70263,NOUN,pobj,False,0

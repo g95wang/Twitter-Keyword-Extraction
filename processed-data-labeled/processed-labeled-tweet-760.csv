@@ -2,13 +2,13 @@ cdnleft,cdnleft,cleft,59716,VERB,amod,False,0
 cdnprog,cdnprog,prog,251828,VERB,nsubj,False,0
 Canada,Canada,canada,45976,PROPN,appos,False,1
 Has,have,have,134390,AUX,ROOT,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 Glut,Glut,glut,126938,PROPN,dobj,False,0
 of,of,of,211535,ADP,prep,True,0
-Clean,Clean,clean,59613,PROPN,compound,False,1
-Energy,Energy,energy,100134,PROPN,pobj,False,1
+Clean,Clean,clean,59613,PROPN,compound,False,0
+Energy,Energy,energy,100134,PROPN,pobj,False,0
 Yet,Yet,yet,146952,PROPN,ROOT,True,0
-Madness,Madness,madness,177217,PROPN,compound,False,1
+Madness,Madness,madness,177217,PROPN,compound,False,0
 Rules,Rules,rules,275467,PROPN,compound,False,0
 Utilities,Utilities,utilities,356181,PROPN,pobj,False,1
 Co2,Co2,co,60794,PROPN,compound,False,0

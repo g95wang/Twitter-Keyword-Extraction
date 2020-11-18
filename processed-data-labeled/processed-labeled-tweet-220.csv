@@ -1,8 +1,8 @@
-Shannon,Shannon,shannon,287421,PROPN,nsubj,False,1
+Shannon,Shannon,shannon,287421,PROPN,nsubj,False,0
 better,well,well,364011,ADV,advmod,False,0
 start,start,start,302958,VERB,ROOT,False,0
 claiming,claim,claim,59065,VERB,xcomp,False,0
 chris,chris,chris,55984,PROPN,dobj,False,1
 as,as,as,20837,SCONJ,prep,True,0
-little,little,little,173876,ADJ,amod,False,1
-brother,brother,brother,41578,NOUN,pobj,False,1
+little,little,little,173876,ADJ,amod,False,0
+brother,brother,brother,41578,NOUN,pobj,False,0

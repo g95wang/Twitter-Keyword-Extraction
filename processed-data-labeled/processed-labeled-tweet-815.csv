@@ -2,11 +2,11 @@ Google,Google,googlies,127944,PROPN,ROOT,False,1
 Different,different,different,85278,ADJ,compound,False,0
 Algorithms,algorithm,algorithm,8147,NOUN,nsubj,False,1
 Can,Can,can,45964,VERB,aux,True,0
-Apply,apply,apply,17795,VERB,ROOT,False,1
+Apply,apply,apply,17795,VERB,ROOT,False,0
 To,to,to,324862,ADP,prep,True,0
 Different,different,different,85278,ADJ,compound,False,0
-Sites,site,site,292615,NOUN,pobj,False,1
+Sites,site,site,292615,NOUN,pobj,False,0
 At,at,at,22372,ADP,prep,True,0
 Different,Different,different,85278,PROPN,compound,False,0
-Times,Times,times,323785,PROPN,pobj,False,1
+Times,Times,times,323785,PROPN,pobj,False,0
 via,via,via,359224,ADP,prep,True,0

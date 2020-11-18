@@ -1,13 +1,13 @@
 dam,dam,dam,76496,PROPN,nsubj,False,0
 this,this,this,322217,DET,det,True,0
-guy,guy,guy,131001,NOUN,dobj,False,1
+guy,guy,guy,131001,NOUN,dobj,False,0
 next,next,next,199504,ADV,advmod,True,1
 to,to,to,324862,ADP,prep,True,0
 is,be,be,29345,AUX,aux,True,0
-looking,look,look,175060,VERB,ROOT,False,1
+looking,look,look,175060,VERB,ROOT,False,0
 up,up,up,354457,ADP,prt,True,0
 some,some,some,297029,DET,det,True,0
-nasty,nasty,nasty,197188,ADJ,amod,False,1
+nasty,nasty,nasty,197188,ADJ,amod,False,0
 ass,ass,ass,21558,NOUN,compound,False,1
-shit,shit,shit,288544,NOUN,compound,False,1
+shit,shit,shit,288544,NOUN,compound,False,0
 o__O,o__O,boo,37989,PROPN,dep,False,0

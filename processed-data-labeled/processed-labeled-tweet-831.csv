@@ -5,6 +5,6 @@ put,put,put,257261,VERB,conj,True,0
 the,the,the,320691,DET,det,True,0
 past,past,past,227394,NOUN,amod,False,0
 and,and,and,12285,CCONJ,cc,True,0
-present,present,present,249344,ADJ,conj,False,1
-bullshit,bullshit,bullshit,42642,NOUN,dobj,False,1
+present,present,present,249344,ADJ,conj,False,0
+bullshit,bullshit,bullshit,42642,NOUN,dobj,False,0
 behind,behind,behind,30817,ADP,prep,True,0

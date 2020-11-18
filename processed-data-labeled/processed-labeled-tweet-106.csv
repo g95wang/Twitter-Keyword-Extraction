@@ -3,8 +3,8 @@ ca,can,can,45964,VERB,aux,True,0
 n't,not,not,208798,PART,neg,True,0
 tell,tell,tell,318356,VERB,ROOT,False,1
 about,about,about,756,ADP,prep,True,0
-obsession,obsession,obsession,210414,NOUN,pobj,False,1
-on,on,on,212644,ADP,prep,True,1
+obsession,obsession,obsession,210414,NOUN,pobj,False,0
+on,on,on,212644,ADP,prep,True,0
 Twitter,Twitter,twitter,333475,PROPN,pobj,False,1
 'll,will,will,365768,VERB,aux,True,0
 have,have,have,134390,AUX,ROOT,True,0

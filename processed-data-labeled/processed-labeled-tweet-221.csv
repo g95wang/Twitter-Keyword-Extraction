@@ -1,11 +1,11 @@
-m,be,be,29345,VERB,ROOT,False,1
+m,be,be,29345,VERB,ROOT,False,0
 original,original,original,214598,ADJ,acomp,False,1
 officially,officially,officially,211631,ADV,advmod,False,0
 the,the,the,320691,DET,det,True,0
 most,most,most,193889,ADV,advmod,True,0
 original,original,original,214598,ADJ,conj,False,1
 If,if,if,146980,SCONJ,mark,True,0
-i,i,i,145455,PRON,nsubj,True,1
+i,i,i,145455,PRON,nsubj,True,0
 was,be,be,29345,AUX,advcl,True,0
 n't,not,not,208798,PART,neg,True,0
 so,so,so,295959,ADV,advmod,True,0

@@ -2,6 +2,6 @@ found,find,find,112884,VERB,ROOT,False,1
 this,this,this,322217,DET,mark,True,0
 looks,look,look,175060,VERB,ccomp,False,0
 like,like,like,172172,SCONJ,prep,False,0
-Eric,Eric,eric,103657,PROPN,poss,False,1
-'s,'s,s,275971,PART,case,True,1
-manager,manager,manager,178884,NOUN,pobj,False,1
+Eric,Eric,eric,103657,PROPN,poss,False,0
+'s,'s,s,275971,PART,case,True,0
+manager,manager,manager,178884,NOUN,pobj,False,0

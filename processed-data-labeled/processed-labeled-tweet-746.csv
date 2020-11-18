@@ -2,9 +2,9 @@ Yeah,yeah,yeah,146696,INTJ,ROOT,False,0
 m,be,be,29345,VERB,compound,False,0
 goodie,goodie,goodie,127886,VERB,ROOT,False,0
 just,just,just,162503,ADV,advmod,True,0
-in,in,in,149313,ADP,prep,True,1
+in,in,in,149313,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
-lab,lab,lab,166596,NOUN,compound,False,1
+lab,lab,lab,166596,NOUN,compound,False,0
 working,work,work,367468,VERB,pobj,False,1
 Wow,wow,wow,367775,INTJ,ROOT,False,0
 need,need,need,197910,VERB,ROOT,False,0

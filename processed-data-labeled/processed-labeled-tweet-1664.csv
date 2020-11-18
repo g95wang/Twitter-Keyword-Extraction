@@ -1,7 +1,7 @@
-ETonline,etonline,online,212850,ADJ,nummod,False,1
+ETonline,etonline,online,212850,ADJ,nummod,False,0
 coverage,coverage,coverage,71478,NOUN,ROOT,False,1
 of,of,of,211535,ADP,prep,True,0
-JT,JT,jt,161969,PROPN,pobj,False,1
+JT,JT,jt,161969,PROPN,pobj,False,0
 and,and,and,12285,CCONJ,cc,True,0
-Friends,Friends,friends,118960,PROPN,compound,False,1
-Concert,Concert,concert,65191,PROPN,conj,False,1
+Friends,Friends,friends,118960,PROPN,compound,False,0
+Concert,Concert,concert,65191,PROPN,conj,False,0

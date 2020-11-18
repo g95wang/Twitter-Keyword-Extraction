@@ -2,8 +2,8 @@ These,these,these,321594,DET,det,True,0
 refs,ref,ref,264908,NOUN,nsubjpass,False,1
 are,be,be,29345,AUX,aux,True,0
 being,be,be,29345,AUX,auxpass,True,0
-paid,pay,pay,223065,VERB,ROOT,False,1
+paid,pay,pay,223065,VERB,ROOT,False,0
 off,off,off,211539,ADP,prt,True,0
 by,by,by,33133,ADP,agent,True,0
 the,the,the,320691,DET,det,True,0
-Canucks,Canucks,canuck,46701,PROPN,pobj,False,1
+Canucks,Canucks,canuck,46701,PROPN,pobj,False,0

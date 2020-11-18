@@ -1,7 +1,7 @@
-Cousin,cousin,cousin,71384,NOUN,nsubj,False,1
+Cousin,cousin,cousin,71384,NOUN,nsubj,False,0
 probably,probably,probably,251013,ADV,advmod,False,0
 mad,mad,mad,177147,ADJ,ROOT,False,1
-i,i,i,145455,PRON,nsubj,True,1
-woke,wake,wake,362124,VERB,ccomp,False,1
+i,i,i,145455,PRON,nsubj,True,0
+woke,wake,wake,362124,VERB,ccomp,False,0
 up,up,up,354457,ADP,prt,True,0
 SORRY,sorry,sorry,297653,INTJ,ROOT,False,0

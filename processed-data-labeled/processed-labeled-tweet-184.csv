@@ -1,6 +1,6 @@
-Fake,fake,fake,109380,ADJ,amod,False,1
-weak,weak,weak,363453,ADJ,amod,False,1
+Fake,fake,fake,109380,ADJ,amod,False,0
+weak,weak,weak,363453,ADJ,amod,False,0
 music,music,music,195981,NOUN,compound,False,1
-makers,maker,maker,178099,NOUN,nsubj,False,1
-irritate,irritate,irritate,158481,VERB,ROOT,False,1
-ear,ear,ear,94707,NOUN,dobj,False,1
+makers,maker,maker,178099,NOUN,nsubj,False,0
+irritate,irritate,irritate,158481,VERB,ROOT,False,0
+ear,ear,ear,94707,NOUN,dobj,False,0

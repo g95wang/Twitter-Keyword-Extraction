@@ -1,5 +1,5 @@
 uWasCoolUntil,uwascooluntil,ascogonial,21018,ADP,ROOT,False,0
-followed,follow,follow,115989,VERB,ROOT,False,1
+followed,follow,follow,115989,VERB,ROOT,False,0
 R,r,r,259188,NOUN,compound,False,0
 E,e,e,94669,NOUN,compound,False,0
 T,t,t,314735,NOUN,compound,False,0
@@ -8,9 +8,9 @@ E,e,e,94669,NOUN,compound,False,0
 E,e,e,94669,NOUN,compound,False,0
 T,t,t,314735,NOUN,ROOT,False,0
 if,if,if,146980,SCONJ,mark,True,0
-Hate,hate,hate,134216,VERB,ROOT,False,1
+Hate,hate,hate,134216,VERB,ROOT,False,0
 when,when,when,364637,ADV,advmod,True,0
-people,people,people,230162,NOUN,nsubj,False,1
+people,people,people,230162,NOUN,nsubj,False,0
 do,do,do,90528,AUX,ccomp,True,0
 that,that,that,320639,DET,dobj,True,0
 for,for,for,116301,ADP,prep,True,0

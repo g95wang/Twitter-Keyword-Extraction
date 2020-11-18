@@ -2,7 +2,7 @@ Hi,hi,hi,138127,INTJ,ROOT,False,0
 there,there,there,321216,ADV,advmod,True,0
 Do,do,do,90528,AUX,aux,True,0
 have,have,have,134390,AUX,ROOT,True,0
-time,time,time,323746,NOUN,compound,False,1
+time,time,time,323746,NOUN,compound,False,0
 challenges,challenge,challenge,52186,NOUN,dobj,False,1
 Most,Most,most,193889,ADJ,nsubj,True,0
 of,of,of,211535,ADP,prep,True,0

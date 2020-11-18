@@ -1,7 +1,7 @@
 iigt,iigt,imit,147807,PROPN,ROOT,False,0
 the,the,the,320691,DET,det,True,0
 door,door,door,91536,NOUN,nsubj,False,1
-unlock,unlock,unlock,345749,NOUN,appos,False,1
+unlock,unlock,unlock,345749,NOUN,appos,False,0
 come,come,come,63721,VERB,conj,False,0
 on,on,on,212644,ADP,prt,True,0
 in,in,in,149313,ADP,prep,True,0

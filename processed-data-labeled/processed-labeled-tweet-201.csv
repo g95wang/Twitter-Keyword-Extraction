@@ -1,11 +1,11 @@
 Yea,yea,yea,146695,NOUN,ROOT,False,0
 no,no,no,200529,DET,det,True,0
 fun,fun,fun,120110,NOUN,appos,False,0
-'m,be,be,29345,AUX,aux,True,1
+'m,be,be,29345,AUX,aux,True,0
 making,make,make,178090,VERB,ROOT,False,1
 the,the,the,320691,DET,det,True,0
 boyfriend,boyfriend,boyfriend,37410,NOUN,nsubj,False,1
-clean,clean,clean,59613,VERB,ccomp,False,1
+clean,clean,clean,59613,VERB,ccomp,False,0
 up,up,up,354457,ADP,prt,True,0
 when,when,when,364637,ADV,advmod,True,0
 gets,get,get,124419,VERB,advcl,False,0

@@ -1,6 +1,6 @@
 The,the,the,320691,DET,det,True,0
 Only,only,only,212848,ADJ,amod,True,0
-Thing,thing,thing,321869,NOUN,nsubj,False,1
+Thing,thing,thing,321869,NOUN,nsubj,False,0
 That,that,that,320639,DET,nsubj,True,0
 Comes,come,come,63721,VERB,relcl,False,0
 to,to,to,324862,ADP,prep,True,0
@@ -8,4 +8,4 @@ A,a,a,0,DET,det,True,0
 Sleeping,sleep,sleep,293885,VERB,compound,False,1
 Man,Man,man,178862,PROPN,pobj,False,1
 is,be,be,29345,AUX,ROOT,True,0
-Dreams,Dreams,dreams,92881,PROPN,attr,False,1
+Dreams,Dreams,dreams,92881,PROPN,attr,False,0

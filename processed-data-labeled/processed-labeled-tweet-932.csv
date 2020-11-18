@@ -2,15 +2,15 @@ lol,lol,lola,174784,INTJ,ROOT,False,0
 damn,damn,damn,76569,ADV,advmod,False,0
 now,now,now,209199,ADV,advmod,True,0
 the,the,the,320691,DET,det,True,0
-script,script,script,281867,NOUN,nsubj,False,1
+script,script,script,281867,NOUN,nsubj,False,0
 has,have,have,134390,AUX,aux,True,0
 flipped,flip,flip,114677,VERB,ccomp,False,1
-i,i,i,145455,PRON,nsubj,True,1
+i,i,i,145455,PRON,nsubj,True,0
 was,be,be,29345,AUX,aux,True,0
 just,just,just,162503,ADV,advmod,True,0
 calling,call,call,45246,VERB,ROOT,False,0
 when,when,when,364637,ADV,advmod,True,0
-i,i,i,145455,PRON,nsubj,True,1
+i,i,i,145455,PRON,nsubj,True,0
 was,be,be,29345,AUX,aux,True,0
 gon,go,go,127161,VERB,advcl,False,0
 na,to,to,324862,PART,aux,False,0
@@ -20,5 +20,5 @@ wanted,want,want,362465,VERB,ROOT,False,1
 to,to,to,324862,PART,aux,True,0
 move,move,move,194383,VERB,xcomp,True,1
 to,to,to,324862,ADP,prep,True,0
-ohio,ohio,ohio,211778,PROPN,pobj,False,1
+ohio,ohio,ohio,211778,PROPN,pobj,False,0
 lol,lol,lola,174784,PROPN,punct,False,0

@@ -8,11 +8,11 @@ came,come,come,63721,VERB,relcl,False,0
 to,to,to,324862,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
 car,car,car,47250,NOUN,compound,False,1
-gbr,gbr,br,39326,NOUN,pobj,False,1
+gbr,gbr,br,39326,NOUN,pobj,False,0
 and,and,and,12285,CCONJ,cc,True,0
 like,like,like,172172,INTJ,intj,False,0
 'm,be,be,29345,AUX,ROOT,True,0
 rena,rena,arena,19341,NOUN,attr,False,1
 with,with,with,366582,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
-e,e,e,94669,NOUN,pobj,False,1
+e,e,e,94669,NOUN,pobj,False,0

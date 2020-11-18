@@ -1,8 +1,8 @@
 uhmmmmm,uhmmmmm,mmmm,190864,INTJ,ROOT,False,0
 Can,Can,can,45964,VERB,aux,True,0
-please,please,please,239622,VERB,intj,True,1
+please,please,please,239622,VERB,intj,True,0
 letme,letme,leme,170317,VERB,dobj,False,0
 change,change,change,52470,VERB,ROOT,False,1
-profile,profile,profile,251754,NOUN,compound,False,1
-picture,picture,picture,236096,NOUN,dobj,False,1
+profile,profile,profile,251754,NOUN,compound,False,0
+picture,picture,picture,236096,NOUN,dobj,False,0
 Please,please,please,239622,INTJ,ROOT,True,0

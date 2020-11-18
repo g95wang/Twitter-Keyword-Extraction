@@ -4,8 +4,8 @@ go,go,go,127161,VERB,ROOT,True,0
 out,out,out,216108,ADP,prt,True,0
 to,to,to,324862,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
-people,people,people,230162,NOUN,pobj,False,1
+people,people,people,230162,NOUN,pobj,False,0
 of,of,of,211535,ADP,prep,True,0
 Merapi,Merapi,meratia,183601,PROPN,pobj,False,1
 Jakarta,Jakarta,jakarta,160194,PROPN,compound,False,0
-Indonesia,Indonesia,indonesia,151256,PROPN,conj,False,1
+Indonesia,Indonesia,indonesia,151256,PROPN,conj,False,0

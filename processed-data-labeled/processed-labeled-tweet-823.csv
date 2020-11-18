@@ -1,12 +1,12 @@
 If,if,if,146980,SCONJ,mark,True,0
-write,write,write,368047,VERB,advcl,False,1
+write,write,write,368047,VERB,advcl,False,0
 on,on,on,212644,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
-wall,wall,wall,362225,NOUN,pobj,False,1
+wall,wall,wall,362225,NOUN,pobj,False,0
 of,of,of,211535,ADP,prep,True,0
-a,a,a,0,DET,det,True,1
-business,business,business,43481,NOUN,poss,False,1
-'s,'s,s,275971,PART,case,True,1
+a,a,a,0,DET,det,True,0
+business,business,business,43481,NOUN,poss,False,0
+'s,'s,s,275971,PART,case,True,0
 page,page,page,222990,NOUN,pobj,False,1
 why,why,why,364728,ADV,advmod,True,0
 does,do,do,90528,AUX,aux,True,0

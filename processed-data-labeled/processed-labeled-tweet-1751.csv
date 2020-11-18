@@ -1,6 +1,6 @@
 Why,why,why,364728,ADV,advmod,True,0
 put,put,put,257261,VERB,ROOT,True,0
-heart,heart,heart,134817,NOUN,dobj,False,1
+heart,heart,heart,134817,NOUN,dobj,False,0
 in,in,in,149313,ADP,prep,True,0
 tweets,tweet,tweet,333246,NOUN,pobj,False,1
 HAHAHA,HAHAHA,haha,132277,PROPN,ROOT,False,0

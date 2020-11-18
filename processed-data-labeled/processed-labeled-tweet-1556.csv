@@ -8,5 +8,5 @@ What,what,what,364447,PRON,nsubj,True,0
 could,could,could,70511,VERB,aux,True,0
 possibly,possibly,possibly,243891,ADV,advmod,False,0
 go,go,go,127161,VERB,ROOT,True,0
-wrong,wrong,wrong,368091,ADJ,acomp,False,1
+wrong,wrong,wrong,368091,ADJ,acomp,False,0
 wow,wow,wow,367775,INTJ,punct,False,0

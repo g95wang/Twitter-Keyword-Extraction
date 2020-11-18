@@ -1,7 +1,7 @@
-Tomorrow,tomorrow,tomorrow,325475,NOUN,nsubj,False,1
+Tomorrow,tomorrow,tomorrow,325475,NOUN,nsubj,False,0
 is,be,be,29345,AUX,ROOT,True,0
-a,a,a,0,DET,det,True,1
-rerun,rerun,rerun,268987,NOUN,attr,False,1
+a,a,a,0,DET,det,True,0
+rerun,rerun,rerun,268987,NOUN,attr,False,0
 's,be,be,29345,AUX,ROOT,True,0
 before,before,before,30510,ADP,prep,True,0
 time,time,time,323746,NOUN,pobj,False,0
@@ -10,9 +10,9 @@ n't,not,not,208798,PART,neg,True,0
 know,know,know,165702,VERB,ROOT,False,0
 about,about,about,756,ADP,prep,True,0
 Nate,Nate,nate,197240,PROPN,pobj,False,1
-or,or,or,213904,CCONJ,cc,True,1
+or,or,or,213904,CCONJ,cc,True,0
 Ford,Ford,ford,116452,PROPN,conj,False,1
-forgot,forget,forget,117219,VERB,ROOT,False,1
+forgot,forget,forget,117219,VERB,ROOT,False,0
 what,what,what,364447,DET,det,True,0
 year,year,year,146706,NOUN,pobj,False,1
 's,be,be,29345,AUX,ccomp,True,0

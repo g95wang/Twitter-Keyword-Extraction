@@ -8,5 +8,5 @@ problem,problem,problem,251071,NOUN,appos,False,1
 guess,guess,guess,130940,VERB,ROOT,False,0
 New,new,new,199367,ADJ,compound,False,0
 expected,expect,expect,107598,VERB,ROOT,False,1
-this,this,this,322217,DET,det,True,1
-weekend,weekend,weekend,363767,NOUN,npadvmod,False,1
+this,this,this,322217,DET,det,True,0
+weekend,weekend,weekend,363767,NOUN,npadvmod,False,0

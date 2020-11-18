@@ -1,7 +1,7 @@
 got,get,get,124419,VERB,ROOT,False,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 perfect,perfect,perfect,230579,ADJ,amod,False,1
-message,message,message,184460,NOUN,dobj,False,1
+message,message,message,184460,NOUN,dobj,False,0
 on,on,on,212644,ADP,prep,True,0
 youtube,youtube,outbeg,216184,NOUN,pobj,False,1
 today,today,today,325003,NOUN,npadvmod,False,0

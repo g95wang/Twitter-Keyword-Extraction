@@ -1,10 +1,10 @@
 Bored,bored,bored,38406,ADJ,ROOT,False,1
 at,at,at,22372,ADP,prep,True,0
-work,work,work,367468,NOUN,pobj,False,1
+work,work,work,367468,NOUN,pobj,False,0
 Looking,look,look,175060,VERB,ROOT,False,0
 like,like,like,172172,SCONJ,prep,False,0
 another,another,another,13899,DET,det,True,0
-hour,hour,hour,144367,NOUN,compound,False,1
-day,day,day,76257,NOUN,pobj,False,1
-Talk,talk,talk,315639,VERB,ROOT,False,1
+hour,hour,hour,144367,NOUN,compound,False,0
+day,day,day,76257,NOUN,pobj,False,0
+Talk,talk,talk,315639,VERB,ROOT,False,0
 to,to,to,324862,ADP,prep,True,0

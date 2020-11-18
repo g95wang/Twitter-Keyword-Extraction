@@ -1,9 +1,0 @@
-Rain,rain,rain,260071,NOUN,compound,False,0
-rain,rain,rain,260071,NOUN,nsubj,False,0
-go,go,go,127161,VERB,ccomp,True,0
-away,away,away,24923,ADV,advmod,False,0
-song,song,song,297195,NOUN,nsubj,False,1
-is,be,be,29345,AUX,ROOT,True,0
-on,on,on,212644,ADP,prep,True,0
-kid,kid,kid,164450,VERB,ROOT,False,0
-not,not,not,208798,PART,neg,True,0

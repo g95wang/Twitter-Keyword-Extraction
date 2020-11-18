@@ -4,7 +4,7 @@ twitter,twitter,twitter,333475,NOUN,advmod,False,1
 say,say,say,276740,VERB,ROOT,True,0
 're,be,be,29345,AUX,ccomp,True,0
 in,in,in,149313,ADP,prep,True,0
-texas,texas,texas,320374,PROPN,pobj,False,1
+texas,texas,texas,320374,PROPN,pobj,False,0
 are,be,be,29345,AUX,ROOT,True,0
 in,in,in,149313,ADP,prep,True,0
-texas,texas,texas,320374,PROPN,pobj,False,1
+texas,texas,texas,320374,PROPN,pobj,False,0

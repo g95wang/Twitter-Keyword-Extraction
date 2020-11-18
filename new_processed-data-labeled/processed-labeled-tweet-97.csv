@@ -1,9 +1,0 @@
-looks,look,look,175060,VERB,ROOT,False,1
-great,great,great,129442,ADJ,acomp,False,0
-RT,RT,rt,275072,PROPN,ROOT,False,0
-OMG,OMG,mg,185606,PROPN,ROOT,False,0
-WHAT,what,what,364447,PRON,ROOT,True,0
-THE,the,the,320691,DET,det,True,0
-FUCK,FUCK,fuck,119742,PROPN,nsubj,False,0
-IS,be,be,29345,VERB,ROOT,True,0
-THAT,that,that,320639,DET,attr,True,0

@@ -3,7 +3,7 @@ now,now,now,209199,ADV,advmod,True,0
 get,get,get,124419,VERB,ccomp,True,0
 LOLOL,LOLOL,loll,174789,PROPN,ROOT,False,0
 'm,be,be,29345,AUX,aux,True,0
-dying,die,die,85120,VERB,ccomp,False,1
+dying,die,die,85120,VERB,ccomp,False,0
 here,here,here,136991,ADV,advmod,True,0
 hahaha,hahaha,haha,132277,PROPN,nsubj,False,0
 love,love,love,175534,VERB,ROOT,False,1

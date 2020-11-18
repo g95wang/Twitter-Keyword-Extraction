@@ -1,8 +1,8 @@
-whispered,whisper,whisper,365059,VERB,ROOT,False,1
+whispered,whisper,whisper,365059,VERB,ROOT,False,0
 do,do,do,90528,AUX,aux,True,0
 n't,not,not,208798,PART,neg,True,0
 have,have,have,134390,AUX,ccomp,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 place,place,place,238538,NOUN,dobj,False,1
 to,to,to,324862,PART,aux,True,0
 go,go,go,127161,VERB,relcl,True,0

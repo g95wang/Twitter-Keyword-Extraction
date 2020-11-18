@@ -3,13 +3,13 @@ here,here,here,136991,ADV,advmod,True,0
 comes,come,come,63721,VERB,ROOT,False,0
 the,the,the,320691,DET,det,True,0
 guilt,guilt,guilt,131101,NOUN,nsubj,False,1
-Remember,remember,remember,267232,VERB,ROOT,False,1
-tweets,tweet,tweet,333246,NOUN,dobj,False,1
+Remember,remember,remember,267232,VERB,ROOT,False,0
+tweets,tweet,tweet,333246,NOUN,dobj,False,0
 do,do,do,90528,AUX,aux,True,0
-matter,matter,matter,181309,NOUN,appos,False,1
+matter,matter,matter,181309,NOUN,appos,False,0
 See,see,see,283054,VERB,ROOT,True,0
 the,the,the,320691,DET,det,True,0
 result,result,result,270122,NOUN,dobj,False,1
 of,of,of,211535,ADP,prep,True,0
-efforts,effort,effort,96079,NOUN,pobj,False,1
+efforts,effort,effort,96079,NOUN,pobj,False,0
 here,here,here,136991,ADV,advmod,True,0

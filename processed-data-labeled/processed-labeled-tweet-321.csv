@@ -7,11 +7,11 @@ supposed,suppose,suppose,313048,VERB,ROOT,False,0
 to,to,to,324862,PART,aux,True,0
 be,be,be,29345,AUX,xcomp,True,0
 But,but,but,43550,CCONJ,cc,True,0
-text,text,text,320378,VERB,ROOT,False,1
+text,text,text,320378,VERB,ROOT,False,0
 the,the,the,320691,DET,det,True,0
-ques,que,que,258208,NOUN,dobj,False,1
+ques,que,que,258208,NOUN,dobj,False,0
 or,or,or,213904,CCONJ,cc,True,0
 call,call,call,45246,VERB,conj,True,1
 in,in,in,149313,ADP,prep,True,0
-a,a,a,0,DET,det,True,1
+a,a,a,0,DET,det,True,0
 hour,hour,hour,144367,NOUN,pobj,False,1

@@ -1,7 +1,7 @@
 IfMyMomsHadATwitter,ifmymomshadatwitter,atwitter,23210,NOUN,intj,False,1
 would,would,would,367745,VERB,aux,True,0
-throw,throw,throw,322857,VERB,ROOT,False,1
-subs,sub,sub,307054,NOUN,dobj,False,1
+throw,throw,throw,322857,VERB,ROOT,False,0
+subs,sub,sub,307054,NOUN,dobj,False,0
 at,at,at,22372,ADP,prep,True,0
 like,like,like,172172,SCONJ,mark,False,0
 was,be,be,29345,AUX,advcl,True,0

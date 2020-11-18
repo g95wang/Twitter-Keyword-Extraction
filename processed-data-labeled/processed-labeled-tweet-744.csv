@@ -1,5 +1,5 @@
-Jewellery,jewellery,jewellery,161098,NOUN,compound,False,1
-shopping,shopping,shopping,288842,NOUN,ROOT,False,1
+Jewellery,jewellery,jewellery,161098,NOUN,compound,False,0
+shopping,shopping,shopping,288842,NOUN,ROOT,False,0
 Damn,damn,damn,76569,INTJ,advmod,False,0
 this,this,this,322217,DET,det,True,0
 eye,eye,eye,96351,NOUN,nsubj,False,1
@@ -7,4 +7,4 @@ is,be,be,29345,AUX,ROOT,True,0
 HUGE,HUGE,huge,144731,PROPN,attr,False,0
 N,n,n,196396,CCONJ,nummod,False,0
 MINE,MINE,mine,187723,PROPN,compound,True,0
-wooo,wooo,woo,367094,ADJ,ROOT,False,1
+wooo,wooo,woo,367094,ADJ,ROOT,False,0

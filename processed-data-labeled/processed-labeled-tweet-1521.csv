@@ -7,7 +7,7 @@ The,the,the,320691,DET,det,True,0
 day,day,day,76257,NOUN,npadvmod,False,0
 of,of,of,211535,ADP,prep,True,0
 the,the,the,320691,DET,det,True,0
-Dallas,Dallas,dallas,76467,PROPN,compound,False,1
+Dallas,Dallas,dallas,76467,PROPN,compound,False,0
 show,show,show,289042,VERB,pobj,True,1
 was,be,be,29345,AUX,ROOT,True,0
 okay,okay,okay,211944,ADJ,acomp,False,0

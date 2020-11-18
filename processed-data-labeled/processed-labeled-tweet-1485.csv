@@ -1,6 +1,6 @@
-Lake,Lake,lake,167480,PROPN,compound,False,1
+Lake,Lake,lake,167480,PROPN,compound,False,0
 Show,Show,show,289042,PROPN,nsubj,True,1
 fo,fo,fo,115636,INTJ,nsubj,False,0
 sure,sure,sure,313361,INTJ,ROOT,False,0
-taking,take,take,315491,VERB,ROOT,False,1
+taking,take,take,315491,VERB,ROOT,False,0
 again,again,again,5827,ADV,advmod,True,0

@@ -1,7 +1,7 @@
-Inspirational,Inspirational,inspirational,153787,PROPN,compound,False,1
-Examples,Examples,examples,106475,PROPN,ROOT,False,1
+Inspirational,Inspirational,inspirational,153787,PROPN,compound,False,0
+Examples,Examples,examples,106475,PROPN,ROOT,False,0
 of,of,of,211535,ADP,prep,True,0
-Well,Well,well,364011,PROPN,intj,True,1
-Designed,design,design,82572,VERB,compound,False,1
-Contact,contact,contact,67230,NOUN,compound,False,1
+Well,Well,well,364011,PROPN,intj,True,0
+Designed,design,design,82572,VERB,compound,False,0
+Contact,contact,contact,67230,NOUN,compound,False,0
 Pages,page,page,222990,NOUN,pobj,False,1

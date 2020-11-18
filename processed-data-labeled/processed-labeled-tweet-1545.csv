@@ -2,7 +2,7 @@ Help,help,help,135801,VERB,ROOT,False,0
 reach,reach,reach,261480,VERB,ccomp,False,0
 RT,RT,rt,275072,PROPN,nmod,False,0
 GlareX2Mender,glarex2mender,amender,10251,NOUN,compound,False,1
-products,product,product,251582,NOUN,ROOT,False,1
+products,product,product,251582,NOUN,ROOT,False,0
 All,all,all,8522,DET,predet,True,0
 this,this,this,322217,DET,ROOT,True,0
 in,in,in,149313,ADP,prep,True,0
