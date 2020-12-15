@@ -47,9 +47,13 @@ The Jupyter Notebook can be run on Goggle Colab or with Jupyter. The global vari
 | epochs                | Training epochs                                                    | 10            |
 | use_unlabeled_dataset | Whether to utilize unlabeled dataset                               | True          |
 
-## Example Output
+## Demo
 
-The final project is an application that can take user's twitter message, and automatically generate a list of GIFs based on the model-extracted keyword. (To be implemented...)
+The final project is an application that can take user's twitter message, and automatically generate a list of GIFs based on the model-extracted keyword. 
+
+To run the demo, use the command `jupyter notebook demo.ipynb`. The users would see an input box at the end of the notebook. The users may input a tweet there, and then the program would output a list of GIFs suitable for the tweet. 
+
+![Demo](demo.png)
 
 ## Contributors
 
